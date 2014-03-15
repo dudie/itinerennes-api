@@ -1,0 +1,100 @@
+{
+  "date": "2014-04-07 00:00",
+  "stop": {
+    "id": "2_2451",
+    "lat": 48.19085557,
+    "lon": -1.62920813,
+    "name": "Gentilhommière",
+    "code": 2451
+  },
+  "routes": [
+    {
+      "id": "2_0051",
+      "textColor": "FFFFFF",
+      "color": "93007C",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "51",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "000000",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-04-07 07:43",
+      "departure": "2014-04-07 07:43",
+      "serviceId": "2_11",
+      "tripId": "2_21653",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2014-04-07 07:55",
+      "departure": "2014-04-07 07:55",
+      "serviceId": "2_11",
+      "tripId": "2_16605",
+      "routeId": "2_0222",
+      "headsign": "222 | Betton Collège F. Truffaut"
+    },
+    {
+      "arrival": "2014-04-07 08:53",
+      "departure": "2014-04-07 08:53",
+      "serviceId": "2_9",
+      "tripId": "2_18195",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2014-04-07 15:57",
+      "departure": "2014-04-07 15:57",
+      "serviceId": "2_9",
+      "tripId": "2_18215",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2014-04-07 16:57",
+      "departure": "2014-04-07 16:57",
+      "serviceId": "2_12",
+      "tripId": "2_21663",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton"
+    },
+    {
+      "arrival": "2014-04-07 17:05",
+      "departure": "2014-04-07 17:05",
+      "serviceId": "2_12",
+      "tripId": "2_16610",
+      "routeId": "2_0222",
+      "headsign": "222 | Chevaigné"
+    },
+    {
+      "arrival": "2014-04-07 17:53",
+      "departure": "2014-04-07 17:53",
+      "serviceId": "2_12",
+      "tripId": "2_21673",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton Chevaigné"
+    }
+  ]
+}
