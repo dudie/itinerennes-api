@@ -1,0 +1,414 @@
+{
+  "date": "2014-04-15 00:00",
+  "stop": {
+    "id": "2_4708",
+    "lat": 47.98009235,
+    "lon": -1.7309092,
+    "name": "Gingouillère",
+    "code": 4708
+  },
+  "routes": [
+    {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "0C3C91",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0079",
+      "textColor": "000000",
+      "color": "62C3D5",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Laillé",
+      "shortName": "79",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0231",
+      "textColor": "FFFFFF",
+      "color": "E5006D",
+      "description": "Complémentaire",
+      "longName": "Laillé (Gingouillère) \u003c\u003e Bruz (Collège Saint-Joseph)",
+      "shortName": "231",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0234",
+      "textColor": "000000",
+      "color": "F29FC5",
+      "description": "Complémentaire",
+      "longName": "Laillé (Gingouillère) \u003c\u003e Orgères (Collège Andrée Récipon)",
+      "shortName": "234",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-04-15 06:20",
+      "departure": "2014-04-15 06:20",
+      "serviceId": "2_20",
+      "tripId": "2_16934",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 06:50",
+      "departure": "2014-04-15 06:50",
+      "serviceId": "2_20",
+      "tripId": "2_17069",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 06:55",
+      "departure": "2014-04-15 06:55",
+      "serviceId": "2_20",
+      "tripId": "2_17766",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 07:03",
+      "departure": "2014-04-15 07:03",
+      "serviceId": "2_20",
+      "tripId": "2_17820",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 07:10",
+      "departure": "2014-04-15 07:10",
+      "serviceId": "2_20",
+      "tripId": "2_17775",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 07:23",
+      "departure": "2014-04-15 07:23",
+      "serviceId": "2_20",
+      "tripId": "2_17829",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 07:25",
+      "departure": "2014-04-15 07:25",
+      "serviceId": "2_20",
+      "tripId": "2_17784",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 07:43",
+      "departure": "2014-04-15 07:43",
+      "serviceId": "2_22",
+      "tripId": "2_22533",
+      "routeId": "2_0234",
+      "headsign": "234 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2014-04-15 07:56",
+      "departure": "2014-04-15 07:56",
+      "serviceId": "2_20",
+      "tripId": "2_17838",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 08:00",
+      "departure": "2014-04-15 08:00",
+      "serviceId": "2_20",
+      "tripId": "2_17793",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 08:29",
+      "departure": "2014-04-15 08:29",
+      "serviceId": "2_20",
+      "tripId": "2_17847",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 08:35",
+      "departure": "2014-04-15 08:35",
+      "serviceId": "2_20",
+      "tripId": "2_17802",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 08:45",
+      "departure": "2014-04-15 08:45",
+      "serviceId": "2_22",
+      "tripId": "2_22523",
+      "routeId": "2_0234",
+      "headsign": "234 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2014-04-15 08:58",
+      "departure": "2014-04-15 08:58",
+      "serviceId": "2_20",
+      "tripId": "2_17856",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 09:05",
+      "departure": "2014-04-15 09:05",
+      "serviceId": "2_20",
+      "tripId": "2_17483",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 09:28",
+      "departure": "2014-04-15 09:28",
+      "serviceId": "2_20",
+      "tripId": "2_17865",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 09:35",
+      "departure": "2014-04-15 09:35",
+      "serviceId": "2_20",
+      "tripId": "2_17811",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 12:00",
+      "departure": "2014-04-15 12:00",
+      "serviceId": "2_20",
+      "tripId": "2_17982",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 13:09",
+      "departure": "2014-04-15 13:09",
+      "serviceId": "2_20",
+      "tripId": "2_17177",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 13:15",
+      "departure": "2014-04-15 13:15",
+      "serviceId": "2_20",
+      "tripId": "2_17582",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 13:34",
+      "departure": "2014-04-15 13:34",
+      "serviceId": "2_20",
+      "tripId": "2_17501",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 13:40",
+      "departure": "2014-04-15 13:40",
+      "serviceId": "2_20",
+      "tripId": "2_17591",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 14:23",
+      "departure": "2014-04-15 14:23",
+      "serviceId": "2_20",
+      "tripId": "2_17519",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 14:30",
+      "departure": "2014-04-15 14:30",
+      "serviceId": "2_20",
+      "tripId": "2_17609",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 15:13",
+      "departure": "2014-04-15 15:13",
+      "serviceId": "2_20",
+      "tripId": "2_17537",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 15:20",
+      "departure": "2014-04-15 15:20",
+      "serviceId": "2_20",
+      "tripId": "2_17492",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 16:03",
+      "departure": "2014-04-15 16:03",
+      "serviceId": "2_20",
+      "tripId": "2_17555",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 16:08",
+      "departure": "2014-04-15 16:08",
+      "serviceId": "2_20",
+      "tripId": "2_17348",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 16:19",
+      "departure": "2014-04-15 16:19",
+      "serviceId": "2_20",
+      "tripId": "2_17874",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 16:25",
+      "departure": "2014-04-15 16:25",
+      "serviceId": "2_20",
+      "tripId": "2_17928",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 16:49",
+      "departure": "2014-04-15 16:49",
+      "serviceId": "2_20",
+      "tripId": "2_17883",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 16:55",
+      "departure": "2014-04-15 16:55",
+      "serviceId": "2_20",
+      "tripId": "2_17937",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 17:27",
+      "departure": "2014-04-15 17:27",
+      "serviceId": "2_20",
+      "tripId": "2_17892",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 17:33",
+      "departure": "2014-04-15 17:33",
+      "serviceId": "2_20",
+      "tripId": "2_17946",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 17:58",
+      "departure": "2014-04-15 17:58",
+      "serviceId": "2_20",
+      "tripId": "2_17901",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 18:03",
+      "departure": "2014-04-15 18:03",
+      "serviceId": "2_20",
+      "tripId": "2_17955",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 18:30",
+      "departure": "2014-04-15 18:30",
+      "serviceId": "2_23",
+      "tripId": "2_22491",
+      "routeId": "2_0231",
+      "headsign": "231 | Laillé Châtaigneraie"
+    },
+    {
+      "arrival": "2014-04-15 18:35",
+      "departure": "2014-04-15 18:35",
+      "serviceId": "2_20",
+      "tripId": "2_17910",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 18:40",
+      "departure": "2014-04-15 18:40",
+      "serviceId": "2_20",
+      "tripId": "2_17964",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 19:05",
+      "departure": "2014-04-15 19:05",
+      "serviceId": "2_20",
+      "tripId": "2_17919",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 19:10",
+      "departure": "2014-04-15 19:10",
+      "serviceId": "2_20",
+      "tripId": "2_17973",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 19:41",
+      "departure": "2014-04-15 19:41",
+      "serviceId": "2_20",
+      "tripId": "2_17285",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 19:56",
+      "departure": "2014-04-15 19:56",
+      "serviceId": "2_20",
+      "tripId": "2_17294",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-04-15 20:05",
+      "departure": "2014-04-15 20:05",
+      "serviceId": "2_20",
+      "tripId": "2_17465",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-04-15 21:03",
+      "departure": "2014-04-15 21:03",
+      "serviceId": "2_20",
+      "tripId": "2_17321",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    }
+  ]
+}

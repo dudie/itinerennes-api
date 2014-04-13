@@ -1,0 +1,960 @@
+{
+  "date": "2014-04-23 00:00",
+  "stop": {
+    "id": "2_1497",
+    "lat": 48.12102411,
+    "lon": -1.70300103,
+    "name": "Villejean-Université",
+    "code": 1497
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "ffffff",
+      "color": "007a76",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E10068",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0081",
+      "textColor": "FFFFFF",
+      "color": "0083CD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+      "shortName": "81",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0152",
+      "textColor": "007A76",
+      "color": "FCE000",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Lycée V. H. Basch) \u003c\u003e Saint-Gilles",
+      "shortName": "152",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0215",
+      "textColor": "201D21",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Villejean-Université \u003c\u003e Lycée Joliot-Curie",
+      "shortName": "215",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-04-23 06:25",
+      "departure": "2014-04-23 06:25",
+      "serviceId": "2_28",
+      "tripId": "2_25737",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 06:43",
+      "departure": "2014-04-23 06:43",
+      "serviceId": "2_28",
+      "tripId": "2_14690",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 07:09",
+      "departure": "2014-04-23 07:09",
+      "serviceId": "2_28",
+      "tripId": "2_25674",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 07:14",
+      "departure": "2014-04-23 07:14",
+      "serviceId": "2_28",
+      "tripId": "2_14699",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 07:15",
+      "departure": "2014-04-23 07:15",
+      "serviceId": "2_28",
+      "tripId": "2_25746",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 07:30",
+      "departure": "2014-04-23 07:30",
+      "serviceId": "2_28",
+      "tripId": "2_14708",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 07:35",
+      "departure": "2014-04-23 07:35",
+      "serviceId": "2_28",
+      "tripId": "2_23702",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 07:35",
+      "departure": "2014-04-23 07:35",
+      "serviceId": "2_28",
+      "tripId": "2_25683",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 07:40",
+      "departure": "2014-04-23 07:40",
+      "serviceId": "2_28",
+      "tripId": "2_23801",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 07:45",
+      "departure": "2014-04-23 07:45",
+      "serviceId": "2_28",
+      "tripId": "2_25692",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 07:46",
+      "departure": "2014-04-23 07:46",
+      "serviceId": "2_28",
+      "tripId": "2_14717",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 07:50",
+      "departure": "2014-04-23 07:50",
+      "serviceId": "2_28",
+      "tripId": "2_25755",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 07:57",
+      "departure": "2014-04-23 07:57",
+      "serviceId": "2_28",
+      "tripId": "2_15239",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 07:57",
+      "departure": "2014-04-23 07:57",
+      "serviceId": "2_28",
+      "tripId": "2_23711",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 08:10",
+      "departure": "2014-04-23 08:10",
+      "serviceId": "2_28",
+      "tripId": "2_23810",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 08:15",
+      "departure": "2014-04-23 08:15",
+      "serviceId": "2_28",
+      "tripId": "2_14726",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 08:20",
+      "departure": "2014-04-23 08:20",
+      "serviceId": "2_28",
+      "tripId": "2_25701",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 08:25",
+      "departure": "2014-04-23 08:25",
+      "serviceId": "2_28",
+      "tripId": "2_23909",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 08:25",
+      "departure": "2014-04-23 08:25",
+      "serviceId": "2_28",
+      "tripId": "2_25773",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 08:30",
+      "departure": "2014-04-23 08:30",
+      "serviceId": "2_28",
+      "tripId": "2_14735",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 08:35",
+      "departure": "2014-04-23 08:35",
+      "serviceId": "2_28",
+      "tripId": "2_23819",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 08:45",
+      "departure": "2014-04-23 08:45",
+      "serviceId": "2_28",
+      "tripId": "2_14753",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 08:55",
+      "departure": "2014-04-23 08:55",
+      "serviceId": "2_28",
+      "tripId": "2_25710",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 08:57",
+      "departure": "2014-04-23 08:57",
+      "serviceId": "2_28",
+      "tripId": "2_23720",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 09:00",
+      "departure": "2014-04-23 09:00",
+      "serviceId": "2_28",
+      "tripId": "2_14762",
+      "routeId": "2_0052",
+      "headsign": "52 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 09:00",
+      "departure": "2014-04-23 09:00",
+      "serviceId": "2_28",
+      "tripId": "2_25764",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 09:05",
+      "departure": "2014-04-23 09:05",
+      "serviceId": "2_28",
+      "tripId": "2_24008",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 09:15",
+      "departure": "2014-04-23 09:15",
+      "serviceId": "2_28",
+      "tripId": "2_14744",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 09:24",
+      "departure": "2014-04-23 09:24",
+      "serviceId": "2_28",
+      "tripId": "2_23729",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 09:28",
+      "departure": "2014-04-23 09:28",
+      "serviceId": "2_28",
+      "tripId": "2_25719",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 09:29",
+      "departure": "2014-04-23 09:29",
+      "serviceId": "2_28",
+      "tripId": "2_14771",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 09:45",
+      "departure": "2014-04-23 09:45",
+      "serviceId": "2_28",
+      "tripId": "2_23828",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 09:54",
+      "departure": "2014-04-23 09:54",
+      "serviceId": "2_28",
+      "tripId": "2_23738",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 09:57",
+      "departure": "2014-04-23 09:57",
+      "serviceId": "2_28",
+      "tripId": "2_14780",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 09:58",
+      "departure": "2014-04-23 09:58",
+      "serviceId": "2_28",
+      "tripId": "2_25728",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 10:30",
+      "departure": "2014-04-23 10:30",
+      "serviceId": "2_28",
+      "tripId": "2_14789",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 10:53",
+      "departure": "2014-04-23 10:53",
+      "serviceId": "2_28",
+      "tripId": "2_23918",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 11:00",
+      "departure": "2014-04-23 11:00",
+      "serviceId": "2_28",
+      "tripId": "2_23936",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 11:05",
+      "departure": "2014-04-23 11:05",
+      "serviceId": "2_28",
+      "tripId": "2_14798",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 11:45",
+      "departure": "2014-04-23 11:45",
+      "serviceId": "2_28",
+      "tripId": "2_14807",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 12:07",
+      "departure": "2014-04-23 12:07",
+      "serviceId": "2_28",
+      "tripId": "2_25980",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 12:08",
+      "departure": "2014-04-23 12:08",
+      "serviceId": "2_28",
+      "tripId": "2_23927",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 12:15",
+      "departure": "2014-04-23 12:15",
+      "serviceId": "2_28",
+      "tripId": "2_23837",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 12:20",
+      "departure": "2014-04-23 12:20",
+      "serviceId": "2_28",
+      "tripId": "2_14816",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 12:30",
+      "departure": "2014-04-23 12:30",
+      "serviceId": "2_31",
+      "tripId": "2_22611",
+      "routeId": "2_0215",
+      "headsign": "215 | Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 12:44",
+      "departure": "2014-04-23 12:44",
+      "serviceId": "2_29",
+      "tripId": "2_9192",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 13:00",
+      "departure": "2014-04-23 13:00",
+      "serviceId": "2_28",
+      "tripId": "2_14825",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 13:08",
+      "departure": "2014-04-23 13:08",
+      "serviceId": "2_28",
+      "tripId": "2_25782",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 13:15",
+      "departure": "2014-04-23 13:15",
+      "serviceId": "2_28",
+      "tripId": "2_25863",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 13:33",
+      "departure": "2014-04-23 13:33",
+      "serviceId": "2_28",
+      "tripId": "2_23747",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 13:35",
+      "departure": "2014-04-23 13:35",
+      "serviceId": "2_28",
+      "tripId": "2_14834",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 13:40",
+      "departure": "2014-04-23 13:40",
+      "serviceId": "2_28",
+      "tripId": "2_23846",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 14:10",
+      "departure": "2014-04-23 14:10",
+      "serviceId": "2_28",
+      "tripId": "2_14843",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 14:18",
+      "departure": "2014-04-23 14:18",
+      "serviceId": "2_28",
+      "tripId": "2_25791",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 14:25",
+      "departure": "2014-04-23 14:25",
+      "serviceId": "2_28",
+      "tripId": "2_25872",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 14:48",
+      "departure": "2014-04-23 14:48",
+      "serviceId": "2_28",
+      "tripId": "2_23756",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 14:50",
+      "departure": "2014-04-23 14:50",
+      "serviceId": "2_28",
+      "tripId": "2_14852",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 14:55",
+      "departure": "2014-04-23 14:55",
+      "serviceId": "2_28",
+      "tripId": "2_23945",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 15:25",
+      "departure": "2014-04-23 15:25",
+      "serviceId": "2_28",
+      "tripId": "2_14861",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 15:28",
+      "departure": "2014-04-23 15:28",
+      "serviceId": "2_28",
+      "tripId": "2_25800",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 15:35",
+      "departure": "2014-04-23 15:35",
+      "serviceId": "2_28",
+      "tripId": "2_25881",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 15:55",
+      "departure": "2014-04-23 15:55",
+      "serviceId": "2_28",
+      "tripId": "2_14870",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 16:04",
+      "departure": "2014-04-23 16:04",
+      "serviceId": "2_28",
+      "tripId": "2_23954",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 16:05",
+      "departure": "2014-04-23 16:05",
+      "serviceId": "2_28",
+      "tripId": "2_25890",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 16:15",
+      "departure": "2014-04-23 16:15",
+      "serviceId": "2_28",
+      "tripId": "2_15230",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 16:17",
+      "departure": "2014-04-23 16:17",
+      "serviceId": "2_28",
+      "tripId": "2_23855",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 16:29",
+      "departure": "2014-04-23 16:29",
+      "serviceId": "2_28",
+      "tripId": "2_23990",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 16:33",
+      "departure": "2014-04-23 16:33",
+      "serviceId": "2_28",
+      "tripId": "2_25809",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 16:36",
+      "departure": "2014-04-23 16:36",
+      "serviceId": "2_28",
+      "tripId": "2_14879",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 16:40",
+      "departure": "2014-04-23 16:40",
+      "serviceId": "2_28",
+      "tripId": "2_23864",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 16:40",
+      "departure": "2014-04-23 16:40",
+      "serviceId": "2_28",
+      "tripId": "2_25926",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 16:55",
+      "departure": "2014-04-23 16:55",
+      "serviceId": "2_28",
+      "tripId": "2_14888",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 17:05",
+      "departure": "2014-04-23 17:05",
+      "serviceId": "2_28",
+      "tripId": "2_23765",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 17:09",
+      "departure": "2014-04-23 17:09",
+      "serviceId": "2_28",
+      "tripId": "2_25818",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 17:10",
+      "departure": "2014-04-23 17:10",
+      "serviceId": "2_28",
+      "tripId": "2_23873",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 17:15",
+      "departure": "2014-04-23 17:15",
+      "serviceId": "2_28",
+      "tripId": "2_25899",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 17:15",
+      "departure": "2014-04-23 17:15",
+      "serviceId": "2_28",
+      "tripId": "2_26183",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 17:16",
+      "departure": "2014-04-23 17:16",
+      "serviceId": "2_28",
+      "tripId": "2_3768",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 17:34",
+      "departure": "2014-04-23 17:34",
+      "serviceId": "2_28",
+      "tripId": "2_23999",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 17:36",
+      "departure": "2014-04-23 17:36",
+      "serviceId": "2_28",
+      "tripId": "2_3753",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 17:40",
+      "departure": "2014-04-23 17:40",
+      "serviceId": "2_28",
+      "tripId": "2_23963",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 17:46",
+      "departure": "2014-04-23 17:46",
+      "serviceId": "2_28",
+      "tripId": "2_25935",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 17:50",
+      "departure": "2014-04-23 17:50",
+      "serviceId": "2_28",
+      "tripId": "2_25944",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 17:56",
+      "departure": "2014-04-23 17:56",
+      "serviceId": "2_28",
+      "tripId": "2_3758",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 18:03",
+      "departure": "2014-04-23 18:03",
+      "serviceId": "2_28",
+      "tripId": "2_23774",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 18:10",
+      "departure": "2014-04-23 18:10",
+      "serviceId": "2_28",
+      "tripId": "2_23882",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 18:15",
+      "departure": "2014-04-23 18:15",
+      "serviceId": "2_28",
+      "tripId": "2_26174",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 18:16",
+      "departure": "2014-04-23 18:16",
+      "serviceId": "2_28",
+      "tripId": "2_3763",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 18:19",
+      "departure": "2014-04-23 18:19",
+      "serviceId": "2_28",
+      "tripId": "2_25836",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 18:25",
+      "departure": "2014-04-23 18:25",
+      "serviceId": "2_28",
+      "tripId": "2_25917",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 18:31",
+      "departure": "2014-04-23 18:31",
+      "serviceId": "2_28",
+      "tripId": "2_23783",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 18:37",
+      "departure": "2014-04-23 18:37",
+      "serviceId": "2_28",
+      "tripId": "2_14897",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 18:40",
+      "departure": "2014-04-23 18:40",
+      "serviceId": "2_28",
+      "tripId": "2_23891",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 18:53",
+      "departure": "2014-04-23 18:53",
+      "serviceId": "2_28",
+      "tripId": "2_25953",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 18:59",
+      "departure": "2014-04-23 18:59",
+      "serviceId": "2_28",
+      "tripId": "2_14906",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 18:59",
+      "departure": "2014-04-23 18:59",
+      "serviceId": "2_28",
+      "tripId": "2_23972",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 19:00",
+      "departure": "2014-04-23 19:00",
+      "serviceId": "2_28",
+      "tripId": "2_25962",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 19:05",
+      "departure": "2014-04-23 19:05",
+      "serviceId": "2_28",
+      "tripId": "2_23981",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 19:17",
+      "departure": "2014-04-23 19:17",
+      "serviceId": "2_28",
+      "tripId": "2_14915",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 19:28",
+      "departure": "2014-04-23 19:28",
+      "serviceId": "2_28",
+      "tripId": "2_23792",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 19:28",
+      "departure": "2014-04-23 19:28",
+      "serviceId": "2_28",
+      "tripId": "2_25845",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 19:34",
+      "departure": "2014-04-23 19:34",
+      "serviceId": "2_28",
+      "tripId": "2_14924",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 19:35",
+      "departure": "2014-04-23 19:35",
+      "serviceId": "2_28",
+      "tripId": "2_23900",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2014-04-23 19:35",
+      "departure": "2014-04-23 19:35",
+      "serviceId": "2_28",
+      "tripId": "2_25908",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 19:54",
+      "departure": "2014-04-23 19:54",
+      "serviceId": "2_28",
+      "tripId": "2_14933",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 20:03",
+      "departure": "2014-04-23 20:03",
+      "serviceId": "2_28",
+      "tripId": "2_25971",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 20:10",
+      "departure": "2014-04-23 20:10",
+      "serviceId": "2_28",
+      "tripId": "2_25827",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 20:29",
+      "departure": "2014-04-23 20:29",
+      "serviceId": "2_28",
+      "tripId": "2_14942",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 20:38",
+      "departure": "2014-04-23 20:38",
+      "serviceId": "2_28",
+      "tripId": "2_25854",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-23 20:40",
+      "departure": "2014-04-23 20:40",
+      "serviceId": "2_28",
+      "tripId": "2_25998",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-23 20:59",
+      "departure": "2014-04-23 20:59",
+      "serviceId": "2_28",
+      "tripId": "2_15248",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-23 21:08",
+      "departure": "2014-04-23 21:08",
+      "serviceId": "2_28",
+      "tripId": "2_25989",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    }
+  ]
+}
