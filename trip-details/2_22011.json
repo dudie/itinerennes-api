@@ -1,115 +1,71 @@
 {
-  "headsign": "150 | Rennes République",
+  "headsign": "40 | République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_3301",
-        "lat": 48.15515021,
-        "lon": -1.57316318,
-        "name": "Landelles",
-        "code": 3301
+        "id": "2_1290",
+        "lat": 48.12688601,
+        "lon": -1.62954442,
+        "name": "Clos Courtel",
+        "code": 1290
       },
-      "arrival": 28800,
-      "departure": 28800
+      "arrival": 63360,
+      "departure": 63360
     },
     {
       "stop": {
-        "id": "2_3322",
-        "lat": 48.1492763,
-        "lon": -1.57750308,
-        "name": "Curien",
-        "code": 3322
+        "id": "2_1291",
+        "lat": 48.12475494,
+        "lon": -1.63388412,
+        "name": "IUT",
+        "code": 1291
       },
-      "arrival": 28980,
-      "departure": 28980
+      "arrival": 63420,
+      "departure": 63420
     },
     {
       "stop": {
-        "id": "2_3315",
-        "lat": 48.15354798,
-        "lon": -1.5798402,
-        "name": "Thorigné Mairie",
-        "code": 3315
+        "id": "2_1292",
+        "lat": 48.12145018,
+        "lon": -1.63814809,
+        "name": "Beaulieu Restau. U.",
+        "code": 1292
       },
-      "arrival": 29040,
-      "departure": 29040
+      "arrival": 63540,
+      "departure": 63540
     },
     {
       "stop": {
-        "id": "2_3314",
-        "lat": 48.15594837,
-        "lon": -1.58069511,
-        "name": "Anne de Bretagne",
-        "code": 3314
+        "id": "2_1176",
+        "lat": 48.11901733,
+        "lon": -1.63514782,
+        "name": "Beaulieu INSA",
+        "code": 1176
       },
-      "arrival": 29100,
-      "departure": 29100
+      "arrival": 63600,
+      "departure": 63600
     },
     {
       "stop": {
-        "id": "2_3305",
-        "lat": 48.15897926,
-        "lon": -1.57970534,
-        "name": "Bocage",
-        "code": 3305
+        "id": "2_1312",
+        "lat": 48.1166495,
+        "lon": -1.63393042,
+        "name": "Beaulieu Chimie",
+        "code": 1312
       },
-      "arrival": 29160,
-      "departure": 29160
+      "arrival": 63660,
+      "departure": 63660
     },
     {
       "stop": {
-        "id": "2_3306",
-        "lat": 48.16417683,
-        "lon": -1.57932113,
-        "name": "Juteauderies",
-        "code": 3306
-      },
-      "arrival": 29280,
-      "departure": 29280
-    },
-    {
-      "stop": {
-        "id": "2_3307",
-        "lat": 48.16041313,
-        "lon": -1.58594602,
-        "name": "Fouillard",
-        "code": 3307
-      },
-      "arrival": 29400,
-      "departure": 29400
-    },
-    {
-      "stop": {
-        "id": "2_3309",
-        "lat": 48.15626165,
-        "lon": -1.59233418,
-        "name": "Portail",
-        "code": 3309
-      },
-      "arrival": 29460,
-      "departure": 29460
-    },
-    {
-      "stop": {
-        "id": "2_1617",
-        "lat": 48.12913664,
-        "lon": -1.63016817,
-        "name": "Longs Champs Est",
-        "code": 1617
-      },
-      "arrival": 29940,
-      "departure": 29940
-    },
-    {
-      "stop": {
-        "id": "2_1609",
-        "lat": 48.11419402,
-        "lon": -1.63648162,
+        "id": "2_1160",
+        "lat": 48.11406412,
+        "lon": -1.63761839,
         "name": "Tournebride",
-        "code": 1609
+        "code": 1160
       },
-      "arrival": 30180,
-      "departure": 30180
+      "arrival": 63720,
+      "departure": 63720
     },
     {
       "stop": {
@@ -119,28 +75,50 @@
         "name": "Préales",
         "code": 1603
       },
-      "arrival": 30240,
-      "departure": 30240
+      "arrival": 63840,
+      "departure": 63840
     },
     {
       "stop": {
-        "id": "2_1563",
-        "lat": 48.10969683,
-        "lon": -1.67818363,
-        "name": "République",
-        "code": 1563
+        "id": "2_1161",
+        "lat": 48.11219183,
+        "lon": -1.64423633,
+        "name": "Plaine de Baud",
+        "code": 1161
       },
-      "arrival": 30720,
-      "departure": 30720
+      "arrival": 63900,
+      "departure": 63900
+    },
+    {
+      "stop": {
+        "id": "2_1166",
+        "lat": 48.10988328,
+        "lon": -1.67512929,
+        "name": "Musée Beaux Arts",
+        "code": 1166
+      },
+      "arrival": 64320,
+      "departure": 64320
+    },
+    {
+      "stop": {
+        "id": "2_1090",
+        "lat": 48.10952605,
+        "lon": -1.6779074,
+        "name": "République",
+        "code": 1090
+      },
+      "arrival": 64380,
+      "departure": 64380
     }
   ],
   "route": {
-    "id": "2_0150",
-    "textColor": "8EA1CF",
+    "id": "2_0040",
+    "textColor": "DF171C",
     "color": "FCE000",
-    "description": "Express métropolitaine",
-    "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
-    "shortName": "150",
+    "description": "Express urbaine",
+    "longName": "République \u003c\u003e Beaulieu Atalante",
+    "shortName": "40",
     "type": 3,
     "agencyId": "2"
   }

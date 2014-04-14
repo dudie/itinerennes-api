@@ -1,0 +1,744 @@
+{
+  "date": "2014-04-25 00:00",
+  "stop": {
+    "id": "2_3732",
+    "lat": 48.1493297,
+    "lon": -1.83902413,
+    "name": "Ile des Bois",
+    "code": 3732
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "ffffff",
+      "color": "007a76",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0081",
+      "textColor": "FFFFFF",
+      "color": "0083CD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+      "shortName": "81",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0152",
+      "textColor": "007A76",
+      "color": "FCE000",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Lycée V. H. Basch) \u003c\u003e Saint-Gilles",
+      "shortName": "152",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0227",
+      "textColor": "FFFFFF",
+      "color": "BCA3CE",
+      "description": "Complémentaire",
+      "longName": "Saint-Gilles (Île des Bois) \u003c\u003e Pacé (Collège Saint-Gabriel)",
+      "shortName": "227",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0228",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Saint-Gilles (Île des Bois) \u003c\u003e Le Rheu (Collège Georges Brassens)",
+      "shortName": "228",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-04-25 06:10",
+      "departure": "2014-04-25 06:10",
+      "serviceId": "2_38",
+      "tripId": "2_14953",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 06:40",
+      "departure": "2014-04-25 06:40",
+      "serviceId": "2_38",
+      "tripId": "2_3749",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 07:00",
+      "departure": "2014-04-25 07:00",
+      "serviceId": "2_38",
+      "tripId": "2_3739",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 07:05",
+      "departure": "2014-04-25 07:05",
+      "serviceId": "2_38",
+      "tripId": "2_14692",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 07:15",
+      "departure": "2014-04-25 07:15",
+      "serviceId": "2_38",
+      "tripId": "2_3744",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 07:22",
+      "departure": "2014-04-25 07:22",
+      "serviceId": "2_38",
+      "tripId": "2_26167",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-04-25 07:30",
+      "departure": "2014-04-25 07:30",
+      "serviceId": "2_38",
+      "tripId": "2_14962",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 07:36",
+      "departure": "2014-04-25 07:36",
+      "serviceId": "2_38",
+      "tripId": "2_14701",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 07:45",
+      "departure": "2014-04-25 07:45",
+      "serviceId": "2_38",
+      "tripId": "2_14971",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 07:54",
+      "departure": "2014-04-25 07:54",
+      "serviceId": "2_40",
+      "tripId": "2_22414",
+      "routeId": "2_0228",
+      "headsign": "228 | Le Rheu Collège G. Brassens"
+    },
+    {
+      "arrival": "2014-04-25 07:55",
+      "departure": "2014-04-25 07:55",
+      "serviceId": "2_38",
+      "tripId": "2_14710",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 08:00",
+      "departure": "2014-04-25 08:00",
+      "serviceId": "2_38",
+      "tripId": "2_14980",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 08:10",
+      "departure": "2014-04-25 08:10",
+      "serviceId": "2_38",
+      "tripId": "2_14719",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 08:15",
+      "departure": "2014-04-25 08:15",
+      "serviceId": "2_38",
+      "tripId": "2_14989",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 08:21",
+      "departure": "2014-04-25 08:21",
+      "serviceId": "2_38",
+      "tripId": "2_15241",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 08:21",
+      "departure": "2014-04-25 08:21",
+      "serviceId": "2_38",
+      "tripId": "2_26194",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-04-25 08:30",
+      "departure": "2014-04-25 08:30",
+      "serviceId": "2_38",
+      "tripId": "2_15263",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 08:39",
+      "departure": "2014-04-25 08:39",
+      "serviceId": "2_38",
+      "tripId": "2_14728",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 08:45",
+      "departure": "2014-04-25 08:45",
+      "serviceId": "2_38",
+      "tripId": "2_14998",
+      "routeId": "2_0052",
+      "headsign": "52 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-04-25 08:51",
+      "departure": "2014-04-25 08:51",
+      "serviceId": "2_40",
+      "tripId": "2_22404",
+      "routeId": "2_0228",
+      "headsign": "228 | Le Rheu Collège G. Brassens"
+    },
+    {
+      "arrival": "2014-04-25 08:52",
+      "departure": "2014-04-25 08:52",
+      "serviceId": "2_40",
+      "tripId": "2_22380",
+      "routeId": "2_0227",
+      "headsign": "227 | Pacé Collège Saint-Gabriel"
+    },
+    {
+      "arrival": "2014-04-25 08:53",
+      "departure": "2014-04-25 08:53",
+      "serviceId": "2_38",
+      "tripId": "2_14737",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 09:08",
+      "departure": "2014-04-25 09:08",
+      "serviceId": "2_38",
+      "tripId": "2_14755",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 09:10",
+      "departure": "2014-04-25 09:10",
+      "serviceId": "2_38",
+      "tripId": "2_15007",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 09:38",
+      "departure": "2014-04-25 09:38",
+      "serviceId": "2_38",
+      "tripId": "2_14746",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 09:45",
+      "departure": "2014-04-25 09:45",
+      "serviceId": "2_38",
+      "tripId": "2_15016",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 09:52",
+      "departure": "2014-04-25 09:52",
+      "serviceId": "2_38",
+      "tripId": "2_14773",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 10:20",
+      "departure": "2014-04-25 10:20",
+      "serviceId": "2_38",
+      "tripId": "2_14782",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 10:25",
+      "departure": "2014-04-25 10:25",
+      "serviceId": "2_38",
+      "tripId": "2_15025",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 10:53",
+      "departure": "2014-04-25 10:53",
+      "serviceId": "2_38",
+      "tripId": "2_14791",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 11:00",
+      "departure": "2014-04-25 11:00",
+      "serviceId": "2_38",
+      "tripId": "2_15034",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 11:28",
+      "departure": "2014-04-25 11:28",
+      "serviceId": "2_38",
+      "tripId": "2_14800",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 11:45",
+      "departure": "2014-04-25 11:45",
+      "serviceId": "2_38",
+      "tripId": "2_15043",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 12:08",
+      "departure": "2014-04-25 12:08",
+      "serviceId": "2_38",
+      "tripId": "2_14809",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 12:15",
+      "departure": "2014-04-25 12:15",
+      "serviceId": "2_38",
+      "tripId": "2_15052",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 12:44",
+      "departure": "2014-04-25 12:44",
+      "serviceId": "2_38",
+      "tripId": "2_14818",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 12:50",
+      "departure": "2014-04-25 12:50",
+      "serviceId": "2_38",
+      "tripId": "2_15061",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 13:24",
+      "departure": "2014-04-25 13:24",
+      "serviceId": "2_38",
+      "tripId": "2_14827",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 13:30",
+      "departure": "2014-04-25 13:30",
+      "serviceId": "2_38",
+      "tripId": "2_15070",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 13:59",
+      "departure": "2014-04-25 13:59",
+      "serviceId": "2_38",
+      "tripId": "2_14836",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 14:05",
+      "departure": "2014-04-25 14:05",
+      "serviceId": "2_38",
+      "tripId": "2_15079",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 14:34",
+      "departure": "2014-04-25 14:34",
+      "serviceId": "2_38",
+      "tripId": "2_14845",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 14:40",
+      "departure": "2014-04-25 14:40",
+      "serviceId": "2_38",
+      "tripId": "2_15088",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 15:14",
+      "departure": "2014-04-25 15:14",
+      "serviceId": "2_38",
+      "tripId": "2_14854",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 15:20",
+      "departure": "2014-04-25 15:20",
+      "serviceId": "2_38",
+      "tripId": "2_15097",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 15:48",
+      "departure": "2014-04-25 15:48",
+      "serviceId": "2_38",
+      "tripId": "2_15223",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 15:49",
+      "departure": "2014-04-25 15:49",
+      "serviceId": "2_38",
+      "tripId": "2_14863",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 16:08",
+      "departure": "2014-04-25 16:08",
+      "serviceId": "2_38",
+      "tripId": "2_15106",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 16:20",
+      "departure": "2014-04-25 16:20",
+      "serviceId": "2_38",
+      "tripId": "2_14872",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 16:24",
+      "departure": "2014-04-25 16:24",
+      "serviceId": "2_41",
+      "tripId": "2_22418",
+      "routeId": "2_0228",
+      "headsign": "228 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 16:24",
+      "departure": "2014-04-25 16:24",
+      "serviceId": "2_41",
+      "tripId": "2_22428",
+      "routeId": "2_0228",
+      "headsign": "228 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 16:28",
+      "departure": "2014-04-25 16:28",
+      "serviceId": "2_38",
+      "tripId": "2_15115",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 16:33",
+      "departure": "2014-04-25 16:33",
+      "serviceId": "2_41",
+      "tripId": "2_22389",
+      "routeId": "2_0227",
+      "headsign": "227 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 16:41",
+      "departure": "2014-04-25 16:41",
+      "serviceId": "2_38",
+      "tripId": "2_15232",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 16:48",
+      "departure": "2014-04-25 16:48",
+      "serviceId": "2_38",
+      "tripId": "2_15124",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 17:02",
+      "departure": "2014-04-25 17:02",
+      "serviceId": "2_38",
+      "tripId": "2_14881",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 17:08",
+      "departure": "2014-04-25 17:08",
+      "serviceId": "2_38",
+      "tripId": "2_15133",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 17:21",
+      "departure": "2014-04-25 17:21",
+      "serviceId": "2_38",
+      "tripId": "2_14890",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 17:28",
+      "departure": "2014-04-25 17:28",
+      "serviceId": "2_38",
+      "tripId": "2_15142",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 17:34",
+      "departure": "2014-04-25 17:34",
+      "serviceId": "2_41",
+      "tripId": "2_22426",
+      "routeId": "2_0228",
+      "headsign": "228 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 17:34",
+      "departure": "2014-04-25 17:34",
+      "serviceId": "2_41",
+      "tripId": "2_22422",
+      "routeId": "2_0228",
+      "headsign": "228 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 17:40",
+      "departure": "2014-04-25 17:40",
+      "serviceId": "2_38",
+      "tripId": "2_26185",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 17:43",
+      "departure": "2014-04-25 17:43",
+      "serviceId": "2_38",
+      "tripId": "2_3769",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 17:48",
+      "departure": "2014-04-25 17:48",
+      "serviceId": "2_38",
+      "tripId": "2_15151",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 18:03",
+      "departure": "2014-04-25 18:03",
+      "serviceId": "2_38",
+      "tripId": "2_3754",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 18:09",
+      "departure": "2014-04-25 18:09",
+      "serviceId": "2_38",
+      "tripId": "2_15160",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 18:17",
+      "departure": "2014-04-25 18:17",
+      "serviceId": "2_41",
+      "tripId": "2_22435",
+      "routeId": "2_0228",
+      "headsign": "228 | Saint-Gilles Maison Neuve"
+    },
+    {
+      "arrival": "2014-04-25 18:23",
+      "departure": "2014-04-25 18:23",
+      "serviceId": "2_38",
+      "tripId": "2_3759",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 18:29",
+      "departure": "2014-04-25 18:29",
+      "serviceId": "2_38",
+      "tripId": "2_15169",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 18:39",
+      "departure": "2014-04-25 18:39",
+      "serviceId": "2_38",
+      "tripId": "2_26176",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 18:43",
+      "departure": "2014-04-25 18:43",
+      "serviceId": "2_38",
+      "tripId": "2_3764",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 18:49",
+      "departure": "2014-04-25 18:49",
+      "serviceId": "2_38",
+      "tripId": "2_15178",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 19:04",
+      "departure": "2014-04-25 19:04",
+      "serviceId": "2_38",
+      "tripId": "2_14899",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 19:10",
+      "departure": "2014-04-25 19:10",
+      "serviceId": "2_38",
+      "tripId": "2_15187",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 19:25",
+      "departure": "2014-04-25 19:25",
+      "serviceId": "2_38",
+      "tripId": "2_14908",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 19:30",
+      "departure": "2014-04-25 19:30",
+      "serviceId": "2_38",
+      "tripId": "2_15196",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 19:42",
+      "departure": "2014-04-25 19:42",
+      "serviceId": "2_38",
+      "tripId": "2_14917",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 19:45",
+      "departure": "2014-04-25 19:45",
+      "serviceId": "2_38",
+      "tripId": "2_15205",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 19:59",
+      "departure": "2014-04-25 19:59",
+      "serviceId": "2_38",
+      "tripId": "2_14926",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 20:17",
+      "departure": "2014-04-25 20:17",
+      "serviceId": "2_38",
+      "tripId": "2_14935",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 20:25",
+      "departure": "2014-04-25 20:25",
+      "serviceId": "2_38",
+      "tripId": "2_15214",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-04-25 20:52",
+      "departure": "2014-04-25 20:52",
+      "serviceId": "2_38",
+      "tripId": "2_14944",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-25 21:22",
+      "departure": "2014-04-25 21:22",
+      "serviceId": "2_38",
+      "tripId": "2_15250",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-04-26 00:30",
+      "departure": "2014-04-26 00:30",
+      "serviceId": "2_39",
+      "tripId": "2_26002",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    },
+    {
+      "arrival": "2014-04-26 02:05",
+      "departure": "2014-04-26 02:05",
+      "serviceId": "2_39",
+      "tripId": "2_26004",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    }
+  ]
+}

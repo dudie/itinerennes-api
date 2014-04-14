@@ -1,71 +1,82 @@
 {
-  "headsign": "STN | République",
+  "headsign": "164 | Rennes République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1475",
-        "lat": 48.12695887,
-        "lon": -1.62918033,
+        "id": "2_4001",
+        "lat": 48.13701918,
+        "lon": -1.52637517,
+        "name": "Timonière",
+        "code": 4001
+      },
+      "arrival": 28200,
+      "departure": 28200
+    },
+    {
+      "stop": {
+        "id": "2_4002",
+        "lat": 48.13696093,
+        "lon": -1.53304901,
+        "name": "Verdaudais",
+        "code": 4002
+      },
+      "arrival": 28320,
+      "departure": 28320
+    },
+    {
+      "stop": {
+        "id": "2_4003",
+        "lat": 48.13419518,
+        "lon": -1.53491257,
+        "name": "Acigné Mairie",
+        "code": 4003
+      },
+      "arrival": 28380,
+      "departure": 28380
+    },
+    {
+      "stop": {
+        "id": "2_4004",
+        "lat": 48.13391306,
+        "lon": -1.53776926,
+        "name": "Foyer",
+        "code": 4004
+      },
+      "arrival": 28440,
+      "departure": 28440
+    },
+    {
+      "stop": {
+        "id": "2_4018",
+        "lat": 48.1339629,
+        "lon": -1.540453,
+        "name": "Lande",
+        "code": 4018
+      },
+      "arrival": 28440,
+      "departure": 28440
+    },
+    {
+      "stop": {
+        "id": "2_2045",
+        "lat": 48.12734821,
+        "lon": -1.62821813,
         "name": "Clos Courtel",
-        "code": 1475
+        "code": 2045
       },
-      "arrival": 14700,
-      "departure": 14700
+      "arrival": 29040,
+      "departure": 29040
     },
     {
       "stop": {
-        "id": "2_1291",
-        "lat": 48.12475494,
-        "lon": -1.63388412,
-        "name": "IUT",
-        "code": 1291
-      },
-      "arrival": 14760,
-      "departure": 14760
-    },
-    {
-      "stop": {
-        "id": "2_1292",
-        "lat": 48.12145018,
-        "lon": -1.63814809,
-        "name": "Beaulieu Restau. U.",
-        "code": 1292
-      },
-      "arrival": 14880,
-      "departure": 14880
-    },
-    {
-      "stop": {
-        "id": "2_1176",
-        "lat": 48.11901733,
-        "lon": -1.63514782,
-        "name": "Beaulieu INSA",
-        "code": 1176
-      },
-      "arrival": 14940,
-      "departure": 14940
-    },
-    {
-      "stop": {
-        "id": "2_1312",
-        "lat": 48.1166495,
-        "lon": -1.63393042,
-        "name": "Beaulieu Chimie",
-        "code": 1312
-      },
-      "arrival": 15000,
-      "departure": 15000
-    },
-    {
-      "stop": {
-        "id": "2_1609",
-        "lat": 48.11419402,
-        "lon": -1.63648162,
+        "id": "2_1160",
+        "lat": 48.11406412,
+        "lon": -1.63761839,
         "name": "Tournebride",
-        "code": 1609
+        "code": 1160
       },
-      "arrival": 15060,
-      "departure": 15060
+      "arrival": 29280,
+      "departure": 29280
     },
     {
       "stop": {
@@ -75,94 +86,28 @@
         "name": "Préales",
         "code": 1603
       },
-      "arrival": 15120,
-      "departure": 15120
+      "arrival": 29340,
+      "departure": 29340
     },
     {
       "stop": {
-        "id": "2_1161",
-        "lat": 48.11219183,
-        "lon": -1.64423633,
-        "name": "Plaine de Baud",
-        "code": 1161
+        "id": "2_1167",
+        "lat": 48.10936738,
+        "lon": -1.678658,
+        "name": "République Pré Botté",
+        "code": 1167
       },
-      "arrival": 15180,
-      "departure": 15180
-    },
-    {
-      "stop": {
-        "id": "2_1162",
-        "lat": 48.1103356,
-        "lon": -1.6559754,
-        "name": "Pont de Strasbourg",
-        "code": 1162
-      },
-      "arrival": 15300,
-      "departure": 15300
-    },
-    {
-      "stop": {
-        "id": "2_1163",
-        "lat": 48.1101066,
-        "lon": -1.66054614,
-        "name": "Robidou",
-        "code": 1163
-      },
-      "arrival": 15360,
-      "departure": 15360
-    },
-    {
-      "stop": {
-        "id": "2_1164",
-        "lat": 48.11009515,
-        "lon": -1.66397755,
-        "name": "Pont de Châteaudun",
-        "code": 1164
-      },
-      "arrival": 15420,
-      "departure": 15420
-    },
-    {
-      "stop": {
-        "id": "2_1165",
-        "lat": 48.11006169,
-        "lon": -1.67017835,
-        "name": "Paul Bert",
-        "code": 1165
-      },
-      "arrival": 15480,
-      "departure": 15480
-    },
-    {
-      "stop": {
-        "id": "2_1166",
-        "lat": 48.10988328,
-        "lon": -1.67512929,
-        "name": "Musée Beaux Arts",
-        "code": 1166
-      },
-      "arrival": 15540,
-      "departure": 15540
-    },
-    {
-      "stop": {
-        "id": "2_1052",
-        "lat": 48.10989306,
-        "lon": -1.67887428,
-        "name": "République",
-        "code": 1052
-      },
-      "arrival": 15600,
-      "departure": 15600
+      "arrival": 29820,
+      "departure": 29820
     }
   ],
   "route": {
-    "id": "2_0805",
-    "textColor": "FFFFFF",
-    "color": "004B96",
-    "description": "Spéciale",
-    "longName": "STAR de Nuit - Beaulieu Atalante \u003c\u003e J.F. Kennedy",
-    "shortName": "STN",
+    "id": "2_0164",
+    "textColor": "008DD6",
+    "color": "FCE000",
+    "description": "Express métropolitaine",
+    "longName": "Rennes (République) \u003c\u003e Acigné",
+    "shortName": "164",
     "type": 3,
     "agencyId": "2"
   }
