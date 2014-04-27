@@ -1,0 +1,66 @@
+{
+  "date": "2014-05-10 00:00",
+  "stop": {
+    "id": "2_1551",
+    "lat": 48.10989761,
+    "lon": -1.67826219,
+    "name": "République",
+    "code": 1551
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "ffffff",
+      "color": "007a76",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0081",
+      "textColor": "FFFFFF",
+      "color": "0083CD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+      "shortName": "81",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-05-11 00:00",
+      "departure": "2014-05-11 00:00",
+      "serviceId": "2_5",
+      "tripId": "2_17335",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2014-05-11 00:00",
+      "departure": "2014-05-11 00:00",
+      "serviceId": "2_5",
+      "tripId": "2_24078",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    },
+    {
+      "arrival": "2014-05-11 01:35",
+      "departure": "2014-05-11 01:35",
+      "serviceId": "2_5",
+      "tripId": "2_17333",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2014-05-11 01:35",
+      "departure": "2014-05-11 01:35",
+      "serviceId": "2_5",
+      "tripId": "2_24080",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    }
+  ]
+}

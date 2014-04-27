@@ -1,3 +1,3 @@
-GTFS 20140328
+GTFS 20140407
 =============
-http://data.keolis-rennes.com/fileadmin/OpenDataFiles/GTFS/GTFS-20140328.zip
+http://data.keolis-rennes.com/fileadmin/OpenDataFiles/GTFS/GTFS-20140407.zip
