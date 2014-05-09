@@ -1,135 +1,443 @@
 {
-  "headsign": "77 | Pacé Pâtis Roussel",
+  "headsign": "1 | Chantepie Rosa Parks",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1519",
-        "lat": 48.12110069,
-        "lon": -1.70297631,
-        "name": "Villejean-Université",
-        "code": 1519
+        "id": "2_2116",
+        "lat": 48.13488248,
+        "lon": -1.62068447,
+        "name": "Champs Blancs",
+        "code": 2116
+      },
+      "arrival": 53280,
+      "departure": 53280
+    },
+    {
+      "stop": {
+        "id": "2_2105",
+        "lat": 48.13105331,
+        "lon": -1.62462479,
+        "name": "Chêne Germain",
+        "code": 2105
+      },
+      "arrival": 53400,
+      "departure": 53400
+    },
+    {
+      "stop": {
+        "id": "2_2002",
+        "lat": 48.13023268,
+        "lon": -1.62752844,
+        "name": "Cesson Hôpital Privé",
+        "code": 2002
+      },
+      "arrival": 53460,
+      "departure": 53460
+    },
+    {
+      "stop": {
+        "id": "2_1001",
+        "lat": 48.12903716,
+        "lon": -1.6325079,
+        "name": "Longs Champs",
+        "code": 1001
+      },
+      "arrival": 53580,
+      "departure": 53580
+    },
+    {
+      "stop": {
+        "id": "2_1002",
+        "lat": 48.12826604,
+        "lon": -1.63765619,
+        "name": "Bouzat",
+        "code": 1002
+      },
+      "arrival": 53640,
+      "departure": 53640
+    },
+    {
+      "stop": {
+        "id": "2_1003",
+        "lat": 48.12744122,
+        "lon": -1.64029002,
+        "name": "Gallets",
+        "code": 1003
+      },
+      "arrival": 53700,
+      "departure": 53700
+    },
+    {
+      "stop": {
+        "id": "2_1004",
+        "lat": 48.12528847,
+        "lon": -1.64253775,
+        "name": "Donzelot",
+        "code": 1004
+      },
+      "arrival": 53760,
+      "departure": 53760
+    },
+    {
+      "stop": {
+        "id": "2_1005",
+        "lat": 48.1233588,
+        "lon": -1.64623199,
+        "name": "Mirabeau",
+        "code": 1005
+      },
+      "arrival": 53820,
+      "departure": 53820
+    },
+    {
+      "stop": {
+        "id": "2_1006",
+        "lat": 48.12226258,
+        "lon": -1.65069568,
+        "name": "Turmel",
+        "code": 1006
+      },
+      "arrival": 53880,
+      "departure": 53880
+    },
+    {
+      "stop": {
+        "id": "2_1007",
+        "lat": 48.12141888,
+        "lon": -1.65505801,
+        "name": "Assomption",
+        "code": 1007
+      },
+      "arrival": 54000,
+      "departure": 54000
+    },
+    {
+      "stop": {
+        "id": "2_1008",
+        "lat": 48.12317413,
+        "lon": -1.6602443,
+        "name": "Painlevé",
+        "code": 1008
+      },
+      "arrival": 54120,
+      "departure": 54120
+    },
+    {
+      "stop": {
+        "id": "2_1009",
+        "lat": 48.12162483,
+        "lon": -1.6631771,
+        "name": "Metz Volney",
+        "code": 1009
+      },
+      "arrival": 54180,
+      "departure": 54180
+    },
+    {
+      "stop": {
+        "id": "2_1010",
+        "lat": 48.11917574,
+        "lon": -1.66765915,
+        "name": "Guéhenno",
+        "code": 1010
+      },
+      "arrival": 54300,
+      "departure": 54300
+    },
+    {
+      "stop": {
+        "id": "2_1011",
+        "lat": 48.11830509,
+        "lon": -1.67120349,
+        "name": "Fac de Droit",
+        "code": 1011
+      },
+      "arrival": 54360,
+      "departure": 54360
+    },
+    {
+      "stop": {
+        "id": "2_1012",
+        "lat": 48.11618009,
+        "lon": -1.67409822,
+        "name": "Sévigné",
+        "code": 1012
+      },
+      "arrival": 54420,
+      "departure": 54420
+    },
+    {
+      "stop": {
+        "id": "2_1014",
+        "lat": 48.11371103,
+        "lon": -1.67903599,
+        "name": "Sainte-Anne",
+        "code": 1014
+      },
+      "arrival": 54600,
+      "departure": 54600
+    },
+    {
+      "stop": {
+        "id": "2_1015",
+        "lat": 48.11252173,
+        "lon": -1.68031651,
+        "name": "Champ Jacquet",
+        "code": 1015
+      },
+      "arrival": 54660,
+      "departure": 54660
+    },
+    {
+      "stop": {
+        "id": "2_1024",
+        "lat": 48.10997886,
+        "lon": -1.68021216,
+        "name": "République Nemours",
+        "code": 1024
+      },
+      "arrival": 54840,
+      "departure": 54840
+    },
+    {
+      "stop": {
+        "id": "2_1017",
+        "lat": 48.10834873,
+        "lon": -1.6801754,
+        "name": "Les Halles",
+        "code": 1017
+      },
+      "arrival": 54900,
+      "departure": 54900
+    },
+    {
+      "stop": {
+        "id": "2_1088",
+        "lat": 48.10744897,
+        "lon": -1.67491383,
+        "name": "Liberté TNB",
+        "code": 1088
+      },
+      "arrival": 55080,
+      "departure": 55080
+    },
+    {
+      "stop": {
+        "id": "2_1087",
+        "lat": 48.1060299,
+        "lon": -1.67410184,
+        "name": "Champs Libres",
+        "code": 1087
+      },
+      "arrival": 55140,
+      "departure": 55140
+    },
+    {
+      "stop": {
+        "id": "2_1086",
+        "lat": 48.10400351,
+        "lon": -1.67201145,
+        "name": "Gares",
+        "code": 1086
+      },
+      "arrival": 55260,
+      "departure": 55260
+    },
+    {
+      "stop": {
+        "id": "2_1085",
+        "lat": 48.10473324,
+        "lon": -1.66565625,
+        "name": "Laënnec",
+        "code": 1085
+      },
+      "arrival": 55380,
+      "departure": 55380
+    },
+    {
+      "stop": {
+        "id": "2_1243",
+        "lat": 48.10254897,
+        "lon": -1.66111869,
+        "name": "Croix Saint-Hélier",
+        "code": 1243
+      },
+      "arrival": 55440,
+      "departure": 55440
+    },
+    {
+      "stop": {
+        "id": "2_1316",
+        "lat": 48.10120612,
+        "lon": -1.65296379,
+        "name": "Raison",
+        "code": 1316
+      },
+      "arrival": 55560,
+      "departure": 55560
+    },
+    {
+      "stop": {
+        "id": "2_1317",
+        "lat": 48.10013961,
+        "lon": -1.64938444,
+        "name": "Villebois-Mareuil",
+        "code": 1317
+      },
+      "arrival": 55620,
+      "departure": 55620
+    },
+    {
+      "stop": {
+        "id": "2_1318",
+        "lat": 48.09914749,
+        "lon": -1.64597327,
+        "name": "Landry",
+        "code": 1318
+      },
+      "arrival": 55620,
+      "departure": 55620
+    },
+    {
+      "stop": {
+        "id": "2_1319",
+        "lat": 48.09705567,
+        "lon": -1.64164476,
+        "name": "Domaine",
+        "code": 1319
+      },
+      "arrival": 55740,
+      "departure": 55740
+    },
+    {
+      "stop": {
+        "id": "2_1320",
+        "lat": 48.09498429,
+        "lon": -1.63725113,
+        "name": "CARSAT",
+        "code": 1320
+      },
+      "arrival": 55800,
+      "departure": 55800
+    },
+    {
+      "stop": {
+        "id": "2_1321",
+        "lat": 48.09387292,
+        "lon": -1.63388391,
+        "name": "Sauvaie",
+        "code": 1321
+      },
+      "arrival": 55860,
+      "departure": 55860
+    },
+    {
+      "stop": {
+        "id": "2_3008",
+        "lat": 48.09037236,
+        "lon": -1.62410496,
+        "name": "Loges",
+        "code": 3008
       },
       "arrival": 56100,
       "departure": 56100
     },
     {
       "stop": {
-        "id": "2_1518",
-        "lat": 48.12062672,
-        "lon": -1.71046453,
-        "name": "Bourbonnais",
-        "code": 1518
+        "id": "2_3009",
+        "lat": 48.08841382,
+        "lon": -1.61911707,
+        "name": "Chantepie Mairie",
+        "code": 3009
+      },
+      "arrival": 56160,
+      "departure": 56160
+    },
+    {
+      "stop": {
+        "id": "2_3010",
+        "lat": 48.08815767,
+        "lon": -1.61691516,
+        "name": "Chantepie Eglise",
+        "code": 3010
+      },
+      "arrival": 56220,
+      "departure": 56220
+    },
+    {
+      "stop": {
+        "id": "2_3011",
+        "lat": 48.09043747,
+        "lon": -1.61532491,
+        "name": "Hallouvry",
+        "code": 3011
       },
       "arrival": 56280,
       "departure": 56280
     },
     {
       "stop": {
-        "id": "2_1521",
-        "lat": 48.11845974,
-        "lon": -1.71376004,
-        "name": "Berry",
-        "code": 1521
+        "id": "2_3012",
+        "lat": 48.08828194,
+        "lon": -1.61236516,
+        "name": "Bourgogne",
+        "code": 3012
       },
       "arrival": 56340,
       "departure": 56340
     },
     {
       "stop": {
-        "id": "2_3113",
-        "lat": 48.14335637,
-        "lon": -1.7704102,
-        "name": "Le Ponant",
-        "code": 3113
+        "id": "2_3013",
+        "lat": 48.08586495,
+        "lon": -1.61469687,
+        "name": "Deux Ruisseaux",
+        "code": 3013
       },
-      "arrival": 56700,
-      "departure": 56700
+      "arrival": 56400,
+      "departure": 56400
     },
     {
       "stop": {
-        "id": "2_3114",
-        "lat": 48.14572649,
-        "lon": -1.77065135,
-        "name": "Carré Dumaine",
-        "code": 3114
+        "id": "2_3001",
+        "lat": 48.0850708,
+        "lon": -1.61034947,
+        "name": "Gériatrie",
+        "code": 3001
       },
-      "arrival": 56760,
-      "departure": 56760
+      "arrival": 56460,
+      "departure": 56460
     },
     {
       "stop": {
-        "id": "2_3115",
-        "lat": 48.1479969,
-        "lon": -1.7697924,
-        "name": "Pacé Cimetière",
-        "code": 3115
+        "id": "2_3029",
+        "lat": 48.08573322,
+        "lon": -1.60747448,
+        "name": "Touche Annette",
+        "code": 3029
       },
-      "arrival": 56820,
-      "departure": 56820
+      "arrival": 56520,
+      "departure": 56520
     },
     {
       "stop": {
-        "id": "2_3130",
-        "lat": 48.15155536,
-        "lon": -1.77051816,
-        "name": "Le Brix",
-        "code": 3130
+        "id": "2_3028",
+        "lat": 48.0857666,
+        "lon": -1.6040872,
+        "name": "Rosa Parks",
+        "code": 3028
       },
-      "arrival": 56880,
-      "departure": 56880
-    },
-    {
-      "stop": {
-        "id": "2_3131",
-        "lat": 48.15444094,
-        "lon": -1.7704961,
-        "name": "Pacé Collèges",
-        "code": 3131
-      },
-      "arrival": 56940,
-      "departure": 56940
-    },
-    {
-      "stop": {
-        "id": "2_3132",
-        "lat": 48.15542425,
-        "lon": -1.76468404,
-        "name": "Champalaune",
-        "code": 3132
-      },
-      "arrival": 57000,
-      "departure": 57000
-    },
-    {
-      "stop": {
-        "id": "2_3133",
-        "lat": 48.15728468,
-        "lon": -1.76571429,
-        "name": "Ouessant",
-        "code": 3133
-      },
-      "arrival": 57060,
-      "departure": 57060
-    },
-    {
-      "stop": {
-        "id": "2_3125",
-        "lat": 48.16046526,
-        "lon": -1.7679822,
-        "name": "Pâtis Roussel",
-        "code": 3125
-      },
-      "arrival": 57120,
-      "departure": 57120
+      "arrival": 56580,
+      "departure": 56580
     }
   ],
   "route": {
-    "id": "2_0077",
-    "textColor": "201d21",
-    "color": "f6c200",
-    "description": "Métropolitaine",
-    "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé",
-    "shortName": "77",
+    "id": "2_0001",
+    "textColor": "FFFFFF",
+    "color": "90C01B",
+    "description": "Majeure",
+    "longName": "Cesson-Sévigné (Champs Blancs) \u003c\u003e Chantepie (Rosa Parks)",
+    "shortName": "1",
     "type": 3,
     "agencyId": "2"
   }

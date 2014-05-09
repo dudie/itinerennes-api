@@ -1,0 +1,686 @@
+{
+  "date": "2014-05-26 00:00",
+  "stop": {
+    "id": "2_4001",
+    "lat": 48.13701918,
+    "lon": -1.52637517,
+    "name": "Timonière",
+    "code": 4001
+  },
+  "routes": [
+    {
+      "id": "2_0064",
+      "textColor": "ffffff",
+      "color": "008dd6",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Acigné",
+      "shortName": "64",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0164",
+      "textColor": "008DD6",
+      "color": "FCE000",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Acigné",
+      "shortName": "164",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0200",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "Acigné (Timonière) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "200",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0220",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Acigné (Timonière) \u003c\u003e Cesson-Sévigné (Lycée Sévigné)",
+      "shortName": "220",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-05-26 06:10",
+      "departure": "2014-05-26 06:10",
+      "serviceId": "2_14",
+      "tripId": "2_3300",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 06:40",
+      "departure": "2014-05-26 06:40",
+      "serviceId": "2_14",
+      "tripId": "2_2934",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:00",
+      "departure": "2014-05-26 07:00",
+      "serviceId": "2_14",
+      "tripId": "2_2940",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:10",
+      "departure": "2014-05-26 07:10",
+      "serviceId": "2_14",
+      "tripId": "2_10756",
+      "routeId": "2_0164",
+      "headsign": "164 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:12",
+      "departure": "2014-05-26 07:12",
+      "serviceId": "2_14",
+      "tripId": "2_3120",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 07:20",
+      "departure": "2014-05-26 07:20",
+      "serviceId": "2_14",
+      "tripId": "2_3018",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:30",
+      "departure": "2014-05-26 07:30",
+      "serviceId": "2_14",
+      "tripId": "2_10746",
+      "routeId": "2_0164",
+      "headsign": "164 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:33",
+      "departure": "2014-05-26 07:33",
+      "serviceId": "2_16",
+      "tripId": "2_18707",
+      "routeId": "2_0200",
+      "headsign": "200 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2014-05-26 07:40",
+      "departure": "2014-05-26 07:40",
+      "serviceId": "2_14",
+      "tripId": "2_3024",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 07:45",
+      "departure": "2014-05-26 07:45",
+      "serviceId": "2_14",
+      "tripId": "2_3126",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 07:50",
+      "departure": "2014-05-26 07:50",
+      "serviceId": "2_14",
+      "tripId": "2_10776",
+      "routeId": "2_0164",
+      "headsign": "164 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:00",
+      "departure": "2014-05-26 08:00",
+      "serviceId": "2_16",
+      "tripId": "2_20682",
+      "routeId": "2_0220",
+      "headsign": "220 | Cesson-Sévigné Lycée Sévigné"
+    },
+    {
+      "arrival": "2014-05-26 08:00",
+      "departure": "2014-05-26 08:00",
+      "serviceId": "2_14",
+      "tripId": "2_3030",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:10",
+      "departure": "2014-05-26 08:10",
+      "serviceId": "2_14",
+      "tripId": "2_10741",
+      "routeId": "2_0164",
+      "headsign": "164 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:10",
+      "departure": "2014-05-26 08:10",
+      "serviceId": "2_14",
+      "tripId": "2_3132",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 08:20",
+      "departure": "2014-05-26 08:20",
+      "serviceId": "2_14",
+      "tripId": "2_3036",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:30",
+      "departure": "2014-05-26 08:30",
+      "serviceId": "2_14",
+      "tripId": "2_10751",
+      "routeId": "2_0164",
+      "headsign": "164 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:30",
+      "departure": "2014-05-26 08:30",
+      "serviceId": "2_14",
+      "tripId": "2_3138",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 08:40",
+      "departure": "2014-05-26 08:40",
+      "serviceId": "2_14",
+      "tripId": "2_3042",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 08:50",
+      "departure": "2014-05-26 08:50",
+      "serviceId": "2_14",
+      "tripId": "2_3144",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 09:00",
+      "departure": "2014-05-26 09:00",
+      "serviceId": "2_14",
+      "tripId": "2_3048",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 09:15",
+      "departure": "2014-05-26 09:15",
+      "serviceId": "2_14",
+      "tripId": "2_3150",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 09:20",
+      "departure": "2014-05-26 09:20",
+      "serviceId": "2_14",
+      "tripId": "2_3054",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 09:49",
+      "departure": "2014-05-26 09:49",
+      "serviceId": "2_14",
+      "tripId": "2_3156",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 09:55",
+      "departure": "2014-05-26 09:55",
+      "serviceId": "2_14",
+      "tripId": "2_3060",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 10:22",
+      "departure": "2014-05-26 10:22",
+      "serviceId": "2_14",
+      "tripId": "2_3162",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 10:30",
+      "departure": "2014-05-26 10:30",
+      "serviceId": "2_14",
+      "tripId": "2_3066",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 10:57",
+      "departure": "2014-05-26 10:57",
+      "serviceId": "2_14",
+      "tripId": "2_3168",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 11:05",
+      "departure": "2014-05-26 11:05",
+      "serviceId": "2_14",
+      "tripId": "2_3072",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 11:32",
+      "departure": "2014-05-26 11:32",
+      "serviceId": "2_14",
+      "tripId": "2_3174",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 11:40",
+      "departure": "2014-05-26 11:40",
+      "serviceId": "2_14",
+      "tripId": "2_3078",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 12:07",
+      "departure": "2014-05-26 12:07",
+      "serviceId": "2_14",
+      "tripId": "2_3180",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 12:20",
+      "departure": "2014-05-26 12:20",
+      "serviceId": "2_14",
+      "tripId": "2_3306",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 12:45",
+      "departure": "2014-05-26 12:45",
+      "serviceId": "2_14",
+      "tripId": "2_3186",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 12:50",
+      "departure": "2014-05-26 12:50",
+      "serviceId": "2_14",
+      "tripId": "2_3084",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 13:20",
+      "departure": "2014-05-26 13:20",
+      "serviceId": "2_14",
+      "tripId": "2_3192",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 13:25",
+      "departure": "2014-05-26 13:25",
+      "serviceId": "2_14",
+      "tripId": "2_3090",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 13:55",
+      "departure": "2014-05-26 13:55",
+      "serviceId": "2_14",
+      "tripId": "2_3198",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 14:00",
+      "departure": "2014-05-26 14:00",
+      "serviceId": "2_14",
+      "tripId": "2_3096",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 14:29",
+      "departure": "2014-05-26 14:29",
+      "serviceId": "2_14",
+      "tripId": "2_3204",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 14:35",
+      "departure": "2014-05-26 14:35",
+      "serviceId": "2_14",
+      "tripId": "2_3102",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 15:03",
+      "departure": "2014-05-26 15:03",
+      "serviceId": "2_14",
+      "tripId": "2_3210",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 15:10",
+      "departure": "2014-05-26 15:10",
+      "serviceId": "2_14",
+      "tripId": "2_3108",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 15:38",
+      "departure": "2014-05-26 15:38",
+      "serviceId": "2_14",
+      "tripId": "2_3222",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 15:45",
+      "departure": "2014-05-26 15:45",
+      "serviceId": "2_14",
+      "tripId": "2_3114",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 16:21",
+      "departure": "2014-05-26 16:21",
+      "serviceId": "2_14",
+      "tripId": "2_3228",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 16:27",
+      "departure": "2014-05-26 16:27",
+      "serviceId": "2_14",
+      "tripId": "2_10771",
+      "routeId": "2_0164",
+      "headsign": "164 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 16:30",
+      "departure": "2014-05-26 16:30",
+      "serviceId": "2_14",
+      "tripId": "2_2958",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 16:41",
+      "departure": "2014-05-26 16:41",
+      "serviceId": "2_14",
+      "tripId": "2_3234",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 16:47",
+      "departure": "2014-05-26 16:47",
+      "serviceId": "2_14",
+      "tripId": "2_10781",
+      "routeId": "2_0164",
+      "headsign": "164 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 16:50",
+      "departure": "2014-05-26 16:50",
+      "serviceId": "2_14",
+      "tripId": "2_2964",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 17:02",
+      "departure": "2014-05-26 17:02",
+      "serviceId": "2_14",
+      "tripId": "2_3240",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:10",
+      "departure": "2014-05-26 17:10",
+      "serviceId": "2_14",
+      "tripId": "2_2970",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 17:17",
+      "departure": "2014-05-26 17:17",
+      "serviceId": "2_17",
+      "tripId": "2_20687",
+      "routeId": "2_0220",
+      "headsign": "220 | Acigné Timonière"
+    },
+    {
+      "arrival": "2014-05-26 17:25",
+      "departure": "2014-05-26 17:25",
+      "serviceId": "2_14",
+      "tripId": "2_3246",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:26",
+      "departure": "2014-05-26 17:26",
+      "serviceId": "2_17",
+      "tripId": "2_18712",
+      "routeId": "2_0200",
+      "headsign": "200 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:28",
+      "departure": "2014-05-26 17:28",
+      "serviceId": "2_14",
+      "tripId": "2_10761",
+      "routeId": "2_0164",
+      "headsign": "164 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:30",
+      "departure": "2014-05-26 17:30",
+      "serviceId": "2_14",
+      "tripId": "2_2976",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 17:45",
+      "departure": "2014-05-26 17:45",
+      "serviceId": "2_14",
+      "tripId": "2_3252",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:48",
+      "departure": "2014-05-26 17:48",
+      "serviceId": "2_14",
+      "tripId": "2_10786",
+      "routeId": "2_0164",
+      "headsign": "164 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 17:50",
+      "departure": "2014-05-26 17:50",
+      "serviceId": "2_14",
+      "tripId": "2_2982",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 18:06",
+      "departure": "2014-05-26 18:06",
+      "serviceId": "2_14",
+      "tripId": "2_3258",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 18:07",
+      "departure": "2014-05-26 18:07",
+      "serviceId": "2_17",
+      "tripId": "2_20691",
+      "routeId": "2_0220",
+      "headsign": "220 | Acigné Timonière"
+    },
+    {
+      "arrival": "2014-05-26 18:10",
+      "departure": "2014-05-26 18:10",
+      "serviceId": "2_14",
+      "tripId": "2_2988",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 18:20",
+      "departure": "2014-05-26 18:20",
+      "serviceId": "2_17",
+      "tripId": "2_18716",
+      "routeId": "2_0200",
+      "headsign": "200 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 18:26",
+      "departure": "2014-05-26 18:26",
+      "serviceId": "2_14",
+      "tripId": "2_3264",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 18:30",
+      "departure": "2014-05-26 18:30",
+      "serviceId": "2_14",
+      "tripId": "2_2994",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 18:32",
+      "departure": "2014-05-26 18:32",
+      "serviceId": "2_14",
+      "tripId": "2_10766",
+      "routeId": "2_0164",
+      "headsign": "164 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 18:44",
+      "departure": "2014-05-26 18:44",
+      "serviceId": "2_14",
+      "tripId": "2_3270",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 18:50",
+      "departure": "2014-05-26 18:50",
+      "serviceId": "2_14",
+      "tripId": "2_3294",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 19:00",
+      "departure": "2014-05-26 19:00",
+      "serviceId": "2_14",
+      "tripId": "2_3276",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 19:07",
+      "departure": "2014-05-26 19:07",
+      "serviceId": "2_14",
+      "tripId": "2_3000",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 19:19",
+      "departure": "2014-05-26 19:19",
+      "serviceId": "2_14",
+      "tripId": "2_3282",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 19:39",
+      "departure": "2014-05-26 19:39",
+      "serviceId": "2_14",
+      "tripId": "2_3288",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 19:47",
+      "departure": "2014-05-26 19:47",
+      "serviceId": "2_14",
+      "tripId": "2_3006",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 20:10",
+      "departure": "2014-05-26 20:10",
+      "serviceId": "2_14",
+      "tripId": "2_3216",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 20:15",
+      "departure": "2014-05-26 20:15",
+      "serviceId": "2_14",
+      "tripId": "2_3012",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2014-05-26 20:47",
+      "departure": "2014-05-26 20:47",
+      "serviceId": "2_14",
+      "tripId": "2_2946",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-05-26 21:17",
+      "departure": "2014-05-26 21:17",
+      "serviceId": "2_14",
+      "tripId": "2_2952",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    }
+  ]
+}
