@@ -1,0 +1,374 @@
+{
+  "date": "2014-06-06 00:00",
+  "stop": {
+    "id": "2_3705",
+    "lat": 48.15297271,
+    "lon": -1.82975865,
+    "name": "Saint-Gilles Centre",
+    "code": 3705
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "ffffff",
+      "color": "007a76",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0152",
+      "textColor": "007A76",
+      "color": "FCE000",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Lycée V. H. Basch) \u003c\u003e Saint-Gilles",
+      "shortName": "152",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0227",
+      "textColor": "FFFFFF",
+      "color": "BCA3CE",
+      "description": "Complémentaire",
+      "longName": "Saint-Gilles (Île des Bois) \u003c\u003e Pacé (Collège Saint-Gabriel)",
+      "shortName": "227",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0228",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Saint-Gilles (Île des Bois) \u003c\u003e Le Rheu (Collège Georges Brassens)",
+      "shortName": "228",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-06-06 06:12",
+      "departure": "2014-06-06 06:12",
+      "serviceId": "2_38",
+      "tripId": "2_14326",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 06:42",
+      "departure": "2014-06-06 06:42",
+      "serviceId": "2_38",
+      "tripId": "2_4171",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 07:03",
+      "departure": "2014-06-06 07:03",
+      "serviceId": "2_38",
+      "tripId": "2_4155",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 07:18",
+      "departure": "2014-06-06 07:18",
+      "serviceId": "2_38",
+      "tripId": "2_4163",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 07:25",
+      "departure": "2014-06-06 07:25",
+      "serviceId": "2_38",
+      "tripId": "2_25023",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-06-06 07:33",
+      "departure": "2014-06-06 07:33",
+      "serviceId": "2_38",
+      "tripId": "2_14334",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 07:48",
+      "departure": "2014-06-06 07:48",
+      "serviceId": "2_38",
+      "tripId": "2_14342",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 08:00",
+      "departure": "2014-06-06 08:00",
+      "serviceId": "2_42",
+      "tripId": "2_20841",
+      "routeId": "2_0228",
+      "headsign": "228 | Le Rheu Collège G. Brassens"
+    },
+    {
+      "arrival": "2014-06-06 08:03",
+      "departure": "2014-06-06 08:03",
+      "serviceId": "2_38",
+      "tripId": "2_14350",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 08:18",
+      "departure": "2014-06-06 08:18",
+      "serviceId": "2_38",
+      "tripId": "2_14358",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 08:24",
+      "departure": "2014-06-06 08:24",
+      "serviceId": "2_38",
+      "tripId": "2_25044",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-06-06 08:33",
+      "departure": "2014-06-06 08:33",
+      "serviceId": "2_38",
+      "tripId": "2_14604",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 08:48",
+      "departure": "2014-06-06 08:48",
+      "serviceId": "2_38",
+      "tripId": "2_14366",
+      "routeId": "2_0052",
+      "headsign": "52 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-06-06 08:56",
+      "departure": "2014-06-06 08:56",
+      "serviceId": "2_42",
+      "tripId": "2_20831",
+      "routeId": "2_0228",
+      "headsign": "228 | Le Rheu Collège G. Brassens"
+    },
+    {
+      "arrival": "2014-06-06 08:56",
+      "departure": "2014-06-06 08:56",
+      "serviceId": "2_42",
+      "tripId": "2_20807",
+      "routeId": "2_0227",
+      "headsign": "227 | Pacé Collège Saint-Gabriel"
+    },
+    {
+      "arrival": "2014-06-06 09:13",
+      "departure": "2014-06-06 09:13",
+      "serviceId": "2_38",
+      "tripId": "2_14374",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 09:47",
+      "departure": "2014-06-06 09:47",
+      "serviceId": "2_38",
+      "tripId": "2_14382",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 10:27",
+      "departure": "2014-06-06 10:27",
+      "serviceId": "2_38",
+      "tripId": "2_14390",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 11:02",
+      "departure": "2014-06-06 11:02",
+      "serviceId": "2_38",
+      "tripId": "2_14398",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 11:47",
+      "departure": "2014-06-06 11:47",
+      "serviceId": "2_38",
+      "tripId": "2_14406",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 12:17",
+      "departure": "2014-06-06 12:17",
+      "serviceId": "2_38",
+      "tripId": "2_14414",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 12:52",
+      "departure": "2014-06-06 12:52",
+      "serviceId": "2_38",
+      "tripId": "2_14422",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 13:32",
+      "departure": "2014-06-06 13:32",
+      "serviceId": "2_38",
+      "tripId": "2_14430",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 14:07",
+      "departure": "2014-06-06 14:07",
+      "serviceId": "2_38",
+      "tripId": "2_14438",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 14:42",
+      "departure": "2014-06-06 14:42",
+      "serviceId": "2_38",
+      "tripId": "2_14446",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 15:22",
+      "departure": "2014-06-06 15:22",
+      "serviceId": "2_38",
+      "tripId": "2_14454",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 15:50",
+      "departure": "2014-06-06 15:50",
+      "serviceId": "2_38",
+      "tripId": "2_14566",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 16:10",
+      "departure": "2014-06-06 16:10",
+      "serviceId": "2_38",
+      "tripId": "2_14462",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 16:30",
+      "departure": "2014-06-06 16:30",
+      "serviceId": "2_38",
+      "tripId": "2_14470",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 16:50",
+      "departure": "2014-06-06 16:50",
+      "serviceId": "2_38",
+      "tripId": "2_14478",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 17:10",
+      "departure": "2014-06-06 17:10",
+      "serviceId": "2_38",
+      "tripId": "2_14486",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 17:30",
+      "departure": "2014-06-06 17:30",
+      "serviceId": "2_38",
+      "tripId": "2_14494",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 17:50",
+      "departure": "2014-06-06 17:50",
+      "serviceId": "2_38",
+      "tripId": "2_14502",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 18:11",
+      "departure": "2014-06-06 18:11",
+      "serviceId": "2_38",
+      "tripId": "2_14510",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 18:31",
+      "departure": "2014-06-06 18:31",
+      "serviceId": "2_38",
+      "tripId": "2_14518",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 18:51",
+      "departure": "2014-06-06 18:51",
+      "serviceId": "2_38",
+      "tripId": "2_14526",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 19:12",
+      "departure": "2014-06-06 19:12",
+      "serviceId": "2_38",
+      "tripId": "2_14534",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 19:32",
+      "departure": "2014-06-06 19:32",
+      "serviceId": "2_38",
+      "tripId": "2_14542",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 19:47",
+      "departure": "2014-06-06 19:47",
+      "serviceId": "2_38",
+      "tripId": "2_14550",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-06-06 20:27",
+      "departure": "2014-06-06 20:27",
+      "serviceId": "2_38",
+      "tripId": "2_14558",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    }
+  ]
+}
