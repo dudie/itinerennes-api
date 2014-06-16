@@ -1,0 +1,742 @@
+{
+  "date": "2014-06-19 00:00",
+  "stop": {
+    "id": "2_3301",
+    "lat": 48.15515021,
+    "lon": -1.57316318,
+    "name": "Landelles",
+    "code": 3301
+  },
+  "routes": [
+    {
+      "id": "2_0050",
+      "textColor": "ffffff",
+      "color": "8ea1cf",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "50",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0150",
+      "textColor": "8EA1CF",
+      "color": "FCE000",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "150",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0201",
+      "textColor": "FFFFFF",
+      "color": "E30613",
+      "description": "Complémentaire",
+      "longName": "Thorigné-Fouillard (Landelles) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "201",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0221",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Château de Vaux) \u003c\u003e Cesson-Sévigné (Lycée Saint-Etienne)",
+      "shortName": "221",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-06-19 06:15",
+      "departure": "2014-06-19 06:15",
+      "serviceId": "2_8",
+      "tripId": "2_2146",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 06:45",
+      "departure": "2014-06-19 06:45",
+      "serviceId": "2_8",
+      "tripId": "2_2151",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:00",
+      "departure": "2014-06-19 07:00",
+      "serviceId": "2_8",
+      "tripId": "2_15797",
+      "routeId": "2_0150",
+      "headsign": "150 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:05",
+      "departure": "2014-06-19 07:05",
+      "serviceId": "2_8",
+      "tripId": "2_2156",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:20",
+      "departure": "2014-06-19 07:20",
+      "serviceId": "2_8",
+      "tripId": "2_15807",
+      "routeId": "2_0150",
+      "headsign": "150 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:21",
+      "departure": "2014-06-19 07:21",
+      "serviceId": "2_8",
+      "tripId": "2_2241",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 07:25",
+      "departure": "2014-06-19 07:25",
+      "serviceId": "2_8",
+      "tripId": "2_2161",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:28",
+      "departure": "2014-06-19 07:28",
+      "serviceId": "2_10",
+      "tripId": "2_23412",
+      "routeId": "2_0201",
+      "headsign": "201 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2014-06-19 07:35",
+      "departure": "2014-06-19 07:35",
+      "serviceId": "2_8",
+      "tripId": "2_15832",
+      "routeId": "2_0150",
+      "headsign": "150 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 07:40",
+      "departure": "2014-06-19 07:40",
+      "serviceId": "2_10",
+      "tripId": "2_23415",
+      "routeId": "2_0201",
+      "headsign": "201 | Rennes Lycée Joliot-Curie"
+    },
+    {
+      "arrival": "2014-06-19 07:42",
+      "departure": "2014-06-19 07:42",
+      "serviceId": "2_8",
+      "tripId": "2_2461",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 07:45",
+      "departure": "2014-06-19 07:45",
+      "serviceId": "2_8",
+      "tripId": "2_2166",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 08:00",
+      "departure": "2014-06-19 08:00",
+      "serviceId": "2_8",
+      "tripId": "2_15802",
+      "routeId": "2_0150",
+      "headsign": "150 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 08:06",
+      "departure": "2014-06-19 08:06",
+      "serviceId": "2_10",
+      "tripId": "2_23456",
+      "routeId": "2_0221",
+      "headsign": "221 | Lycée Saint-Etienne"
+    },
+    {
+      "arrival": "2014-06-19 08:10",
+      "departure": "2014-06-19 08:10",
+      "serviceId": "2_8",
+      "tripId": "2_2246",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné via Placis Vert"
+    },
+    {
+      "arrival": "2014-06-19 08:15",
+      "departure": "2014-06-19 08:15",
+      "serviceId": "2_8",
+      "tripId": "2_2171",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 08:20",
+      "departure": "2014-06-19 08:20",
+      "serviceId": "2_8",
+      "tripId": "2_15812",
+      "routeId": "2_0150",
+      "headsign": "150 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 08:22",
+      "departure": "2014-06-19 08:22",
+      "serviceId": "2_10",
+      "tripId": "2_23417",
+      "routeId": "2_0201",
+      "headsign": "201 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2014-06-19 08:23",
+      "departure": "2014-06-19 08:23",
+      "serviceId": "2_8",
+      "tripId": "2_2251",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 08:30",
+      "departure": "2014-06-19 08:30",
+      "serviceId": "2_8",
+      "tripId": "2_2176",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 08:43",
+      "departure": "2014-06-19 08:43",
+      "serviceId": "2_8",
+      "tripId": "2_2256",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 08:50",
+      "departure": "2014-06-19 08:50",
+      "serviceId": "2_8",
+      "tripId": "2_2181",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 09:03",
+      "departure": "2014-06-19 09:03",
+      "serviceId": "2_8",
+      "tripId": "2_2261",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 09:08",
+      "departure": "2014-06-19 09:08",
+      "serviceId": "2_10",
+      "tripId": "2_23460",
+      "routeId": "2_0221",
+      "headsign": "221 | Lycée Saint-Etienne"
+    },
+    {
+      "arrival": "2014-06-19 09:10",
+      "departure": "2014-06-19 09:10",
+      "serviceId": "2_8",
+      "tripId": "2_2186",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 09:32",
+      "departure": "2014-06-19 09:32",
+      "serviceId": "2_8",
+      "tripId": "2_2266",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 09:40",
+      "departure": "2014-06-19 09:40",
+      "serviceId": "2_8",
+      "tripId": "2_2191",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 10:07",
+      "departure": "2014-06-19 10:07",
+      "serviceId": "2_8",
+      "tripId": "2_2271",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 10:15",
+      "departure": "2014-06-19 10:15",
+      "serviceId": "2_8",
+      "tripId": "2_2196",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 10:52",
+      "departure": "2014-06-19 10:52",
+      "serviceId": "2_8",
+      "tripId": "2_2276",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 10:57",
+      "departure": "2014-06-19 10:57",
+      "serviceId": "2_8",
+      "tripId": "2_2201",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 11:27",
+      "departure": "2014-06-19 11:27",
+      "serviceId": "2_8",
+      "tripId": "2_2281",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 11:32",
+      "departure": "2014-06-19 11:32",
+      "serviceId": "2_8",
+      "tripId": "2_2206",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 12:08",
+      "departure": "2014-06-19 12:08",
+      "serviceId": "2_8",
+      "tripId": "2_2286",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 12:12",
+      "departure": "2014-06-19 12:12",
+      "serviceId": "2_8",
+      "tripId": "2_2211",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 12:43",
+      "departure": "2014-06-19 12:43",
+      "serviceId": "2_8",
+      "tripId": "2_2291",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 12:50",
+      "departure": "2014-06-19 12:50",
+      "serviceId": "2_8",
+      "tripId": "2_2216",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 13:03",
+      "departure": "2014-06-19 13:03",
+      "serviceId": "2_8",
+      "tripId": "2_2296",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 13:10",
+      "departure": "2014-06-19 13:10",
+      "serviceId": "2_8",
+      "tripId": "2_2221",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 13:43",
+      "departure": "2014-06-19 13:43",
+      "serviceId": "2_8",
+      "tripId": "2_2301",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 13:50",
+      "departure": "2014-06-19 13:50",
+      "serviceId": "2_8",
+      "tripId": "2_2226",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 14:23",
+      "departure": "2014-06-19 14:23",
+      "serviceId": "2_8",
+      "tripId": "2_2306",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 14:30",
+      "departure": "2014-06-19 14:30",
+      "serviceId": "2_8",
+      "tripId": "2_2231",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 15:03",
+      "departure": "2014-06-19 15:03",
+      "serviceId": "2_8",
+      "tripId": "2_2311",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 15:10",
+      "departure": "2014-06-19 15:10",
+      "serviceId": "2_8",
+      "tripId": "2_2236",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 15:34",
+      "departure": "2014-06-19 15:34",
+      "serviceId": "2_8",
+      "tripId": "2_2466",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 15:40",
+      "departure": "2014-06-19 15:40",
+      "serviceId": "2_8",
+      "tripId": "2_2396",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 15:54",
+      "departure": "2014-06-19 15:54",
+      "serviceId": "2_8",
+      "tripId": "2_2316",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 16:00",
+      "departure": "2014-06-19 16:00",
+      "serviceId": "2_8",
+      "tripId": "2_2401",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 16:07",
+      "departure": "2014-06-19 16:07",
+      "serviceId": "2_10",
+      "tripId": "2_23468",
+      "routeId": "2_0221",
+      "headsign": "221 | Cesson-Sévigné Portail"
+    },
+    {
+      "arrival": "2014-06-19 16:14",
+      "departure": "2014-06-19 16:14",
+      "serviceId": "2_8",
+      "tripId": "2_2321",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 16:25",
+      "departure": "2014-06-19 16:25",
+      "serviceId": "2_8",
+      "tripId": "2_2406",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes via Placis Vert"
+    },
+    {
+      "arrival": "2014-06-19 16:32",
+      "departure": "2014-06-19 16:32",
+      "serviceId": "2_10",
+      "tripId": "2_23422",
+      "routeId": "2_0201",
+      "headsign": "201 | Cesson-Sévigné Thorigné"
+    },
+    {
+      "arrival": "2014-06-19 16:34",
+      "departure": "2014-06-19 16:34",
+      "serviceId": "2_8",
+      "tripId": "2_2326",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 16:40",
+      "departure": "2014-06-19 16:40",
+      "serviceId": "2_8",
+      "tripId": "2_15817",
+      "routeId": "2_0150",
+      "headsign": "150 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 16:40",
+      "departure": "2014-06-19 16:40",
+      "serviceId": "2_8",
+      "tripId": "2_2411",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 16:54",
+      "departure": "2014-06-19 16:54",
+      "serviceId": "2_8",
+      "tripId": "2_2331",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 16:55",
+      "departure": "2014-06-19 16:55",
+      "serviceId": "2_8",
+      "tripId": "2_2416",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 17:00",
+      "departure": "2014-06-19 17:00",
+      "serviceId": "2_8",
+      "tripId": "2_15837",
+      "routeId": "2_0150",
+      "headsign": "150 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 17:11",
+      "departure": "2014-06-19 17:11",
+      "serviceId": "2_10",
+      "tripId": "2_23472",
+      "routeId": "2_0221",
+      "headsign": "221 | Cesson-Sévigné Château de Vaux"
+    },
+    {
+      "arrival": "2014-06-19 17:15",
+      "departure": "2014-06-19 17:15",
+      "serviceId": "2_8",
+      "tripId": "2_2421",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 17:16",
+      "departure": "2014-06-19 17:16",
+      "serviceId": "2_8",
+      "tripId": "2_2336",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 17:29",
+      "departure": "2014-06-19 17:29",
+      "serviceId": "2_10",
+      "tripId": "2_23426",
+      "routeId": "2_0201",
+      "headsign": "201 | Cesson-Sévigné Thorigné"
+    },
+    {
+      "arrival": "2014-06-19 17:35",
+      "departure": "2014-06-19 17:35",
+      "serviceId": "2_8",
+      "tripId": "2_2426",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 17:37",
+      "departure": "2014-06-19 17:37",
+      "serviceId": "2_8",
+      "tripId": "2_2341",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 17:39",
+      "departure": "2014-06-19 17:39",
+      "serviceId": "2_10",
+      "tripId": "2_23424",
+      "routeId": "2_0201",
+      "headsign": "201 | Cesson-Sévigné Thorigné"
+    },
+    {
+      "arrival": "2014-06-19 17:43",
+      "departure": "2014-06-19 17:43",
+      "serviceId": "2_8",
+      "tripId": "2_15822",
+      "routeId": "2_0150",
+      "headsign": "150 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 17:55",
+      "departure": "2014-06-19 17:55",
+      "serviceId": "2_8",
+      "tripId": "2_2431",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 17:57",
+      "departure": "2014-06-19 17:57",
+      "serviceId": "2_8",
+      "tripId": "2_2346",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 18:03",
+      "departure": "2014-06-19 18:03",
+      "serviceId": "2_8",
+      "tripId": "2_15842",
+      "routeId": "2_0150",
+      "headsign": "150 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 18:15",
+      "departure": "2014-06-19 18:15",
+      "serviceId": "2_8",
+      "tripId": "2_2436",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 18:17",
+      "departure": "2014-06-19 18:17",
+      "serviceId": "2_8",
+      "tripId": "2_2351",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 18:19",
+      "departure": "2014-06-19 18:19",
+      "serviceId": "2_10",
+      "tripId": "2_23428",
+      "routeId": "2_0201",
+      "headsign": "201 | Cesson-Sévigné Thorigné"
+    },
+    {
+      "arrival": "2014-06-19 18:35",
+      "departure": "2014-06-19 18:35",
+      "serviceId": "2_8",
+      "tripId": "2_2441",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 18:37",
+      "departure": "2014-06-19 18:37",
+      "serviceId": "2_8",
+      "tripId": "2_2356",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 18:43",
+      "departure": "2014-06-19 18:43",
+      "serviceId": "2_8",
+      "tripId": "2_15827",
+      "routeId": "2_0150",
+      "headsign": "150 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 18:56",
+      "departure": "2014-06-19 18:56",
+      "serviceId": "2_8",
+      "tripId": "2_2361",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 19:02",
+      "departure": "2014-06-19 19:02",
+      "serviceId": "2_8",
+      "tripId": "2_2446",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 19:13",
+      "departure": "2014-06-19 19:13",
+      "serviceId": "2_8",
+      "tripId": "2_2366",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 19:33",
+      "departure": "2014-06-19 19:33",
+      "serviceId": "2_8",
+      "tripId": "2_2371",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 19:40",
+      "departure": "2014-06-19 19:40",
+      "serviceId": "2_8",
+      "tripId": "2_2451",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 19:53",
+      "departure": "2014-06-19 19:53",
+      "serviceId": "2_8",
+      "tripId": "2_2376",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 20:12",
+      "departure": "2014-06-19 20:12",
+      "serviceId": "2_8",
+      "tripId": "2_2381",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 20:15",
+      "departure": "2014-06-19 20:15",
+      "serviceId": "2_8",
+      "tripId": "2_2456",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-06-19 20:46",
+      "departure": "2014-06-19 20:46",
+      "serviceId": "2_8",
+      "tripId": "2_2386",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-06-19 21:20",
+      "departure": "2014-06-19 21:20",
+      "serviceId": "2_8",
+      "tripId": "2_2391",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    }
+  ]
+}

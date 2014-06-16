@@ -1,135 +1,256 @@
 {
-  "headsign": "68 | Gévezé",
+  "headsign": "81 | Rennes Villejean-Université",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1529",
-        "lat": 48.12118964,
-        "lon": -1.70297204,
+        "id": "2_6000",
+        "lat": 48.218908,
+        "lon": -1.893833,
+        "name": "Romillé Collège",
+        "code": 6000
+      },
+      "arrival": 55500,
+      "departure": 55500
+    },
+    {
+      "stop": {
+        "id": "2_6002",
+        "lat": 48.215591,
+        "lon": -1.891703,
+        "name": "Frères Aubert",
+        "code": 6002
+      },
+      "arrival": 55560,
+      "departure": 55560
+    },
+    {
+      "stop": {
+        "id": "2_6004",
+        "lat": 48.214147,
+        "lon": -1.892143,
+        "name": "Romillé Mairie",
+        "code": 6004
+      },
+      "arrival": 55680,
+      "departure": 55680
+    },
+    {
+      "stop": {
+        "id": "2_6006",
+        "lat": 48.212913,
+        "lon": -1.891338,
+        "name": "Mettrie Templiers",
+        "code": 6006
+      },
+      "arrival": 55740,
+      "departure": 55740
+    },
+    {
+      "stop": {
+        "id": "2_4452",
+        "lat": 48.18138007,
+        "lon": -1.85347313,
+        "name": "Croix Simon",
+        "code": 4452
+      },
+      "arrival": 56040,
+      "departure": 56040
+    },
+    {
+      "stop": {
+        "id": "2_4460",
+        "lat": 48.178213,
+        "lon": -1.853036,
+        "name": "La Cour aux Pages",
+        "code": 4460
+      },
+      "arrival": 56100,
+      "departure": 56100
+    },
+    {
+      "stop": {
+        "id": "2_4453",
+        "lat": 48.1760181,
+        "lon": -1.85254844,
+        "name": "Clayes Centre",
+        "code": 4453
+      },
+      "arrival": 56160,
+      "departure": 56160
+    },
+    {
+      "stop": {
+        "id": "2_3732",
+        "lat": 48.1493297,
+        "lon": -1.83902413,
+        "name": "Ile des Bois",
+        "code": 3732
+      },
+      "arrival": 56520,
+      "departure": 56520
+    },
+    {
+      "stop": {
+        "id": "2_3717",
+        "lat": 48.15398549,
+        "lon": -1.83760002,
+        "name": "Maison Neuve",
+        "code": 3717
+      },
+      "arrival": 56580,
+      "departure": 56580
+    },
+    {
+      "stop": {
+        "id": "2_3715",
+        "lat": 48.15374478,
+        "lon": -1.83403418,
+        "name": "Clos des Cerisiers",
+        "code": 3715
+      },
+      "arrival": 56640,
+      "departure": 56640
+    },
+    {
+      "stop": {
+        "id": "2_3705",
+        "lat": 48.15297271,
+        "lon": -1.82975865,
+        "name": "Saint-Gilles Centre",
+        "code": 3705
+      },
+      "arrival": 56640,
+      "departure": 56640
+    },
+    {
+      "stop": {
+        "id": "2_3707",
+        "lat": 48.15070786,
+        "lon": -1.82521706,
+        "name": "Pont aux Moines",
+        "code": 3707
+      },
+      "arrival": 56760,
+      "departure": 56760
+    },
+    {
+      "stop": {
+        "id": "2_3708",
+        "lat": 48.15283954,
+        "lon": -1.82071011,
+        "name": "Vigne",
+        "code": 3708
+      },
+      "arrival": 56820,
+      "departure": 56820
+    },
+    {
+      "stop": {
+        "id": "2_3709",
+        "lat": 48.15291812,
+        "lon": -1.80907719,
+        "name": "Fouaye",
+        "code": 3709
+      },
+      "arrival": 56940,
+      "departure": 56940
+    },
+    {
+      "stop": {
+        "id": "2_3102",
+        "lat": 48.15130193,
+        "lon": -1.79231921,
+        "name": "Pie Neuve",
+        "code": 3102
+      },
+      "arrival": 57060,
+      "departure": 57060
+    },
+    {
+      "stop": {
+        "id": "2_3103",
+        "lat": 48.14925877,
+        "lon": -1.78891407,
+        "name": "Docteur Léon",
+        "code": 3103
+      },
+      "arrival": 57120,
+      "departure": 57120
+    },
+    {
+      "stop": {
+        "id": "2_3104",
+        "lat": 48.14851135,
+        "lon": -1.78489927,
+        "name": "Touche Milon",
+        "code": 3104
+      },
+      "arrival": 57120,
+      "departure": 57120
+    },
+    {
+      "stop": {
+        "id": "2_3119",
+        "lat": 48.14754795,
+        "lon": -1.78109404,
+        "name": "Pinault",
+        "code": 3119
+      },
+      "arrival": 57180,
+      "departure": 57180
+    },
+    {
+      "stop": {
+        "id": "2_3134",
+        "lat": 48.14165528,
+        "lon": -1.77056625,
+        "name": "Nominoë",
+        "code": 3134
+      },
+      "arrival": 57300,
+      "departure": 57300
+    },
+    {
+      "stop": {
+        "id": "2_1517",
+        "lat": 48.11854026,
+        "lon": -1.71363649,
+        "name": "Berry",
+        "code": 1517
+      },
+      "arrival": 57660,
+      "departure": 57660
+    },
+    {
+      "stop": {
+        "id": "2_1520",
+        "lat": 48.12050245,
+        "lon": -1.70973991,
+        "name": "Bourbonnais",
+        "code": 1520
+      },
+      "arrival": 57780,
+      "departure": 57780
+    },
+    {
+      "stop": {
+        "id": "2_1497",
+        "lat": 48.12102411,
+        "lon": -1.70300103,
         "name": "Villejean-Université",
-        "code": 1529
+        "code": 1497
       },
-      "arrival": 57600,
-      "departure": 57600
-    },
-    {
-      "stop": {
-        "id": "2_1495",
-        "lat": 48.12663856,
-        "lon": -1.69309309,
-        "name": "Lycée Basch",
-        "code": 1495
-      },
-      "arrival": 57840,
-      "departure": 57840
-    },
-    {
-      "stop": {
-        "id": "2_1543",
-        "lat": 48.13134643,
-        "lon": -1.69183512,
-        "name": "Léonard",
-        "code": 1543
-      },
-      "arrival": 57960,
-      "departure": 57960
-    },
-    {
-      "stop": {
-        "id": "2_2830",
-        "lat": 48.13432722,
-        "lon": -1.69446334,
-        "name": "Grand Quartier",
-        "code": 2830
-      },
-      "arrival": 58020,
-      "departure": 58020
-    },
-    {
-      "stop": {
-        "id": "2_3516",
-        "lat": 48.15430662,
-        "lon": -1.70724683,
-        "name": "Décoparc",
-        "code": 3516
-      },
-      "arrival": 58260,
-      "departure": 58260
-    },
-    {
-      "stop": {
-        "id": "2_2837",
-        "lat": 48.17692758,
-        "lon": -1.7220151,
-        "name": "La Brosse",
-        "code": 2837
-      },
-      "arrival": 58440,
-      "departure": 58440
-    },
-    {
-      "stop": {
-        "id": "2_4503",
-        "lat": 48.21863623,
-        "lon": -1.78399508,
-        "name": "Flume",
-        "code": 4503
-      },
-      "arrival": 58980,
-      "departure": 58980
-    },
-    {
-      "stop": {
-        "id": "2_4505",
-        "lat": 48.22096598,
-        "lon": -1.78811849,
-        "name": "Gévezé Mairie",
-        "code": 4505
-      },
-      "arrival": 58980,
-      "departure": 58980
-    },
-    {
-      "stop": {
-        "id": "2_4511",
-        "lat": 48.22397777,
-        "lon": -1.79377074,
-        "name": "Prés Verts",
-        "code": 4511
-      },
-      "arrival": 59100,
-      "departure": 59100
-    },
-    {
-      "stop": {
-        "id": "2_4509",
-        "lat": 48.2246446,
-        "lon": -1.80044931,
-        "name": "Coualeuc",
-        "code": 4509
-      },
-      "arrival": 59160,
-      "departure": 59160
-    },
-    {
-      "stop": {
-        "id": "2_4507",
-        "lat": 48.22178273,
-        "lon": -1.80232719,
-        "name": "Cheval Blanc",
-        "code": 4507
-      },
-      "arrival": 59280,
-      "departure": 59280
+      "arrival": 57900,
+      "departure": 57900
     }
   ],
   "route": {
-    "id": "2_0068",
-    "textColor": "201d21",
-    "color": "d6c800",
+    "id": "2_0081",
+    "textColor": "FFFFFF",
+    "color": "0083CD",
     "description": "Métropolitaine",
-    "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
-    "shortName": "68",
+    "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+    "shortName": "81",
     "type": 3,
     "agencyId": "2"
   }
