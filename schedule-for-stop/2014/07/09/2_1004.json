@@ -1,0 +1,852 @@
+{
+  "date": "2014-07-09 00:00",
+  "stop": {
+    "id": "2_1004",
+    "lat": 48.12528847,
+    "lon": -1.64253775,
+    "name": "Donzelot",
+    "code": 1004
+  },
+  "routes": [
+    {
+      "id": "2_0001",
+      "textColor": "FFFFFF",
+      "color": "90C01B",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Champs Blancs) \u003c\u003e Chantepie (Rosa Parks)",
+      "shortName": "1",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0050",
+      "textColor": "ffffff",
+      "color": "8ea1cf",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "50",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-07-09 04:26",
+      "departure": "2014-07-09 04:26",
+      "serviceId": "2_8",
+      "tripId": "2_9250",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 3"
+    },
+    {
+      "arrival": "2014-07-09 05:30",
+      "departure": "2014-07-09 05:30",
+      "serviceId": "2_6",
+      "tripId": "2_2",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 06:10",
+      "departure": "2014-07-09 06:10",
+      "serviceId": "2_6",
+      "tripId": "2_4",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 06:29",
+      "departure": "2014-07-09 06:29",
+      "serviceId": "2_6",
+      "tripId": "2_274",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 06:34",
+      "departure": "2014-07-09 06:34",
+      "serviceId": "2_6",
+      "tripId": "2_1706",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 06:55",
+      "departure": "2014-07-09 06:55",
+      "serviceId": "2_6",
+      "tripId": "2_6",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 07:04",
+      "departure": "2014-07-09 07:04",
+      "serviceId": "2_6",
+      "tripId": "2_1708",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 07:07",
+      "departure": "2014-07-09 07:07",
+      "serviceId": "2_6",
+      "tripId": "2_8",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 07:19",
+      "departure": "2014-07-09 07:19",
+      "serviceId": "2_6",
+      "tripId": "2_10",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 07:20",
+      "departure": "2014-07-09 07:20",
+      "serviceId": "2_6",
+      "tripId": "2_2326",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 07:30",
+      "departure": "2014-07-09 07:30",
+      "serviceId": "2_6",
+      "tripId": "2_12",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 07:42",
+      "departure": "2014-07-09 07:42",
+      "serviceId": "2_6",
+      "tripId": "2_14",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 07:45",
+      "departure": "2014-07-09 07:45",
+      "serviceId": "2_6",
+      "tripId": "2_1710",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 07:55",
+      "departure": "2014-07-09 07:55",
+      "serviceId": "2_6",
+      "tripId": "2_16",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 08:07",
+      "departure": "2014-07-09 08:07",
+      "serviceId": "2_6",
+      "tripId": "2_18",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 08:10",
+      "departure": "2014-07-09 08:10",
+      "serviceId": "2_6",
+      "tripId": "2_1712",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 08:19",
+      "departure": "2014-07-09 08:19",
+      "serviceId": "2_6",
+      "tripId": "2_20",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 08:31",
+      "departure": "2014-07-09 08:31",
+      "serviceId": "2_6",
+      "tripId": "2_22",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 08:36",
+      "departure": "2014-07-09 08:36",
+      "serviceId": "2_6",
+      "tripId": "2_1714",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 08:44",
+      "departure": "2014-07-09 08:44",
+      "serviceId": "2_6",
+      "tripId": "2_24",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 08:57",
+      "departure": "2014-07-09 08:57",
+      "serviceId": "2_6",
+      "tripId": "2_26",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 09:06",
+      "departure": "2014-07-09 09:06",
+      "serviceId": "2_6",
+      "tripId": "2_1716",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 09:10",
+      "departure": "2014-07-09 09:10",
+      "serviceId": "2_6",
+      "tripId": "2_28",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 09:23",
+      "departure": "2014-07-09 09:23",
+      "serviceId": "2_6",
+      "tripId": "2_30",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 09:26",
+      "departure": "2014-07-09 09:26",
+      "serviceId": "2_6",
+      "tripId": "2_1718",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 09:38",
+      "departure": "2014-07-09 09:38",
+      "serviceId": "2_6",
+      "tripId": "2_32",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 09:53",
+      "departure": "2014-07-09 09:53",
+      "serviceId": "2_6",
+      "tripId": "2_34",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 10:00",
+      "departure": "2014-07-09 10:00",
+      "serviceId": "2_6",
+      "tripId": "2_1720",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 10:08",
+      "departure": "2014-07-09 10:08",
+      "serviceId": "2_6",
+      "tripId": "2_36",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 10:23",
+      "departure": "2014-07-09 10:23",
+      "serviceId": "2_6",
+      "tripId": "2_38",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 10:37",
+      "departure": "2014-07-09 10:37",
+      "serviceId": "2_6",
+      "tripId": "2_1722",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 10:38",
+      "departure": "2014-07-09 10:38",
+      "serviceId": "2_6",
+      "tripId": "2_40",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 10:53",
+      "departure": "2014-07-09 10:53",
+      "serviceId": "2_6",
+      "tripId": "2_42",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 11:08",
+      "departure": "2014-07-09 11:08",
+      "serviceId": "2_6",
+      "tripId": "2_44",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 11:17",
+      "departure": "2014-07-09 11:17",
+      "serviceId": "2_6",
+      "tripId": "2_1724",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 11:23",
+      "departure": "2014-07-09 11:23",
+      "serviceId": "2_6",
+      "tripId": "2_46",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 11:38",
+      "departure": "2014-07-09 11:38",
+      "serviceId": "2_6",
+      "tripId": "2_48",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 11:52",
+      "departure": "2014-07-09 11:52",
+      "serviceId": "2_6",
+      "tripId": "2_1726",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 11:53",
+      "departure": "2014-07-09 11:53",
+      "serviceId": "2_6",
+      "tripId": "2_50",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 12:08",
+      "departure": "2014-07-09 12:08",
+      "serviceId": "2_6",
+      "tripId": "2_52",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 12:23",
+      "departure": "2014-07-09 12:23",
+      "serviceId": "2_6",
+      "tripId": "2_54",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 12:32",
+      "departure": "2014-07-09 12:32",
+      "serviceId": "2_6",
+      "tripId": "2_1728",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 12:38",
+      "departure": "2014-07-09 12:38",
+      "serviceId": "2_6",
+      "tripId": "2_56",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 12:53",
+      "departure": "2014-07-09 12:53",
+      "serviceId": "2_6",
+      "tripId": "2_58",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 13:07",
+      "departure": "2014-07-09 13:07",
+      "serviceId": "2_6",
+      "tripId": "2_1730",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 13:08",
+      "departure": "2014-07-09 13:08",
+      "serviceId": "2_6",
+      "tripId": "2_60",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 13:23",
+      "departure": "2014-07-09 13:23",
+      "serviceId": "2_6",
+      "tripId": "2_196",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 13:32",
+      "departure": "2014-07-09 13:32",
+      "serviceId": "2_6",
+      "tripId": "2_1732",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 13:38",
+      "departure": "2014-07-09 13:38",
+      "serviceId": "2_6",
+      "tripId": "2_198",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 13:53",
+      "departure": "2014-07-09 13:53",
+      "serviceId": "2_6",
+      "tripId": "2_200",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 14:08",
+      "departure": "2014-07-09 14:08",
+      "serviceId": "2_6",
+      "tripId": "2_1734",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 14:08",
+      "departure": "2014-07-09 14:08",
+      "serviceId": "2_6",
+      "tripId": "2_202",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 14:22",
+      "departure": "2014-07-09 14:22",
+      "serviceId": "2_6",
+      "tripId": "2_204",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 14:34",
+      "departure": "2014-07-09 14:34",
+      "serviceId": "2_6",
+      "tripId": "2_206",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 14:46",
+      "departure": "2014-07-09 14:46",
+      "serviceId": "2_6",
+      "tripId": "2_208",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 14:48",
+      "departure": "2014-07-09 14:48",
+      "serviceId": "2_6",
+      "tripId": "2_1736",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 14:58",
+      "departure": "2014-07-09 14:58",
+      "serviceId": "2_6",
+      "tripId": "2_210",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 15:10",
+      "departure": "2014-07-09 15:10",
+      "serviceId": "2_6",
+      "tripId": "2_212",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 15:22",
+      "departure": "2014-07-09 15:22",
+      "serviceId": "2_6",
+      "tripId": "2_214",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 15:27",
+      "departure": "2014-07-09 15:27",
+      "serviceId": "2_6",
+      "tripId": "2_1738",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 15:34",
+      "departure": "2014-07-09 15:34",
+      "serviceId": "2_6",
+      "tripId": "2_216",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 15:46",
+      "departure": "2014-07-09 15:46",
+      "serviceId": "2_6",
+      "tripId": "2_218",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 15:58",
+      "departure": "2014-07-09 15:58",
+      "serviceId": "2_6",
+      "tripId": "2_220",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 16:10",
+      "departure": "2014-07-09 16:10",
+      "serviceId": "2_6",
+      "tripId": "2_1740",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 16:10",
+      "departure": "2014-07-09 16:10",
+      "serviceId": "2_6",
+      "tripId": "2_222",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 16:22",
+      "departure": "2014-07-09 16:22",
+      "serviceId": "2_6",
+      "tripId": "2_224",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 16:33",
+      "departure": "2014-07-09 16:33",
+      "serviceId": "2_6",
+      "tripId": "2_1786",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 16:34",
+      "departure": "2014-07-09 16:34",
+      "serviceId": "2_6",
+      "tripId": "2_226",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 16:46",
+      "departure": "2014-07-09 16:46",
+      "serviceId": "2_6",
+      "tripId": "2_228",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 16:54",
+      "departure": "2014-07-09 16:54",
+      "serviceId": "2_6",
+      "tripId": "2_1742",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes via Placis Vert"
+    },
+    {
+      "arrival": "2014-07-09 16:58",
+      "departure": "2014-07-09 16:58",
+      "serviceId": "2_6",
+      "tripId": "2_230",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 17:08",
+      "departure": "2014-07-09 17:08",
+      "serviceId": "2_6",
+      "tripId": "2_1818",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 17:10",
+      "departure": "2014-07-09 17:10",
+      "serviceId": "2_6",
+      "tripId": "2_232",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 17:23",
+      "departure": "2014-07-09 17:23",
+      "serviceId": "2_6",
+      "tripId": "2_234",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 17:33",
+      "departure": "2014-07-09 17:33",
+      "serviceId": "2_6",
+      "tripId": "2_1820",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 17:35",
+      "departure": "2014-07-09 17:35",
+      "serviceId": "2_6",
+      "tripId": "2_236",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 17:48",
+      "departure": "2014-07-09 17:48",
+      "serviceId": "2_6",
+      "tripId": "2_238",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 17:58",
+      "departure": "2014-07-09 17:58",
+      "serviceId": "2_6",
+      "tripId": "2_1782",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 18:01",
+      "departure": "2014-07-09 18:01",
+      "serviceId": "2_6",
+      "tripId": "2_240",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 18:14",
+      "departure": "2014-07-09 18:14",
+      "serviceId": "2_6",
+      "tripId": "2_242",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 18:23",
+      "departure": "2014-07-09 18:23",
+      "serviceId": "2_6",
+      "tripId": "2_1794",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 18:26",
+      "departure": "2014-07-09 18:26",
+      "serviceId": "2_6",
+      "tripId": "2_244",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 18:39",
+      "departure": "2014-07-09 18:39",
+      "serviceId": "2_6",
+      "tripId": "2_246",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 18:48",
+      "departure": "2014-07-09 18:48",
+      "serviceId": "2_6",
+      "tripId": "2_1788",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 18:52",
+      "departure": "2014-07-09 18:52",
+      "serviceId": "2_6",
+      "tripId": "2_248",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 19:07",
+      "departure": "2014-07-09 19:07",
+      "serviceId": "2_6",
+      "tripId": "2_250",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 19:12",
+      "departure": "2014-07-09 19:12",
+      "serviceId": "2_6",
+      "tripId": "2_1790",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 19:27",
+      "departure": "2014-07-09 19:27",
+      "serviceId": "2_6",
+      "tripId": "2_252",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 19:36",
+      "departure": "2014-07-09 19:36",
+      "serviceId": "2_6",
+      "tripId": "2_1792",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 19:47",
+      "departure": "2014-07-09 19:47",
+      "serviceId": "2_6",
+      "tripId": "2_254",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 20:01",
+      "departure": "2014-07-09 20:01",
+      "serviceId": "2_6",
+      "tripId": "2_1784",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 20:07",
+      "departure": "2014-07-09 20:07",
+      "serviceId": "2_6",
+      "tripId": "2_256",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 20:27",
+      "departure": "2014-07-09 20:27",
+      "serviceId": "2_6",
+      "tripId": "2_258",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 20:33",
+      "departure": "2014-07-09 20:33",
+      "serviceId": "2_6",
+      "tripId": "2_1744",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-09 20:47",
+      "departure": "2014-07-09 20:47",
+      "serviceId": "2_6",
+      "tripId": "2_260",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 21:22",
+      "departure": "2014-07-09 21:22",
+      "serviceId": "2_6",
+      "tripId": "2_262",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 21:57",
+      "departure": "2014-07-09 21:57",
+      "serviceId": "2_6",
+      "tripId": "2_264",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 22:37",
+      "departure": "2014-07-09 22:37",
+      "serviceId": "2_6",
+      "tripId": "2_266",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 23:12",
+      "departure": "2014-07-09 23:12",
+      "serviceId": "2_6",
+      "tripId": "2_268",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2014-07-09 23:47",
+      "departure": "2014-07-09 23:47",
+      "serviceId": "2_6",
+      "tripId": "2_270",
+      "routeId": "2_0001",
+      "headsign": "1 | Rennes République"
+    },
+    {
+      "arrival": "2014-07-10 00:17",
+      "departure": "2014-07-10 00:17",
+      "serviceId": "2_6",
+      "tripId": "2_272",
+      "routeId": "2_0001",
+      "headsign": "1 | Chantepie Rosa Parks"
+    }
+  ]
+}

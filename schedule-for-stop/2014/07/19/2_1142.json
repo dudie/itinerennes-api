@@ -1,0 +1,842 @@
+{
+  "date": "2014-07-19 00:00",
+  "stop": {
+    "id": "2_1142",
+    "lat": 48.10133802,
+    "lon": -1.67625716,
+    "name": "Gare Sud Féval",
+    "code": 1142
+  },
+  "routes": [
+    {
+      "id": "2_0003",
+      "textColor": "FFFFFF",
+      "color": "00843A",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Henri Fréville",
+      "shortName": "3",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0008",
+      "textColor": "FFFFFF",
+      "color": "B8639F",
+      "description": "Majeure",
+      "longName": "Saint-Grégoire \u003c\u003e Rennes (La Poterie)",
+      "shortName": "8",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-07-19 06:17",
+      "departure": "2014-07-19 06:17",
+      "serviceId": "2_3",
+      "tripId": "2_7309",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 06:18",
+      "departure": "2014-07-19 06:18",
+      "serviceId": "2_3",
+      "tripId": "2_7718",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 06:55",
+      "departure": "2014-07-19 06:55",
+      "serviceId": "2_3",
+      "tripId": "2_7670",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 06:57",
+      "departure": "2014-07-19 06:57",
+      "serviceId": "2_3",
+      "tripId": "2_7308",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 07:17",
+      "departure": "2014-07-19 07:17",
+      "serviceId": "2_3",
+      "tripId": "2_7290",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 07:25",
+      "departure": "2014-07-19 07:25",
+      "serviceId": "2_3",
+      "tripId": "2_7640",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 07:37",
+      "departure": "2014-07-19 07:37",
+      "serviceId": "2_3",
+      "tripId": "2_7292",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 07:53",
+      "departure": "2014-07-19 07:53",
+      "serviceId": "2_3",
+      "tripId": "2_7658",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 07:57",
+      "departure": "2014-07-19 07:57",
+      "serviceId": "2_3",
+      "tripId": "2_7293",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 08:17",
+      "departure": "2014-07-19 08:17",
+      "serviceId": "2_3",
+      "tripId": "2_7294",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 08:24",
+      "departure": "2014-07-19 08:24",
+      "serviceId": "2_3",
+      "tripId": "2_7661",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 08:38",
+      "departure": "2014-07-19 08:38",
+      "serviceId": "2_3",
+      "tripId": "2_7321",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 08:54",
+      "departure": "2014-07-19 08:54",
+      "serviceId": "2_3",
+      "tripId": "2_7648",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 08:58",
+      "departure": "2014-07-19 08:58",
+      "serviceId": "2_3",
+      "tripId": "2_7322",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 09:12",
+      "departure": "2014-07-19 09:12",
+      "serviceId": "2_3",
+      "tripId": "2_7717",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 09:19",
+      "departure": "2014-07-19 09:19",
+      "serviceId": "2_3",
+      "tripId": "2_7323",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 09:32",
+      "departure": "2014-07-19 09:32",
+      "serviceId": "2_3",
+      "tripId": "2_7641",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 09:39",
+      "departure": "2014-07-19 09:39",
+      "serviceId": "2_3",
+      "tripId": "2_7324",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 09:52",
+      "departure": "2014-07-19 09:52",
+      "serviceId": "2_3",
+      "tripId": "2_7644",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 09:59",
+      "departure": "2014-07-19 09:59",
+      "serviceId": "2_3",
+      "tripId": "2_7325",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 10:12",
+      "departure": "2014-07-19 10:12",
+      "serviceId": "2_3",
+      "tripId": "2_7677",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 10:14",
+      "departure": "2014-07-19 10:14",
+      "serviceId": "2_3",
+      "tripId": "2_7326",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 10:29",
+      "departure": "2014-07-19 10:29",
+      "serviceId": "2_3",
+      "tripId": "2_7327",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 10:32",
+      "departure": "2014-07-19 10:32",
+      "serviceId": "2_3",
+      "tripId": "2_7685",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 10:44",
+      "departure": "2014-07-19 10:44",
+      "serviceId": "2_3",
+      "tripId": "2_7328",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 10:52",
+      "departure": "2014-07-19 10:52",
+      "serviceId": "2_3",
+      "tripId": "2_7657",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 10:59",
+      "departure": "2014-07-19 10:59",
+      "serviceId": "2_3",
+      "tripId": "2_7329",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 11:12",
+      "departure": "2014-07-19 11:12",
+      "serviceId": "2_3",
+      "tripId": "2_7679",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 11:14",
+      "departure": "2014-07-19 11:14",
+      "serviceId": "2_3",
+      "tripId": "2_7330",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 11:29",
+      "departure": "2014-07-19 11:29",
+      "serviceId": "2_3",
+      "tripId": "2_7331",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 11:32",
+      "departure": "2014-07-19 11:32",
+      "serviceId": "2_3",
+      "tripId": "2_7672",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 11:44",
+      "departure": "2014-07-19 11:44",
+      "serviceId": "2_3",
+      "tripId": "2_7332",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 11:52",
+      "departure": "2014-07-19 11:52",
+      "serviceId": "2_3",
+      "tripId": "2_7673",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 11:59",
+      "departure": "2014-07-19 11:59",
+      "serviceId": "2_3",
+      "tripId": "2_7333",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 12:12",
+      "departure": "2014-07-19 12:12",
+      "serviceId": "2_3",
+      "tripId": "2_7671",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 12:14",
+      "departure": "2014-07-19 12:14",
+      "serviceId": "2_3",
+      "tripId": "2_7334",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 12:29",
+      "departure": "2014-07-19 12:29",
+      "serviceId": "2_3",
+      "tripId": "2_7335",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 12:32",
+      "departure": "2014-07-19 12:32",
+      "serviceId": "2_3",
+      "tripId": "2_7660",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 12:44",
+      "departure": "2014-07-19 12:44",
+      "serviceId": "2_3",
+      "tripId": "2_7336",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 12:52",
+      "departure": "2014-07-19 12:52",
+      "serviceId": "2_3",
+      "tripId": "2_7659",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 12:59",
+      "departure": "2014-07-19 12:59",
+      "serviceId": "2_3",
+      "tripId": "2_7337",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 13:12",
+      "departure": "2014-07-19 13:12",
+      "serviceId": "2_3",
+      "tripId": "2_7653",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 13:14",
+      "departure": "2014-07-19 13:14",
+      "serviceId": "2_3",
+      "tripId": "2_7338",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 13:29",
+      "departure": "2014-07-19 13:29",
+      "serviceId": "2_3",
+      "tripId": "2_7339",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 13:32",
+      "departure": "2014-07-19 13:32",
+      "serviceId": "2_3",
+      "tripId": "2_7675",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 13:44",
+      "departure": "2014-07-19 13:44",
+      "serviceId": "2_3",
+      "tripId": "2_7340",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 13:52",
+      "departure": "2014-07-19 13:52",
+      "serviceId": "2_3",
+      "tripId": "2_7681",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 13:59",
+      "departure": "2014-07-19 13:59",
+      "serviceId": "2_3",
+      "tripId": "2_7341",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 14:12",
+      "departure": "2014-07-19 14:12",
+      "serviceId": "2_3",
+      "tripId": "2_7687",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 14:14",
+      "departure": "2014-07-19 14:14",
+      "serviceId": "2_3",
+      "tripId": "2_7342",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 14:29",
+      "departure": "2014-07-19 14:29",
+      "serviceId": "2_3",
+      "tripId": "2_7387",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 14:32",
+      "departure": "2014-07-19 14:32",
+      "serviceId": "2_3",
+      "tripId": "2_7688",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 14:45",
+      "departure": "2014-07-19 14:45",
+      "serviceId": "2_3",
+      "tripId": "2_7388",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 14:52",
+      "departure": "2014-07-19 14:52",
+      "serviceId": "2_3",
+      "tripId": "2_7689",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 15:00",
+      "departure": "2014-07-19 15:00",
+      "serviceId": "2_3",
+      "tripId": "2_7389",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 15:13",
+      "departure": "2014-07-19 15:13",
+      "serviceId": "2_3",
+      "tripId": "2_7690",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 15:16",
+      "departure": "2014-07-19 15:16",
+      "serviceId": "2_3",
+      "tripId": "2_7390",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 15:32",
+      "departure": "2014-07-19 15:32",
+      "serviceId": "2_3",
+      "tripId": "2_7391",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 15:34",
+      "departure": "2014-07-19 15:34",
+      "serviceId": "2_3",
+      "tripId": "2_7691",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 15:47",
+      "departure": "2014-07-19 15:47",
+      "serviceId": "2_3",
+      "tripId": "2_7392",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 15:54",
+      "departure": "2014-07-19 15:54",
+      "serviceId": "2_3",
+      "tripId": "2_7692",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 16:03",
+      "departure": "2014-07-19 16:03",
+      "serviceId": "2_3",
+      "tripId": "2_7393",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 16:15",
+      "departure": "2014-07-19 16:15",
+      "serviceId": "2_3",
+      "tripId": "2_7693",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 16:19",
+      "departure": "2014-07-19 16:19",
+      "serviceId": "2_3",
+      "tripId": "2_7394",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 16:35",
+      "departure": "2014-07-19 16:35",
+      "serviceId": "2_3",
+      "tripId": "2_7395",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 16:36",
+      "departure": "2014-07-19 16:36",
+      "serviceId": "2_3",
+      "tripId": "2_7694",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 16:51",
+      "departure": "2014-07-19 16:51",
+      "serviceId": "2_3",
+      "tripId": "2_7396",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 16:58",
+      "departure": "2014-07-19 16:58",
+      "serviceId": "2_3",
+      "tripId": "2_7695",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 17:07",
+      "departure": "2014-07-19 17:07",
+      "serviceId": "2_3",
+      "tripId": "2_7397",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 17:19",
+      "departure": "2014-07-19 17:19",
+      "serviceId": "2_3",
+      "tripId": "2_7696",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 17:23",
+      "departure": "2014-07-19 17:23",
+      "serviceId": "2_3",
+      "tripId": "2_7398",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 17:39",
+      "departure": "2014-07-19 17:39",
+      "serviceId": "2_3",
+      "tripId": "2_7399",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 17:40",
+      "departure": "2014-07-19 17:40",
+      "serviceId": "2_3",
+      "tripId": "2_7697",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 17:55",
+      "departure": "2014-07-19 17:55",
+      "serviceId": "2_3",
+      "tripId": "2_7400",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 18:00",
+      "departure": "2014-07-19 18:00",
+      "serviceId": "2_3",
+      "tripId": "2_7698",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 18:11",
+      "departure": "2014-07-19 18:11",
+      "serviceId": "2_3",
+      "tripId": "2_7401",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 18:22",
+      "departure": "2014-07-19 18:22",
+      "serviceId": "2_3",
+      "tripId": "2_7699",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 18:27",
+      "departure": "2014-07-19 18:27",
+      "serviceId": "2_3",
+      "tripId": "2_7402",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 18:43",
+      "departure": "2014-07-19 18:43",
+      "serviceId": "2_3",
+      "tripId": "2_7700",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 18:43",
+      "departure": "2014-07-19 18:43",
+      "serviceId": "2_3",
+      "tripId": "2_7403",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 18:59",
+      "departure": "2014-07-19 18:59",
+      "serviceId": "2_3",
+      "tripId": "2_7386",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 19:04",
+      "departure": "2014-07-19 19:04",
+      "serviceId": "2_3",
+      "tripId": "2_7680",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 19:14",
+      "departure": "2014-07-19 19:14",
+      "serviceId": "2_3",
+      "tripId": "2_7343",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 19:25",
+      "departure": "2014-07-19 19:25",
+      "serviceId": "2_3",
+      "tripId": "2_7716",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 19:29",
+      "departure": "2014-07-19 19:29",
+      "serviceId": "2_3",
+      "tripId": "2_7344",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 19:45",
+      "departure": "2014-07-19 19:45",
+      "serviceId": "2_3",
+      "tripId": "2_7645",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 19:48",
+      "departure": "2014-07-19 19:48",
+      "serviceId": "2_3",
+      "tripId": "2_7345",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 20:08",
+      "departure": "2014-07-19 20:08",
+      "serviceId": "2_3",
+      "tripId": "2_7347",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 20:10",
+      "departure": "2014-07-19 20:10",
+      "serviceId": "2_3",
+      "tripId": "2_7664",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 20:28",
+      "departure": "2014-07-19 20:28",
+      "serviceId": "2_3",
+      "tripId": "2_7295",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 20:30",
+      "departure": "2014-07-19 20:30",
+      "serviceId": "2_3",
+      "tripId": "2_7646",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 20:53",
+      "departure": "2014-07-19 20:53",
+      "serviceId": "2_3",
+      "tripId": "2_7304",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 21:15",
+      "departure": "2014-07-19 21:15",
+      "serviceId": "2_3",
+      "tripId": "2_7642",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 21:32",
+      "departure": "2014-07-19 21:32",
+      "serviceId": "2_3",
+      "tripId": "2_7296",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 22:12",
+      "departure": "2014-07-19 22:12",
+      "serviceId": "2_3",
+      "tripId": "2_7305",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 22:25",
+      "departure": "2014-07-19 22:25",
+      "serviceId": "2_3",
+      "tripId": "2_7656",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 22:57",
+      "departure": "2014-07-19 22:57",
+      "serviceId": "2_3",
+      "tripId": "2_7297",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-19 23:25",
+      "departure": "2014-07-19 23:25",
+      "serviceId": "2_3",
+      "tripId": "2_7715",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-07-19 23:36",
+      "departure": "2014-07-19 23:36",
+      "serviceId": "2_3",
+      "tripId": "2_7306",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-20 00:21",
+      "departure": "2014-07-20 00:21",
+      "serviceId": "2_3",
+      "tripId": "2_7346",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-07-20 00:25",
+      "departure": "2014-07-20 00:25",
+      "serviceId": "2_3",
+      "tripId": "2_7662",
+      "routeId": "2_0008",
+      "headsign": "8 | Saint-Grégoire Champ Daguet"
+    }
+  ]
+}
