@@ -7,6 +7,50 @@
     "name": "Vaugon",
     "code": 2628
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0059",
+      "textColor": "201D21",
+      "color": "F09CBE",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-08-15 13:32",
+      "departure": "2014-08-15 13:32",
+      "serviceId": "2_2",
+      "tripId": "2_9531",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern Saint-Armel Corps-Nuds"
+    },
+    {
+      "arrival": "2014-08-15 15:17",
+      "departure": "2014-08-15 15:17",
+      "serviceId": "2_2",
+      "tripId": "2_9532",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern Saint-Armel Corps-Nuds"
+    },
+    {
+      "arrival": "2014-08-15 17:48",
+      "departure": "2014-08-15 17:48",
+      "serviceId": "2_2",
+      "tripId": "2_9533",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern Saint-Armel Corps-Nuds"
+    },
+    {
+      "arrival": "2014-08-15 19:33",
+      "departure": "2014-08-15 19:33",
+      "serviceId": "2_2",
+      "tripId": "2_9534",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern Saint-Armel Corps-Nuds"
+    }
+  ]
 }

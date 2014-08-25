@@ -7,6 +7,340 @@
     "name": "Pont de Nantes",
     "code": 1277
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0005",
+      "textColor": "ffffff",
+      "color": "eb8200",
+      "description": "Majeure",
+      "longName": "Patton \u003c\u003e Lycée Bréquigny",
+      "shortName": "5",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A57223",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-08-15 08:29",
+      "departure": "2014-08-15 08:29",
+      "serviceId": "2_1",
+      "tripId": "2_9240",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 08:59",
+      "departure": "2014-08-15 08:59",
+      "serviceId": "2_1",
+      "tripId": "2_9227",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 09:34",
+      "departure": "2014-08-15 09:34",
+      "serviceId": "2_1",
+      "tripId": "2_9213",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 10:09",
+      "departure": "2014-08-15 10:09",
+      "serviceId": "2_1",
+      "tripId": "2_9217",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 10:44",
+      "departure": "2014-08-15 10:44",
+      "serviceId": "2_1",
+      "tripId": "2_9231",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 11:11",
+      "departure": "2014-08-15 11:11",
+      "serviceId": "2_2",
+      "tripId": "2_9451",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 11:19",
+      "departure": "2014-08-15 11:19",
+      "serviceId": "2_1",
+      "tripId": "2_9234",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 11:54",
+      "departure": "2014-08-15 11:54",
+      "serviceId": "2_1",
+      "tripId": "2_9230",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 12:29",
+      "departure": "2014-08-15 12:29",
+      "serviceId": "2_1",
+      "tripId": "2_9210",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 13:04",
+      "departure": "2014-08-15 13:04",
+      "serviceId": "2_1",
+      "tripId": "2_9229",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 13:12",
+      "departure": "2014-08-15 13:12",
+      "serviceId": "2_2",
+      "tripId": "2_9452",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 13:40",
+      "departure": "2014-08-15 13:40",
+      "serviceId": "2_1",
+      "tripId": "2_9208",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 14:12",
+      "departure": "2014-08-15 14:12",
+      "serviceId": "2_2",
+      "tripId": "2_9413",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 14:14",
+      "departure": "2014-08-15 14:14",
+      "serviceId": "2_1",
+      "tripId": "2_9228",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 14:54",
+      "departure": "2014-08-15 14:54",
+      "serviceId": "2_1",
+      "tripId": "2_9211",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 15:12",
+      "departure": "2014-08-15 15:12",
+      "serviceId": "2_2",
+      "tripId": "2_9414",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 15:34",
+      "departure": "2014-08-15 15:34",
+      "serviceId": "2_1",
+      "tripId": "2_9239",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 16:12",
+      "departure": "2014-08-15 16:12",
+      "serviceId": "2_2",
+      "tripId": "2_9415",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 16:14",
+      "departure": "2014-08-15 16:14",
+      "serviceId": "2_1",
+      "tripId": "2_9233",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 16:54",
+      "departure": "2014-08-15 16:54",
+      "serviceId": "2_1",
+      "tripId": "2_9214",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 17:14",
+      "departure": "2014-08-15 17:14",
+      "serviceId": "2_2",
+      "tripId": "2_9416",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 17:34",
+      "departure": "2014-08-15 17:34",
+      "serviceId": "2_1",
+      "tripId": "2_9235",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 18:14",
+      "departure": "2014-08-15 18:14",
+      "serviceId": "2_1",
+      "tripId": "2_9232",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 18:15",
+      "departure": "2014-08-15 18:15",
+      "serviceId": "2_2",
+      "tripId": "2_9417",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 18:54",
+      "departure": "2014-08-15 18:54",
+      "serviceId": "2_1",
+      "tripId": "2_9236",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 19:15",
+      "departure": "2014-08-15 19:15",
+      "serviceId": "2_2",
+      "tripId": "2_9418",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 19:34",
+      "departure": "2014-08-15 19:34",
+      "serviceId": "2_1",
+      "tripId": "2_9225",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 20:10",
+      "departure": "2014-08-15 20:10",
+      "serviceId": "2_1",
+      "tripId": "2_9265",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 20:12",
+      "departure": "2014-08-15 20:12",
+      "serviceId": "2_2",
+      "tripId": "2_9419",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 20:45",
+      "departure": "2014-08-15 20:45",
+      "serviceId": "2_1",
+      "tripId": "2_9255",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 21:10",
+      "departure": "2014-08-15 21:10",
+      "serviceId": "2_2",
+      "tripId": "2_9420",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 21:12",
+      "departure": "2014-08-15 21:12",
+      "serviceId": "2_1",
+      "tripId": "2_9256",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 21:52",
+      "departure": "2014-08-15 21:52",
+      "serviceId": "2_1",
+      "tripId": "2_9259",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 22:27",
+      "departure": "2014-08-15 22:27",
+      "serviceId": "2_1",
+      "tripId": "2_9257",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 22:51",
+      "departure": "2014-08-15 22:51",
+      "serviceId": "2_2",
+      "tripId": "2_9421",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 23:07",
+      "departure": "2014-08-15 23:07",
+      "serviceId": "2_1",
+      "tripId": "2_9260",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-15 23:42",
+      "departure": "2014-08-15 23:42",
+      "serviceId": "2_1",
+      "tripId": "2_9258",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    },
+    {
+      "arrival": "2014-08-16 00:21",
+      "departure": "2014-08-16 00:21",
+      "serviceId": "2_2",
+      "tripId": "2_9422",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2014-08-16 00:22",
+      "departure": "2014-08-16 00:22",
+      "serviceId": "2_1",
+      "tripId": "2_9261",
+      "routeId": "2_0005",
+      "headsign": "5 | Patton"
+    }
+  ]
 }

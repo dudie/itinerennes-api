@@ -7,6 +7,536 @@
     "name": "Robidou",
     "code": 1172
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0004",
+      "textColor": "FFFFFF",
+      "color": "6F177E",
+      "description": "Majeure",
+      "longName": "Beauregard \u003c\u003e Beaulieu Atalante",
+      "shortName": "4",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0006",
+      "textColor": "ffffff",
+      "color": "66bfd3",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Base de Loisirs) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0050",
+      "textColor": "ffffff",
+      "color": "8ea1cf",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "50",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0064",
+      "textColor": "ffffff",
+      "color": "008dd6",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Acigné",
+      "shortName": "64",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-07-14 08:04",
+      "departure": "2014-07-14 08:04",
+      "serviceId": "2_1",
+      "tripId": "2_9173",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 08:44",
+      "departure": "2014-07-14 08:44",
+      "serviceId": "2_1",
+      "tripId": "2_9154",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 09:24",
+      "departure": "2014-07-14 09:24",
+      "serviceId": "2_1",
+      "tripId": "2_9169",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 09:39",
+      "departure": "2014-07-14 09:39",
+      "serviceId": "2_1",
+      "tripId": "2_9287",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 10:04",
+      "departure": "2014-07-14 10:04",
+      "serviceId": "2_1",
+      "tripId": "2_9155",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 10:24",
+      "departure": "2014-07-14 10:24",
+      "serviceId": "2_1",
+      "tripId": "2_9288",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 10:44",
+      "departure": "2014-07-14 10:44",
+      "serviceId": "2_1",
+      "tripId": "2_9170",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 11:14",
+      "departure": "2014-07-14 11:14",
+      "serviceId": "2_1",
+      "tripId": "2_9289",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 11:24",
+      "departure": "2014-07-14 11:24",
+      "serviceId": "2_1",
+      "tripId": "2_9156",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 12:04",
+      "departure": "2014-07-14 12:04",
+      "serviceId": "2_1",
+      "tripId": "2_9290",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 12:04",
+      "departure": "2014-07-14 12:04",
+      "serviceId": "2_1",
+      "tripId": "2_9171",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 12:45",
+      "departure": "2014-07-14 12:45",
+      "serviceId": "2_1",
+      "tripId": "2_9157",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 12:49",
+      "departure": "2014-07-14 12:49",
+      "serviceId": "2_1",
+      "tripId": "2_9291",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 12:50",
+      "departure": "2014-07-14 12:50",
+      "serviceId": "2_2",
+      "tripId": "2_9560",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 13:25",
+      "departure": "2014-07-14 13:25",
+      "serviceId": "2_1",
+      "tripId": "2_9172",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 13:34",
+      "departure": "2014-07-14 13:34",
+      "serviceId": "2_2",
+      "tripId": "2_9434",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 13:39",
+      "departure": "2014-07-14 13:39",
+      "serviceId": "2_1",
+      "tripId": "2_9292",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 13:55",
+      "departure": "2014-07-14 13:55",
+      "serviceId": "2_2",
+      "tripId": "2_9561",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 14:06",
+      "departure": "2014-07-14 14:06",
+      "serviceId": "2_1",
+      "tripId": "2_9185",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 14:29",
+      "departure": "2014-07-14 14:29",
+      "serviceId": "2_1",
+      "tripId": "2_9293",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 14:34",
+      "departure": "2014-07-14 14:34",
+      "serviceId": "2_2",
+      "tripId": "2_9435",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 14:46",
+      "departure": "2014-07-14 14:46",
+      "serviceId": "2_1",
+      "tripId": "2_9186",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 15:00",
+      "departure": "2014-07-14 15:00",
+      "serviceId": "2_2",
+      "tripId": "2_9562",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 15:24",
+      "departure": "2014-07-14 15:24",
+      "serviceId": "2_1",
+      "tripId": "2_9294",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 15:26",
+      "departure": "2014-07-14 15:26",
+      "serviceId": "2_1",
+      "tripId": "2_9187",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 15:34",
+      "departure": "2014-07-14 15:34",
+      "serviceId": "2_2",
+      "tripId": "2_9436",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 16:05",
+      "departure": "2014-07-14 16:05",
+      "serviceId": "2_2",
+      "tripId": "2_9563",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 16:06",
+      "departure": "2014-07-14 16:06",
+      "serviceId": "2_1",
+      "tripId": "2_9188",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 16:14",
+      "departure": "2014-07-14 16:14",
+      "serviceId": "2_1",
+      "tripId": "2_9295",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 16:34",
+      "departure": "2014-07-14 16:34",
+      "serviceId": "2_2",
+      "tripId": "2_9437",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 16:46",
+      "departure": "2014-07-14 16:46",
+      "serviceId": "2_1",
+      "tripId": "2_9189",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 17:09",
+      "departure": "2014-07-14 17:09",
+      "serviceId": "2_1",
+      "tripId": "2_9296",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 17:10",
+      "departure": "2014-07-14 17:10",
+      "serviceId": "2_2",
+      "tripId": "2_9564",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 17:26",
+      "departure": "2014-07-14 17:26",
+      "serviceId": "2_1",
+      "tripId": "2_9190",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 17:34",
+      "departure": "2014-07-14 17:34",
+      "serviceId": "2_2",
+      "tripId": "2_9438",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 17:59",
+      "departure": "2014-07-14 17:59",
+      "serviceId": "2_1",
+      "tripId": "2_9297",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 18:06",
+      "departure": "2014-07-14 18:06",
+      "serviceId": "2_1",
+      "tripId": "2_9191",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 18:15",
+      "departure": "2014-07-14 18:15",
+      "serviceId": "2_2",
+      "tripId": "2_9565",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 18:34",
+      "departure": "2014-07-14 18:34",
+      "serviceId": "2_2",
+      "tripId": "2_9439",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 18:46",
+      "departure": "2014-07-14 18:46",
+      "serviceId": "2_1",
+      "tripId": "2_9176",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 18:54",
+      "departure": "2014-07-14 18:54",
+      "serviceId": "2_1",
+      "tripId": "2_9298",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 19:20",
+      "departure": "2014-07-14 19:20",
+      "serviceId": "2_2",
+      "tripId": "2_9566",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 19:26",
+      "departure": "2014-07-14 19:26",
+      "serviceId": "2_1",
+      "tripId": "2_9158",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 19:34",
+      "departure": "2014-07-14 19:34",
+      "serviceId": "2_2",
+      "tripId": "2_9440",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 19:44",
+      "departure": "2014-07-14 19:44",
+      "serviceId": "2_1",
+      "tripId": "2_9299",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 20:06",
+      "departure": "2014-07-14 20:06",
+      "serviceId": "2_1",
+      "tripId": "2_9174",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 20:25",
+      "departure": "2014-07-14 20:25",
+      "serviceId": "2_2",
+      "tripId": "2_9567",
+      "routeId": "2_0064",
+      "headsign": "64 | Acigné"
+    },
+    {
+      "arrival": "2014-07-14 20:34",
+      "departure": "2014-07-14 20:34",
+      "serviceId": "2_2",
+      "tripId": "2_9441",
+      "routeId": "2_0050",
+      "headsign": "50 | Thorigné-Fouillard"
+    },
+    {
+      "arrival": "2014-07-14 20:34",
+      "departure": "2014-07-14 20:34",
+      "serviceId": "2_1",
+      "tripId": "2_9300",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 20:37",
+      "departure": "2014-07-14 20:37",
+      "serviceId": "2_1",
+      "tripId": "2_9159",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 21:19",
+      "departure": "2014-07-14 21:19",
+      "serviceId": "2_1",
+      "tripId": "2_9203",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 21:29",
+      "departure": "2014-07-14 21:29",
+      "serviceId": "2_1",
+      "tripId": "2_9301",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 21:59",
+      "departure": "2014-07-14 21:59",
+      "serviceId": "2_1",
+      "tripId": "2_9201",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 22:14",
+      "departure": "2014-07-14 22:14",
+      "serviceId": "2_1",
+      "tripId": "2_9302",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 22:39",
+      "departure": "2014-07-14 22:39",
+      "serviceId": "2_1",
+      "tripId": "2_9196",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 23:04",
+      "departure": "2014-07-14 23:04",
+      "serviceId": "2_1",
+      "tripId": "2_9303",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 23:19",
+      "departure": "2014-07-14 23:19",
+      "serviceId": "2_1",
+      "tripId": "2_9202",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-14 23:49",
+      "departure": "2014-07-14 23:49",
+      "serviceId": "2_1",
+      "tripId": "2_9304",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-14 23:59",
+      "departure": "2014-07-14 23:59",
+      "serviceId": "2_1",
+      "tripId": "2_9192",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2014-07-15 00:39",
+      "departure": "2014-07-15 00:39",
+      "serviceId": "2_1",
+      "tripId": "2_9305",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-07-15 00:39",
+      "departure": "2014-07-15 00:39",
+      "serviceId": "2_1",
+      "tripId": "2_9197",
+      "routeId": "2_0004",
+      "headsign": "4 | Beaulieu Atalante"
+    }
+  ]
 }
