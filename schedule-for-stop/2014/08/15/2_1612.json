@@ -7,6 +7,478 @@
     "name": "Saint-Conwoïon",
     "code": 1612
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0006",
+      "textColor": "ffffff",
+      "color": "66bfd3",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Base de Loisirs) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0009",
+      "textColor": "FFFFFF",
+      "color": "004B9B",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Cleunay",
+      "shortName": "9",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0803",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes (République) \u003c\u003e Etangs d\u0027Apigné",
+      "shortName": "API",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-08-15 08:38",
+      "departure": "2014-08-15 08:38",
+      "serviceId": "2_1",
+      "tripId": "2_9359",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 09:13",
+      "departure": "2014-08-15 09:13",
+      "serviceId": "2_1",
+      "tripId": "2_9369",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 09:28",
+      "departure": "2014-08-15 09:28",
+      "serviceId": "2_1",
+      "tripId": "2_9287",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 09:53",
+      "departure": "2014-08-15 09:53",
+      "serviceId": "2_1",
+      "tripId": "2_9361",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 10:13",
+      "departure": "2014-08-15 10:13",
+      "serviceId": "2_1",
+      "tripId": "2_9288",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 10:33",
+      "departure": "2014-08-15 10:33",
+      "serviceId": "2_1",
+      "tripId": "2_9366",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 11:03",
+      "departure": "2014-08-15 11:03",
+      "serviceId": "2_1",
+      "tripId": "2_9289",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 11:13",
+      "departure": "2014-08-15 11:13",
+      "serviceId": "2_1",
+      "tripId": "2_9364",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 11:53",
+      "departure": "2014-08-15 11:53",
+      "serviceId": "2_1",
+      "tripId": "2_9362",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 11:53",
+      "departure": "2014-08-15 11:53",
+      "serviceId": "2_1",
+      "tripId": "2_9290",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 12:33",
+      "departure": "2014-08-15 12:33",
+      "serviceId": "2_1",
+      "tripId": "2_9365",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 12:38",
+      "departure": "2014-08-15 12:38",
+      "serviceId": "2_1",
+      "tripId": "2_9291",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 12:43",
+      "departure": "2014-08-15 12:43",
+      "serviceId": "2_2",
+      "tripId": "2_9603",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 13:13",
+      "departure": "2014-08-15 13:13",
+      "serviceId": "2_1",
+      "tripId": "2_9367",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 13:28",
+      "departure": "2014-08-15 13:28",
+      "serviceId": "2_1",
+      "tripId": "2_9292",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 13:43",
+      "departure": "2014-08-15 13:43",
+      "serviceId": "2_1",
+      "tripId": "2_9596",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 13:53",
+      "departure": "2014-08-15 13:53",
+      "serviceId": "2_1",
+      "tripId": "2_9370",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 14:18",
+      "departure": "2014-08-15 14:18",
+      "serviceId": "2_1",
+      "tripId": "2_9293",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 14:33",
+      "departure": "2014-08-15 14:33",
+      "serviceId": "2_1",
+      "tripId": "2_9343",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 14:43",
+      "departure": "2014-08-15 14:43",
+      "serviceId": "2_1",
+      "tripId": "2_9597",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 14:58",
+      "departure": "2014-08-15 14:58",
+      "serviceId": "2_1",
+      "tripId": "2_9337",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 15:13",
+      "departure": "2014-08-15 15:13",
+      "serviceId": "2_1",
+      "tripId": "2_9294",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 15:28",
+      "departure": "2014-08-15 15:28",
+      "serviceId": "2_1",
+      "tripId": "2_9326",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 15:43",
+      "departure": "2014-08-15 15:43",
+      "serviceId": "2_1",
+      "tripId": "2_9598",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 15:58",
+      "departure": "2014-08-15 15:58",
+      "serviceId": "2_1",
+      "tripId": "2_9344",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 16:03",
+      "departure": "2014-08-15 16:03",
+      "serviceId": "2_1",
+      "tripId": "2_9295",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 16:28",
+      "departure": "2014-08-15 16:28",
+      "serviceId": "2_1",
+      "tripId": "2_9341",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 16:43",
+      "departure": "2014-08-15 16:43",
+      "serviceId": "2_1",
+      "tripId": "2_9589",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 16:58",
+      "departure": "2014-08-15 16:58",
+      "serviceId": "2_1",
+      "tripId": "2_9296",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 16:58",
+      "departure": "2014-08-15 16:58",
+      "serviceId": "2_1",
+      "tripId": "2_9345",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 17:28",
+      "departure": "2014-08-15 17:28",
+      "serviceId": "2_1",
+      "tripId": "2_9327",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 17:48",
+      "departure": "2014-08-15 17:48",
+      "serviceId": "2_1",
+      "tripId": "2_9297",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 17:53",
+      "departure": "2014-08-15 17:53",
+      "serviceId": "2_1",
+      "tripId": "2_9599",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 17:58",
+      "departure": "2014-08-15 17:58",
+      "serviceId": "2_1",
+      "tripId": "2_9342",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 18:28",
+      "departure": "2014-08-15 18:28",
+      "serviceId": "2_1",
+      "tripId": "2_9346",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 18:43",
+      "departure": "2014-08-15 18:43",
+      "serviceId": "2_1",
+      "tripId": "2_9298",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 18:53",
+      "departure": "2014-08-15 18:53",
+      "serviceId": "2_1",
+      "tripId": "2_9602",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 18:58",
+      "departure": "2014-08-15 18:58",
+      "serviceId": "2_1",
+      "tripId": "2_9323",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 19:28",
+      "departure": "2014-08-15 19:28",
+      "serviceId": "2_1",
+      "tripId": "2_9324",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 19:33",
+      "departure": "2014-08-15 19:33",
+      "serviceId": "2_1",
+      "tripId": "2_9299",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 19:53",
+      "departure": "2014-08-15 19:53",
+      "serviceId": "2_1",
+      "tripId": "2_9347",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 19:53",
+      "departure": "2014-08-15 19:53",
+      "serviceId": "2_1",
+      "tripId": "2_9600",
+      "routeId": "2_0803",
+      "headsign": "API | Rennes République"
+    },
+    {
+      "arrival": "2014-08-15 20:23",
+      "departure": "2014-08-15 20:23",
+      "serviceId": "2_1",
+      "tripId": "2_9368",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 20:23",
+      "departure": "2014-08-15 20:23",
+      "serviceId": "2_1",
+      "tripId": "2_9300",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 21:07",
+      "departure": "2014-08-15 21:07",
+      "serviceId": "2_1",
+      "tripId": "2_9348",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 21:12",
+      "departure": "2014-08-15 21:12",
+      "serviceId": "2_1",
+      "tripId": "2_9301",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 21:46",
+      "departure": "2014-08-15 21:46",
+      "serviceId": "2_1",
+      "tripId": "2_9349",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 21:57",
+      "departure": "2014-08-15 21:57",
+      "serviceId": "2_1",
+      "tripId": "2_9302",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 22:26",
+      "departure": "2014-08-15 22:26",
+      "serviceId": "2_1",
+      "tripId": "2_9350",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 22:47",
+      "departure": "2014-08-15 22:47",
+      "serviceId": "2_1",
+      "tripId": "2_9303",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 23:06",
+      "departure": "2014-08-15 23:06",
+      "serviceId": "2_1",
+      "tripId": "2_9351",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-15 23:32",
+      "departure": "2014-08-15 23:32",
+      "serviceId": "2_1",
+      "tripId": "2_9304",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-15 23:46",
+      "departure": "2014-08-15 23:46",
+      "serviceId": "2_1",
+      "tripId": "2_9352",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-08-16 00:22",
+      "departure": "2014-08-16 00:22",
+      "serviceId": "2_1",
+      "tripId": "2_9305",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2014-08-16 00:26",
+      "departure": "2014-08-16 00:26",
+      "serviceId": "2_1",
+      "tripId": "2_9353",
+      "routeId": "2_0009",
+      "headsign": "9 | Saint-Laurent"
+    }
+  ]
 }
