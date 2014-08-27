@@ -1,0 +1,50 @@
+{
+  "date": "2014-10-10 00:00",
+  "stop": {
+    "id": "2_2519",
+    "lat": 48.10084549,
+    "lon": -1.80690728,
+    "name": "Lycée Monod",
+    "code": 2519
+  },
+  "routes": [
+    {
+      "id": "2_0238",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "La Chapelle-Thouarault (Ville aux Archers) \u003c\u003e Le Rheu (Lycée Théodore Monod)",
+      "shortName": "238",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0239",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Mordelles (Pâtis) \u003c\u003e Le Rheu (Lycée Théodore Monod)",
+      "shortName": "239",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 17:40",
+      "departure": "2014-10-10 17:40",
+      "serviceId": "2_39",
+      "tripId": "2_28007",
+      "routeId": "2_0238",
+      "headsign": "238 | L\u0027Hermitage La Chapelle-Th."
+    },
+    {
+      "arrival": "2014-10-10 17:40",
+      "departure": "2014-10-10 17:40",
+      "serviceId": "2_39",
+      "tripId": "2_28016",
+      "routeId": "2_0239",
+      "headsign": "239 | Mordelles Pâtis"
+    }
+  ]
+}

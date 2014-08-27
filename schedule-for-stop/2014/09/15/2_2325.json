@@ -1,0 +1,992 @@
+{
+  "date": "2014-09-15 00:00",
+  "stop": {
+    "id": "2_2325",
+    "lat": 48.02481885,
+    "lon": -1.75055599,
+    "name": "Herverie",
+    "code": 2325
+  },
+  "routes": [
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A9701E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0091",
+      "textColor": "1A171B",
+      "color": "AECC52",
+      "description": "Intercommunale",
+      "longName": "Bruz / Chartres \u003c\u003e Noyal-Châtillon-sur-Seiche",
+      "shortName": "91",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0157",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Bruz (Centre)",
+      "shortName": "157",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0159",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "159",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-09-15 06:17",
+      "departure": "2014-09-15 06:17",
+      "serviceId": "2_9",
+      "tripId": "2_8081",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 06:27",
+      "departure": "2014-09-15 06:27",
+      "serviceId": "2_9",
+      "tripId": "2_8613",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 06:57",
+      "departure": "2014-09-15 06:57",
+      "serviceId": "2_9",
+      "tripId": "2_8067",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 07:05",
+      "departure": "2014-09-15 07:05",
+      "serviceId": "2_9",
+      "tripId": "2_8301",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 07:27",
+      "departure": "2014-09-15 07:27",
+      "serviceId": "2_9",
+      "tripId": "2_8511",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 07:32",
+      "departure": "2014-09-15 07:32",
+      "serviceId": "2_14",
+      "tripId": "2_7759",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2014-09-15 07:33",
+      "departure": "2014-09-15 07:33",
+      "serviceId": "2_9",
+      "tripId": "2_15753",
+      "routeId": "2_0091",
+      "headsign": "91 | Chartres Collège Pôle Sud"
+    },
+    {
+      "arrival": "2014-09-15 07:44",
+      "departure": "2014-09-15 07:44",
+      "serviceId": "2_9",
+      "tripId": "2_8518",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 07:53",
+      "departure": "2014-09-15 07:53",
+      "serviceId": "2_14",
+      "tripId": "2_7765",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2014-09-15 08:05",
+      "departure": "2014-09-15 08:05",
+      "serviceId": "2_14",
+      "tripId": "2_19771",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 08:08",
+      "departure": "2014-09-15 08:08",
+      "serviceId": "2_9",
+      "tripId": "2_29191",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2014-09-15 08:10",
+      "departure": "2014-09-15 08:10",
+      "serviceId": "2_9",
+      "tripId": "2_15718",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 08:14",
+      "departure": "2014-09-15 08:14",
+      "serviceId": "2_9",
+      "tripId": "2_8308",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 08:16",
+      "departure": "2014-09-15 08:16",
+      "serviceId": "2_14",
+      "tripId": "2_7771",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2014-09-15 08:30",
+      "departure": "2014-09-15 08:30",
+      "serviceId": "2_9",
+      "tripId": "2_8546",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 08:38",
+      "departure": "2014-09-15 08:38",
+      "serviceId": "2_14",
+      "tripId": "2_7777",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2014-09-15 08:43",
+      "departure": "2014-09-15 08:43",
+      "serviceId": "2_9",
+      "tripId": "2_15711",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 08:44",
+      "departure": "2014-09-15 08:44",
+      "serviceId": "2_9",
+      "tripId": "2_8315",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 08:57",
+      "departure": "2014-09-15 08:57",
+      "serviceId": "2_14",
+      "tripId": "2_7783",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2014-09-15 09:04",
+      "departure": "2014-09-15 09:04",
+      "serviceId": "2_9",
+      "tripId": "2_8322",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:10",
+      "departure": "2014-09-15 09:10",
+      "serviceId": "2_9",
+      "tripId": "2_15725",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 09:14",
+      "departure": "2014-09-15 09:14",
+      "serviceId": "2_14",
+      "tripId": "2_7789",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:27",
+      "departure": "2014-09-15 09:27",
+      "serviceId": "2_9",
+      "tripId": "2_8329",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:33",
+      "departure": "2014-09-15 09:33",
+      "serviceId": "2_14",
+      "tripId": "2_7795",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:36",
+      "departure": "2014-09-15 09:36",
+      "serviceId": "2_9",
+      "tripId": "2_15788",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:44",
+      "departure": "2014-09-15 09:44",
+      "serviceId": "2_9",
+      "tripId": "2_8525",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 09:52",
+      "departure": "2014-09-15 09:52",
+      "serviceId": "2_14",
+      "tripId": "2_7801",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:12",
+      "departure": "2014-09-15 10:12",
+      "serviceId": "2_14",
+      "tripId": "2_7807",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:14",
+      "departure": "2014-09-15 10:14",
+      "serviceId": "2_9",
+      "tripId": "2_8336",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:26",
+      "departure": "2014-09-15 10:26",
+      "serviceId": "2_9",
+      "tripId": "2_15746",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:32",
+      "departure": "2014-09-15 10:32",
+      "serviceId": "2_14",
+      "tripId": "2_7813",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:44",
+      "departure": "2014-09-15 10:44",
+      "serviceId": "2_9",
+      "tripId": "2_8343",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 10:52",
+      "departure": "2014-09-15 10:52",
+      "serviceId": "2_14",
+      "tripId": "2_7819",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 11:12",
+      "departure": "2014-09-15 11:12",
+      "serviceId": "2_14",
+      "tripId": "2_7825",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 11:14",
+      "departure": "2014-09-15 11:14",
+      "serviceId": "2_9",
+      "tripId": "2_8350",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 11:32",
+      "departure": "2014-09-15 11:32",
+      "serviceId": "2_14",
+      "tripId": "2_7831",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 11:44",
+      "departure": "2014-09-15 11:44",
+      "serviceId": "2_9",
+      "tripId": "2_8357",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 11:52",
+      "departure": "2014-09-15 11:52",
+      "serviceId": "2_14",
+      "tripId": "2_7837",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 12:12",
+      "departure": "2014-09-15 12:12",
+      "serviceId": "2_14",
+      "tripId": "2_7843",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 12:15",
+      "departure": "2014-09-15 12:15",
+      "serviceId": "2_9",
+      "tripId": "2_8364",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 12:33",
+      "departure": "2014-09-15 12:33",
+      "serviceId": "2_14",
+      "tripId": "2_7849",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 12:36",
+      "departure": "2014-09-15 12:36",
+      "serviceId": "2_9",
+      "tripId": "2_15704",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 12:45",
+      "departure": "2014-09-15 12:45",
+      "serviceId": "2_9",
+      "tripId": "2_8371",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 12:53",
+      "departure": "2014-09-15 12:53",
+      "serviceId": "2_14",
+      "tripId": "2_8017",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:13",
+      "departure": "2014-09-15 13:13",
+      "serviceId": "2_14",
+      "tripId": "2_7855",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:20",
+      "departure": "2014-09-15 13:20",
+      "serviceId": "2_9",
+      "tripId": "2_8378",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:33",
+      "departure": "2014-09-15 13:33",
+      "serviceId": "2_14",
+      "tripId": "2_7861",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:34",
+      "departure": "2014-09-15 13:34",
+      "serviceId": "2_9",
+      "tripId": "2_15795",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 13:39",
+      "departure": "2014-09-15 13:39",
+      "serviceId": "2_9",
+      "tripId": "2_8385",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:53",
+      "departure": "2014-09-15 13:53",
+      "serviceId": "2_14",
+      "tripId": "2_7867",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 13:59",
+      "departure": "2014-09-15 13:59",
+      "serviceId": "2_9",
+      "tripId": "2_8392",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:12",
+      "departure": "2014-09-15 14:12",
+      "serviceId": "2_14",
+      "tripId": "2_7873",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:15",
+      "departure": "2014-09-15 14:15",
+      "serviceId": "2_9",
+      "tripId": "2_15809",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 14:24",
+      "departure": "2014-09-15 14:24",
+      "serviceId": "2_9",
+      "tripId": "2_8560",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:32",
+      "departure": "2014-09-15 14:32",
+      "serviceId": "2_14",
+      "tripId": "2_7879",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:49",
+      "departure": "2014-09-15 14:49",
+      "serviceId": "2_9",
+      "tripId": "2_8399",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:52",
+      "departure": "2014-09-15 14:52",
+      "serviceId": "2_14",
+      "tripId": "2_7885",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 14:54",
+      "departure": "2014-09-15 14:54",
+      "serviceId": "2_9",
+      "tripId": "2_15802",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 15:12",
+      "departure": "2014-09-15 15:12",
+      "serviceId": "2_14",
+      "tripId": "2_7891",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 15:24",
+      "departure": "2014-09-15 15:24",
+      "serviceId": "2_9",
+      "tripId": "2_8406",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 15:32",
+      "departure": "2014-09-15 15:32",
+      "serviceId": "2_14",
+      "tripId": "2_7897",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 15:44",
+      "departure": "2014-09-15 15:44",
+      "serviceId": "2_9",
+      "tripId": "2_8413",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 15:52",
+      "departure": "2014-09-15 15:52",
+      "serviceId": "2_14",
+      "tripId": "2_7903",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:13",
+      "departure": "2014-09-15 16:13",
+      "serviceId": "2_14",
+      "tripId": "2_7909",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:14",
+      "departure": "2014-09-15 16:14",
+      "serviceId": "2_9",
+      "tripId": "2_15662",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 16:20",
+      "departure": "2014-09-15 16:20",
+      "serviceId": "2_9",
+      "tripId": "2_8420",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:33",
+      "departure": "2014-09-15 16:33",
+      "serviceId": "2_14",
+      "tripId": "2_7915",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:38",
+      "departure": "2014-09-15 16:38",
+      "serviceId": "2_9",
+      "tripId": "2_8539",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:45",
+      "departure": "2014-09-15 16:45",
+      "serviceId": "2_9",
+      "tripId": "2_15781",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 16:55",
+      "departure": "2014-09-15 16:55",
+      "serviceId": "2_14",
+      "tripId": "2_7921",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 16:59",
+      "departure": "2014-09-15 16:59",
+      "serviceId": "2_9",
+      "tripId": "2_8427",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:03",
+      "departure": "2014-09-15 17:03",
+      "serviceId": "2_9",
+      "tripId": "2_11997",
+      "routeId": "2_0159",
+      "headsign": "159 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:14",
+      "departure": "2014-09-15 17:14",
+      "serviceId": "2_9",
+      "tripId": "2_15732",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 17:16",
+      "departure": "2014-09-15 17:16",
+      "serviceId": "2_14",
+      "tripId": "2_11281",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:16",
+      "departure": "2014-09-15 17:16",
+      "serviceId": "2_14",
+      "tripId": "2_7927",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:25",
+      "departure": "2014-09-15 17:25",
+      "serviceId": "2_9",
+      "tripId": "2_8434",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:37",
+      "departure": "2014-09-15 17:37",
+      "serviceId": "2_14",
+      "tripId": "2_11287",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:38",
+      "departure": "2014-09-15 17:38",
+      "serviceId": "2_14",
+      "tripId": "2_7933",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:40",
+      "departure": "2014-09-15 17:40",
+      "serviceId": "2_9",
+      "tripId": "2_15844",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 17:47",
+      "departure": "2014-09-15 17:47",
+      "serviceId": "2_9",
+      "tripId": "2_8441",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:50",
+      "departure": "2014-09-15 17:50",
+      "serviceId": "2_9",
+      "tripId": "2_11969",
+      "routeId": "2_0159",
+      "headsign": "159 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:58",
+      "departure": "2014-09-15 17:58",
+      "serviceId": "2_14",
+      "tripId": "2_7939",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 17:59",
+      "departure": "2014-09-15 17:59",
+      "serviceId": "2_14",
+      "tripId": "2_11293",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:07",
+      "departure": "2014-09-15 18:07",
+      "serviceId": "2_9",
+      "tripId": "2_8448",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:09",
+      "departure": "2014-09-15 18:09",
+      "serviceId": "2_9",
+      "tripId": "2_15697",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-09-15 18:10",
+      "departure": "2014-09-15 18:10",
+      "serviceId": "2_9",
+      "tripId": "2_11976",
+      "routeId": "2_0159",
+      "headsign": "159 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:18",
+      "departure": "2014-09-15 18:18",
+      "serviceId": "2_14",
+      "tripId": "2_7945",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:19",
+      "departure": "2014-09-15 18:19",
+      "serviceId": "2_14",
+      "tripId": "2_11299",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:27",
+      "departure": "2014-09-15 18:27",
+      "serviceId": "2_9",
+      "tripId": "2_8455",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:37",
+      "departure": "2014-09-15 18:37",
+      "serviceId": "2_14",
+      "tripId": "2_11305",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:38",
+      "departure": "2014-09-15 18:38",
+      "serviceId": "2_14",
+      "tripId": "2_7951",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:45",
+      "departure": "2014-09-15 18:45",
+      "serviceId": "2_9",
+      "tripId": "2_8462",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:50",
+      "departure": "2014-09-15 18:50",
+      "serviceId": "2_9",
+      "tripId": "2_11983",
+      "routeId": "2_0159",
+      "headsign": "159 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:56",
+      "departure": "2014-09-15 18:56",
+      "serviceId": "2_14",
+      "tripId": "2_7957",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 18:57",
+      "departure": "2014-09-15 18:57",
+      "serviceId": "2_14",
+      "tripId": "2_11311",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:02",
+      "departure": "2014-09-15 19:02",
+      "serviceId": "2_9",
+      "tripId": "2_8469",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:09",
+      "departure": "2014-09-15 19:09",
+      "serviceId": "2_9",
+      "tripId": "2_11990",
+      "routeId": "2_0159",
+      "headsign": "159 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:14",
+      "departure": "2014-09-15 19:14",
+      "serviceId": "2_14",
+      "tripId": "2_7963",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:15",
+      "departure": "2014-09-15 19:15",
+      "serviceId": "2_14",
+      "tripId": "2_11317",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:21",
+      "departure": "2014-09-15 19:21",
+      "serviceId": "2_9",
+      "tripId": "2_8476",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:33",
+      "departure": "2014-09-15 19:33",
+      "serviceId": "2_14",
+      "tripId": "2_11323",
+      "routeId": "2_0157",
+      "headsign": "157 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:33",
+      "departure": "2014-09-15 19:33",
+      "serviceId": "2_14",
+      "tripId": "2_7969",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:46",
+      "departure": "2014-09-15 19:46",
+      "serviceId": "2_9",
+      "tripId": "2_8483",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 19:52",
+      "departure": "2014-09-15 19:52",
+      "serviceId": "2_14",
+      "tripId": "2_7975",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:06",
+      "departure": "2014-09-15 20:06",
+      "serviceId": "2_9",
+      "tripId": "2_8490",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:11",
+      "departure": "2014-09-15 20:11",
+      "serviceId": "2_14",
+      "tripId": "2_7981",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:25",
+      "departure": "2014-09-15 20:25",
+      "serviceId": "2_9",
+      "tripId": "2_8497",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:30",
+      "departure": "2014-09-15 20:30",
+      "serviceId": "2_14",
+      "tripId": "2_7987",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:45",
+      "departure": "2014-09-15 20:45",
+      "serviceId": "2_9",
+      "tripId": "2_8620",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 20:55",
+      "departure": "2014-09-15 20:55",
+      "serviceId": "2_14",
+      "tripId": "2_7993",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 21:15",
+      "departure": "2014-09-15 21:15",
+      "serviceId": "2_9",
+      "tripId": "2_8627",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 21:24",
+      "departure": "2014-09-15 21:24",
+      "serviceId": "2_14",
+      "tripId": "2_7999",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Centre"
+    },
+    {
+      "arrival": "2014-09-15 21:49",
+      "departure": "2014-09-15 21:49",
+      "serviceId": "2_9",
+      "tripId": "2_8074",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2014-09-15 22:49",
+      "departure": "2014-09-15 22:49",
+      "serviceId": "2_9",
+      "tripId": "2_8095",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2014-09-15 23:33",
+      "departure": "2014-09-15 23:33",
+      "serviceId": "2_9",
+      "tripId": "2_8056",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2014-09-16 01:08",
+      "departure": "2014-09-16 01:08",
+      "serviceId": "2_10",
+      "tripId": "2_8062",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    }
+  ]
+}

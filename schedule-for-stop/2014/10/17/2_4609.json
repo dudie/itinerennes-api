@@ -1,0 +1,68 @@
+{
+  "date": "2014-10-17 00:00",
+  "stop": {
+    "id": "2_4609",
+    "lat": 48.19917578,
+    "lon": -1.62757919,
+    "name": "Chopinais",
+    "code": 4609
+  },
+  "routes": [
+    {
+      "id": "2_0202",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "202",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 07:16",
+      "departure": "2014-10-17 07:16",
+      "serviceId": "2_38",
+      "tripId": "2_21132",
+      "routeId": "2_0202",
+      "headsign": "202 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2014-10-17 07:42",
+      "departure": "2014-10-17 07:42",
+      "serviceId": "2_38",
+      "tripId": "2_28066",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2014-10-17 07:51",
+      "departure": "2014-10-17 07:51",
+      "serviceId": "2_38",
+      "tripId": "2_27707",
+      "routeId": "2_0222",
+      "headsign": "222 | Betton Collège François Truffaut"
+    }
+  ]
+}

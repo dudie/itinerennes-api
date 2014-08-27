@@ -1,0 +1,84 @@
+{
+  "date": "2014-10-17 00:00",
+  "stop": {
+    "id": "2_4055",
+    "lat": 48.17409345,
+    "lon": -1.73514392,
+    "name": "Viennais",
+    "code": 4055
+  },
+  "routes": [
+    {
+      "id": "2_0224",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Gévezé (Cheval Blanc) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "224",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0226",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Gévezé (Cheval Blanc) \u003c\u003e Pacé (Collège Saint-Gabriel)",
+      "shortName": "226",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0228",
+      "textColor": "1A171B",
+      "color": "71BF44",
+      "description": "Complémentaire",
+      "longName": "La Chapelle-des-Fougeretz (Besneraie) \u003c\u003e Rennes (Lycée Mendès-France)",
+      "shortName": "228",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 07:47",
+      "departure": "2014-10-17 07:47",
+      "serviceId": "2_38",
+      "tripId": "2_28056",
+      "routeId": "2_0228",
+      "headsign": "228 | Rennes Lycée Mendès-France"
+    },
+    {
+      "arrival": "2014-10-17 07:49",
+      "departure": "2014-10-17 07:49",
+      "serviceId": "2_38",
+      "tripId": "2_27717",
+      "routeId": "2_0224",
+      "headsign": "224 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2014-10-17 08:02",
+      "departure": "2014-10-17 08:02",
+      "serviceId": "2_38",
+      "tripId": "2_27762",
+      "routeId": "2_0226",
+      "headsign": "226 | Pacé Collège Saint-Gabriel"
+    },
+    {
+      "arrival": "2014-10-17 08:59",
+      "departure": "2014-10-17 08:59",
+      "serviceId": "2_38",
+      "tripId": "2_27742",
+      "routeId": "2_0226",
+      "headsign": "226 | Pacé Collège Saint-Gabriel"
+    },
+    {
+      "arrival": "2014-10-17 09:05",
+      "departure": "2014-10-17 09:05",
+      "serviceId": "2_38",
+      "tripId": "2_27737",
+      "routeId": "2_0226",
+      "headsign": "226 | Pacé Collège Saint-Gabriel"
+    }
+  ]
+}
