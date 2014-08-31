@@ -1,0 +1,66 @@
+{
+  "date": "2014-10-17 00:00",
+  "stop": {
+    "id": "2_4357",
+    "lat": 48.01706446,
+    "lon": -1.66466568,
+    "name": "Croix du Pigeonnet",
+    "code": 4357
+  },
+  "routes": [
+    {
+      "id": "2_0213",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Moc Souris) \u003c\u003e Rennes (Lycée Bréquigny)",
+      "shortName": "213",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0232",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Saint-Erblon (Leuzières) \u003c\u003e Orgères (Collège Andrée Récipon)",
+      "shortName": "232",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 08:03",
+      "departure": "2014-10-17 08:03",
+      "serviceId": "2_38",
+      "tripId": "2_27847",
+      "routeId": "2_0232",
+      "headsign": "232 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2014-10-17 09:00",
+      "departure": "2014-10-17 09:00",
+      "serviceId": "2_38",
+      "tripId": "2_27852",
+      "routeId": "2_0232",
+      "headsign": "232 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2014-10-17 16:53",
+      "departure": "2014-10-17 16:53",
+      "serviceId": "2_39",
+      "tripId": "2_27657",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2014-10-17 17:53",
+      "departure": "2014-10-17 17:53",
+      "serviceId": "2_39",
+      "tripId": "2_27658",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2014-10-17 00:00",
+  "stop": {
+    "id": "2_4203",
+    "lat": 48.05509706,
+    "lon": -1.79000007,
+    "name": "Alfred de Musset",
+    "code": 4203
+  },
+  "routes": [
+    {
+      "id": "2_0211",
+      "textColor": "FFFFFF",
+      "color": "702283",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Rennes (Collège Cleunay)",
+      "shortName": "211",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0229",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Bruz (Lycée Anita Conti)",
+      "shortName": "229",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 16:32",
+      "departure": "2014-10-17 16:32",
+      "serviceId": "2_39",
+      "tripId": "2_27626",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-17 17:28",
+      "departure": "2014-10-17 17:28",
+      "serviceId": "2_39",
+      "tripId": "2_27827",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2014-10-17 17:28",
+      "departure": "2014-10-17 17:28",
+      "serviceId": "2_39",
+      "tripId": "2_27823",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2014-10-17 17:40",
+      "departure": "2014-10-17 17:40",
+      "serviceId": "2_39",
+      "tripId": "2_27630",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    }
+  ]
+}

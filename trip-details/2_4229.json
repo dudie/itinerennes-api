@@ -1,179 +1,443 @@
 {
-  "headsign": "67 | Rennes République",
+  "headsign": "6 | Cesson-Sévigné Rigourdière",
   "stopTimes": [
     {
       "stop": {
+        "id": "2_2201",
+        "lat": 48.07546226,
+        "lon": -1.71635318,
+        "name": "Morinais",
+        "code": 2201
+      },
+      "arrival": 53100,
+      "departure": 53100
+    },
+    {
+      "stop": {
+        "id": "2_2202",
+        "lat": 48.07734959,
+        "lon": -1.71582209,
+        "name": "Collège Jean Moulin",
+        "code": 2202
+      },
+      "arrival": 53160,
+      "departure": 53160
+    },
+    {
+      "stop": {
+        "id": "2_2214",
+        "lat": 48.07988244,
+        "lon": -1.71560415,
+        "name": "Médiathèque",
+        "code": 2214
+      },
+      "arrival": 53220,
+      "departure": 53220
+    },
+    {
+      "stop": {
+        "id": "2_2204",
+        "lat": 48.08256009,
+        "lon": -1.71537221,
+        "name": "Jean Marin",
+        "code": 2204
+      },
+      "arrival": 53280,
+      "departure": 53280
+    },
+    {
+      "stop": {
+        "id": "2_2263",
+        "lat": 48.08257363,
+        "lon": -1.71233295,
+        "name": "Jean Jaurès",
+        "code": 2263
+      },
+      "arrival": 53340,
+      "departure": 53340
+    },
+    {
+      "stop": {
+        "id": "2_2205",
+        "lat": 48.08320903,
+        "lon": -1.71019669,
+        "name": "Blosne",
+        "code": 2205
+      },
+      "arrival": 53340,
+      "departure": 53340
+    },
+    {
+      "stop": {
+        "id": "2_2206",
+        "lat": 48.08751801,
+        "lon": -1.70704222,
+        "name": "Gaité",
+        "code": 2206
+      },
+      "arrival": 53460,
+      "departure": 53460
+    },
+    {
+      "stop": {
+        "id": "2_2258",
+        "lat": 48.09350731,
+        "lon": -1.70438279,
+        "name": "Dominos",
+        "code": 2258
+      },
+      "arrival": 53580,
+      "departure": 53580
+    },
+    {
+      "stop": {
+        "id": "2_1588",
+        "lat": 48.0980357,
+        "lon": -1.70376856,
+        "name": "Jules Maniez",
+        "code": 1588
+      },
+      "arrival": 53700,
+      "departure": 53700
+    },
+    {
+      "stop": {
+        "id": "2_1570",
+        "lat": 48.098484,
+        "lon": -1.69753316,
+        "name": "Cœur de Courrouze",
+        "code": 1570
+      },
+      "arrival": 53760,
+      "departure": 53760
+    },
+    {
+      "stop": {
+        "id": "2_1590",
+        "lat": 48.09891225,
+        "lon": -1.69355023,
+        "name": "Jules Verne",
+        "code": 1590
+      },
+      "arrival": 53820,
+      "departure": 53820
+    },
+    {
+      "stop": {
+        "id": "2_1612",
+        "lat": 48.10354601,
+        "lon": -1.6884609,
+        "name": "Saint-Conwoïon",
+        "code": 1612
+      },
+      "arrival": 53940,
+      "departure": 53940
+    },
+    {
+      "stop": {
+        "id": "2_1401",
+        "lat": 48.10562192,
+        "lon": -1.68776692,
+        "name": "Redon (ex Inkermann)",
+        "code": 1401
+      },
+      "arrival": 54000,
+      "departure": 54000
+    },
+    {
+      "stop": {
+        "id": "2_1587",
+        "lat": 48.10591411,
+        "lon": -1.68447094,
+        "name": "Cité Judiciaire",
+        "code": 1587
+      },
+      "arrival": 54060,
+      "departure": 54060
+    },
+    {
+      "stop": {
+        "id": "2_1091",
+        "lat": 48.10977886,
+        "lon": -1.68388248,
+        "name": "Place de Bretagne",
+        "code": 1091
+      },
+      "arrival": 54240,
+      "departure": 54240
+    },
+    {
+      "stop": {
+        "id": "2_1168",
+        "lat": 48.10980866,
+        "lon": -1.67882417,
+        "name": "République",
+        "code": 1168
+      },
+      "arrival": 54420,
+      "departure": 54420
+    },
+    {
+      "stop": {
+        "id": "2_1169",
+        "lat": 48.10985334,
+        "lon": -1.67452094,
+        "name": "Musée Beaux Arts",
+        "code": 1169
+      },
+      "arrival": 54480,
+      "departure": 54480
+    },
+    {
+      "stop": {
+        "id": "2_1170",
+        "lat": 48.11003344,
+        "lon": -1.66907214,
+        "name": "Paul Bert",
+        "code": 1170
+      },
+      "arrival": 54600,
+      "departure": 54600
+    },
+    {
+      "stop": {
+        "id": "2_1171",
+        "lat": 48.11006771,
+        "lon": -1.66358483,
+        "name": "Pont de Châteaudun",
+        "code": 1171
+      },
+      "arrival": 54660,
+      "departure": 54660
+    },
+    {
+      "stop": {
+        "id": "2_1172",
+        "lat": 48.11007924,
+        "lon": -1.65919453,
+        "name": "Robidou",
+        "code": 1172
+      },
+      "arrival": 54720,
+      "departure": 54720
+    },
+    {
+      "stop": {
+        "id": "2_1173",
+        "lat": 48.11008942,
+        "lon": -1.65614253,
+        "name": "Pont de Strasbourg",
+        "code": 1173
+      },
+      "arrival": 54780,
+      "departure": 54780
+    },
+    {
+      "stop": {
+        "id": "2_1174",
+        "lat": 48.11246663,
+        "lon": -1.64290057,
+        "name": "Plaine de Baud",
+        "code": 1174
+      },
+      "arrival": 54900,
+      "departure": 54900
+    },
+    {
+      "stop": {
+        "id": "2_1604",
+        "lat": 48.11354849,
+        "lon": -1.64100035,
+        "name": "Les Préales",
+        "code": 1604
+      },
+      "arrival": 54960,
+      "departure": 54960
+    },
+    {
+      "stop": {
+        "id": "2_1610",
+        "lat": 48.11406057,
+        "lon": -1.63602668,
+        "name": "Tournebride",
+        "code": 1610
+      },
+      "arrival": 55020,
+      "departure": 55020
+    },
+    {
+      "stop": {
+        "id": "2_2019",
+        "lat": 48.1140789,
+        "lon": -1.62801107,
+        "name": "Champs Péans",
+        "code": 2019
+      },
+      "arrival": 55140,
+      "departure": 55140
+    },
+    {
+      "stop": {
+        "id": "2_2020",
+        "lat": 48.11415,
+        "lon": -1.62183892,
+        "name": "Taillis",
+        "code": 2020
+      },
+      "arrival": 55200,
+      "departure": 55200
+    },
+    {
+      "stop": {
+        "id": "2_2021",
+        "lat": 48.11421456,
+        "lon": -1.61375483,
+        "name": "Hublais",
+        "code": 2021
+      },
+      "arrival": 55260,
+      "departure": 55260
+    },
+    {
+      "stop": {
+        "id": "2_2022",
+        "lat": 48.11467541,
+        "lon": -1.60958194,
+        "name": "Place Sévigné",
+        "code": 2022
+      },
+      "arrival": 55320,
+      "departure": 55320
+    },
+    {
+      "stop": {
+        "id": "2_2023",
+        "lat": 48.11604857,
+        "lon": -1.60696924,
+        "name": "Vilaine",
+        "code": 2023
+      },
+      "arrival": 55380,
+      "departure": 55380
+    },
+    {
+      "stop": {
+        "id": "2_2024",
+        "lat": 48.11832639,
+        "lon": -1.60841984,
+        "name": "Muguet",
+        "code": 2024
+      },
+      "arrival": 55440,
+      "departure": 55440
+    },
+    {
+      "stop": {
+        "id": "2_2025",
+        "lat": 48.12123195,
+        "lon": -1.6099523,
+        "name": "Maison d\u0027Accueil",
+        "code": 2025
+      },
+      "arrival": 55500,
+      "departure": 55500
+    },
+    {
+      "stop": {
+        "id": "2_2026",
+        "lat": 48.1227656,
+        "lon": -1.61084009,
+        "name": "Mare Pavée",
+        "code": 2026
+      },
+      "arrival": 55500,
+      "departure": 55500
+    },
+    {
+      "stop": {
+        "id": "2_2027",
+        "lat": 48.12349148,
+        "lon": -1.60818399,
+        "name": "Fontenelle",
+        "code": 2027
+      },
+      "arrival": 55560,
+      "departure": 55560
+    },
+    {
+      "stop": {
+        "id": "2_2028",
+        "lat": 48.12353418,
+        "lon": -1.60409505,
+        "name": "La Coulée",
+        "code": 2028
+      },
+      "arrival": 55620,
+      "departure": 55620
+    },
+    {
+      "stop": {
+        "id": "2_2029",
+        "lat": 48.12314683,
+        "lon": -1.60062832,
+        "name": "Bourgchevreuil",
+        "code": 2029
+      },
+      "arrival": 55680,
+      "departure": 55680
+    },
+    {
+      "stop": {
+        "id": "2_2041",
+        "lat": 48.12057734,
+        "lon": -1.59948907,
+        "name": "Cesson Collège",
+        "code": 2041
+      },
+      "arrival": 55740,
+      "departure": 55740
+    },
+    {
+      "stop": {
+        "id": "2_2051",
+        "lat": 48.11583582,
+        "lon": -1.60065105,
+        "name": "Chalotais",
+        "code": 2051
+      },
+      "arrival": 55800,
+      "departure": 55800
+    },
+    {
+      "stop": {
+        "id": "2_2086",
+        "lat": 48.11430452,
+        "lon": -1.60048414,
+        "name": "Bordage",
+        "code": 2086
+      },
+      "arrival": 55800,
+      "departure": 55800
+    },
+    {
+      "stop": {
         "id": "2_2089",
-        "lat": 48.11357205,
-        "lon": -1.59052033,
+        "lat": 48.11358949,
+        "lon": -1.59050027,
         "name": "Rigourdière",
         "code": 2089
       },
-      "arrival": 43500,
-      "departure": 43500
-    },
-    {
-      "stop": {
-        "id": "2_2039",
-        "lat": 48.11441474,
-        "lon": -1.60044452,
-        "name": "Bordage",
-        "code": 2039
-      },
-      "arrival": 43680,
-      "departure": 43680
-    },
-    {
-      "stop": {
-        "id": "2_2057",
-        "lat": 48.1138863,
-        "lon": -1.60325405,
-        "name": "Cesson Gare",
-        "code": 2057
-      },
-      "arrival": 43740,
-      "departure": 43740
-    },
-    {
-      "stop": {
-        "id": "2_2058",
-        "lat": 48.11260658,
-        "lon": -1.60716704,
-        "name": "Peupliers",
-        "code": 2058
-      },
-      "arrival": 43800,
-      "departure": 43800
-    },
-    {
-      "stop": {
-        "id": "2_2059",
-        "lat": 48.1092987,
-        "lon": -1.6090051,
-        "name": "Monniais",
-        "code": 2059
-      },
-      "arrival": 43920,
-      "departure": 43920
-    },
-    {
-      "stop": {
-        "id": "2_2060",
-        "lat": 48.10779161,
-        "lon": -1.61466557,
-        "name": "Rond Point de Bray",
-        "code": 2060
-      },
-      "arrival": 43980,
-      "departure": 43980
-    },
-    {
-      "stop": {
-        "id": "2_2016",
-        "lat": 48.11418172,
-        "lon": -1.62194938,
-        "name": "Taillis",
-        "code": 2016
-      },
-      "arrival": 44160,
-      "departure": 44160
-    },
-    {
-      "stop": {
-        "id": "2_2017",
-        "lat": 48.11408545,
-        "lon": -1.63036724,
-        "name": "Champs Péans",
-        "code": 2017
-      },
-      "arrival": 44220,
-      "departure": 44220
-    },
-    {
-      "stop": {
-        "id": "2_1609",
-        "lat": 48.11419402,
-        "lon": -1.63648162,
-        "name": "Tournebride",
-        "code": 1609
-      },
-      "arrival": 44280,
-      "departure": 44280
-    },
-    {
-      "stop": {
-        "id": "2_1528",
-        "lat": 48.11399429,
-        "lon": -1.64435828,
-        "name": "Piletière",
-        "code": 1528
-      },
-      "arrival": 44340,
-      "departure": 44340
-    },
-    {
-      "stop": {
-        "id": "2_1527",
-        "lat": 48.11433481,
-        "lon": -1.64920718,
-        "name": "Moulin de Joué",
-        "code": 1527
-      },
-      "arrival": 44400,
-      "departure": 44400
-    },
-    {
-      "stop": {
-        "id": "2_1526",
-        "lat": 48.11479096,
-        "lon": -1.65317793,
-        "name": "Hôpital Régnier",
-        "code": 1526
-      },
-      "arrival": 44460,
-      "departure": 44460
-    },
-    {
-      "stop": {
-        "id": "2_1474",
-        "lat": 48.11351559,
-        "lon": -1.65671606,
-        "name": "Durafour Strasbourg",
-        "code": 1474
-      },
-      "arrival": 44520,
-      "departure": 44520
-    },
-    {
-      "stop": {
-        "id": "2_1163",
-        "lat": 48.1101066,
-        "lon": -1.66054614,
-        "name": "Robidou",
-        "code": 1163
-      },
-      "arrival": 44640,
-      "departure": 44640
-    },
-    {
-      "stop": {
-        "id": "2_1556",
-        "lat": 48.10943229,
-        "lon": -1.67763328,
-        "name": "République",
-        "code": 1556
-      },
-      "arrival": 44880,
-      "departure": 44880
+      "arrival": 55920,
+      "departure": 55920
     }
   ],
   "route": {
-    "id": "2_0067",
-    "textColor": "FFFFFF",
-    "color": "E0083B",
-    "description": "Métropolitaine",
-    "longName": "Rennes (République) \u003c\u003e Cesson-Sévigné / Brécé",
-    "shortName": "67",
+    "id": "2_0006",
+    "textColor": "1A171B",
+    "color": "62C3D5",
+    "description": "Majeure",
+    "longName": "Cesson-Sévigné (Rigourdière) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+    "shortName": "6",
     "type": 3,
     "agencyId": "2"
   }

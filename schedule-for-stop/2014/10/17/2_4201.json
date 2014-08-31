@@ -1,0 +1,90 @@
+{
+  "date": "2014-10-17 00:00",
+  "stop": {
+    "id": "2_4201",
+    "lat": 48.0519556,
+    "lon": -1.79762199,
+    "name": "Croix Blanche",
+    "code": 4201
+  },
+  "routes": [
+    {
+      "id": "2_0211",
+      "textColor": "FFFFFF",
+      "color": "702283",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Rennes (Collège Cleunay)",
+      "shortName": "211",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0229",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Bruz (Lycée Anita Conti)",
+      "shortName": "229",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 07:43",
+      "departure": "2014-10-17 07:43",
+      "serviceId": "2_38",
+      "tripId": "2_27617",
+      "routeId": "2_0211",
+      "headsign": "211 | Rennes Collège Cleunay"
+    },
+    {
+      "arrival": "2014-10-17 08:03",
+      "departure": "2014-10-17 08:03",
+      "serviceId": "2_38",
+      "tripId": "2_27814",
+      "routeId": "2_0229",
+      "headsign": "229 | Bruz Lycée Anita Conti"
+    },
+    {
+      "arrival": "2014-10-17 08:47",
+      "departure": "2014-10-17 08:47",
+      "serviceId": "2_38",
+      "tripId": "2_27622",
+      "routeId": "2_0211",
+      "headsign": "211 | Rennes Collège Cleunay"
+    },
+    {
+      "arrival": "2014-10-17 16:34",
+      "departure": "2014-10-17 16:34",
+      "serviceId": "2_39",
+      "tripId": "2_27626",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-17 17:32",
+      "departure": "2014-10-17 17:32",
+      "serviceId": "2_39",
+      "tripId": "2_27827",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2014-10-17 17:32",
+      "departure": "2014-10-17 17:32",
+      "serviceId": "2_39",
+      "tripId": "2_27823",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2014-10-17 17:42",
+      "departure": "2014-10-17 17:42",
+      "serviceId": "2_39",
+      "tripId": "2_27630",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    }
+  ]
+}

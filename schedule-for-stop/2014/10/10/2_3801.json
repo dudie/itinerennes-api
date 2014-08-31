@@ -1,0 +1,66 @@
+{
+  "date": "2014-10-10 00:00",
+  "stop": {
+    "id": "2_3801",
+    "lat": 47.99009528,
+    "lon": -1.6138293,
+    "name": "Centre de Loisirs",
+    "code": 3801
+  },
+  "routes": [
+    {
+      "id": "2_0213",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Moc Souris) \u003c\u003e Rennes (Lycée Bréquigny)",
+      "shortName": "213",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0233",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Centre de Loisirs) \u003c\u003e Orgères (Collège Andrée Récipon)",
+      "shortName": "233",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 07:52",
+      "departure": "2014-10-10 07:52",
+      "serviceId": "2_38",
+      "tripId": "2_27866",
+      "routeId": "2_0233",
+      "headsign": "233 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2014-10-10 17:12",
+      "departure": "2014-10-10 17:12",
+      "serviceId": "2_39",
+      "tripId": "2_27657",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2014-10-10 17:25",
+      "departure": "2014-10-10 17:25",
+      "serviceId": "2_39",
+      "tripId": "2_27870",
+      "routeId": "2_0233",
+      "headsign": "233 | Bourgbarré Centre de Loisirs"
+    },
+    {
+      "arrival": "2014-10-10 18:12",
+      "departure": "2014-10-10 18:12",
+      "serviceId": "2_39",
+      "tripId": "2_27658",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    }
+  ]
+}

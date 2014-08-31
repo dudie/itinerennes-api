@@ -1,0 +1,930 @@
+{
+  "date": "2014-09-12 00:00",
+  "stop": {
+    "id": "2_1619",
+    "lat": 48.12519569,
+    "lon": -1.65291775,
+    "name": "Joliot-Curie",
+    "code": 1619
+  },
+  "routes": [
+    {
+      "id": "2_0003",
+      "textColor": "FFFFFF",
+      "color": "008436",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Henri Fréville",
+      "shortName": "3",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0044",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express urbaine",
+      "longName": "République \u003c\u003e Joliot-Curie",
+      "shortName": "44",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0202",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "202",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0203",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Gares \u003c\u003e Lycée Joliot-Curie",
+      "shortName": "203",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0204",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Saint-Grégoire (Champ Daguet) \u003c\u003e Rennes (Collège Clotilde Vautier)",
+      "shortName": "204",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0215",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Villejean-Université \u003c\u003e Lycée Joliot-Curie",
+      "shortName": "215",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-09-12 05:57",
+      "departure": "2014-09-12 05:57",
+      "serviceId": "2_36",
+      "tripId": "2_72",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 06:37",
+      "departure": "2014-09-12 06:37",
+      "serviceId": "2_36",
+      "tripId": "2_78",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 06:52",
+      "departure": "2014-09-12 06:52",
+      "serviceId": "2_36",
+      "tripId": "2_84",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 07:12",
+      "departure": "2014-09-12 07:12",
+      "serviceId": "2_36",
+      "tripId": "2_90",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 07:27",
+      "departure": "2014-09-12 07:27",
+      "serviceId": "2_36",
+      "tripId": "2_96",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 07:39",
+      "departure": "2014-09-12 07:39",
+      "serviceId": "2_36",
+      "tripId": "2_942",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 07:46",
+      "departure": "2014-09-12 07:46",
+      "serviceId": "2_36",
+      "tripId": "2_102",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 07:50",
+      "departure": "2014-09-12 07:50",
+      "serviceId": "2_36",
+      "tripId": "2_11638",
+      "routeId": "2_0203",
+      "headsign": "203 | Lycée Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 07:51",
+      "departure": "2014-09-12 07:51",
+      "serviceId": "2_36",
+      "tripId": "2_917",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 07:54",
+      "departure": "2014-09-12 07:54",
+      "serviceId": "2_36",
+      "tripId": "2_922",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 07:57",
+      "departure": "2014-09-12 07:57",
+      "serviceId": "2_36",
+      "tripId": "2_108",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:01",
+      "departure": "2014-09-12 08:01",
+      "serviceId": "2_36",
+      "tripId": "2_927",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 08:03",
+      "departure": "2014-09-12 08:03",
+      "serviceId": "2_36",
+      "tripId": "2_11633",
+      "routeId": "2_0203",
+      "headsign": "203 | Lycée Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 08:04",
+      "departure": "2014-09-12 08:04",
+      "serviceId": "2_36",
+      "tripId": "2_932",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 08:08",
+      "departure": "2014-09-12 08:08",
+      "serviceId": "2_36",
+      "tripId": "2_114",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:13",
+      "departure": "2014-09-12 08:13",
+      "serviceId": "2_36",
+      "tripId": "2_937",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 08:18",
+      "departure": "2014-09-12 08:18",
+      "serviceId": "2_36",
+      "tripId": "2_120",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:27",
+      "departure": "2014-09-12 08:27",
+      "serviceId": "2_36",
+      "tripId": "2_126",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:37",
+      "departure": "2014-09-12 08:37",
+      "serviceId": "2_36",
+      "tripId": "2_132",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:48",
+      "departure": "2014-09-12 08:48",
+      "serviceId": "2_36",
+      "tripId": "2_138",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 08:54",
+      "departure": "2014-09-12 08:54",
+      "serviceId": "2_36",
+      "tripId": "2_947",
+      "routeId": "2_0044",
+      "headsign": "44 | Joliot-Curie"
+    },
+    {
+      "arrival": "2014-09-12 08:58",
+      "departure": "2014-09-12 08:58",
+      "serviceId": "2_36",
+      "tripId": "2_144",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:07",
+      "departure": "2014-09-12 09:07",
+      "serviceId": "2_36",
+      "tripId": "2_150",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:16",
+      "departure": "2014-09-12 09:16",
+      "serviceId": "2_36",
+      "tripId": "2_828",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:25",
+      "departure": "2014-09-12 09:25",
+      "serviceId": "2_36",
+      "tripId": "2_822",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:35",
+      "departure": "2014-09-12 09:35",
+      "serviceId": "2_36",
+      "tripId": "2_17880",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:46",
+      "departure": "2014-09-12 09:46",
+      "serviceId": "2_36",
+      "tripId": "2_17874",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 09:56",
+      "departure": "2014-09-12 09:56",
+      "serviceId": "2_36",
+      "tripId": "2_17892",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:06",
+      "departure": "2014-09-12 10:06",
+      "serviceId": "2_36",
+      "tripId": "2_17844",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:16",
+      "departure": "2014-09-12 10:16",
+      "serviceId": "2_36",
+      "tripId": "2_17928",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:26",
+      "departure": "2014-09-12 10:26",
+      "serviceId": "2_36",
+      "tripId": "2_17916",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:36",
+      "departure": "2014-09-12 10:36",
+      "serviceId": "2_36",
+      "tripId": "2_17940",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:46",
+      "departure": "2014-09-12 10:46",
+      "serviceId": "2_36",
+      "tripId": "2_17922",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 10:56",
+      "departure": "2014-09-12 10:56",
+      "serviceId": "2_36",
+      "tripId": "2_17958",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:06",
+      "departure": "2014-09-12 11:06",
+      "serviceId": "2_36",
+      "tripId": "2_17970",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:16",
+      "departure": "2014-09-12 11:16",
+      "serviceId": "2_36",
+      "tripId": "2_17982",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:26",
+      "departure": "2014-09-12 11:26",
+      "serviceId": "2_36",
+      "tripId": "2_17994",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:36",
+      "departure": "2014-09-12 11:36",
+      "serviceId": "2_36",
+      "tripId": "2_17814",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:46",
+      "departure": "2014-09-12 11:46",
+      "serviceId": "2_36",
+      "tripId": "2_17910",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 11:57",
+      "departure": "2014-09-12 11:57",
+      "serviceId": "2_36",
+      "tripId": "2_17934",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:08",
+      "departure": "2014-09-12 12:08",
+      "serviceId": "2_36",
+      "tripId": "2_17868",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:18",
+      "departure": "2014-09-12 12:18",
+      "serviceId": "2_36",
+      "tripId": "2_17946",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:28",
+      "departure": "2014-09-12 12:28",
+      "serviceId": "2_36",
+      "tripId": "2_17826",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:38",
+      "departure": "2014-09-12 12:38",
+      "serviceId": "2_36",
+      "tripId": "2_156",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:47",
+      "departure": "2014-09-12 12:47",
+      "serviceId": "2_36",
+      "tripId": "2_162",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 12:57",
+      "departure": "2014-09-12 12:57",
+      "serviceId": "2_36",
+      "tripId": "2_168",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:06",
+      "departure": "2014-09-12 13:06",
+      "serviceId": "2_36",
+      "tripId": "2_174",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:16",
+      "departure": "2014-09-12 13:16",
+      "serviceId": "2_36",
+      "tripId": "2_180",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:27",
+      "departure": "2014-09-12 13:27",
+      "serviceId": "2_36",
+      "tripId": "2_186",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:38",
+      "departure": "2014-09-12 13:38",
+      "serviceId": "2_36",
+      "tripId": "2_336",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:47",
+      "departure": "2014-09-12 13:47",
+      "serviceId": "2_36",
+      "tripId": "2_342",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 13:57",
+      "departure": "2014-09-12 13:57",
+      "serviceId": "2_36",
+      "tripId": "2_348",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:08",
+      "departure": "2014-09-12 14:08",
+      "serviceId": "2_36",
+      "tripId": "2_354",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:18",
+      "departure": "2014-09-12 14:18",
+      "serviceId": "2_36",
+      "tripId": "2_360",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:27",
+      "departure": "2014-09-12 14:27",
+      "serviceId": "2_36",
+      "tripId": "2_366",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:37",
+      "departure": "2014-09-12 14:37",
+      "serviceId": "2_36",
+      "tripId": "2_372",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:47",
+      "departure": "2014-09-12 14:47",
+      "serviceId": "2_36",
+      "tripId": "2_378",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 14:57",
+      "departure": "2014-09-12 14:57",
+      "serviceId": "2_36",
+      "tripId": "2_384",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:07",
+      "departure": "2014-09-12 15:07",
+      "serviceId": "2_36",
+      "tripId": "2_390",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:17",
+      "departure": "2014-09-12 15:17",
+      "serviceId": "2_36",
+      "tripId": "2_396",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:27",
+      "departure": "2014-09-12 15:27",
+      "serviceId": "2_36",
+      "tripId": "2_402",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:37",
+      "departure": "2014-09-12 15:37",
+      "serviceId": "2_36",
+      "tripId": "2_408",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:47",
+      "departure": "2014-09-12 15:47",
+      "serviceId": "2_36",
+      "tripId": "2_414",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 15:58",
+      "departure": "2014-09-12 15:58",
+      "serviceId": "2_39",
+      "tripId": "2_27548",
+      "routeId": "2_0204",
+      "headsign": "204 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-09-12 15:58",
+      "departure": "2014-09-12 15:58",
+      "serviceId": "2_36",
+      "tripId": "2_840",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 16:06",
+      "departure": "2014-09-12 16:06",
+      "serviceId": "2_39",
+      "tripId": "2_21141",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2014-09-12 16:09",
+      "departure": "2014-09-12 16:09",
+      "serviceId": "2_36",
+      "tripId": "2_420",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 16:20",
+      "departure": "2014-09-12 16:20",
+      "serviceId": "2_36",
+      "tripId": "2_426",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 16:31",
+      "departure": "2014-09-12 16:31",
+      "serviceId": "2_36",
+      "tripId": "2_432",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 16:41",
+      "departure": "2014-09-12 16:41",
+      "serviceId": "2_36",
+      "tripId": "2_438",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 16:51",
+      "departure": "2014-09-12 16:51",
+      "serviceId": "2_36",
+      "tripId": "2_444",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:01",
+      "departure": "2014-09-12 17:01",
+      "serviceId": "2_36",
+      "tripId": "2_450",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:06",
+      "departure": "2014-09-12 17:06",
+      "serviceId": "2_39",
+      "tripId": "2_21145",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2014-09-12 17:06",
+      "departure": "2014-09-12 17:06",
+      "serviceId": "2_39",
+      "tripId": "2_27552",
+      "routeId": "2_0204",
+      "headsign": "204 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-09-12 17:11",
+      "departure": "2014-09-12 17:11",
+      "serviceId": "2_36",
+      "tripId": "2_456",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:21",
+      "departure": "2014-09-12 17:21",
+      "serviceId": "2_36",
+      "tripId": "2_462",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:31",
+      "departure": "2014-09-12 17:31",
+      "serviceId": "2_36",
+      "tripId": "2_468",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:41",
+      "departure": "2014-09-12 17:41",
+      "serviceId": "2_36",
+      "tripId": "2_612",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 17:51",
+      "departure": "2014-09-12 17:51",
+      "serviceId": "2_36",
+      "tripId": "2_618",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:00",
+      "departure": "2014-09-12 18:00",
+      "serviceId": "2_36",
+      "tripId": "2_624",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:06",
+      "departure": "2014-09-12 18:06",
+      "serviceId": "2_39",
+      "tripId": "2_27557",
+      "routeId": "2_0204",
+      "headsign": "204 | Saint-Grégoire Champ Daguet"
+    },
+    {
+      "arrival": "2014-09-12 18:07",
+      "departure": "2014-09-12 18:07",
+      "serviceId": "2_39",
+      "tripId": "2_21149",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2014-09-12 18:07",
+      "departure": "2014-09-12 18:07",
+      "serviceId": "2_39",
+      "tripId": "2_28147",
+      "routeId": "2_0215",
+      "headsign": "215 | Villejean-Université"
+    },
+    {
+      "arrival": "2014-09-12 18:10",
+      "departure": "2014-09-12 18:10",
+      "serviceId": "2_36",
+      "tripId": "2_630",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:20",
+      "departure": "2014-09-12 18:20",
+      "serviceId": "2_36",
+      "tripId": "2_636",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:30",
+      "departure": "2014-09-12 18:30",
+      "serviceId": "2_36",
+      "tripId": "2_846",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:39",
+      "departure": "2014-09-12 18:39",
+      "serviceId": "2_36",
+      "tripId": "2_642",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:49",
+      "departure": "2014-09-12 18:49",
+      "serviceId": "2_36",
+      "tripId": "2_648",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 18:58",
+      "departure": "2014-09-12 18:58",
+      "serviceId": "2_36",
+      "tripId": "2_852",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:07",
+      "departure": "2014-09-12 19:07",
+      "serviceId": "2_36",
+      "tripId": "2_654",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:16",
+      "departure": "2014-09-12 19:16",
+      "serviceId": "2_36",
+      "tripId": "2_660",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:26",
+      "departure": "2014-09-12 19:26",
+      "serviceId": "2_36",
+      "tripId": "2_666",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:36",
+      "departure": "2014-09-12 19:36",
+      "serviceId": "2_36",
+      "tripId": "2_672",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:46",
+      "departure": "2014-09-12 19:46",
+      "serviceId": "2_36",
+      "tripId": "2_678",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 19:56",
+      "departure": "2014-09-12 19:56",
+      "serviceId": "2_36",
+      "tripId": "2_684",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 20:07",
+      "departure": "2014-09-12 20:07",
+      "serviceId": "2_36",
+      "tripId": "2_690",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 20:18",
+      "departure": "2014-09-12 20:18",
+      "serviceId": "2_36",
+      "tripId": "2_696",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 20:30",
+      "departure": "2014-09-12 20:30",
+      "serviceId": "2_36",
+      "tripId": "2_702",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 20:42",
+      "departure": "2014-09-12 20:42",
+      "serviceId": "2_36",
+      "tripId": "2_708",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 20:53",
+      "departure": "2014-09-12 20:53",
+      "serviceId": "2_36",
+      "tripId": "2_714",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 21:13",
+      "departure": "2014-09-12 21:13",
+      "serviceId": "2_36",
+      "tripId": "2_720",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 21:58",
+      "departure": "2014-09-12 21:58",
+      "serviceId": "2_36",
+      "tripId": "2_726",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 22:33",
+      "departure": "2014-09-12 22:33",
+      "serviceId": "2_36",
+      "tripId": "2_732",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 23:18",
+      "departure": "2014-09-12 23:18",
+      "serviceId": "2_36",
+      "tripId": "2_738",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-12 23:58",
+      "departure": "2014-09-12 23:58",
+      "serviceId": "2_36",
+      "tripId": "2_744",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-13 00:48",
+      "departure": "2014-09-13 00:48",
+      "serviceId": "2_36",
+      "tripId": "2_750",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    },
+    {
+      "arrival": "2014-09-13 01:48",
+      "departure": "2014-09-13 01:48",
+      "serviceId": "2_37",
+      "tripId": "2_5586",
+      "routeId": "2_0003",
+      "headsign": "3 | Saint-Laurent"
+    }
+  ]
+}

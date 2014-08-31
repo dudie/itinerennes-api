@@ -1,234 +1,355 @@
 {
-  "headsign": "61 | Rennes Henri Fréville",
+  "headsign": "C4 | Beauregard",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_4351",
-        "lat": 48.01725668,
-        "lon": -1.66042889,
-        "name": "Parc d\u0027Activités",
-        "code": 4351
+        "id": "2_1630",
+        "lat": 48.13266219,
+        "lon": -1.63618724,
+        "name": "ZA Saint-Sulpice",
+        "code": 1630
+      },
+      "arrival": 73260,
+      "departure": 73260
+    },
+    {
+      "stop": {
+        "id": "2_1617",
+        "lat": 48.12914499,
+        "lon": -1.63014755,
+        "name": "Longs Champs Est",
+        "code": 1617
+      },
+      "arrival": 73380,
+      "departure": 73380
+    },
+    {
+      "stop": {
+        "id": "2_1536",
+        "lat": 48.12680571,
+        "lon": -1.6300959,
+        "name": "Clos Courtel",
+        "code": 1536
+      },
+      "arrival": 73440,
+      "departure": 73440
+    },
+    {
+      "stop": {
+        "id": "2_1291",
+        "lat": 48.12475494,
+        "lon": -1.63388413,
+        "name": "IUT",
+        "code": 1291
+      },
+      "arrival": 73500,
+      "departure": 73500
+    },
+    {
+      "stop": {
+        "id": "2_1292",
+        "lat": 48.12145018,
+        "lon": -1.63814809,
+        "name": "Beaulieu Restau U",
+        "code": 1292
+      },
+      "arrival": 73620,
+      "departure": 73620
+    },
+    {
+      "stop": {
+        "id": "2_1176",
+        "lat": 48.11901733,
+        "lon": -1.63514782,
+        "name": "Beaulieu INSA",
+        "code": 1176
+      },
+      "arrival": 73680,
+      "departure": 73680
+    },
+    {
+      "stop": {
+        "id": "2_1312",
+        "lat": 48.1166495,
+        "lon": -1.63393042,
+        "name": "Beaulieu Chimie",
+        "code": 1312
+      },
+      "arrival": 73740,
+      "departure": 73740
+    },
+    {
+      "stop": {
+        "id": "2_1160",
+        "lat": 48.11406413,
+        "lon": -1.63761839,
+        "name": "Tournebride",
+        "code": 1160
+      },
+      "arrival": 73800,
+      "departure": 73800
+    },
+    {
+      "stop": {
+        "id": "2_1603",
+        "lat": 48.1132511,
+        "lon": -1.64125976,
+        "name": "Les Préales",
+        "code": 1603
+      },
+      "arrival": 73860,
+      "departure": 73860
+    },
+    {
+      "stop": {
+        "id": "2_1161",
+        "lat": 48.11219183,
+        "lon": -1.64423633,
+        "name": "Plaine de Baud",
+        "code": 1161
+      },
+      "arrival": 73920,
+      "departure": 73920
+    },
+    {
+      "stop": {
+        "id": "2_1605",
+        "lat": 48.11011386,
+        "lon": -1.65647985,
+        "name": "Pont de Strasbourg",
+        "code": 1605
+      },
+      "arrival": 74040,
+      "departure": 74040
+    },
+    {
+      "stop": {
+        "id": "2_1163",
+        "lat": 48.1101066,
+        "lon": -1.66054614,
+        "name": "Robidou",
+        "code": 1163
+      },
+      "arrival": 74100,
+      "departure": 74100
+    },
+    {
+      "stop": {
+        "id": "2_1164",
+        "lat": 48.11009515,
+        "lon": -1.66397755,
+        "name": "Pont de Châteaudun",
+        "code": 1164
+      },
+      "arrival": 74160,
+      "departure": 74160
+    },
+    {
+      "stop": {
+        "id": "2_1165",
+        "lat": 48.11006169,
+        "lon": -1.67017835,
+        "name": "Paul Bert",
+        "code": 1165
+      },
+      "arrival": 74220,
+      "departure": 74220
+    },
+    {
+      "stop": {
+        "id": "2_1166",
+        "lat": 48.10988328,
+        "lon": -1.67512929,
+        "name": "Musée Beaux Arts",
+        "code": 1166
+      },
+      "arrival": 74280,
+      "departure": 74280
+    },
+    {
+      "stop": {
+        "id": "2_1052",
+        "lat": 48.10989306,
+        "lon": -1.67887428,
+        "name": "République",
+        "code": 1052
+      },
+      "arrival": 74400,
+      "departure": 74400
+    },
+    {
+      "stop": {
+        "id": "2_1051",
+        "lat": 48.10985855,
+        "lon": -1.68327915,
+        "name": "Place de Bretagne",
+        "code": 1051
+      },
+      "arrival": 74460,
+      "departure": 74460
+    },
+    {
+      "stop": {
+        "id": "2_1216",
+        "lat": 48.10918893,
+        "lon": -1.69030518,
+        "name": "Le Mail",
+        "code": 1216
+      },
+      "arrival": 74580,
+      "departure": 74580
+    },
+    {
+      "stop": {
+        "id": "2_1217",
+        "lat": 48.10823293,
+        "lon": -1.69450077,
+        "name": "Chèques Postaux",
+        "code": 1217
+      },
+      "arrival": 74640,
+      "departure": 74640
+    },
+    {
+      "stop": {
+        "id": "2_1293",
+        "lat": 48.10992139,
+        "lon": -1.69863394,
+        "name": "Guilloux",
+        "code": 1293
+      },
+      "arrival": 74700,
+      "departure": 74700
+    },
+    {
+      "stop": {
+        "id": "2_1310",
+        "lat": 48.11122281,
+        "lon": -1.70080917,
+        "name": "Marbeuf",
+        "code": 1310
+      },
+      "arrival": 74760,
+      "departure": 74760
+    },
+    {
+      "stop": {
+        "id": "2_1192",
+        "lat": 48.11489023,
+        "lon": -1.70129713,
+        "name": "La Salle",
+        "code": 1192
+      },
+      "arrival": 74880,
+      "departure": 74880
+    },
+    {
+      "stop": {
+        "id": "2_1295",
+        "lat": 48.11673996,
+        "lon": -1.70463882,
+        "name": "Berger",
+        "code": 1295
+      },
+      "arrival": 74940,
+      "departure": 74940
+    },
+    {
+      "stop": {
+        "id": "2_1296",
+        "lat": 48.11928534,
+        "lon": -1.70455594,
+        "name": "Université",
+        "code": 1296
       },
       "arrival": 75000,
       "departure": 75000
     },
     {
       "stop": {
-        "id": "2_4352",
-        "lat": 48.01883453,
-        "lon": -1.65769241,
-        "name": "Champ Mulon",
-        "code": 4352
+        "id": "2_1297",
+        "lat": 48.12180414,
+        "lon": -1.70378405,
+        "name": "Villejean-Université",
+        "code": 1297
       },
       "arrival": 75060,
       "departure": 75060
     },
     {
       "stop": {
-        "id": "2_4353",
-        "lat": 48.01766237,
-        "lon": -1.65451232,
-        "name": "Paul Féval",
-        "code": 4353
+        "id": "2_1298",
+        "lat": 48.12559159,
+        "lon": -1.70307124,
+        "name": "Bois Labbé (ex IRTS)",
+        "code": 1298
       },
       "arrival": 75120,
       "departure": 75120
     },
     {
       "stop": {
-        "id": "2_4362",
-        "lat": 48.01619592,
-        "lon": -1.65151734,
-        "name": "Alexandre Gilois",
-        "code": 4362
-      },
-      "arrival": 75120,
-      "departure": 75120
-    },
-    {
-      "stop": {
-        "id": "2_4358",
-        "lat": 48.01767454,
-        "lon": -1.64942104,
-        "name": "Croix Faucheux",
-        "code": 4358
+        "id": "2_1299",
+        "lat": 48.12785166,
+        "lon": -1.70290899,
+        "name": "Olympe de Gouges",
+        "code": 1299
       },
       "arrival": 75180,
       "departure": 75180
     },
     {
       "stop": {
-        "id": "2_4359",
-        "lat": 48.02152221,
-        "lon": -1.65356188,
-        "name": "Leuzières",
-        "code": 4359
+        "id": "2_1304",
+        "lat": 48.12850845,
+        "lon": -1.69887415,
+        "name": "Cucillé",
+        "code": 1304
       },
       "arrival": 75240,
       "departure": 75240
     },
     {
       "stop": {
-        "id": "2_2705",
-        "lat": 48.0289823,
-        "lon": -1.65980879,
-        "name": "Bray",
-        "code": 2705
+        "id": "2_1301",
+        "lat": 48.12819455,
+        "lon": -1.69396394,
+        "name": "Préfecture",
+        "code": 1301
       },
       "arrival": 75300,
       "departure": 75300
     },
     {
       "stop": {
-        "id": "2_2734",
-        "lat": 48.03439807,
-        "lon": -1.66349817,
-        "name": "Côteaux",
-        "code": 2734
-      },
-      "arrival": 75360,
-      "departure": 75360
-    },
-    {
-      "stop": {
-        "id": "2_2727",
-        "lat": 48.03842301,
-        "lon": -1.66656825,
-        "name": "Pont",
-        "code": 2727
+        "id": "2_1302",
+        "lat": 48.13149428,
+        "lon": -1.69172852,
+        "name": "Léonard",
+        "code": 1302
       },
       "arrival": 75420,
       "departure": 75420
     },
     {
       "stop": {
-        "id": "2_2706",
-        "lat": 48.0384178,
-        "lon": -1.67071213,
-        "name": "Molène",
-        "code": 2706
+        "id": "2_1586",
+        "lat": 48.13154131,
+        "lon": -1.69451902,
+        "name": "Beauregard",
+        "code": 1586
       },
       "arrival": 75480,
       "departure": 75480
-    },
-    {
-      "stop": {
-        "id": "2_2707",
-        "lat": 48.04080291,
-        "lon": -1.6719381,
-        "name": "Potiers",
-        "code": 2707
-      },
-      "arrival": 75540,
-      "departure": 75540
-    },
-    {
-      "stop": {
-        "id": "2_2708",
-        "lat": 48.04239861,
-        "lon": -1.66565541,
-        "name": "Centre",
-        "code": 2708
-      },
-      "arrival": 75600,
-      "departure": 75600
-    },
-    {
-      "stop": {
-        "id": "2_2709",
-        "lat": 48.0440963,
-        "lon": -1.66126141,
-        "name": "Salle Polyvalente",
-        "code": 2709
-      },
-      "arrival": 75660,
-      "departure": 75660
-    },
-    {
-      "stop": {
-        "id": "2_2710",
-        "lat": 48.0471142,
-        "lon": -1.66108375,
-        "name": "Petite Saudrais",
-        "code": 2710
-      },
-      "arrival": 75720,
-      "departure": 75720
-    },
-    {
-      "stop": {
-        "id": "2_2711",
-        "lat": 48.05658785,
-        "lon": -1.66382824,
-        "name": "Croix Fleurie",
-        "code": 2711
-      },
-      "arrival": 75780,
-      "departure": 75780
-    },
-    {
-      "stop": {
-        "id": "2_2712",
-        "lat": 48.06366665,
-        "lon": -1.66376685,
-        "name": "Mail Lancé",
-        "code": 2712
-      },
-      "arrival": 75840,
-      "departure": 75840
-    },
-    {
-      "stop": {
-        "id": "2_2713",
-        "lat": 48.06835651,
-        "lon": -1.66575417,
-        "name": "Petit Beaulieu",
-        "code": 2713
-      },
-      "arrival": 75900,
-      "departure": 75900
-    },
-    {
-      "stop": {
-        "id": "2_2714",
-        "lat": 48.07719318,
-        "lon": -1.66114018,
-        "name": "Hil-Bintinais",
-        "code": 2714
-      },
-      "arrival": 75960,
-      "departure": 75960
-    },
-    {
-      "stop": {
-        "id": "2_1441",
-        "lat": 48.08606219,
-        "lon": -1.66094033,
-        "name": "Triangle",
-        "code": 1441
-      },
-      "arrival": 76080,
-      "departure": 76080
-    },
-    {
-      "stop": {
-        "id": "2_1534",
-        "lat": 48.08831453,
-        "lon": -1.67444337,
-        "name": "Henri Fréville",
-        "code": 1534
-      },
-      "arrival": 76260,
-      "departure": 76260
     }
   ],
   "route": {
-    "id": "2_0061",
-    "textColor": "ffffff",
-    "color": "e43d6a",
-    "description": "Métropolitaine",
-    "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon",
-    "shortName": "61",
+    "id": "2_0004",
+    "textColor": "FFFFFF",
+    "color": "6D1F80",
+    "description": "Chronostar",
+    "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+    "shortName": "C4",
     "type": 3,
     "agencyId": "2"
   }

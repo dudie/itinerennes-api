@@ -1,0 +1,58 @@
+{
+  "date": "2014-10-10 00:00",
+  "stop": {
+    "id": "2_3107",
+    "lat": 48.15119535,
+    "lon": -1.7776255,
+    "name": "Renan",
+    "code": 3107
+  },
+  "routes": [
+    {
+      "id": "2_0225",
+      "textColor": "FFFFFF",
+      "color": "E30613",
+      "description": "Complémentaire",
+      "longName": "Pacé (Pie Neuve) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "225",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0236",
+      "textColor": "1A171B",
+      "color": "F29FC5",
+      "description": "Complémentaire",
+      "longName": "Clayes (Clairville) \u003c\u003e Pacé (Collège Saint-Gabriel)",
+      "shortName": "236",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 07:38",
+      "departure": "2014-10-10 07:38",
+      "serviceId": "2_38",
+      "tripId": "2_27727",
+      "routeId": "2_0225",
+      "headsign": "225 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2014-10-10 08:17",
+      "departure": "2014-10-10 08:17",
+      "serviceId": "2_38",
+      "tripId": "2_27927",
+      "routeId": "2_0236",
+      "headsign": "236 | Pacé Collège Saint-Gabriel"
+    },
+    {
+      "arrival": "2014-10-10 08:17",
+      "departure": "2014-10-10 08:17",
+      "serviceId": "2_38",
+      "tripId": "2_27932",
+      "routeId": "2_0236",
+      "headsign": "236 | Pacé Collège Saint-Gabriel"
+    }
+  ]
+}

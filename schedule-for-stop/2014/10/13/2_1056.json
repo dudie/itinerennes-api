@@ -1,0 +1,2242 @@
+{
+  "date": "2014-10-13 00:00",
+  "stop": {
+    "id": "2_1056",
+    "lat": 48.10391821,
+    "lon": -1.67317044,
+    "name": "Gares",
+    "code": 1056
+  },
+  "routes": [
+    {
+      "id": "2_0001",
+      "textColor": "1A171B",
+      "color": "97BF0D",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Champs Blancs) \u003c\u003e Chantepie (Rosa Parks)",
+      "shortName": "1",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0002",
+      "textColor": "FFFFFF",
+      "color": "008BCF",
+      "description": "Majeure",
+      "longName": "Grand Quartier \u003c\u003e La Poterie / Haut Sancé",
+      "shortName": "2",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0011",
+      "textColor": "FFFFFF",
+      "color": "DD84B1",
+      "description": "Urbaine",
+      "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
+      "shortName": "11",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0041",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express urbaine",
+      "longName": "Gares \u003c\u003e Pâtis Tatelin",
+      "shortName": "41",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0207",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "Rennes (Gares) \u003c\u003e Cesson-Sévigné (Lycée Saint-Etienne)",
+      "shortName": "207",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0208",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Rennes (Gares) \u003c\u003e Saint-Grégoire (MFR Rabinardières)",
+      "shortName": "208",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-13 05:37",
+      "departure": "2014-10-13 05:37",
+      "serviceId": "2_14",
+      "tripId": "2_19871",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 05:39",
+      "departure": "2014-10-13 05:39",
+      "serviceId": "2_14",
+      "tripId": "2_23541",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 06:00",
+      "departure": "2014-10-13 06:00",
+      "serviceId": "2_14",
+      "tripId": "2_26733",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 06:17",
+      "departure": "2014-10-13 06:17",
+      "serviceId": "2_14",
+      "tripId": "2_19865",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 06:19",
+      "departure": "2014-10-13 06:19",
+      "serviceId": "2_14",
+      "tripId": "2_23535",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 06:20",
+      "departure": "2014-10-13 06:20",
+      "serviceId": "2_14",
+      "tripId": "2_26739",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 06:39",
+      "departure": "2014-10-13 06:39",
+      "serviceId": "2_14",
+      "tripId": "2_23547",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 06:40",
+      "departure": "2014-10-13 06:40",
+      "serviceId": "2_14",
+      "tripId": "2_26763",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 06:43",
+      "departure": "2014-10-13 06:43",
+      "serviceId": "2_14",
+      "tripId": "2_19883",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:00",
+      "departure": "2014-10-13 07:00",
+      "serviceId": "2_14",
+      "tripId": "2_19877",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:00",
+      "departure": "2014-10-13 07:00",
+      "serviceId": "2_14",
+      "tripId": "2_26769",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 07:02",
+      "departure": "2014-10-13 07:02",
+      "serviceId": "2_14",
+      "tripId": "2_23553",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:12",
+      "departure": "2014-10-13 07:12",
+      "serviceId": "2_14",
+      "tripId": "2_19889",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:12",
+      "departure": "2014-10-13 07:12",
+      "serviceId": "2_14",
+      "tripId": "2_23565",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:20",
+      "departure": "2014-10-13 07:20",
+      "serviceId": "2_14",
+      "tripId": "2_26787",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 07:21",
+      "departure": "2014-10-13 07:21",
+      "serviceId": "2_14",
+      "tripId": "2_23559",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:22",
+      "departure": "2014-10-13 07:22",
+      "serviceId": "2_14",
+      "tripId": "2_19895",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:31",
+      "departure": "2014-10-13 07:31",
+      "serviceId": "2_14",
+      "tripId": "2_23571",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:31",
+      "departure": "2014-10-13 07:31",
+      "serviceId": "2_14",
+      "tripId": "2_26793",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 07:33",
+      "departure": "2014-10-13 07:33",
+      "serviceId": "2_14",
+      "tripId": "2_19907",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:40",
+      "departure": "2014-10-13 07:40",
+      "serviceId": "2_14",
+      "tripId": "2_19901",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:41",
+      "departure": "2014-10-13 07:41",
+      "serviceId": "2_14",
+      "tripId": "2_23577",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:44",
+      "departure": "2014-10-13 07:44",
+      "serviceId": "2_14",
+      "tripId": "2_26799",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 07:48",
+      "departure": "2014-10-13 07:48",
+      "serviceId": "2_14",
+      "tripId": "2_20147",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:48",
+      "departure": "2014-10-13 07:48",
+      "serviceId": "2_14",
+      "tripId": "2_23589",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 07:55",
+      "departure": "2014-10-13 07:55",
+      "serviceId": "2_14",
+      "tripId": "2_26805",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 07:56",
+      "departure": "2014-10-13 07:56",
+      "serviceId": "2_14",
+      "tripId": "2_20177",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 07:57",
+      "departure": "2014-10-13 07:57",
+      "serviceId": "2_14",
+      "tripId": "2_24213",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:03",
+      "departure": "2014-10-13 08:03",
+      "serviceId": "2_14",
+      "tripId": "2_5534",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:06",
+      "departure": "2014-10-13 08:06",
+      "serviceId": "2_14",
+      "tripId": "2_23595",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:07",
+      "departure": "2014-10-13 08:07",
+      "serviceId": "2_14",
+      "tripId": "2_19811",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:08",
+      "departure": "2014-10-13 08:08",
+      "serviceId": "2_14",
+      "tripId": "2_26811",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 08:15",
+      "departure": "2014-10-13 08:15",
+      "serviceId": "2_14",
+      "tripId": "2_20189",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:16",
+      "departure": "2014-10-13 08:16",
+      "serviceId": "2_14",
+      "tripId": "2_23601",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:18",
+      "departure": "2014-10-13 08:18",
+      "serviceId": "2_14",
+      "tripId": "2_27519",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 08:23",
+      "departure": "2014-10-13 08:23",
+      "serviceId": "2_14",
+      "tripId": "2_20399",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:28",
+      "departure": "2014-10-13 08:28",
+      "serviceId": "2_14",
+      "tripId": "2_23607",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:28",
+      "departure": "2014-10-13 08:28",
+      "serviceId": "2_14",
+      "tripId": "2_26817",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 08:31",
+      "departure": "2014-10-13 08:31",
+      "serviceId": "2_14",
+      "tripId": "2_20009",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:31",
+      "departure": "2014-10-13 08:31",
+      "serviceId": "2_17",
+      "tripId": "2_27589",
+      "routeId": "2_0208",
+      "headsign": "208 | Saint-Grégoire MFR Rabinardières"
+    },
+    {
+      "arrival": "2014-10-13 08:39",
+      "departure": "2014-10-13 08:39",
+      "serviceId": "2_14",
+      "tripId": "2_23613",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:39",
+      "departure": "2014-10-13 08:39",
+      "serviceId": "2_14",
+      "tripId": "2_26823",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 08:40",
+      "departure": "2014-10-13 08:40",
+      "serviceId": "2_14",
+      "tripId": "2_20129",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:49",
+      "departure": "2014-10-13 08:49",
+      "serviceId": "2_14",
+      "tripId": "2_26829",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 08:50",
+      "departure": "2014-10-13 08:50",
+      "serviceId": "2_14",
+      "tripId": "2_20231",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:50",
+      "departure": "2014-10-13 08:50",
+      "serviceId": "2_14",
+      "tripId": "2_23619",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 08:58",
+      "departure": "2014-10-13 08:58",
+      "serviceId": "2_14",
+      "tripId": "2_20213",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 08:59",
+      "departure": "2014-10-13 08:59",
+      "serviceId": "2_14",
+      "tripId": "2_26835",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 09:01",
+      "departure": "2014-10-13 09:01",
+      "serviceId": "2_14",
+      "tripId": "2_23625",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:07",
+      "departure": "2014-10-13 09:07",
+      "serviceId": "2_14",
+      "tripId": "2_20207",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:09",
+      "departure": "2014-10-13 09:09",
+      "serviceId": "2_14",
+      "tripId": "2_26841",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 09:11",
+      "departure": "2014-10-13 09:11",
+      "serviceId": "2_14",
+      "tripId": "2_23631",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:15",
+      "departure": "2014-10-13 09:15",
+      "serviceId": "2_14",
+      "tripId": "2_20171",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:17",
+      "departure": "2014-10-13 09:17",
+      "serviceId": "2_14",
+      "tripId": "2_26847",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 09:21",
+      "departure": "2014-10-13 09:21",
+      "serviceId": "2_14",
+      "tripId": "2_23637",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:22",
+      "departure": "2014-10-13 09:22",
+      "serviceId": "2_14",
+      "tripId": "2_19805",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:26",
+      "departure": "2014-10-13 09:26",
+      "serviceId": "2_14",
+      "tripId": "2_26853",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 09:30",
+      "departure": "2014-10-13 09:30",
+      "serviceId": "2_14",
+      "tripId": "2_21035",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:31",
+      "departure": "2014-10-13 09:31",
+      "serviceId": "2_14",
+      "tripId": "2_23643",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:36",
+      "departure": "2014-10-13 09:36",
+      "serviceId": "2_14",
+      "tripId": "2_27093",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 09:38",
+      "departure": "2014-10-13 09:38",
+      "serviceId": "2_14",
+      "tripId": "2_21041",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:42",
+      "departure": "2014-10-13 09:42",
+      "serviceId": "2_14",
+      "tripId": "2_23649",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:47",
+      "departure": "2014-10-13 09:47",
+      "serviceId": "2_14",
+      "tripId": "2_21047",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 09:51",
+      "departure": "2014-10-13 09:51",
+      "serviceId": "2_14",
+      "tripId": "2_27087",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 09:52",
+      "departure": "2014-10-13 09:52",
+      "serviceId": "2_14",
+      "tripId": "2_23655",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 09:55",
+      "departure": "2014-10-13 09:55",
+      "serviceId": "2_14",
+      "tripId": "2_21053",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:03",
+      "departure": "2014-10-13 10:03",
+      "serviceId": "2_14",
+      "tripId": "2_21059",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:03",
+      "departure": "2014-10-13 10:03",
+      "serviceId": "2_14",
+      "tripId": "2_23661",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 10:06",
+      "departure": "2014-10-13 10:06",
+      "serviceId": "2_14",
+      "tripId": "2_27027",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 10:12",
+      "departure": "2014-10-13 10:12",
+      "serviceId": "2_14",
+      "tripId": "2_21065",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:14",
+      "departure": "2014-10-13 10:14",
+      "serviceId": "2_14",
+      "tripId": "2_24225",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 10:19",
+      "departure": "2014-10-13 10:19",
+      "serviceId": "2_14",
+      "tripId": "2_21071",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:21",
+      "departure": "2014-10-13 10:21",
+      "serviceId": "2_14",
+      "tripId": "2_27081",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 10:25",
+      "departure": "2014-10-13 10:25",
+      "serviceId": "2_14",
+      "tripId": "2_23667",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 10:28",
+      "departure": "2014-10-13 10:28",
+      "serviceId": "2_14",
+      "tripId": "2_20483",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:35",
+      "departure": "2014-10-13 10:35",
+      "serviceId": "2_14",
+      "tripId": "2_20465",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:35",
+      "departure": "2014-10-13 10:35",
+      "serviceId": "2_14",
+      "tripId": "2_23673",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 10:36",
+      "departure": "2014-10-13 10:36",
+      "serviceId": "2_14",
+      "tripId": "2_26991",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 10:44",
+      "departure": "2014-10-13 10:44",
+      "serviceId": "2_14",
+      "tripId": "2_20585",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:45",
+      "departure": "2014-10-13 10:45",
+      "serviceId": "2_14",
+      "tripId": "2_23679",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 10:51",
+      "departure": "2014-10-13 10:51",
+      "serviceId": "2_14",
+      "tripId": "2_26973",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 10:52",
+      "departure": "2014-10-13 10:52",
+      "serviceId": "2_14",
+      "tripId": "2_20501",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 10:55",
+      "departure": "2014-10-13 10:55",
+      "serviceId": "2_14",
+      "tripId": "2_23685",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:01",
+      "departure": "2014-10-13 11:01",
+      "serviceId": "2_14",
+      "tripId": "2_20507",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:05",
+      "departure": "2014-10-13 11:05",
+      "serviceId": "2_14",
+      "tripId": "2_23691",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:06",
+      "departure": "2014-10-13 11:06",
+      "serviceId": "2_14",
+      "tripId": "2_27105",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 11:09",
+      "departure": "2014-10-13 11:09",
+      "serviceId": "2_14",
+      "tripId": "2_20513",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:15",
+      "departure": "2014-10-13 11:15",
+      "serviceId": "2_14",
+      "tripId": "2_23697",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:17",
+      "departure": "2014-10-13 11:17",
+      "serviceId": "2_14",
+      "tripId": "2_20519",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:21",
+      "departure": "2014-10-13 11:21",
+      "serviceId": "2_14",
+      "tripId": "2_26949",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 11:25",
+      "departure": "2014-10-13 11:25",
+      "serviceId": "2_14",
+      "tripId": "2_23703",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:26",
+      "departure": "2014-10-13 11:26",
+      "serviceId": "2_14",
+      "tripId": "2_20537",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:34",
+      "departure": "2014-10-13 11:34",
+      "serviceId": "2_14",
+      "tripId": "2_20705",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:36",
+      "departure": "2014-10-13 11:36",
+      "serviceId": "2_14",
+      "tripId": "2_23709",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:36",
+      "departure": "2014-10-13 11:36",
+      "serviceId": "2_14",
+      "tripId": "2_27075",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 11:42",
+      "departure": "2014-10-13 11:42",
+      "serviceId": "2_14",
+      "tripId": "2_20561",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:47",
+      "departure": "2014-10-13 11:47",
+      "serviceId": "2_14",
+      "tripId": "2_23715",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 11:50",
+      "departure": "2014-10-13 11:50",
+      "serviceId": "2_14",
+      "tripId": "2_20591",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:51",
+      "departure": "2014-10-13 11:51",
+      "serviceId": "2_14",
+      "tripId": "2_27039",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 11:58",
+      "departure": "2014-10-13 11:58",
+      "serviceId": "2_14",
+      "tripId": "2_20651",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 11:58",
+      "departure": "2014-10-13 11:58",
+      "serviceId": "2_14",
+      "tripId": "2_23721",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:06",
+      "departure": "2014-10-13 12:06",
+      "serviceId": "2_14",
+      "tripId": "2_20573",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:06",
+      "departure": "2014-10-13 12:06",
+      "serviceId": "2_14",
+      "tripId": "2_27045",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 12:09",
+      "departure": "2014-10-13 12:09",
+      "serviceId": "2_14",
+      "tripId": "2_23727",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:15",
+      "departure": "2014-10-13 12:15",
+      "serviceId": "2_14",
+      "tripId": "2_20603",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:19",
+      "departure": "2014-10-13 12:19",
+      "serviceId": "2_14",
+      "tripId": "2_23733",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:21",
+      "departure": "2014-10-13 12:21",
+      "serviceId": "2_14",
+      "tripId": "2_27033",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 12:24",
+      "departure": "2014-10-13 12:24",
+      "serviceId": "2_14",
+      "tripId": "2_20609",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:29",
+      "departure": "2014-10-13 12:29",
+      "serviceId": "2_14",
+      "tripId": "2_23739",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:32",
+      "departure": "2014-10-13 12:32",
+      "serviceId": "2_14",
+      "tripId": "2_20621",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:37",
+      "departure": "2014-10-13 12:37",
+      "serviceId": "2_14",
+      "tripId": "2_26943",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 12:39",
+      "departure": "2014-10-13 12:39",
+      "serviceId": "2_14",
+      "tripId": "2_23745",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:40",
+      "departure": "2014-10-13 12:40",
+      "serviceId": "2_14",
+      "tripId": "2_20627",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:48",
+      "departure": "2014-10-13 12:48",
+      "serviceId": "2_14",
+      "tripId": "2_20633",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:49",
+      "departure": "2014-10-13 12:49",
+      "serviceId": "2_14",
+      "tripId": "2_23751",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 12:52",
+      "departure": "2014-10-13 12:52",
+      "serviceId": "2_14",
+      "tripId": "2_26997",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 12:58",
+      "departure": "2014-10-13 12:58",
+      "serviceId": "2_14",
+      "tripId": "2_20639",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 12:59",
+      "departure": "2014-10-13 12:59",
+      "serviceId": "2_14",
+      "tripId": "2_23757",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:07",
+      "departure": "2014-10-13 13:07",
+      "serviceId": "2_14",
+      "tripId": "2_20645",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:07",
+      "departure": "2014-10-13 13:07",
+      "serviceId": "2_14",
+      "tripId": "2_27063",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 13:10",
+      "departure": "2014-10-13 13:10",
+      "serviceId": "2_14",
+      "tripId": "2_23763",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:16",
+      "departure": "2014-10-13 13:16",
+      "serviceId": "2_14",
+      "tripId": "2_20663",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:21",
+      "departure": "2014-10-13 13:21",
+      "serviceId": "2_14",
+      "tripId": "2_23769",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:22",
+      "departure": "2014-10-13 13:22",
+      "serviceId": "2_14",
+      "tripId": "2_27057",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 13:25",
+      "departure": "2014-10-13 13:25",
+      "serviceId": "2_14",
+      "tripId": "2_20675",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:32",
+      "departure": "2014-10-13 13:32",
+      "serviceId": "2_14",
+      "tripId": "2_23781",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:33",
+      "departure": "2014-10-13 13:33",
+      "serviceId": "2_14",
+      "tripId": "2_20543",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:37",
+      "departure": "2014-10-13 13:37",
+      "serviceId": "2_14",
+      "tripId": "2_26979",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 13:40",
+      "departure": "2014-10-13 13:40",
+      "serviceId": "2_14",
+      "tripId": "2_23775",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:42",
+      "departure": "2014-10-13 13:42",
+      "serviceId": "2_14",
+      "tripId": "2_20477",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:48",
+      "departure": "2014-10-13 13:48",
+      "serviceId": "2_14",
+      "tripId": "2_24255",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:51",
+      "departure": "2014-10-13 13:51",
+      "serviceId": "2_14",
+      "tripId": "2_20549",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 13:52",
+      "departure": "2014-10-13 13:52",
+      "serviceId": "2_14",
+      "tripId": "2_26937",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 13:56",
+      "departure": "2014-10-13 13:56",
+      "serviceId": "2_14",
+      "tripId": "2_23787",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 13:58",
+      "departure": "2014-10-13 13:58",
+      "serviceId": "2_14",
+      "tripId": "2_20615",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:06",
+      "departure": "2014-10-13 14:06",
+      "serviceId": "2_14",
+      "tripId": "2_20699",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:06",
+      "departure": "2014-10-13 14:06",
+      "serviceId": "2_14",
+      "tripId": "2_23793",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:09",
+      "departure": "2014-10-13 14:09",
+      "serviceId": "2_14",
+      "tripId": "2_27015",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 14:14",
+      "departure": "2014-10-13 14:14",
+      "serviceId": "2_14",
+      "tripId": "2_20711",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:16",
+      "departure": "2014-10-13 14:16",
+      "serviceId": "2_14",
+      "tripId": "2_23799",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:23",
+      "departure": "2014-10-13 14:23",
+      "serviceId": "2_14",
+      "tripId": "2_20471",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:25",
+      "departure": "2014-10-13 14:25",
+      "serviceId": "2_14",
+      "tripId": "2_23805",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:25",
+      "departure": "2014-10-13 14:25",
+      "serviceId": "2_14",
+      "tripId": "2_27003",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 14:31",
+      "departure": "2014-10-13 14:31",
+      "serviceId": "2_14",
+      "tripId": "2_20531",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:35",
+      "departure": "2014-10-13 14:35",
+      "serviceId": "2_14",
+      "tripId": "2_23811",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:39",
+      "departure": "2014-10-13 14:39",
+      "serviceId": "2_14",
+      "tripId": "2_20669",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:40",
+      "departure": "2014-10-13 14:40",
+      "serviceId": "2_14",
+      "tripId": "2_26985",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 14:45",
+      "departure": "2014-10-13 14:45",
+      "serviceId": "2_14",
+      "tripId": "2_23817",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:47",
+      "departure": "2014-10-13 14:47",
+      "serviceId": "2_14",
+      "tripId": "2_20579",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:55",
+      "departure": "2014-10-13 14:55",
+      "serviceId": "2_14",
+      "tripId": "2_20495",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 14:55",
+      "departure": "2014-10-13 14:55",
+      "serviceId": "2_14",
+      "tripId": "2_23823",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 14:55",
+      "departure": "2014-10-13 14:55",
+      "serviceId": "2_14",
+      "tripId": "2_27021",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 15:03",
+      "departure": "2014-10-13 15:03",
+      "serviceId": "2_14",
+      "tripId": "2_20687",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:05",
+      "departure": "2014-10-13 15:05",
+      "serviceId": "2_14",
+      "tripId": "2_23829",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:11",
+      "departure": "2014-10-13 15:11",
+      "serviceId": "2_14",
+      "tripId": "2_20555",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:11",
+      "departure": "2014-10-13 15:11",
+      "serviceId": "2_14",
+      "tripId": "2_26955",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 15:15",
+      "departure": "2014-10-13 15:15",
+      "serviceId": "2_14",
+      "tripId": "2_23835",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:17",
+      "departure": "2014-10-13 15:17",
+      "serviceId": "2_14",
+      "tripId": "2_20525",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:25",
+      "departure": "2014-10-13 15:25",
+      "serviceId": "2_14",
+      "tripId": "2_20681",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:25",
+      "departure": "2014-10-13 15:25",
+      "serviceId": "2_14",
+      "tripId": "2_23841",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:26",
+      "departure": "2014-10-13 15:26",
+      "serviceId": "2_14",
+      "tripId": "2_26931",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 15:33",
+      "departure": "2014-10-13 15:33",
+      "serviceId": "2_14",
+      "tripId": "2_20693",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:35",
+      "departure": "2014-10-13 15:35",
+      "serviceId": "2_14",
+      "tripId": "2_23847",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:40",
+      "departure": "2014-10-13 15:40",
+      "serviceId": "2_14",
+      "tripId": "2_20489",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:41",
+      "departure": "2014-10-13 15:41",
+      "serviceId": "2_14",
+      "tripId": "2_27501",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 15:45",
+      "departure": "2014-10-13 15:45",
+      "serviceId": "2_14",
+      "tripId": "2_23853",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:48",
+      "departure": "2014-10-13 15:48",
+      "serviceId": "2_14",
+      "tripId": "2_20597",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:54",
+      "departure": "2014-10-13 15:54",
+      "serviceId": "2_14",
+      "tripId": "2_23859",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 15:56",
+      "departure": "2014-10-13 15:56",
+      "serviceId": "2_14",
+      "tripId": "2_20567",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 15:57",
+      "departure": "2014-10-13 15:57",
+      "serviceId": "2_14",
+      "tripId": "2_26967",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 16:03",
+      "departure": "2014-10-13 16:03",
+      "serviceId": "2_14",
+      "tripId": "2_23865",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:04",
+      "departure": "2014-10-13 16:04",
+      "serviceId": "2_14",
+      "tripId": "2_20717",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:12",
+      "departure": "2014-10-13 16:12",
+      "serviceId": "2_14",
+      "tripId": "2_20657",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:12",
+      "departure": "2014-10-13 16:12",
+      "serviceId": "2_14",
+      "tripId": "2_23871",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:13",
+      "departure": "2014-10-13 16:13",
+      "serviceId": "2_14",
+      "tripId": "2_26961",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 16:21",
+      "departure": "2014-10-13 16:21",
+      "serviceId": "2_14",
+      "tripId": "2_23877",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:22",
+      "departure": "2014-10-13 16:22",
+      "serviceId": "2_14",
+      "tripId": "2_20081",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:22",
+      "departure": "2014-10-13 16:22",
+      "serviceId": "2_14",
+      "tripId": "2_3470",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 16:24",
+      "departure": "2014-10-13 16:24",
+      "serviceId": "2_14",
+      "tripId": "2_27357",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 16:30",
+      "departure": "2014-10-13 16:30",
+      "serviceId": "2_14",
+      "tripId": "2_20411",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:31",
+      "departure": "2014-10-13 16:31",
+      "serviceId": "2_14",
+      "tripId": "2_23883",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:34",
+      "departure": "2014-10-13 16:34",
+      "serviceId": "2_14",
+      "tripId": "2_27363",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 16:38",
+      "departure": "2014-10-13 16:38",
+      "serviceId": "2_14",
+      "tripId": "2_20303",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:41",
+      "departure": "2014-10-13 16:41",
+      "serviceId": "2_14",
+      "tripId": "2_24057",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:42",
+      "departure": "2014-10-13 16:42",
+      "serviceId": "2_14",
+      "tripId": "2_3476",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 16:44",
+      "departure": "2014-10-13 16:44",
+      "serviceId": "2_14",
+      "tripId": "2_27369",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 16:46",
+      "departure": "2014-10-13 16:46",
+      "serviceId": "2_14",
+      "tripId": "2_20309",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:51",
+      "departure": "2014-10-13 16:51",
+      "serviceId": "2_14",
+      "tripId": "2_24063",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 16:54",
+      "departure": "2014-10-13 16:54",
+      "serviceId": "2_14",
+      "tripId": "2_20315",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 16:54",
+      "departure": "2014-10-13 16:54",
+      "serviceId": "2_14",
+      "tripId": "2_27375",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:01",
+      "departure": "2014-10-13 17:01",
+      "serviceId": "2_14",
+      "tripId": "2_24069",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:02",
+      "departure": "2014-10-13 17:02",
+      "serviceId": "2_14",
+      "tripId": "2_3530",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 17:03",
+      "departure": "2014-10-13 17:03",
+      "serviceId": "2_14",
+      "tripId": "2_19919",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:04",
+      "departure": "2014-10-13 17:04",
+      "serviceId": "2_14",
+      "tripId": "2_27381",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:11",
+      "departure": "2014-10-13 17:11",
+      "serviceId": "2_14",
+      "tripId": "2_19925",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:11",
+      "departure": "2014-10-13 17:11",
+      "serviceId": "2_14",
+      "tripId": "2_24075",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:15",
+      "departure": "2014-10-13 17:15",
+      "serviceId": "2_14",
+      "tripId": "2_27387",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:20",
+      "departure": "2014-10-13 17:20",
+      "serviceId": "2_14",
+      "tripId": "2_19931",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:22",
+      "departure": "2014-10-13 17:22",
+      "serviceId": "2_14",
+      "tripId": "2_24081",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:25",
+      "departure": "2014-10-13 17:25",
+      "serviceId": "2_14",
+      "tripId": "2_27393",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:25",
+      "departure": "2014-10-13 17:25",
+      "serviceId": "2_14",
+      "tripId": "2_3482",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 17:28",
+      "departure": "2014-10-13 17:28",
+      "serviceId": "2_14",
+      "tripId": "2_19937",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:33",
+      "departure": "2014-10-13 17:33",
+      "serviceId": "2_14",
+      "tripId": "2_24087",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:35",
+      "departure": "2014-10-13 17:35",
+      "serviceId": "2_14",
+      "tripId": "2_27399",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:37",
+      "departure": "2014-10-13 17:37",
+      "serviceId": "2_14",
+      "tripId": "2_20087",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:43",
+      "departure": "2014-10-13 17:43",
+      "serviceId": "2_14",
+      "tripId": "2_23583",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:45",
+      "departure": "2014-10-13 17:45",
+      "serviceId": "2_14",
+      "tripId": "2_20093",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:45",
+      "departure": "2014-10-13 17:45",
+      "serviceId": "2_14",
+      "tripId": "2_27405",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 17:45",
+      "departure": "2014-10-13 17:45",
+      "serviceId": "2_14",
+      "tripId": "2_3488",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 17:53",
+      "departure": "2014-10-13 17:53",
+      "serviceId": "2_14",
+      "tripId": "2_20099",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 17:54",
+      "departure": "2014-10-13 17:54",
+      "serviceId": "2_14",
+      "tripId": "2_24093",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 17:55",
+      "departure": "2014-10-13 17:55",
+      "serviceId": "2_14",
+      "tripId": "2_27525",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 18:00",
+      "departure": "2014-10-13 18:00",
+      "serviceId": "2_14",
+      "tripId": "2_5514",
+      "routeId": "2_0207",
+      "headsign": "207 | Rennes Gares"
+    },
+    {
+      "arrival": "2014-10-13 18:01",
+      "departure": "2014-10-13 18:01",
+      "serviceId": "2_14",
+      "tripId": "2_20105",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:05",
+      "departure": "2014-10-13 18:05",
+      "serviceId": "2_14",
+      "tripId": "2_24099",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:05",
+      "departure": "2014-10-13 18:05",
+      "serviceId": "2_14",
+      "tripId": "2_27411",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 18:06",
+      "departure": "2014-10-13 18:06",
+      "serviceId": "2_14",
+      "tripId": "2_3518",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 18:10",
+      "departure": "2014-10-13 18:10",
+      "serviceId": "2_14",
+      "tripId": "2_20015",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:15",
+      "departure": "2014-10-13 18:15",
+      "serviceId": "2_14",
+      "tripId": "2_24105",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:15",
+      "departure": "2014-10-13 18:15",
+      "serviceId": "2_14",
+      "tripId": "2_27417",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 18:18",
+      "departure": "2014-10-13 18:18",
+      "serviceId": "2_14",
+      "tripId": "2_20021",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:25",
+      "departure": "2014-10-13 18:25",
+      "serviceId": "2_14",
+      "tripId": "2_24111",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:26",
+      "departure": "2014-10-13 18:26",
+      "serviceId": "2_14",
+      "tripId": "2_27423",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 18:26",
+      "departure": "2014-10-13 18:26",
+      "serviceId": "2_14",
+      "tripId": "2_3494",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 18:27",
+      "departure": "2014-10-13 18:27",
+      "serviceId": "2_14",
+      "tripId": "2_20027",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:35",
+      "departure": "2014-10-13 18:35",
+      "serviceId": "2_14",
+      "tripId": "2_20033",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:35",
+      "departure": "2014-10-13 18:35",
+      "serviceId": "2_14",
+      "tripId": "2_24117",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:37",
+      "departure": "2014-10-13 18:37",
+      "serviceId": "2_14",
+      "tripId": "2_27507",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-10-13 18:44",
+      "departure": "2014-10-13 18:44",
+      "serviceId": "2_14",
+      "tripId": "2_20039",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:45",
+      "departure": "2014-10-13 18:45",
+      "serviceId": "2_14",
+      "tripId": "2_24123",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:45",
+      "departure": "2014-10-13 18:45",
+      "serviceId": "2_14",
+      "tripId": "2_3500",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 18:47",
+      "departure": "2014-10-13 18:47",
+      "serviceId": "2_14",
+      "tripId": "2_27429",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 18:52",
+      "departure": "2014-10-13 18:52",
+      "serviceId": "2_14",
+      "tripId": "2_20045",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 18:53",
+      "departure": "2014-10-13 18:53",
+      "serviceId": "2_14",
+      "tripId": "2_24129",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 18:58",
+      "departure": "2014-10-13 18:58",
+      "serviceId": "2_14",
+      "tripId": "2_27435",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 19:00",
+      "departure": "2014-10-13 19:00",
+      "serviceId": "2_14",
+      "tripId": "2_20051",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:03",
+      "departure": "2014-10-13 19:03",
+      "serviceId": "2_14",
+      "tripId": "2_24135",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 19:07",
+      "departure": "2014-10-13 19:07",
+      "serviceId": "2_14",
+      "tripId": "2_3524",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2014-10-13 19:08",
+      "departure": "2014-10-13 19:08",
+      "serviceId": "2_14",
+      "tripId": "2_20447",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:08",
+      "departure": "2014-10-13 19:08",
+      "serviceId": "2_14",
+      "tripId": "2_27441",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 19:13",
+      "departure": "2014-10-13 19:13",
+      "serviceId": "2_14",
+      "tripId": "2_24141",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 19:16",
+      "departure": "2014-10-13 19:16",
+      "serviceId": "2_14",
+      "tripId": "2_20057",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:23",
+      "departure": "2014-10-13 19:23",
+      "serviceId": "2_14",
+      "tripId": "2_24147",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 19:23",
+      "departure": "2014-10-13 19:23",
+      "serviceId": "2_14",
+      "tripId": "2_27447",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 19:24",
+      "departure": "2014-10-13 19:24",
+      "serviceId": "2_14",
+      "tripId": "2_20459",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:34",
+      "departure": "2014-10-13 19:34",
+      "serviceId": "2_14",
+      "tripId": "2_20453",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:36",
+      "departure": "2014-10-13 19:36",
+      "serviceId": "2_14",
+      "tripId": "2_24153",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 19:43",
+      "departure": "2014-10-13 19:43",
+      "serviceId": "2_14",
+      "tripId": "2_27453",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 19:46",
+      "departure": "2014-10-13 19:46",
+      "serviceId": "2_14",
+      "tripId": "2_20063",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 19:48",
+      "departure": "2014-10-13 19:48",
+      "serviceId": "2_14",
+      "tripId": "2_24237",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 19:58",
+      "departure": "2014-10-13 19:58",
+      "serviceId": "2_14",
+      "tripId": "2_20111",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 20:00",
+      "departure": "2014-10-13 20:00",
+      "serviceId": "2_14",
+      "tripId": "2_24159",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 20:04",
+      "departure": "2014-10-13 20:04",
+      "serviceId": "2_14",
+      "tripId": "2_27315",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 20:11",
+      "departure": "2014-10-13 20:11",
+      "serviceId": "2_14",
+      "tripId": "2_20075",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 20:17",
+      "departure": "2014-10-13 20:17",
+      "serviceId": "2_14",
+      "tripId": "2_24165",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 20:26",
+      "departure": "2014-10-13 20:26",
+      "serviceId": "2_14",
+      "tripId": "2_20117",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 20:34",
+      "departure": "2014-10-13 20:34",
+      "serviceId": "2_14",
+      "tripId": "2_27303",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 20:37",
+      "departure": "2014-10-13 20:37",
+      "serviceId": "2_14",
+      "tripId": "2_24171",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 20:46",
+      "departure": "2014-10-13 20:46",
+      "serviceId": "2_14",
+      "tripId": "2_20387",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 20:57",
+      "departure": "2014-10-13 20:57",
+      "serviceId": "2_14",
+      "tripId": "2_24177",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 21:18",
+      "departure": "2014-10-13 21:18",
+      "serviceId": "2_14",
+      "tripId": "2_20429",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 21:19",
+      "departure": "2014-10-13 21:19",
+      "serviceId": "2_14",
+      "tripId": "2_27291",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 21:53",
+      "departure": "2014-10-13 21:53",
+      "serviceId": "2_14",
+      "tripId": "2_20333",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 21:57",
+      "departure": "2014-10-13 21:57",
+      "serviceId": "2_14",
+      "tripId": "2_24183",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 22:19",
+      "departure": "2014-10-13 22:19",
+      "serviceId": "2_9",
+      "tripId": "2_29236",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2014-10-13 22:31",
+      "departure": "2014-10-13 22:31",
+      "serviceId": "2_14",
+      "tripId": "2_20363",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 23:02",
+      "departure": "2014-10-13 23:02",
+      "serviceId": "2_14",
+      "tripId": "2_24189",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-13 23:06",
+      "departure": "2014-10-13 23:06",
+      "serviceId": "2_14",
+      "tripId": "2_20423",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-13 23:39",
+      "departure": "2014-10-13 23:39",
+      "serviceId": "2_14",
+      "tripId": "2_20345",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-14 00:12",
+      "departure": "2014-10-14 00:12",
+      "serviceId": "2_14",
+      "tripId": "2_24195",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2014-10-14 00:19",
+      "departure": "2014-10-14 00:19",
+      "serviceId": "2_14",
+      "tripId": "2_20357",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    }
+  ]
+}
