@@ -1,366 +1,135 @@
 {
-  "headsign": "2 | Haut Sancé",
+  "headsign": "68 | Rennes Villejean-Université",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_2801",
-        "lat": 48.13580524,
-        "lon": -1.69311343,
+        "id": "2_4507",
+        "lat": 48.22177695,
+        "lon": -1.80238235,
+        "name": "Cheval Blanc",
+        "code": 4507
+      },
+      "arrival": 61200,
+      "departure": 61200
+    },
+    {
+      "stop": {
+        "id": "2_4508",
+        "lat": 48.22450512,
+        "lon": -1.8007874,
+        "name": "Coualeuc",
+        "code": 4508
+      },
+      "arrival": 61260,
+      "departure": 61260
+    },
+    {
+      "stop": {
+        "id": "2_4510",
+        "lat": 48.22362777,
+        "lon": -1.79359835,
+        "name": "Prés Verts",
+        "code": 4510
+      },
+      "arrival": 61380,
+      "departure": 61380
+    },
+    {
+      "stop": {
+        "id": "2_4502",
+        "lat": 48.22104867,
+        "lon": -1.78874652,
+        "name": "Gévezé Mairie",
+        "code": 4502
+      },
+      "arrival": 61440,
+      "departure": 61440
+    },
+    {
+      "stop": {
+        "id": "2_4504",
+        "lat": 48.21830476,
+        "lon": -1.78327707,
+        "name": "Flume",
+        "code": 4504
+      },
+      "arrival": 61500,
+      "departure": 61500
+    },
+    {
+      "stop": {
+        "id": "2_4062",
+        "lat": 48.17676429,
+        "lon": -1.72204091,
+        "name": "La Brosse",
+        "code": 4062
+      },
+      "arrival": 61980,
+      "departure": 61980
+    },
+    {
+      "stop": {
+        "id": "2_3506",
+        "lat": 48.15311386,
+        "lon": -1.706642,
+        "name": "Décoparc",
+        "code": 3506
+      },
+      "arrival": 62220,
+      "departure": 62220
+    },
+    {
+      "stop": {
+        "id": "2_1492",
+        "lat": 48.13384612,
+        "lon": -1.69386845,
         "name": "Grand Quartier",
-        "code": 2801
+        "code": 1492
       },
-      "arrival": 46920,
-      "departure": 46920
+      "arrival": 62400,
+      "departure": 62400
     },
     {
       "stop": {
-        "id": "2_2815",
-        "lat": 48.13721048,
-        "lon": -1.68638899,
-        "name": "La Plesse",
-        "code": 2815
+        "id": "2_1543",
+        "lat": 48.13134643,
+        "lon": -1.69183513,
+        "name": "Léonard",
+        "code": 1543
       },
-      "arrival": 47040,
-      "departure": 47040
+      "arrival": 62460,
+      "departure": 62460
     },
     {
       "stop": {
-        "id": "2_1328",
-        "lat": 48.1332141,
-        "lon": -1.68528827,
-        "name": "Lycée Mendès France",
-        "code": 1328
+        "id": "2_1493",
+        "lat": 48.12716786,
+        "lon": -1.69331907,
+        "name": "Lycée Basch",
+        "code": 1493
       },
-      "arrival": 47100,
-      "departure": 47100
+      "arrival": 62580,
+      "departure": 62580
     },
     {
       "stop": {
-        "id": "2_1040",
-        "lat": 48.13006097,
-        "lon": -1.6843352,
-        "name": "Donelière",
-        "code": 1040
+        "id": "2_1529",
+        "lat": 48.12118964,
+        "lon": -1.70297204,
+        "name": "Villejean-Université",
+        "code": 1529
       },
-      "arrival": 47160,
-      "departure": 47160
-    },
-    {
-      "stop": {
-        "id": "2_1101",
-        "lat": 48.1272746,
-        "lon": -1.68322628,
-        "name": "Trois Croix",
-        "code": 1101
-      },
-      "arrival": 47220,
-      "departure": 47220
-    },
-    {
-      "stop": {
-        "id": "2_1042",
-        "lat": 48.12442016,
-        "lon": -1.68178832,
-        "name": "Cimetière Nord",
-        "code": 1042
-      },
-      "arrival": 47280,
-      "departure": 47280
-    },
-    {
-      "stop": {
-        "id": "2_1043",
-        "lat": 48.12359497,
-        "lon": -1.68417898,
-        "name": "Saint-Martin",
-        "code": 1043
-      },
-      "arrival": 47340,
-      "departure": 47340
-    },
-    {
-      "stop": {
-        "id": "2_1044",
-        "lat": 48.12224848,
-        "lon": -1.68585015,
-        "name": "ESPE (ex IUFM)",
-        "code": 1044
-      },
-      "arrival": 47340,
-      "departure": 47340
-    },
-    {
-      "stop": {
-        "id": "2_1046",
-        "lat": 48.11822289,
-        "lon": -1.6893522,
-        "name": "Anatole France",
-        "code": 1046
-      },
-      "arrival": 47460,
-      "departure": 47460
-    },
-    {
-      "stop": {
-        "id": "2_1047",
-        "lat": 48.11617754,
-        "lon": -1.69116733,
-        "name": "La Touche",
-        "code": 1047
-      },
-      "arrival": 47520,
-      "departure": 47520
-    },
-    {
-      "stop": {
-        "id": "2_1048",
-        "lat": 48.11334584,
-        "lon": -1.69345994,
-        "name": "Brest Verdun",
-        "code": 1048
-      },
-      "arrival": 47580,
-      "departure": 47580
-    },
-    {
-      "stop": {
-        "id": "2_1049",
-        "lat": 48.11168311,
-        "lon": -1.68948939,
-        "name": "Horizons",
-        "code": 1049
-      },
-      "arrival": 47700,
-      "departure": 47700
-    },
-    {
-      "stop": {
-        "id": "2_1050",
-        "lat": 48.11173644,
-        "lon": -1.68701739,
-        "name": "Les Lices",
-        "code": 1050
-      },
-      "arrival": 47760,
-      "departure": 47760
-    },
-    {
-      "stop": {
-        "id": "2_1091",
-        "lat": 48.10977886,
-        "lon": -1.68388248,
-        "name": "Place de Bretagne",
-        "code": 1091
-      },
-      "arrival": 47820,
-      "departure": 47820
-    },
-    {
-      "stop": {
-        "id": "2_1090",
-        "lat": 48.10952605,
-        "lon": -1.6779074,
-        "name": "République",
-        "code": 1090
-      },
-      "arrival": 48000,
-      "departure": 48000
-    },
-    {
-      "stop": {
-        "id": "2_1088",
-        "lat": 48.10744897,
-        "lon": -1.67491383,
-        "name": "Liberté TNB",
-        "code": 1088
-      },
-      "arrival": 48120,
-      "departure": 48120
-    },
-    {
-      "stop": {
-        "id": "2_1087",
-        "lat": 48.1060299,
-        "lon": -1.67410184,
-        "name": "Champs Libres",
-        "code": 1087
-      },
-      "arrival": 48180,
-      "departure": 48180
-    },
-    {
-      "stop": {
-        "id": "2_1575",
-        "lat": 48.10375866,
-        "lon": -1.67132416,
-        "name": "Gares",
-        "code": 1575
-      },
-      "arrival": 48240,
-      "departure": 48240
-    },
-    {
-      "stop": {
-        "id": "2_1085",
-        "lat": 48.10476768,
-        "lon": -1.66658594,
-        "name": "Laënnec",
-        "code": 1085
-      },
-      "arrival": 48360,
-      "departure": 48360
-    },
-    {
-      "stop": {
-        "id": "2_1243",
-        "lat": 48.10254897,
-        "lon": -1.66111869,
-        "name": "Croix Saint-Hélier",
-        "code": 1243
-      },
-      "arrival": 48420,
-      "departure": 48420
-    },
-    {
-      "stop": {
-        "id": "2_1060",
-        "lat": 48.09952833,
-        "lon": -1.65755292,
-        "name": "Piré",
-        "code": 1060
-      },
-      "arrival": 48480,
-      "departure": 48480
-    },
-    {
-      "stop": {
-        "id": "2_1061",
-        "lat": 48.09733006,
-        "lon": -1.65433141,
-        "name": "Bourgeois",
-        "code": 1061
-      },
-      "arrival": 48540,
-      "departure": 48540
-    },
-    {
-      "stop": {
-        "id": "2_1062",
-        "lat": 48.09512646,
-        "lon": -1.65055801,
-        "name": "Calmette",
-        "code": 1062
-      },
-      "arrival": 48600,
-      "departure": 48600
-    },
-    {
-      "stop": {
-        "id": "2_1063",
-        "lat": 48.0927684,
-        "lon": -1.64749794,
-        "name": "Monsieur Vincent",
-        "code": 1063
-      },
-      "arrival": 48660,
-      "departure": 48660
-    },
-    {
-      "stop": {
-        "id": "2_1064",
-        "lat": 48.09035104,
-        "lon": -1.64502494,
-        "name": "Lycée Descartes",
-        "code": 1064
-      },
-      "arrival": 48720,
-      "departure": 48720
-    },
-    {
-      "stop": {
-        "id": "2_1077",
-        "lat": 48.08744064,
-        "lon": -1.64342249,
-        "name": "La Poterie",
-        "code": 1077
-      },
-      "arrival": 48780,
-      "departure": 48780
-    },
-    {
-      "stop": {
-        "id": "2_1066",
-        "lat": 48.08780025,
-        "lon": -1.63864028,
-        "name": "Monnet",
-        "code": 1066
-      },
-      "arrival": 48840,
-      "departure": 48840
-    },
-    {
-      "stop": {
-        "id": "2_1067",
-        "lat": 48.08943166,
-        "lon": -1.63541842,
-        "name": "Bourgueil",
-        "code": 1067
-      },
-      "arrival": 48900,
-      "departure": 48900
-    },
-    {
-      "stop": {
-        "id": "2_1068",
-        "lat": 48.09201511,
-        "lon": -1.63642544,
-        "name": "Gohier",
-        "code": 1068
-      },
-      "arrival": 48960,
-      "departure": 48960
-    },
-    {
-      "stop": {
-        "id": "2_1069",
-        "lat": 48.09270737,
-        "lon": -1.63967507,
-        "name": "Ronceray",
-        "code": 1069
-      },
-      "arrival": 49020,
-      "departure": 49020
-    },
-    {
-      "stop": {
-        "id": "2_1070",
-        "lat": 48.09445007,
-        "lon": -1.63799813,
-        "name": "CARSAT",
-        "code": 1070
-      },
-      "arrival": 49020,
-      "departure": 49020
-    },
-    {
-      "stop": {
-        "id": "2_1071",
-        "lat": 48.09618325,
-        "lon": -1.63701996,
-        "name": "Haut Sancé",
-        "code": 1071
-      },
-      "arrival": 49080,
-      "departure": 49080
+      "arrival": 62820,
+      "departure": 62820
     }
   ],
   "route": {
-    "id": "2_0002",
-    "textColor": "FFFFFF",
-    "color": "008BCF",
-    "description": "Majeure",
-    "longName": "Grand Quartier \u003c\u003e La Poterie / Haut Sancé",
-    "shortName": "2",
+    "id": "2_0068",
+    "textColor": "1A171B",
+    "color": "DDC500",
+    "description": "Métropolitaine",
+    "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
+    "shortName": "68",
     "type": 3,
     "agencyId": "2"
   }

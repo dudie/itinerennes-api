@@ -9,6 +9,36 @@
   },
   "routes": [
     {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0068",
+      "textColor": "1A171B",
+      "color": "DDC500",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
+      "shortName": "68",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0168",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Gévezé",
+      "shortName": "168",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
       "id": "2_0224",
       "textColor": "FFFFFF",
       "color": "009FE3",
@@ -31,36 +61,492 @@
   ],
   "stopTimes": [
     {
+      "arrival": "2014-10-17 06:40",
+      "departure": "2014-10-17 06:40",
+      "serviceId": "2_29",
+      "tripId": "2_14909",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 06:55",
+      "departure": "2014-10-17 06:55",
+      "serviceId": "2_29",
+      "tripId": "2_15024",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 07:10",
+      "departure": "2014-10-17 07:10",
+      "serviceId": "2_29",
+      "tripId": "2_14914",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 07:17",
+      "departure": "2014-10-17 07:17",
+      "serviceId": "2_29",
+      "tripId": "2_14919",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 07:20",
+      "departure": "2014-10-17 07:20",
+      "serviceId": "2_29",
+      "tripId": "2_9126",
+      "routeId": "2_0168",
+      "headsign": "168 | Rennes Villejean-Université"
+    },
+    {
       "arrival": "2014-10-17 07:30",
       "departure": "2014-10-17 07:30",
-      "serviceId": "2_38",
-      "tripId": "2_27717",
+      "serviceId": "2_29",
+      "tripId": "2_15029",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 07:30",
+      "departure": "2014-10-17 07:30",
+      "serviceId": "2_33",
+      "tripId": "2_22562",
       "routeId": "2_0224",
       "headsign": "224 | Saint-Grégoire Lycée Jean-Paul II"
     },
     {
+      "arrival": "2014-10-17 07:45",
+      "departure": "2014-10-17 07:45",
+      "serviceId": "2_29",
+      "tripId": "2_15034",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 07:57",
+      "departure": "2014-10-17 07:57",
+      "serviceId": "2_29",
+      "tripId": "2_15159",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 08:00",
+      "departure": "2014-10-17 08:00",
+      "serviceId": "2_29",
+      "tripId": "2_15154",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 08:15",
+      "departure": "2014-10-17 08:15",
+      "serviceId": "2_29",
+      "tripId": "2_9131",
+      "routeId": "2_0168",
+      "headsign": "168 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 08:18",
+      "departure": "2014-10-17 08:18",
+      "serviceId": "2_29",
+      "tripId": "2_14924",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 08:25",
+      "departure": "2014-10-17 08:25",
+      "serviceId": "2_29",
+      "tripId": "2_15039",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 08:38",
+      "departure": "2014-10-17 08:38",
+      "serviceId": "2_29",
+      "tripId": "2_14929",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
       "arrival": "2014-10-17 08:44",
       "departure": "2014-10-17 08:44",
-      "serviceId": "2_38",
-      "tripId": "2_27737",
+      "serviceId": "2_33",
+      "tripId": "2_22582",
       "routeId": "2_0226",
       "headsign": "226 | Pacé Collège Saint-Gabriel"
     },
     {
+      "arrival": "2014-10-17 08:45",
+      "departure": "2014-10-17 08:45",
+      "serviceId": "2_29",
+      "tripId": "2_15044",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 08:58",
+      "departure": "2014-10-17 08:58",
+      "serviceId": "2_29",
+      "tripId": "2_14939",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 09:05",
+      "departure": "2014-10-17 09:05",
+      "serviceId": "2_29",
+      "tripId": "2_15049",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 09:23",
+      "departure": "2014-10-17 09:23",
+      "serviceId": "2_29",
+      "tripId": "2_14934",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 09:30",
+      "departure": "2014-10-17 09:30",
+      "serviceId": "2_29",
+      "tripId": "2_15054",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 10:32",
+      "departure": "2014-10-17 10:32",
+      "serviceId": "2_29",
+      "tripId": "2_14944",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 10:38",
+      "departure": "2014-10-17 10:38",
+      "serviceId": "2_29",
+      "tripId": "2_15059",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 11:38",
+      "departure": "2014-10-17 11:38",
+      "serviceId": "2_29",
+      "tripId": "2_14949",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 11:43",
+      "departure": "2014-10-17 11:43",
+      "serviceId": "2_29",
+      "tripId": "2_15064",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 12:43",
+      "departure": "2014-10-17 12:43",
+      "serviceId": "2_29",
+      "tripId": "2_14954",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 12:48",
+      "departure": "2014-10-17 12:48",
+      "serviceId": "2_29",
+      "tripId": "2_15069",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 13:08",
+      "departure": "2014-10-17 13:08",
+      "serviceId": "2_29",
+      "tripId": "2_14959",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 13:18",
+      "departure": "2014-10-17 13:18",
+      "serviceId": "2_29",
+      "tripId": "2_15074",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 13:48",
+      "departure": "2014-10-17 13:48",
+      "serviceId": "2_29",
+      "tripId": "2_14964",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 13:53",
+      "departure": "2014-10-17 13:53",
+      "serviceId": "2_29",
+      "tripId": "2_15079",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 14:18",
+      "departure": "2014-10-17 14:18",
+      "serviceId": "2_29",
+      "tripId": "2_14969",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 14:23",
+      "departure": "2014-10-17 14:23",
+      "serviceId": "2_29",
+      "tripId": "2_15084",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 14:54",
+      "departure": "2014-10-17 14:54",
+      "serviceId": "2_29",
+      "tripId": "2_14974",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 15:00",
+      "departure": "2014-10-17 15:00",
+      "serviceId": "2_29",
+      "tripId": "2_15089",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 16:04",
+      "departure": "2014-10-17 16:04",
+      "serviceId": "2_29",
+      "tripId": "2_14979",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 16:08",
+      "departure": "2014-10-17 16:08",
+      "serviceId": "2_29",
+      "tripId": "2_15094",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 16:30",
+      "departure": "2014-10-17 16:30",
+      "serviceId": "2_29",
+      "tripId": "2_14984",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
       "arrival": "2014-10-17 16:38",
       "departure": "2014-10-17 16:38",
-      "serviceId": "2_39",
-      "tripId": "2_27770",
+      "serviceId": "2_34",
+      "tripId": "2_22615",
       "routeId": "2_0226",
       "headsign": "226 | Montgermont Chapelle Gévezé"
     },
     {
+      "arrival": "2014-10-17 16:40",
+      "departure": "2014-10-17 16:40",
+      "serviceId": "2_29",
+      "tripId": "2_15099",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 16:55",
+      "departure": "2014-10-17 16:55",
+      "serviceId": "2_29",
+      "tripId": "2_15139",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 17:00",
+      "departure": "2014-10-17 17:00",
+      "serviceId": "2_29",
+      "tripId": "2_15149",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 17:15",
+      "departure": "2014-10-17 17:15",
+      "serviceId": "2_29",
+      "tripId": "2_14989",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 17:20",
+      "departure": "2014-10-17 17:20",
+      "serviceId": "2_29",
+      "tripId": "2_15104",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 17:35",
+      "departure": "2014-10-17 17:35",
+      "serviceId": "2_29",
+      "tripId": "2_9136",
+      "routeId": "2_0168",
+      "headsign": "168 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 17:46",
+      "departure": "2014-10-17 17:46",
+      "serviceId": "2_29",
+      "tripId": "2_14994",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 17:53",
+      "departure": "2014-10-17 17:53",
+      "serviceId": "2_29",
+      "tripId": "2_15109",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 18:06",
+      "departure": "2014-10-17 18:06",
+      "serviceId": "2_29",
+      "tripId": "2_15144",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 18:10",
+      "departure": "2014-10-17 18:10",
+      "serviceId": "2_29",
+      "tripId": "2_15114",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
       "arrival": "2014-10-17 18:11",
       "departure": "2014-10-17 18:11",
-      "serviceId": "2_39",
-      "tripId": "2_27721",
+      "serviceId": "2_34",
+      "tripId": "2_22566",
       "routeId": "2_0224",
       "headsign": "224 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 18:26",
+      "departure": "2014-10-17 18:26",
+      "serviceId": "2_29",
+      "tripId": "2_14999",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 18:40",
+      "departure": "2014-10-17 18:40",
+      "serviceId": "2_29",
+      "tripId": "2_15119",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 18:40",
+      "departure": "2014-10-17 18:40",
+      "serviceId": "2_29",
+      "tripId": "2_9141",
+      "routeId": "2_0168",
+      "headsign": "168 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 18:55",
+      "departure": "2014-10-17 18:55",
+      "serviceId": "2_29",
+      "tripId": "2_15004",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 19:14",
+      "departure": "2014-10-17 19:14",
+      "serviceId": "2_29",
+      "tripId": "2_15009",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 19:20",
+      "departure": "2014-10-17 19:20",
+      "serviceId": "2_29",
+      "tripId": "2_15124",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 19:43",
+      "departure": "2014-10-17 19:43",
+      "serviceId": "2_29",
+      "tripId": "2_15014",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 19:50",
+      "departure": "2014-10-17 19:50",
+      "serviceId": "2_29",
+      "tripId": "2_15129",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-10-17 20:18",
+      "departure": "2014-10-17 20:18",
+      "serviceId": "2_29",
+      "tripId": "2_15019",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-17 20:48",
+      "departure": "2014-10-17 20:48",
+      "serviceId": "2_29",
+      "tripId": "2_15134",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2014-10-18 00:43",
+      "departure": "2014-10-18 00:43",
+      "serviceId": "2_30",
+      "tripId": "2_6163",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2014-10-18 02:18",
+      "departure": "2014-10-18 02:18",
+      "serviceId": "2_30",
+      "tripId": "2_6164",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
     }
   ]
 }

@@ -2,11 +2,859 @@
   "date": "2014-10-10 00:00",
   "stop": {
     "id": "2_2512",
-    "lat": 48.09623468,
+    "lat": 48.09623469,
     "lon": -1.76464809,
     "name": "Pont d\u0027Avoine",
     "code": 2512
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0054",
+      "textColor": "FFFFFF",
+      "color": "CD93BD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Le Rheu / Cintré",
+      "shortName": "54",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0055",
+      "textColor": "1A171B",
+      "color": "F7A800",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Mordelles / Le Verger",
+      "shortName": "55",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0056",
+      "textColor": "FFFFFF",
+      "color": "009A47",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+      "shortName": "56",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 06:41",
+      "departure": "2014-10-10 06:41",
+      "serviceId": "2_29",
+      "tripId": "2_5537",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 06:41",
+      "departure": "2014-10-10 06:41",
+      "serviceId": "2_29",
+      "tripId": "2_5175",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 07:01",
+      "departure": "2014-10-10 07:01",
+      "serviceId": "2_29",
+      "tripId": "2_5180",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 07:16",
+      "departure": "2014-10-10 07:16",
+      "serviceId": "2_29",
+      "tripId": "2_5185",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 07:21",
+      "departure": "2014-10-10 07:21",
+      "serviceId": "2_29",
+      "tripId": "2_9370",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 07:22",
+      "departure": "2014-10-10 07:22",
+      "serviceId": "2_29",
+      "tripId": "2_5542",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 07:39",
+      "departure": "2014-10-10 07:39",
+      "serviceId": "2_29",
+      "tripId": "2_5552",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 07:43",
+      "departure": "2014-10-10 07:43",
+      "serviceId": "2_29",
+      "tripId": "2_9300",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 07:44",
+      "departure": "2014-10-10 07:44",
+      "serviceId": "2_29",
+      "tripId": "2_5190",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 07:59",
+      "departure": "2014-10-10 07:59",
+      "serviceId": "2_29",
+      "tripId": "2_5557",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 08:09",
+      "departure": "2014-10-10 08:09",
+      "serviceId": "2_29",
+      "tripId": "2_5195",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 08:18",
+      "departure": "2014-10-10 08:18",
+      "serviceId": "2_29",
+      "tripId": "2_5727",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 08:19",
+      "departure": "2014-10-10 08:19",
+      "serviceId": "2_29",
+      "tripId": "2_5562",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 08:29",
+      "departure": "2014-10-10 08:29",
+      "serviceId": "2_29",
+      "tripId": "2_4865",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 08:33",
+      "departure": "2014-10-10 08:33",
+      "serviceId": "2_29",
+      "tripId": "2_9385",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 08:39",
+      "departure": "2014-10-10 08:39",
+      "serviceId": "2_29",
+      "tripId": "2_5567",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 08:48",
+      "departure": "2014-10-10 08:48",
+      "serviceId": "2_29",
+      "tripId": "2_5757",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 08:49",
+      "departure": "2014-10-10 08:49",
+      "serviceId": "2_29",
+      "tripId": "2_5205",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 08:59",
+      "departure": "2014-10-10 08:59",
+      "serviceId": "2_29",
+      "tripId": "2_5572",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 09:09",
+      "departure": "2014-10-10 09:09",
+      "serviceId": "2_29",
+      "tripId": "2_4870",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 09:24",
+      "departure": "2014-10-10 09:24",
+      "serviceId": "2_29",
+      "tripId": "2_5577",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 09:38",
+      "departure": "2014-10-10 09:38",
+      "serviceId": "2_29",
+      "tripId": "2_5215",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 09:42",
+      "departure": "2014-10-10 09:42",
+      "serviceId": "2_29",
+      "tripId": "2_9325",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 09:53",
+      "departure": "2014-10-10 09:53",
+      "serviceId": "2_29",
+      "tripId": "2_5582",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 10:08",
+      "departure": "2014-10-10 10:08",
+      "serviceId": "2_29",
+      "tripId": "2_4850",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 10:22",
+      "departure": "2014-10-10 10:22",
+      "serviceId": "2_29",
+      "tripId": "2_5762",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 10:23",
+      "departure": "2014-10-10 10:23",
+      "serviceId": "2_29",
+      "tripId": "2_5587",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 10:38",
+      "departure": "2014-10-10 10:38",
+      "serviceId": "2_29",
+      "tripId": "2_5220",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 10:53",
+      "departure": "2014-10-10 10:53",
+      "serviceId": "2_29",
+      "tripId": "2_5592",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 11:08",
+      "departure": "2014-10-10 11:08",
+      "serviceId": "2_29",
+      "tripId": "2_4855",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 11:23",
+      "departure": "2014-10-10 11:23",
+      "serviceId": "2_29",
+      "tripId": "2_5597",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 11:38",
+      "departure": "2014-10-10 11:38",
+      "serviceId": "2_29",
+      "tripId": "2_4845",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 11:42",
+      "departure": "2014-10-10 11:42",
+      "serviceId": "2_29",
+      "tripId": "2_5767",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 11:53",
+      "departure": "2014-10-10 11:53",
+      "serviceId": "2_29",
+      "tripId": "2_5247",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 12:08",
+      "departure": "2014-10-10 12:08",
+      "serviceId": "2_29",
+      "tripId": "2_4860",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 12:32",
+      "departure": "2014-10-10 12:32",
+      "serviceId": "2_29",
+      "tripId": "2_5772",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 12:33",
+      "departure": "2014-10-10 12:33",
+      "serviceId": "2_29",
+      "tripId": "2_5210",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 12:33",
+      "departure": "2014-10-10 12:33",
+      "serviceId": "2_29",
+      "tripId": "2_5252",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 12:48",
+      "departure": "2014-10-10 12:48",
+      "serviceId": "2_29",
+      "tripId": "2_5200",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 12:58",
+      "departure": "2014-10-10 12:58",
+      "serviceId": "2_29",
+      "tripId": "2_5257",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 13:02",
+      "departure": "2014-10-10 13:02",
+      "serviceId": "2_29",
+      "tripId": "2_5777",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 13:08",
+      "departure": "2014-10-10 13:08",
+      "serviceId": "2_29",
+      "tripId": "2_4885",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 13:28",
+      "departure": "2014-10-10 13:28",
+      "serviceId": "2_29",
+      "tripId": "2_5262",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 13:38",
+      "departure": "2014-10-10 13:38",
+      "serviceId": "2_29",
+      "tripId": "2_4875",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 13:48",
+      "departure": "2014-10-10 13:48",
+      "serviceId": "2_29",
+      "tripId": "2_4890",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 13:52",
+      "departure": "2014-10-10 13:52",
+      "serviceId": "2_29",
+      "tripId": "2_9330",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 13:58",
+      "departure": "2014-10-10 13:58",
+      "serviceId": "2_29",
+      "tripId": "2_5267",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 14:13",
+      "departure": "2014-10-10 14:13",
+      "serviceId": "2_29",
+      "tripId": "2_4880",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-10-10 14:27",
+      "departure": "2014-10-10 14:27",
+      "serviceId": "2_29",
+      "tripId": "2_5792",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 14:28",
+      "departure": "2014-10-10 14:28",
+      "serviceId": "2_29",
+      "tripId": "2_5272",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 14:33",
+      "departure": "2014-10-10 14:33",
+      "serviceId": "2_29",
+      "tripId": "2_4895",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 14:53",
+      "departure": "2014-10-10 14:53",
+      "serviceId": "2_29",
+      "tripId": "2_4900",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 14:58",
+      "departure": "2014-10-10 14:58",
+      "serviceId": "2_29",
+      "tripId": "2_5277",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 15:12",
+      "departure": "2014-10-10 15:12",
+      "serviceId": "2_29",
+      "tripId": "2_9335",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 15:13",
+      "departure": "2014-10-10 15:13",
+      "serviceId": "2_29",
+      "tripId": "2_4905",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 15:23",
+      "departure": "2014-10-10 15:23",
+      "serviceId": "2_29",
+      "tripId": "2_5282",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 15:33",
+      "departure": "2014-10-10 15:33",
+      "serviceId": "2_29",
+      "tripId": "2_4910",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 15:44",
+      "departure": "2014-10-10 15:44",
+      "serviceId": "2_29",
+      "tripId": "2_5472",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 15:55",
+      "departure": "2014-10-10 15:55",
+      "serviceId": "2_29",
+      "tripId": "2_4915",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 15:59",
+      "departure": "2014-10-10 15:59",
+      "serviceId": "2_29",
+      "tripId": "2_9345",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 16:05",
+      "departure": "2014-10-10 16:05",
+      "serviceId": "2_29",
+      "tripId": "2_5287",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 16:15",
+      "departure": "2014-10-10 16:15",
+      "serviceId": "2_29",
+      "tripId": "2_4920",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 16:25",
+      "departure": "2014-10-10 16:25",
+      "serviceId": "2_29",
+      "tripId": "2_5292",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 16:34",
+      "departure": "2014-10-10 16:34",
+      "serviceId": "2_29",
+      "tripId": "2_9375",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 16:35",
+      "departure": "2014-10-10 16:35",
+      "serviceId": "2_29",
+      "tripId": "2_4925",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 16:47",
+      "departure": "2014-10-10 16:47",
+      "serviceId": "2_29",
+      "tripId": "2_5297",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 16:57",
+      "departure": "2014-10-10 16:57",
+      "serviceId": "2_29",
+      "tripId": "2_4930",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 17:06",
+      "departure": "2014-10-10 17:06",
+      "serviceId": "2_29",
+      "tripId": "2_5797",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 17:07",
+      "departure": "2014-10-10 17:07",
+      "serviceId": "2_29",
+      "tripId": "2_5302",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 17:17",
+      "departure": "2014-10-10 17:17",
+      "serviceId": "2_29",
+      "tripId": "2_4935",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 17:27",
+      "departure": "2014-10-10 17:27",
+      "serviceId": "2_29",
+      "tripId": "2_5307",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 17:37",
+      "departure": "2014-10-10 17:37",
+      "serviceId": "2_29",
+      "tripId": "2_4940",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 17:41",
+      "departure": "2014-10-10 17:41",
+      "serviceId": "2_29",
+      "tripId": "2_9355",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 17:47",
+      "departure": "2014-10-10 17:47",
+      "serviceId": "2_29",
+      "tripId": "2_5312",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 17:57",
+      "departure": "2014-10-10 17:57",
+      "serviceId": "2_29",
+      "tripId": "2_4945",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 18:05",
+      "departure": "2014-10-10 18:05",
+      "serviceId": "2_29",
+      "tripId": "2_5317",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 18:09",
+      "departure": "2014-10-10 18:09",
+      "serviceId": "2_29",
+      "tripId": "2_5807",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 18:15",
+      "departure": "2014-10-10 18:15",
+      "serviceId": "2_29",
+      "tripId": "2_5232",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 18:24",
+      "departure": "2014-10-10 18:24",
+      "serviceId": "2_29",
+      "tripId": "2_5322",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 18:34",
+      "departure": "2014-10-10 18:34",
+      "serviceId": "2_29",
+      "tripId": "2_4950",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 18:38",
+      "departure": "2014-10-10 18:38",
+      "serviceId": "2_29",
+      "tripId": "2_9315",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 18:44",
+      "departure": "2014-10-10 18:44",
+      "serviceId": "2_29",
+      "tripId": "2_5327",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 18:53",
+      "departure": "2014-10-10 18:53",
+      "serviceId": "2_29",
+      "tripId": "2_4955",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 19:02",
+      "departure": "2014-10-10 19:02",
+      "serviceId": "2_29",
+      "tripId": "2_5332",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 19:06",
+      "departure": "2014-10-10 19:06",
+      "serviceId": "2_29",
+      "tripId": "2_9310",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 19:11",
+      "departure": "2014-10-10 19:11",
+      "serviceId": "2_29",
+      "tripId": "2_5227",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 19:22",
+      "departure": "2014-10-10 19:22",
+      "serviceId": "2_29",
+      "tripId": "2_5337",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 19:30",
+      "departure": "2014-10-10 19:30",
+      "serviceId": "2_29",
+      "tripId": "2_4960",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 19:35",
+      "departure": "2014-10-10 19:35",
+      "serviceId": "2_29",
+      "tripId": "2_5812",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 19:41",
+      "departure": "2014-10-10 19:41",
+      "serviceId": "2_29",
+      "tripId": "2_5342",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 19:50",
+      "departure": "2014-10-10 19:50",
+      "serviceId": "2_29",
+      "tripId": "2_4965",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 20:00",
+      "departure": "2014-10-10 20:00",
+      "serviceId": "2_29",
+      "tripId": "2_5347",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 20:00",
+      "departure": "2014-10-10 20:00",
+      "serviceId": "2_29",
+      "tripId": "2_5822",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 20:10",
+      "departure": "2014-10-10 20:10",
+      "serviceId": "2_29",
+      "tripId": "2_4970",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 20:30",
+      "departure": "2014-10-10 20:30",
+      "serviceId": "2_29",
+      "tripId": "2_4975",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-10 20:30",
+      "departure": "2014-10-10 20:30",
+      "serviceId": "2_29",
+      "tripId": "2_5817",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 20:35",
+      "departure": "2014-10-10 20:35",
+      "serviceId": "2_29",
+      "tripId": "2_5352",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-10-10 20:59",
+      "departure": "2014-10-10 20:59",
+      "serviceId": "2_29",
+      "tripId": "2_9360",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 21:09",
+      "departure": "2014-10-10 21:09",
+      "serviceId": "2_29",
+      "tripId": "2_5547",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-10-10 21:09",
+      "departure": "2014-10-10 21:09",
+      "serviceId": "2_29",
+      "tripId": "2_4980",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-10-11 00:14",
+      "departure": "2014-10-11 00:14",
+      "serviceId": "2_30",
+      "tripId": "2_5222",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Mordelles Chavagne"
+    },
+    {
+      "arrival": "2014-10-11 01:49",
+      "departure": "2014-10-11 01:49",
+      "serviceId": "2_30",
+      "tripId": "2_5221",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Mordelles Chavagne"
+    }
+  ]
 }

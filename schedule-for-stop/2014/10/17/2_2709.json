@@ -9,6 +9,26 @@
   },
   "routes": [
     {
+      "id": "2_0061",
+      "textColor": "FFFFFF",
+      "color": "E6396C",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon",
+      "shortName": "61",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0091",
+      "textColor": "1A171B",
+      "color": "AECC52",
+      "description": "Intercommunale",
+      "longName": "Bruz / Chartres \u003c\u003e Noyal-Châtillon-sur-Seiche",
+      "shortName": "91",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
       "id": "2_0212",
       "textColor": "FFFFFF",
       "color": "BA67A6",
@@ -21,12 +41,428 @@
   ],
   "stopTimes": [
     {
+      "arrival": "2014-10-17 06:18",
+      "departure": "2014-10-17 06:18",
+      "serviceId": "2_29",
+      "tripId": "2_7346",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 06:43",
+      "departure": "2014-10-17 06:43",
+      "serviceId": "2_29",
+      "tripId": "2_7081",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 07:05",
+      "departure": "2014-10-17 07:05",
+      "serviceId": "2_29",
+      "tripId": "2_7316",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 07:21",
+      "departure": "2014-10-17 07:21",
+      "serviceId": "2_29",
+      "tripId": "2_7131",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 07:36",
+      "departure": "2014-10-17 07:36",
+      "serviceId": "2_29",
+      "tripId": "2_7201",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
       "arrival": "2014-10-17 07:49",
       "departure": "2014-10-17 07:49",
-      "serviceId": "2_38",
-      "tripId": "2_27636",
+      "serviceId": "2_33",
+      "tripId": "2_22481",
       "routeId": "2_0212",
       "headsign": "212 | Rennes Lycée Bréquigny"
+    },
+    {
+      "arrival": "2014-10-17 07:51",
+      "departure": "2014-10-17 07:51",
+      "serviceId": "2_29",
+      "tripId": "2_7136",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 08:09",
+      "departure": "2014-10-17 08:09",
+      "serviceId": "2_29",
+      "tripId": "2_7141",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 08:29",
+      "departure": "2014-10-17 08:29",
+      "serviceId": "2_29",
+      "tripId": "2_7321",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 08:37",
+      "departure": "2014-10-17 08:37",
+      "serviceId": "2_29",
+      "tripId": "2_12362",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 08:44",
+      "departure": "2014-10-17 08:44",
+      "serviceId": "2_29",
+      "tripId": "2_7326",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 08:58",
+      "departure": "2014-10-17 08:58",
+      "serviceId": "2_29",
+      "tripId": "2_7331",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 09:09",
+      "departure": "2014-10-17 09:09",
+      "serviceId": "2_29",
+      "tripId": "2_12357",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 09:14",
+      "departure": "2014-10-17 09:14",
+      "serviceId": "2_29",
+      "tripId": "2_7336",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 09:34",
+      "departure": "2014-10-17 09:34",
+      "serviceId": "2_29",
+      "tripId": "2_7146",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 09:36",
+      "departure": "2014-10-17 09:36",
+      "serviceId": "2_29",
+      "tripId": "2_12367",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 10:04",
+      "departure": "2014-10-17 10:04",
+      "serviceId": "2_29",
+      "tripId": "2_7151",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 10:34",
+      "departure": "2014-10-17 10:34",
+      "serviceId": "2_29",
+      "tripId": "2_7341",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 11:03",
+      "departure": "2014-10-17 11:03",
+      "serviceId": "2_29",
+      "tripId": "2_7156",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 11:33",
+      "departure": "2014-10-17 11:33",
+      "serviceId": "2_29",
+      "tripId": "2_7076",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 12:03",
+      "departure": "2014-10-17 12:03",
+      "serviceId": "2_29",
+      "tripId": "2_7161",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 12:33",
+      "departure": "2014-10-17 12:33",
+      "serviceId": "2_29",
+      "tripId": "2_7176",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 13:02",
+      "departure": "2014-10-17 13:02",
+      "serviceId": "2_29",
+      "tripId": "2_12352",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 13:03",
+      "departure": "2014-10-17 13:03",
+      "serviceId": "2_29",
+      "tripId": "2_7166",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 13:34",
+      "departure": "2014-10-17 13:34",
+      "serviceId": "2_29",
+      "tripId": "2_7181",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 13:59",
+      "departure": "2014-10-17 13:59",
+      "serviceId": "2_29",
+      "tripId": "2_12417",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 14:04",
+      "departure": "2014-10-17 14:04",
+      "serviceId": "2_29",
+      "tripId": "2_7171",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 14:34",
+      "departure": "2014-10-17 14:34",
+      "serviceId": "2_29",
+      "tripId": "2_7351",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 14:40",
+      "departure": "2014-10-17 14:40",
+      "serviceId": "2_29",
+      "tripId": "2_12427",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 15:04",
+      "departure": "2014-10-17 15:04",
+      "serviceId": "2_29",
+      "tripId": "2_7356",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 15:20",
+      "departure": "2014-10-17 15:20",
+      "serviceId": "2_29",
+      "tripId": "2_12422",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 15:34",
+      "departure": "2014-10-17 15:34",
+      "serviceId": "2_29",
+      "tripId": "2_7361",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 15:54",
+      "departure": "2014-10-17 15:54",
+      "serviceId": "2_29",
+      "tripId": "2_7441",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 16:14",
+      "departure": "2014-10-17 16:14",
+      "serviceId": "2_29",
+      "tripId": "2_7186",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 16:16",
+      "departure": "2014-10-17 16:16",
+      "serviceId": "2_29",
+      "tripId": "2_12432",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 16:37",
+      "departure": "2014-10-17 16:37",
+      "serviceId": "2_29",
+      "tripId": "2_7191",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 16:42",
+      "departure": "2014-10-17 16:42",
+      "serviceId": "2_29",
+      "tripId": "2_12322",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 16:57",
+      "departure": "2014-10-17 16:57",
+      "serviceId": "2_29",
+      "tripId": "2_7366",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 17:13",
+      "departure": "2014-10-17 17:13",
+      "serviceId": "2_29",
+      "tripId": "2_12407",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 17:17",
+      "departure": "2014-10-17 17:17",
+      "serviceId": "2_29",
+      "tripId": "2_7371",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 17:41",
+      "departure": "2014-10-17 17:41",
+      "serviceId": "2_29",
+      "tripId": "2_7116",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 17:43",
+      "departure": "2014-10-17 17:43",
+      "serviceId": "2_29",
+      "tripId": "2_12372",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 18:03",
+      "departure": "2014-10-17 18:03",
+      "serviceId": "2_29",
+      "tripId": "2_7376",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 18:07",
+      "departure": "2014-10-17 18:07",
+      "serviceId": "2_29",
+      "tripId": "2_12452",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 18:22",
+      "departure": "2014-10-17 18:22",
+      "serviceId": "2_29",
+      "tripId": "2_7391",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 18:36",
+      "departure": "2014-10-17 18:36",
+      "serviceId": "2_29",
+      "tripId": "2_12347",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2014-10-17 18:47",
+      "departure": "2014-10-17 18:47",
+      "serviceId": "2_29",
+      "tripId": "2_7396",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 19:07",
+      "departure": "2014-10-17 19:07",
+      "serviceId": "2_29",
+      "tripId": "2_7381",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 19:27",
+      "departure": "2014-10-17 19:27",
+      "serviceId": "2_29",
+      "tripId": "2_7386",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 19:47",
+      "departure": "2014-10-17 19:47",
+      "serviceId": "2_29",
+      "tripId": "2_7453",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 20:07",
+      "departure": "2014-10-17 20:07",
+      "serviceId": "2_29",
+      "tripId": "2_7291",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 20:32",
+      "departure": "2014-10-17 20:32",
+      "serviceId": "2_29",
+      "tripId": "2_7296",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-10-17 21:02",
+      "departure": "2014-10-17 21:02",
+      "serviceId": "2_29",
+      "tripId": "2_7301",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
     }
   ]
 }

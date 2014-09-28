@@ -7,6 +7,50 @@
     "name": "Le Pâtis",
     "code": 2254
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0037",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Henri Fréville \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "37",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 07:11",
+      "departure": "2014-10-10 07:11",
+      "serviceId": "2_29",
+      "tripId": "2_11030",
+      "routeId": "2_0037",
+      "headsign": "37 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2014-10-10 07:41",
+      "departure": "2014-10-10 07:41",
+      "serviceId": "2_29",
+      "tripId": "2_10995",
+      "routeId": "2_0037",
+      "headsign": "37 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2014-10-10 08:22",
+      "departure": "2014-10-10 08:22",
+      "serviceId": "2_29",
+      "tripId": "2_11000",
+      "routeId": "2_0037",
+      "headsign": "37 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2014-10-10 08:42",
+      "departure": "2014-10-10 08:42",
+      "serviceId": "2_29",
+      "tripId": "2_11005",
+      "routeId": "2_0037",
+      "headsign": "37 | Saint-Jacques Morinais"
+    }
+  ]
 }

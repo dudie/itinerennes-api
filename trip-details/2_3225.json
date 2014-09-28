@@ -1,16 +1,38 @@
 {
-  "headsign": "40 | République",
+  "headsign": "C4 | République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1290",
-        "lat": 48.12688601,
-        "lon": -1.62954442,
-        "name": "Clos Courtel",
-        "code": 1290
+        "id": "2_1630",
+        "lat": 48.13266219,
+        "lon": -1.63618724,
+        "name": "ZA Saint-Sulpice",
+        "code": 1630
       },
-      "arrival": 64620,
-      "departure": 64620
+      "arrival": 84240,
+      "departure": 84240
+    },
+    {
+      "stop": {
+        "id": "2_1617",
+        "lat": 48.12914499,
+        "lon": -1.63014755,
+        "name": "Longs Champs Est",
+        "code": 1617
+      },
+      "arrival": 84360,
+      "departure": 84360
+    },
+    {
+      "stop": {
+        "id": "2_1536",
+        "lat": 48.12680571,
+        "lon": -1.6300959,
+        "name": "Clos Courtel",
+        "code": 1536
+      },
+      "arrival": 84420,
+      "departure": 84420
     },
     {
       "stop": {
@@ -20,8 +42,8 @@
         "name": "IUT",
         "code": 1291
       },
-      "arrival": 64680,
-      "departure": 64680
+      "arrival": 84480,
+      "departure": 84480
     },
     {
       "stop": {
@@ -31,8 +53,8 @@
         "name": "Beaulieu Restau U",
         "code": 1292
       },
-      "arrival": 64800,
-      "departure": 64800
+      "arrival": 84600,
+      "departure": 84600
     },
     {
       "stop": {
@@ -42,8 +64,8 @@
         "name": "Beaulieu INSA",
         "code": 1176
       },
-      "arrival": 64860,
-      "departure": 64860
+      "arrival": 84660,
+      "departure": 84660
     },
     {
       "stop": {
@@ -53,8 +75,8 @@
         "name": "Beaulieu Chimie",
         "code": 1312
       },
-      "arrival": 64920,
-      "departure": 64920
+      "arrival": 84720,
+      "departure": 84720
     },
     {
       "stop": {
@@ -64,8 +86,8 @@
         "name": "Tournebride",
         "code": 1160
       },
-      "arrival": 64980,
-      "departure": 64980
+      "arrival": 84780,
+      "departure": 84780
     },
     {
       "stop": {
@@ -75,8 +97,8 @@
         "name": "Les Préales",
         "code": 1603
       },
-      "arrival": 65100,
-      "departure": 65100
+      "arrival": 84840,
+      "departure": 84840
     },
     {
       "stop": {
@@ -86,8 +108,52 @@
         "name": "Plaine de Baud",
         "code": 1161
       },
-      "arrival": 65160,
-      "departure": 65160
+      "arrival": 84900,
+      "departure": 84900
+    },
+    {
+      "stop": {
+        "id": "2_1605",
+        "lat": 48.11011386,
+        "lon": -1.65647985,
+        "name": "Pont de Strasbourg",
+        "code": 1605
+      },
+      "arrival": 85020,
+      "departure": 85020
+    },
+    {
+      "stop": {
+        "id": "2_1163",
+        "lat": 48.1101066,
+        "lon": -1.66054614,
+        "name": "Robidou",
+        "code": 1163
+      },
+      "arrival": 85080,
+      "departure": 85080
+    },
+    {
+      "stop": {
+        "id": "2_1164",
+        "lat": 48.11009515,
+        "lon": -1.66397755,
+        "name": "Pont de Châteaudun",
+        "code": 1164
+      },
+      "arrival": 85140,
+      "departure": 85140
+    },
+    {
+      "stop": {
+        "id": "2_1165",
+        "lat": 48.11006169,
+        "lon": -1.67017835,
+        "name": "Paul Bert",
+        "code": 1165
+      },
+      "arrival": 85200,
+      "departure": 85200
     },
     {
       "stop": {
@@ -97,28 +163,28 @@
         "name": "Musée Beaux Arts",
         "code": 1166
       },
-      "arrival": 65520,
-      "departure": 65520
+      "arrival": 85260,
+      "departure": 85260
     },
     {
       "stop": {
-        "id": "2_1090",
-        "lat": 48.10952605,
-        "lon": -1.6779074,
+        "id": "2_1168",
+        "lat": 48.10980866,
+        "lon": -1.67882417,
         "name": "République",
-        "code": 1090
+        "code": 1168
       },
-      "arrival": 65640,
-      "departure": 65640
+      "arrival": 85380,
+      "departure": 85380
     }
   ],
   "route": {
-    "id": "2_0040",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express urbaine",
-    "longName": "République \u003c\u003e Beaulieu Atalante",
-    "shortName": "40",
+    "id": "2_0004",
+    "textColor": "FFFFFF",
+    "color": "6D1F80",
+    "description": "Chronostar",
+    "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+    "shortName": "C4",
     "type": 3,
     "agencyId": "2"
   }

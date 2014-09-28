@@ -9,6 +9,36 @@
   },
   "routes": [
     {
+      "id": "2_0054",
+      "textColor": "FFFFFF",
+      "color": "CD93BD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Le Rheu / Cintré",
+      "shortName": "54",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0056",
+      "textColor": "FFFFFF",
+      "color": "009A47",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+      "shortName": "56",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0156",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Chavagne",
+      "shortName": "156",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
       "id": "2_0211",
       "textColor": "FFFFFF",
       "color": "702283",
@@ -31,36 +61,268 @@
   ],
   "stopTimes": [
     {
+      "arrival": "2014-10-10 07:33",
+      "departure": "2014-10-10 07:33",
+      "serviceId": "2_29",
+      "tripId": "2_9370",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 07:55",
+      "departure": "2014-10-10 07:55",
+      "serviceId": "2_29",
+      "tripId": "2_9300",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 08:30",
+      "departure": "2014-10-10 08:30",
+      "serviceId": "2_29",
+      "tripId": "2_5727",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 08:45",
+      "departure": "2014-10-10 08:45",
+      "serviceId": "2_29",
+      "tripId": "2_9385",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 09:00",
+      "departure": "2014-10-10 09:00",
+      "serviceId": "2_29",
+      "tripId": "2_5757",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 09:54",
+      "departure": "2014-10-10 09:54",
+      "serviceId": "2_29",
+      "tripId": "2_9325",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 10:34",
+      "departure": "2014-10-10 10:34",
+      "serviceId": "2_29",
+      "tripId": "2_5762",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 11:54",
+      "departure": "2014-10-10 11:54",
+      "serviceId": "2_29",
+      "tripId": "2_5767",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 12:44",
+      "departure": "2014-10-10 12:44",
+      "serviceId": "2_29",
+      "tripId": "2_5772",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 13:14",
+      "departure": "2014-10-10 13:14",
+      "serviceId": "2_29",
+      "tripId": "2_5777",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 14:04",
+      "departure": "2014-10-10 14:04",
+      "serviceId": "2_29",
+      "tripId": "2_9330",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 14:39",
+      "departure": "2014-10-10 14:39",
+      "serviceId": "2_29",
+      "tripId": "2_5792",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 15:24",
+      "departure": "2014-10-10 15:24",
+      "serviceId": "2_29",
+      "tripId": "2_9335",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 16:11",
+      "departure": "2014-10-10 16:11",
+      "serviceId": "2_29",
+      "tripId": "2_9345",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
       "arrival": "2014-10-10 16:32",
       "departure": "2014-10-10 16:32",
-      "serviceId": "2_39",
-      "tripId": "2_27626",
+      "serviceId": "2_34",
+      "tripId": "2_22471",
       "routeId": "2_0211",
       "headsign": "211 | Chavagne"
     },
     {
+      "arrival": "2014-10-10 16:46",
+      "departure": "2014-10-10 16:46",
+      "serviceId": "2_29",
+      "tripId": "2_9375",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 16:55",
+      "departure": "2014-10-10 16:55",
+      "serviceId": "2_29",
+      "tripId": "2_5702",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 17:18",
+      "departure": "2014-10-10 17:18",
+      "serviceId": "2_29",
+      "tripId": "2_5797",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
       "arrival": "2014-10-10 17:28",
       "departure": "2014-10-10 17:28",
-      "serviceId": "2_39",
-      "tripId": "2_27827",
+      "serviceId": "2_34",
+      "tripId": "2_22672",
       "routeId": "2_0229",
       "headsign": "229 | Chavagne Croix Blanche"
     },
     {
       "arrival": "2014-10-10 17:28",
       "departure": "2014-10-10 17:28",
-      "serviceId": "2_39",
-      "tripId": "2_27823",
+      "serviceId": "2_34",
+      "tripId": "2_22668",
       "routeId": "2_0229",
       "headsign": "229 | Chavagne Croix Blanche"
     },
     {
       "arrival": "2014-10-10 17:40",
       "departure": "2014-10-10 17:40",
-      "serviceId": "2_39",
-      "tripId": "2_27630",
+      "serviceId": "2_34",
+      "tripId": "2_22475",
       "routeId": "2_0211",
       "headsign": "211 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 17:53",
+      "departure": "2014-10-10 17:53",
+      "serviceId": "2_29",
+      "tripId": "2_9355",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 18:03",
+      "departure": "2014-10-10 18:03",
+      "serviceId": "2_29",
+      "tripId": "2_5707",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 18:21",
+      "departure": "2014-10-10 18:21",
+      "serviceId": "2_29",
+      "tripId": "2_5807",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 18:50",
+      "departure": "2014-10-10 18:50",
+      "serviceId": "2_29",
+      "tripId": "2_9315",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 19:06",
+      "departure": "2014-10-10 19:06",
+      "serviceId": "2_29",
+      "tripId": "2_5712",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 19:18",
+      "departure": "2014-10-10 19:18",
+      "serviceId": "2_29",
+      "tripId": "2_9310",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 19:47",
+      "departure": "2014-10-10 19:47",
+      "serviceId": "2_29",
+      "tripId": "2_5812",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 20:12",
+      "departure": "2014-10-10 20:12",
+      "serviceId": "2_29",
+      "tripId": "2_5822",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 20:42",
+      "departure": "2014-10-10 20:42",
+      "serviceId": "2_29",
+      "tripId": "2_5817",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-10 21:09",
+      "departure": "2014-10-10 21:09",
+      "serviceId": "2_29",
+      "tripId": "2_9360",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-10-11 00:47",
+      "departure": "2014-10-11 00:47",
+      "serviceId": "2_30",
+      "tripId": "2_5222",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Mordelles Chavagne"
+    },
+    {
+      "arrival": "2014-10-11 02:22",
+      "departure": "2014-10-11 02:22",
+      "serviceId": "2_30",
+      "tripId": "2_5221",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Mordelles Chavagne"
     }
   ]
 }

@@ -9,6 +9,26 @@
   },
   "routes": [
     {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "004293",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0172",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan",
+      "shortName": "172",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
       "id": "2_0230",
       "textColor": "FFFFFF",
       "color": "009881",
@@ -21,12 +41,396 @@
   ],
   "stopTimes": [
     {
+      "arrival": "2014-10-17 06:29",
+      "departure": "2014-10-17 06:29",
+      "serviceId": "2_29",
+      "tripId": "2_9961",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 07:00",
+      "departure": "2014-10-17 07:00",
+      "serviceId": "2_29",
+      "tripId": "2_9966",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 07:32",
+      "departure": "2014-10-17 07:32",
+      "serviceId": "2_29",
+      "tripId": "2_9976",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 07:55",
+      "departure": "2014-10-17 07:55",
+      "serviceId": "2_29",
+      "tripId": "2_9971",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan via T. Tizon"
+    },
+    {
       "arrival": "2014-10-17 08:03",
       "departure": "2014-10-17 08:03",
-      "serviceId": "2_38",
-      "tripId": "2_27837",
+      "serviceId": "2_33",
+      "tripId": "2_22682",
       "routeId": "2_0230",
       "headsign": "230 | Bruz Collège Saint-Joseph"
+    },
+    {
+      "arrival": "2014-10-17 08:12",
+      "departure": "2014-10-17 08:12",
+      "serviceId": "2_29",
+      "tripId": "2_9981",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 08:27",
+      "departure": "2014-10-17 08:27",
+      "serviceId": "2_29",
+      "tripId": "2_9986",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 08:42",
+      "departure": "2014-10-17 08:42",
+      "serviceId": "2_29",
+      "tripId": "2_9991",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 09:02",
+      "departure": "2014-10-17 09:02",
+      "serviceId": "2_29",
+      "tripId": "2_11331",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 09:32",
+      "departure": "2014-10-17 09:32",
+      "serviceId": "2_29",
+      "tripId": "2_9996",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 10:11",
+      "departure": "2014-10-17 10:11",
+      "serviceId": "2_29",
+      "tripId": "2_10001",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 10:46",
+      "departure": "2014-10-17 10:46",
+      "serviceId": "2_29",
+      "tripId": "2_10006",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 11:26",
+      "departure": "2014-10-17 11:26",
+      "serviceId": "2_29",
+      "tripId": "2_10011",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 12:01",
+      "departure": "2014-10-17 12:01",
+      "serviceId": "2_29",
+      "tripId": "2_10016",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 12:47",
+      "departure": "2014-10-17 12:47",
+      "serviceId": "2_29",
+      "tripId": "2_10021",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 13:12",
+      "departure": "2014-10-17 13:12",
+      "serviceId": "2_29",
+      "tripId": "2_11346",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 13:36",
+      "departure": "2014-10-17 13:36",
+      "serviceId": "2_29",
+      "tripId": "2_11351",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 14:01",
+      "departure": "2014-10-17 14:01",
+      "serviceId": "2_29",
+      "tripId": "2_11356",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 14:26",
+      "departure": "2014-10-17 14:26",
+      "serviceId": "2_29",
+      "tripId": "2_11361",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 14:51",
+      "departure": "2014-10-17 14:51",
+      "serviceId": "2_29",
+      "tripId": "2_11366",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 15:16",
+      "departure": "2014-10-17 15:16",
+      "serviceId": "2_29",
+      "tripId": "2_11371",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 15:41",
+      "departure": "2014-10-17 15:41",
+      "serviceId": "2_29",
+      "tripId": "2_11376",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 16:06",
+      "departure": "2014-10-17 16:06",
+      "serviceId": "2_29",
+      "tripId": "2_11381",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 16:08",
+      "departure": "2014-10-17 16:08",
+      "serviceId": "2_30",
+      "tripId": "2_9865",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 16:23",
+      "departure": "2014-10-17 16:23",
+      "serviceId": "2_29",
+      "tripId": "2_10026",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 16:38",
+      "departure": "2014-10-17 16:38",
+      "serviceId": "2_29",
+      "tripId": "2_10031",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 16:53",
+      "departure": "2014-10-17 16:53",
+      "serviceId": "2_29",
+      "tripId": "2_10036",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 17:01",
+      "departure": "2014-10-17 17:01",
+      "serviceId": "2_29",
+      "tripId": "2_11584",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2014-10-17 17:03",
+      "departure": "2014-10-17 17:03",
+      "serviceId": "2_30",
+      "tripId": "2_9869",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 17:11",
+      "departure": "2014-10-17 17:11",
+      "serviceId": "2_29",
+      "tripId": "2_10041",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 17:28",
+      "departure": "2014-10-17 17:28",
+      "serviceId": "2_29",
+      "tripId": "2_10046",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 17:31",
+      "departure": "2014-10-17 17:31",
+      "serviceId": "2_29",
+      "tripId": "2_11564",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2014-10-17 17:46",
+      "departure": "2014-10-17 17:46",
+      "serviceId": "2_29",
+      "tripId": "2_11569",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2014-10-17 17:49",
+      "departure": "2014-10-17 17:49",
+      "serviceId": "2_29",
+      "tripId": "2_10051",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 18:05",
+      "departure": "2014-10-17 18:05",
+      "serviceId": "2_29",
+      "tripId": "2_10056",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 18:18",
+      "departure": "2014-10-17 18:18",
+      "serviceId": "2_29",
+      "tripId": "2_11574",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2014-10-17 18:20",
+      "departure": "2014-10-17 18:20",
+      "serviceId": "2_29",
+      "tripId": "2_10061",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 18:31",
+      "departure": "2014-10-17 18:31",
+      "serviceId": "2_29",
+      "tripId": "2_11579",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2014-10-17 18:35",
+      "departure": "2014-10-17 18:35",
+      "serviceId": "2_29",
+      "tripId": "2_10066",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 18:53",
+      "departure": "2014-10-17 18:53",
+      "serviceId": "2_29",
+      "tripId": "2_10071",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 19:07",
+      "departure": "2014-10-17 19:07",
+      "serviceId": "2_29",
+      "tripId": "2_10076",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 19:21",
+      "departure": "2014-10-17 19:21",
+      "serviceId": "2_29",
+      "tripId": "2_10081",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 19:36",
+      "departure": "2014-10-17 19:36",
+      "serviceId": "2_29",
+      "tripId": "2_10086",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 19:51",
+      "departure": "2014-10-17 19:51",
+      "serviceId": "2_29",
+      "tripId": "2_10091",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 20:11",
+      "departure": "2014-10-17 20:11",
+      "serviceId": "2_29",
+      "tripId": "2_10096",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-17 20:41",
+      "departure": "2014-10-17 20:41",
+      "serviceId": "2_29",
+      "tripId": "2_10101",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-17 21:11",
+      "departure": "2014-10-17 21:11",
+      "serviceId": "2_29",
+      "tripId": "2_10106",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2014-10-18 00:27",
+      "departure": "2014-10-18 00:27",
+      "serviceId": "2_30",
+      "tripId": "2_11412",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2014-10-18 02:02",
+      "departure": "2014-10-18 02:02",
+      "serviceId": "2_30",
+      "tripId": "2_11413",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
     }
   ]
 }

@@ -7,6 +7,34 @@
     "name": "Crotigné",
     "code": 3411
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0075",
+      "textColor": "201D21",
+      "color": "F2973E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (La Poterie) \u003c\u003e Nouvoitou",
+      "shortName": "75",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-17 06:58",
+      "departure": "2014-10-17 06:58",
+      "serviceId": "2_29",
+      "tripId": "2_10695",
+      "routeId": "2_0075",
+      "headsign": "75 | Nouvoitou Langlois"
+    },
+    {
+      "arrival": "2014-10-17 18:40",
+      "departure": "2014-10-17 18:40",
+      "serviceId": "2_29",
+      "tripId": "2_10455",
+      "routeId": "2_0075",
+      "headsign": "75 | Vern Nouvoitou L\u0027Ourmais"
+    }
+  ]
 }
