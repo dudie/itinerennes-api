@@ -2,8 +2,8 @@
   "date": "2014-09-29 00:00",
   "stop": {
     "id": "2_2458",
-    "lat": 48.19098546,
-    "lon": -1.62895708,
+    "lat": 48.19099575,
+    "lon": -1.6289883,
     "name": "Gentilhommière",
     "code": 2458
   },
@@ -47,6 +47,26 @@
       "shortName": "202",
       "type": 3,
       "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
     }
   ],
   "stopTimes": [
@@ -54,7 +74,7 @@
       "arrival": "2014-09-29 06:56",
       "departure": "2014-09-29 06:56",
       "serviceId": "2_9",
-      "tripId": "2_29183",
+      "tripId": "2_23156",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -62,7 +82,7 @@
       "arrival": "2014-09-29 07:31",
       "departure": "2014-09-29 07:31",
       "serviceId": "2_9",
-      "tripId": "2_29169",
+      "tripId": "2_23146",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -70,7 +90,7 @@
       "arrival": "2014-09-29 08:36",
       "departure": "2014-09-29 08:36",
       "serviceId": "2_9",
-      "tripId": "2_29043",
+      "tripId": "2_23056",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -78,31 +98,31 @@
       "arrival": "2014-09-29 10:22",
       "departure": "2014-09-29 10:22",
       "serviceId": "2_9",
-      "tripId": "2_28889",
+      "tripId": "2_23222",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 11:27",
       "departure": "2014-09-29 11:27",
       "serviceId": "2_9",
-      "tripId": "2_28896",
+      "tripId": "2_23227",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 12:21",
       "departure": "2014-09-29 12:21",
       "serviceId": "2_9",
-      "tripId": "2_28903",
+      "tripId": "2_23232",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 12:39",
       "departure": "2014-09-29 12:39",
       "serviceId": "2_9",
-      "tripId": "2_29085",
+      "tripId": "2_23086",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -110,31 +130,31 @@
       "arrival": "2014-09-29 13:31",
       "departure": "2014-09-29 13:31",
       "serviceId": "2_9",
-      "tripId": "2_28910",
+      "tripId": "2_23237",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 14:40",
       "departure": "2014-09-29 14:40",
       "serviceId": "2_9",
-      "tripId": "2_28917",
+      "tripId": "2_23242",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 15:47",
       "departure": "2014-09-29 15:47",
       "serviceId": "2_9",
-      "tripId": "2_28924",
+      "tripId": "2_23247",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 15:57",
       "departure": "2014-09-29 15:57",
       "serviceId": "2_9",
-      "tripId": "2_28733",
+      "tripId": "2_23792",
       "routeId": "2_0051",
       "headsign": "51 | Rennes Hoche"
     },
@@ -142,31 +162,55 @@
       "arrival": "2014-09-29 16:40",
       "departure": "2014-09-29 16:40",
       "serviceId": "2_9",
-      "tripId": "2_29092",
+      "tripId": "2_23091",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2014-09-29 17:03",
+      "departure": "2014-09-29 17:03",
+      "serviceId": "2_14",
+      "tripId": "2_22926",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton"
+    },
+    {
+      "arrival": "2014-09-29 17:04",
+      "departure": "2014-09-29 17:04",
+      "serviceId": "2_14",
+      "tripId": "2_22554",
+      "routeId": "2_0222",
+      "headsign": "222 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 17:28",
       "departure": "2014-09-29 17:28",
       "serviceId": "2_9",
-      "tripId": "2_29141",
+      "tripId": "2_23126",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2014-09-29 17:59",
+      "departure": "2014-09-29 17:59",
+      "serviceId": "2_14",
+      "tripId": "2_22918",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton Chevaigné"
     },
     {
       "arrival": "2014-09-29 18:00",
       "departure": "2014-09-29 18:00",
       "serviceId": "2_9",
-      "tripId": "2_29099",
+      "tripId": "2_23096",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
     {
       "arrival": "2014-09-29 18:37",
       "departure": "2014-09-29 18:37",
-      "serviceId": "2_17",
-      "tripId": "2_21147",
+      "serviceId": "2_14",
+      "tripId": "2_17060",
       "routeId": "2_0202",
       "headsign": "202 | Betton Chevaigné"
     },
@@ -174,7 +218,7 @@
       "arrival": "2014-09-29 18:41",
       "departure": "2014-09-29 18:41",
       "serviceId": "2_9",
-      "tripId": "2_29106",
+      "tripId": "2_23101",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -182,7 +226,7 @@
       "arrival": "2014-09-29 19:13",
       "departure": "2014-09-29 19:13",
       "serviceId": "2_9",
-      "tripId": "2_29113",
+      "tripId": "2_23106",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -190,7 +234,7 @@
       "arrival": "2014-09-29 19:51",
       "departure": "2014-09-29 19:51",
       "serviceId": "2_9",
-      "tripId": "2_29162",
+      "tripId": "2_23141",
       "routeId": "2_0071",
       "headsign": "71 | Betton Chevaigné"
     },
@@ -198,17 +242,17 @@
       "arrival": "2014-09-29 20:21",
       "departure": "2014-09-29 20:21",
       "serviceId": "2_9",
-      "tripId": "2_28994",
+      "tripId": "2_23297",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     },
     {
       "arrival": "2014-09-29 20:44",
       "departure": "2014-09-29 20:44",
       "serviceId": "2_9",
-      "tripId": "2_28931",
+      "tripId": "2_23252",
       "routeId": "2_0094",
-      "headsign": "94 | Saint-Sulpice-la-Forêt"
+      "headsign": "94 | Chevaigné"
     }
   ]
 }

@@ -7,6 +7,26 @@
     "name": "Cleunay",
     "code": 1593
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 04:43",
+      "departure": "2014-10-10 04:43",
+      "serviceId": "2_29",
+      "tripId": "2_12467",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 1"
+    }
+  ]
 }

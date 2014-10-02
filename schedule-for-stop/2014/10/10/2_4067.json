@@ -7,6 +7,34 @@
     "name": "Quatre Vents",
     "code": 4067
   },
-  "routes": [],
-  "stopTimes": []
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-10-10 07:25",
+      "departure": "2014-10-10 07:25",
+      "serviceId": "2_29",
+      "tripId": "2_6184",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2014-10-10 07:49",
+      "departure": "2014-10-10 07:49",
+      "serviceId": "2_29",
+      "tripId": "2_6174",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    }
+  ]
 }

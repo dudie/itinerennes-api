@@ -9,12 +9,42 @@
   },
   "routes": [
     {
+      "id": "2_0011",
+      "textColor": "FFFFFF",
+      "color": "DD84B1",
+      "description": "Urbaine",
+      "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
+      "shortName": "11",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
       "id": "2_0034",
       "textColor": "E2001A",
       "color": "FFF164",
       "description": "Inter-quartiers",
       "longName": "Chantepie (Rosa Parks) \u003c\u003e ZAC Saint-Sulpice",
       "shortName": "34",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0035",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Cesson-Sévigné (Champs Blancs) \u003c\u003e Cesson-Sévigné (Gare)",
+      "shortName": "35",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0067",
+      "textColor": "FFFFFF",
+      "color": "E2003B",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Cesson-Sévigné / Brécé",
+      "shortName": "67",
       "type": 3,
       "agencyId": "2"
     },
@@ -31,92 +61,428 @@
   ],
   "stopTimes": [
     {
+      "arrival": "2014-10-17 06:59",
+      "departure": "2014-10-17 06:59",
+      "serviceId": "2_29",
+      "tripId": "2_8641",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 07:30",
+      "departure": "2014-10-17 07:30",
+      "serviceId": "2_29",
+      "tripId": "2_2421",
+      "routeId": "2_0035",
+      "headsign": "35 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-17 07:34",
+      "departure": "2014-10-17 07:34",
+      "serviceId": "2_29",
+      "tripId": "2_8646",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
       "arrival": "2014-10-17 07:36",
       "departure": "2014-10-17 07:36",
-      "serviceId": "2_36",
-      "tripId": "2_2963",
+      "serviceId": "2_31",
+      "tripId": "2_2476",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
     },
     {
+      "arrival": "2014-10-17 07:57",
+      "departure": "2014-10-17 07:57",
+      "serviceId": "2_29",
+      "tripId": "2_8651",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 08:05",
+      "departure": "2014-10-17 08:05",
+      "serviceId": "2_29",
+      "tripId": "2_2426",
+      "routeId": "2_0035",
+      "headsign": "35 | Cesson-Sévigné Champs Blancs"
+    },
+    {
       "arrival": "2014-10-17 08:07",
       "departure": "2014-10-17 08:07",
-      "serviceId": "2_36",
-      "tripId": "2_2957",
+      "serviceId": "2_31",
+      "tripId": "2_2471",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
     },
     {
       "arrival": "2014-10-17 08:13",
       "departure": "2014-10-17 08:13",
-      "serviceId": "2_36",
-      "tripId": "2_19779",
+      "serviceId": "2_31",
+      "tripId": "2_15904",
       "routeId": "2_0214",
       "headsign": "214 | Cesson-Sévigné Lycée Saint-Etienne"
     },
     {
+      "arrival": "2014-10-17 08:17",
+      "departure": "2014-10-17 08:17",
+      "serviceId": "2_29",
+      "tripId": "2_8606",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 08:35",
+      "departure": "2014-10-17 08:35",
+      "serviceId": "2_29",
+      "tripId": "2_2431",
+      "routeId": "2_0035",
+      "headsign": "35 | Cesson-Sévigné Champs Blancs"
+    },
+    {
       "arrival": "2014-10-17 08:37",
       "departure": "2014-10-17 08:37",
-      "serviceId": "2_36",
-      "tripId": "2_2969",
+      "serviceId": "2_31",
+      "tripId": "2_2481",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
     },
     {
+      "arrival": "2014-10-17 08:37",
+      "departure": "2014-10-17 08:37",
+      "serviceId": "2_29",
+      "tripId": "2_8601",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 08:57",
+      "departure": "2014-10-17 08:57",
+      "serviceId": "2_29",
+      "tripId": "2_8586",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
       "arrival": "2014-10-17 09:06",
       "departure": "2014-10-17 09:06",
-      "serviceId": "2_36",
-      "tripId": "2_3059",
+      "serviceId": "2_31",
+      "tripId": "2_2556",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
     },
     {
       "arrival": "2014-10-17 09:08",
       "departure": "2014-10-17 09:08",
-      "serviceId": "2_38",
-      "tripId": "2_28153",
+      "serviceId": "2_33",
+      "tripId": "2_22998",
       "routeId": "2_0214",
       "headsign": "214 | Cesson-Sévigné Lycée Saint-Etienne"
     },
     {
+      "arrival": "2014-10-17 09:15",
+      "departure": "2014-10-17 09:15",
+      "serviceId": "2_29",
+      "tripId": "2_2436",
+      "routeId": "2_0035",
+      "headsign": "35 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2014-10-17 09:17",
+      "departure": "2014-10-17 09:17",
+      "serviceId": "2_29",
+      "tripId": "2_8611",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 09:35",
+      "departure": "2014-10-17 09:35",
+      "serviceId": "2_29",
+      "tripId": "2_8596",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 09:54",
+      "departure": "2014-10-17 09:54",
+      "serviceId": "2_29",
+      "tripId": "2_8621",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 10:20",
+      "departure": "2014-10-17 10:20",
+      "serviceId": "2_29",
+      "tripId": "2_8626",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 10:50",
+      "departure": "2014-10-17 10:50",
+      "serviceId": "2_29",
+      "tripId": "2_8591",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 11:20",
+      "departure": "2014-10-17 11:20",
+      "serviceId": "2_29",
+      "tripId": "2_8616",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 11:45",
+      "departure": "2014-10-17 11:45",
+      "serviceId": "2_29",
+      "tripId": "2_8656",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 12:15",
+      "departure": "2014-10-17 12:15",
+      "serviceId": "2_29",
+      "tripId": "2_8686",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 12:45",
+      "departure": "2014-10-17 12:45",
+      "serviceId": "2_29",
+      "tripId": "2_8691",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 13:05",
+      "departure": "2014-10-17 13:05",
+      "serviceId": "2_29",
+      "tripId": "2_8661",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 13:25",
+      "departure": "2014-10-17 13:25",
+      "serviceId": "2_29",
+      "tripId": "2_8696",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 13:50",
+      "departure": "2014-10-17 13:50",
+      "serviceId": "2_29",
+      "tripId": "2_8666",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 14:20",
+      "departure": "2014-10-17 14:20",
+      "serviceId": "2_29",
+      "tripId": "2_8701",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 14:50",
+      "departure": "2014-10-17 14:50",
+      "serviceId": "2_29",
+      "tripId": "2_8671",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 15:20",
+      "departure": "2014-10-17 15:20",
+      "serviceId": "2_29",
+      "tripId": "2_8706",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 15:50",
+      "departure": "2014-10-17 15:50",
+      "serviceId": "2_29",
+      "tripId": "2_8676",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 16:16",
+      "departure": "2014-10-17 16:16",
+      "serviceId": "2_29",
+      "tripId": "2_8711",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 16:31",
+      "departure": "2014-10-17 16:31",
+      "serviceId": "2_29",
+      "tripId": "2_8716",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
       "arrival": "2014-10-17 16:55",
       "departure": "2014-10-17 16:55",
-      "serviceId": "2_36",
-      "tripId": "2_3023",
+      "serviceId": "2_31",
+      "tripId": "2_2526",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-10-17 16:57",
+      "departure": "2014-10-17 16:57",
+      "serviceId": "2_29",
+      "tripId": "2_8681",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
     },
     {
       "arrival": "2014-10-17 17:21",
       "departure": "2014-10-17 17:21",
-      "serviceId": "2_36",
-      "tripId": "2_3035",
+      "serviceId": "2_31",
+      "tripId": "2_2536",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-10-17 17:23",
+      "departure": "2014-10-17 17:23",
+      "serviceId": "2_29",
+      "tripId": "2_8721",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 17:43",
+      "departure": "2014-10-17 17:43",
+      "serviceId": "2_29",
+      "tripId": "2_8726",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
     },
     {
       "arrival": "2014-10-17 17:52",
       "departure": "2014-10-17 17:52",
-      "serviceId": "2_36",
-      "tripId": "2_3029",
+      "serviceId": "2_31",
+      "tripId": "2_2531",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-10-17 18:03",
+      "departure": "2014-10-17 18:03",
+      "serviceId": "2_29",
+      "tripId": "2_8731",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
     },
     {
       "arrival": "2014-10-17 18:22",
       "departure": "2014-10-17 18:22",
-      "serviceId": "2_36",
-      "tripId": "2_3047",
+      "serviceId": "2_31",
+      "tripId": "2_2546",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
     },
     {
+      "arrival": "2014-10-17 18:23",
+      "departure": "2014-10-17 18:23",
+      "serviceId": "2_29",
+      "tripId": "2_8736",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 18:42",
+      "departure": "2014-10-17 18:42",
+      "serviceId": "2_29",
+      "tripId": "2_8746",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
       "arrival": "2014-10-17 18:51",
       "departure": "2014-10-17 18:51",
-      "serviceId": "2_36",
-      "tripId": "2_3041",
+      "serviceId": "2_31",
+      "tripId": "2_2541",
       "routeId": "2_0034",
       "headsign": "34 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-10-17 19:02",
+      "departure": "2014-10-17 19:02",
+      "serviceId": "2_29",
+      "tripId": "2_8741",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2014-10-17 19:20",
+      "departure": "2014-10-17 19:20",
+      "serviceId": "2_29",
+      "tripId": "2_8751",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 19:40",
+      "departure": "2014-10-17 19:40",
+      "serviceId": "2_29",
+      "tripId": "2_8756",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 19:59",
+      "departure": "2014-10-17 19:59",
+      "serviceId": "2_29",
+      "tripId": "2_8761",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 20:29",
+      "departure": "2014-10-17 20:29",
+      "serviceId": "2_29",
+      "tripId": "2_8766",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-17 20:58",
+      "departure": "2014-10-17 20:58",
+      "serviceId": "2_29",
+      "tripId": "2_8771",
+      "routeId": "2_0067",
+      "headsign": "67 | Cesson-Sévigné Brécé"
+    },
+    {
+      "arrival": "2014-10-18 00:21",
+      "departure": "2014-10-18 00:21",
+      "serviceId": "2_30",
+      "tripId": "2_9143",
+      "routeId": "2_0011",
+      "headsign": "11 | Saint-Saëns Monniais Brécé"
+    },
+    {
+      "arrival": "2014-10-18 01:56",
+      "departure": "2014-10-18 01:56",
+      "serviceId": "2_30",
+      "tripId": "2_9142",
+      "routeId": "2_0011",
+      "headsign": "11 | Saint-Saëns Monniais Brécé"
     }
   ]
 }

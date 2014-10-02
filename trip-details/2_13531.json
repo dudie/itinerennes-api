@@ -1,113 +1,465 @@
 {
-  "headsign": "75 | Rennes La Poterie",
+  "headsign": "14 | Beaulieu Atalante",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_3401",
-        "lat": 48.04139981,
-        "lon": -1.55336797,
-        "name": "Parc des Sports",
-        "code": 3401
+        "id": "2_1234",
+        "lat": 48.10775888,
+        "lon": -1.71484897,
+        "name": "Stade Rennais",
+        "code": 1234
       },
-      "arrival": 28500,
-      "departure": 28500
+      "arrival": 74700,
+      "departure": 74700
     },
     {
       "stop": {
-        "id": "2_3410",
-        "lat": 48.0409078,
-        "lon": -1.54977715,
-        "name": "Langlois",
-        "code": 3410
+        "id": "2_1418",
+        "lat": 48.10918504,
+        "lon": -1.71023821,
+        "name": "Géniaux",
+        "code": 1418
       },
-      "arrival": 28560,
-      "departure": 28560
+      "arrival": 74760,
+      "departure": 74760
     },
     {
       "stop": {
-        "id": "2_3408",
-        "lat": 48.04042496,
-        "lon": -1.54198016,
-        "name": "Chêne Centenaire",
-        "code": 3408
+        "id": "2_1417",
+        "lat": 48.11145919,
+        "lon": -1.71338901,
+        "name": "Les Arts",
+        "code": 1417
       },
-      "arrival": 28740,
-      "departure": 28740
+      "arrival": 74820,
+      "departure": 74820
     },
     {
       "stop": {
-        "id": "2_3404",
-        "lat": 48.0412779,
-        "lon": -1.54463411,
-        "name": "Menault",
-        "code": 3404
+        "id": "2_1420",
+        "lat": 48.11367266,
+        "lon": -1.71259041,
+        "name": "Atalante Champeaux",
+        "code": 1420
       },
-      "arrival": 28800,
-      "departure": 28800
+      "arrival": 74880,
+      "departure": 74880
     },
     {
       "stop": {
-        "id": "2_3405",
-        "lat": 48.04453229,
-        "lon": -1.56162229,
-        "name": "Eclosel",
-        "code": 3405
+        "id": "2_1643",
+        "lat": 48.11481156,
+        "lon": -1.71566918,
+        "name": "Chambre Agriculture",
+        "code": 1643
       },
-      "arrival": 28980,
-      "departure": 28980
+      "arrival": 74940,
+      "departure": 74940
     },
     {
       "stop": {
-        "id": "2_2631",
-        "lat": 48.04763801,
-        "lon": -1.59853624,
-        "name": "Moulin",
-        "code": 2631
+        "id": "2_1503",
+        "lat": 48.11616144,
+        "lon": -1.71594912,
+        "name": "Colin",
+        "code": 1503
       },
-      "arrival": 29220,
-      "departure": 29220
+      "arrival": 75000,
+      "departure": 75000
     },
     {
       "stop": {
-        "id": "2_2630",
-        "lat": 48.04502874,
-        "lon": -1.59887396,
-        "name": "Maillardière",
-        "code": 2630
+        "id": "2_1422",
+        "lat": 48.11628685,
+        "lon": -1.71146403,
+        "name": "Merlin",
+        "code": 1422
       },
-      "arrival": 29280,
-      "departure": 29280
+      "arrival": 75060,
+      "departure": 75060
     },
     {
       "stop": {
-        "id": "2_2603",
-        "lat": 48.04468923,
-        "lon": -1.60398268,
-        "name": "La Poste",
-        "code": 2603
+        "id": "2_1413",
+        "lat": 48.118588,
+        "lon": -1.70802098,
+        "name": "Villejean-Churchill",
+        "code": 1413
       },
-      "arrival": 29400,
-      "departure": 29400
+      "arrival": 75120,
+      "departure": 75120
     },
     {
       "stop": {
-        "id": "2_1511",
-        "lat": 48.08753912,
-        "lon": -1.64345457,
-        "name": "La Poterie",
-        "code": 1511
+        "id": "2_1424",
+        "lat": 48.12127977,
+        "lon": -1.707884,
+        "name": "Cours Kennedy",
+        "code": 1424
       },
-      "arrival": 30120,
-      "departure": 30120
+      "arrival": 75180,
+      "departure": 75180
+    },
+    {
+      "stop": {
+        "id": "2_1297",
+        "lat": 48.12180414,
+        "lon": -1.70378405,
+        "name": "Villejean-Université",
+        "code": 1297
+      },
+      "arrival": 75300,
+      "departure": 75300
+    },
+    {
+      "stop": {
+        "id": "2_1298",
+        "lat": 48.12559159,
+        "lon": -1.70307124,
+        "name": "Bois Labbé (ex IRTS)",
+        "code": 1298
+      },
+      "arrival": 75360,
+      "departure": 75360
+    },
+    {
+      "stop": {
+        "id": "2_1299",
+        "lat": 48.12785166,
+        "lon": -1.70290899,
+        "name": "Olympe de Gouges",
+        "code": 1299
+      },
+      "arrival": 75420,
+      "departure": 75420
+    },
+    {
+      "stop": {
+        "id": "2_1304",
+        "lat": 48.12850845,
+        "lon": -1.69887415,
+        "name": "Cucillé",
+        "code": 1304
+      },
+      "arrival": 75480,
+      "departure": 75480
+    },
+    {
+      "stop": {
+        "id": "2_1301",
+        "lat": 48.12819455,
+        "lon": -1.69396394,
+        "name": "Préfecture",
+        "code": 1301
+      },
+      "arrival": 75540,
+      "departure": 75540
+    },
+    {
+      "stop": {
+        "id": "2_1537",
+        "lat": 48.13157496,
+        "lon": -1.69170144,
+        "name": "Léonard",
+        "code": 1537
+      },
+      "arrival": 75600,
+      "departure": 75600
+    },
+    {
+      "stop": {
+        "id": "2_2826",
+        "lat": 48.13558496,
+        "lon": -1.69298612,
+        "name": "Grand Quartier",
+        "code": 2826
+      },
+      "arrival": 75720,
+      "departure": 75720
+    },
+    {
+      "stop": {
+        "id": "2_2815",
+        "lat": 48.13721048,
+        "lon": -1.68638899,
+        "name": "La Plesse",
+        "code": 2815
+      },
+      "arrival": 75840,
+      "departure": 75840
+    },
+    {
+      "stop": {
+        "id": "2_1328",
+        "lat": 48.1332141,
+        "lon": -1.68528827,
+        "name": "Lycée Mendès France",
+        "code": 1328
+      },
+      "arrival": 75900,
+      "departure": 75900
+    },
+    {
+      "stop": {
+        "id": "2_1040",
+        "lat": 48.13006097,
+        "lon": -1.6843352,
+        "name": "Donelière",
+        "code": 1040
+      },
+      "arrival": 75960,
+      "departure": 75960
+    },
+    {
+      "stop": {
+        "id": "2_1425",
+        "lat": 48.12797869,
+        "lon": -1.68252125,
+        "name": "Trois Croix",
+        "code": 1425
+      },
+      "arrival": 76020,
+      "departure": 76020
+    },
+    {
+      "stop": {
+        "id": "2_1625",
+        "lat": 48.13074839,
+        "lon": -1.67578298,
+        "name": "Armorique",
+        "code": 1625
+      },
+      "arrival": 76080,
+      "departure": 76080
+    },
+    {
+      "stop": {
+        "id": "2_1426",
+        "lat": 48.1320738,
+        "lon": -1.67269097,
+        "name": "Bellangerais",
+        "code": 1426
+      },
+      "arrival": 76140,
+      "departure": 76140
+    },
+    {
+      "stop": {
+        "id": "2_1287",
+        "lat": 48.13491655,
+        "lon": -1.67283484,
+        "name": "Condate",
+        "code": 1287
+      },
+      "arrival": 76200,
+      "departure": 76200
+    },
+    {
+      "stop": {
+        "id": "2_1288",
+        "lat": 48.13668515,
+        "lon": -1.67074244,
+        "name": "Neruda",
+        "code": 1288
+      },
+      "arrival": 76260,
+      "departure": 76260
+    },
+    {
+      "stop": {
+        "id": "2_1289",
+        "lat": 48.13658555,
+        "lon": -1.66756896,
+        "name": "Monts d\u0027Arrée",
+        "code": 1289
+      },
+      "arrival": 76260,
+      "departure": 76260
+    },
+    {
+      "stop": {
+        "id": "2_1427",
+        "lat": 48.13642057,
+        "lon": -1.6633124,
+        "name": "Hélias",
+        "code": 1427
+      },
+      "arrival": 76320,
+      "departure": 76320
+    },
+    {
+      "stop": {
+        "id": "2_1159",
+        "lat": 48.13439404,
+        "lon": -1.65875427,
+        "name": "Hôtel de Région",
+        "code": 1159
+      },
+      "arrival": 76380,
+      "departure": 76380
+    },
+    {
+      "stop": {
+        "id": "2_1374",
+        "lat": 48.13324759,
+        "lon": -1.65693216,
+        "name": "Longs Prés",
+        "code": 1374
+      },
+      "arrival": 76440,
+      "departure": 76440
+    },
+    {
+      "stop": {
+        "id": "2_1375",
+        "lat": 48.13013693,
+        "lon": -1.65672512,
+        "name": "Gast",
+        "code": 1375
+      },
+      "arrival": 76500,
+      "departure": 76500
+    },
+    {
+      "stop": {
+        "id": "2_1376",
+        "lat": 48.12855272,
+        "lon": -1.65712399,
+        "name": "Europe",
+        "code": 1376
+      },
+      "arrival": 76500,
+      "departure": 76500
+    },
+    {
+      "stop": {
+        "id": "2_1377",
+        "lat": 48.12679292,
+        "lon": -1.65854407,
+        "name": "Trégain",
+        "code": 1377
+      },
+      "arrival": 76560,
+      "departure": 76560
+    },
+    {
+      "stop": {
+        "id": "2_1378",
+        "lat": 48.12493299,
+        "lon": -1.66135545,
+        "name": "Saint-Exupéry",
+        "code": 1378
+      },
+      "arrival": 76620,
+      "departure": 76620
+    },
+    {
+      "stop": {
+        "id": "2_1032",
+        "lat": 48.12331854,
+        "lon": -1.65932809,
+        "name": "Painlevé",
+        "code": 1032
+      },
+      "arrival": 76740,
+      "departure": 76740
+    },
+    {
+      "stop": {
+        "id": "2_1033",
+        "lat": 48.1213237,
+        "lon": -1.65499372,
+        "name": "Assomption",
+        "code": 1033
+      },
+      "arrival": 76800,
+      "departure": 76800
+    },
+    {
+      "stop": {
+        "id": "2_1637",
+        "lat": 48.12307228,
+        "lon": -1.65145652,
+        "name": "Lycée Chateaubriand",
+        "code": 1637
+      },
+      "arrival": 76920,
+      "departure": 76920
+    },
+    {
+      "stop": {
+        "id": "2_1111",
+        "lat": 48.12024278,
+        "lon": -1.65071004,
+        "name": "Docteur Quentin",
+        "code": 1111
+      },
+      "arrival": 76980,
+      "departure": 76980
+    },
+    {
+      "stop": {
+        "id": "2_1201",
+        "lat": 48.11911266,
+        "lon": -1.64919701,
+        "name": "Vitré Foulon",
+        "code": 1201
+      },
+      "arrival": 76980,
+      "departure": 76980
+    },
+    {
+      "stop": {
+        "id": "2_1202",
+        "lat": 48.1206205,
+        "lon": -1.64433521,
+        "name": "Beaulieu Cité U",
+        "code": 1202
+      },
+      "arrival": 77040,
+      "departure": 77040
+    },
+    {
+      "stop": {
+        "id": "2_1203",
+        "lat": 48.12203302,
+        "lon": -1.6395994,
+        "name": "Beaulieu Restau U",
+        "code": 1203
+      },
+      "arrival": 77100,
+      "departure": 77100
+    },
+    {
+      "stop": {
+        "id": "2_1314",
+        "lat": 48.1250923,
+        "lon": -1.63309609,
+        "name": "IUT",
+        "code": 1314
+      },
+      "arrival": 77160,
+      "departure": 77160
+    },
+    {
+      "stop": {
+        "id": "2_1290",
+        "lat": 48.12688601,
+        "lon": -1.62954442,
+        "name": "Clos Courtel",
+        "code": 1290
+      },
+      "arrival": 77220,
+      "departure": 77220
     }
   ],
   "route": {
-    "id": "2_0075",
-    "textColor": "201D21",
-    "color": "F2973E",
-    "description": "Métropolitaine",
-    "longName": "Rennes (La Poterie) \u003c\u003e Nouvoitou",
-    "shortName": "75",
+    "id": "2_0014",
+    "textColor": "FFFFFF",
+    "color": "805A26",
+    "description": "Urbaine",
+    "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+    "shortName": "14",
     "type": 3,
     "agencyId": "2"
   }
