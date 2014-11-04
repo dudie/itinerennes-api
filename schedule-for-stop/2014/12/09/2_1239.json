@@ -1,0 +1,2786 @@
+{
+  "date": "2014-12-09 00:00",
+  "stop": {
+    "id": "2_1239",
+    "lat": 48.10827073,
+    "lon": -1.6941653,
+    "name": "Chèques Postaux",
+    "code": 1239
+  },
+  "routes": [
+    {
+      "id": "2_0004",
+      "textColor": "FFFFFF",
+      "color": "6D1F80",
+      "description": "Chronostar",
+      "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+      "shortName": "C4",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0011",
+      "textColor": "FFFFFF",
+      "color": "DD84B1",
+      "description": "Urbaine",
+      "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
+      "shortName": "11",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0053",
+      "textColor": "FFFFFF",
+      "color": "D20132",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Vezin-le-Coquet / L\u0027Hermitage / La Chapelle-Thouarault",
+      "shortName": "53",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0054",
+      "textColor": "FFFFFF",
+      "color": "CD93BD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Le Rheu / Cintré",
+      "shortName": "54",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0055",
+      "textColor": "1A171B",
+      "color": "F7A800",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Mordelles / Le Verger",
+      "shortName": "55",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0056",
+      "textColor": "FFFFFF",
+      "color": "009A47",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+      "shortName": "56",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-12-09 05:37",
+      "departure": "2014-12-09 05:37",
+      "serviceId": "2_17",
+      "tripId": "2_22511",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 06:00",
+      "departure": "2014-12-09 06:00",
+      "serviceId": "2_17",
+      "tripId": "2_20147",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 06:17",
+      "departure": "2014-12-09 06:17",
+      "serviceId": "2_17",
+      "tripId": "2_22516",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 06:20",
+      "departure": "2014-12-09 06:20",
+      "serviceId": "2_17",
+      "tripId": "2_20152",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 06:27",
+      "departure": "2014-12-09 06:27",
+      "serviceId": "2_15",
+      "tripId": "2_4833",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 06:40",
+      "departure": "2014-12-09 06:40",
+      "serviceId": "2_17",
+      "tripId": "2_20157",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 06:40",
+      "departure": "2014-12-09 06:40",
+      "serviceId": "2_15",
+      "tripId": "2_5235",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 06:42",
+      "departure": "2014-12-09 06:42",
+      "serviceId": "2_17",
+      "tripId": "2_4333",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 06:45",
+      "departure": "2014-12-09 06:45",
+      "serviceId": "2_15",
+      "tripId": "2_9386",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 06:47",
+      "departure": "2014-12-09 06:47",
+      "serviceId": "2_15",
+      "tripId": "2_4838",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 06:49",
+      "departure": "2014-12-09 06:49",
+      "serviceId": "2_17",
+      "tripId": "2_22521",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:00",
+      "departure": "2014-12-09 07:00",
+      "serviceId": "2_17",
+      "tripId": "2_20242",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:00",
+      "departure": "2014-12-09 07:00",
+      "serviceId": "2_15",
+      "tripId": "2_5240",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:04",
+      "departure": "2014-12-09 07:04",
+      "serviceId": "2_17",
+      "tripId": "2_23021",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:05",
+      "departure": "2014-12-09 07:05",
+      "serviceId": "2_15",
+      "tripId": "2_5800",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:09",
+      "departure": "2014-12-09 07:09",
+      "serviceId": "2_15",
+      "tripId": "2_4983",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:13",
+      "departure": "2014-12-09 07:13",
+      "serviceId": "2_17",
+      "tripId": "2_20252",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:13",
+      "departure": "2014-12-09 07:13",
+      "serviceId": "2_17",
+      "tripId": "2_22526",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:13",
+      "departure": "2014-12-09 07:13",
+      "serviceId": "2_17",
+      "tripId": "2_4338",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 07:22",
+      "departure": "2014-12-09 07:22",
+      "serviceId": "2_17",
+      "tripId": "2_20247",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:24",
+      "departure": "2014-12-09 07:24",
+      "serviceId": "2_15",
+      "tripId": "2_5355",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:25",
+      "departure": "2014-12-09 07:25",
+      "serviceId": "2_17",
+      "tripId": "2_22531",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:29",
+      "departure": "2014-12-09 07:29",
+      "serviceId": "2_17",
+      "tripId": "2_4343",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 07:32",
+      "departure": "2014-12-09 07:32",
+      "serviceId": "2_17",
+      "tripId": "2_20257",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:33",
+      "departure": "2014-12-09 07:33",
+      "serviceId": "2_17",
+      "tripId": "2_22676",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:33",
+      "departure": "2014-12-09 07:33",
+      "serviceId": "2_15",
+      "tripId": "2_4988",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:40",
+      "departure": "2014-12-09 07:40",
+      "serviceId": "2_17",
+      "tripId": "2_22536",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:40",
+      "departure": "2014-12-09 07:40",
+      "serviceId": "2_17",
+      "tripId": "2_4653",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 07:41",
+      "departure": "2014-12-09 07:41",
+      "serviceId": "2_15",
+      "tripId": "2_5715",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:42",
+      "departure": "2014-12-09 07:42",
+      "serviceId": "2_17",
+      "tripId": "2_20262",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:46",
+      "departure": "2014-12-09 07:46",
+      "serviceId": "2_15",
+      "tripId": "2_5360",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:49",
+      "departure": "2014-12-09 07:49",
+      "serviceId": "2_17",
+      "tripId": "2_22541",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:52",
+      "departure": "2014-12-09 07:52",
+      "serviceId": "2_17",
+      "tripId": "2_20287",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 07:52",
+      "departure": "2014-12-09 07:52",
+      "serviceId": "2_15",
+      "tripId": "2_4993",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 07:55",
+      "departure": "2014-12-09 07:55",
+      "serviceId": "2_17",
+      "tripId": "2_4348",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 07:57",
+      "departure": "2014-12-09 07:57",
+      "serviceId": "2_17",
+      "tripId": "2_22546",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 07:57",
+      "departure": "2014-12-09 07:57",
+      "serviceId": "2_15",
+      "tripId": "2_9391",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:02",
+      "departure": "2014-12-09 08:02",
+      "serviceId": "2_17",
+      "tripId": "2_20267",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:05",
+      "departure": "2014-12-09 08:05",
+      "serviceId": "2_17",
+      "tripId": "2_22551",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:07",
+      "departure": "2014-12-09 08:07",
+      "serviceId": "2_15",
+      "tripId": "2_5365",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:12",
+      "departure": "2014-12-09 08:12",
+      "serviceId": "2_17",
+      "tripId": "2_20272",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:12",
+      "departure": "2014-12-09 08:12",
+      "serviceId": "2_15",
+      "tripId": "2_5720",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:13",
+      "departure": "2014-12-09 08:13",
+      "serviceId": "2_17",
+      "tripId": "2_22741",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:13",
+      "departure": "2014-12-09 08:13",
+      "serviceId": "2_15",
+      "tripId": "2_4998",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:14",
+      "departure": "2014-12-09 08:14",
+      "serviceId": "2_17",
+      "tripId": "2_4353",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 08:21",
+      "departure": "2014-12-09 08:21",
+      "serviceId": "2_17",
+      "tripId": "2_22701",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:22",
+      "departure": "2014-12-09 08:22",
+      "serviceId": "2_17",
+      "tripId": "2_20277",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:26",
+      "departure": "2014-12-09 08:26",
+      "serviceId": "2_17",
+      "tripId": "2_22406",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:27",
+      "departure": "2014-12-09 08:27",
+      "serviceId": "2_15",
+      "tripId": "2_5370",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:30",
+      "departure": "2014-12-09 08:30",
+      "serviceId": "2_17",
+      "tripId": "2_22806",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:32",
+      "departure": "2014-12-09 08:32",
+      "serviceId": "2_17",
+      "tripId": "2_20282",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:34",
+      "departure": "2014-12-09 08:34",
+      "serviceId": "2_17",
+      "tripId": "2_4358",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 08:36",
+      "departure": "2014-12-09 08:36",
+      "serviceId": "2_17",
+      "tripId": "2_22811",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:37",
+      "departure": "2014-12-09 08:37",
+      "serviceId": "2_15",
+      "tripId": "2_5730",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:38",
+      "departure": "2014-12-09 08:38",
+      "serviceId": "2_15",
+      "tripId": "2_5003",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:42",
+      "departure": "2014-12-09 08:42",
+      "serviceId": "2_17",
+      "tripId": "2_20292",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:42",
+      "departure": "2014-12-09 08:42",
+      "serviceId": "2_17",
+      "tripId": "2_23241",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:47",
+      "departure": "2014-12-09 08:47",
+      "serviceId": "2_15",
+      "tripId": "2_5375",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 08:49",
+      "departure": "2014-12-09 08:49",
+      "serviceId": "2_17",
+      "tripId": "2_22766",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 08:54",
+      "departure": "2014-12-09 08:54",
+      "serviceId": "2_17",
+      "tripId": "2_4363",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 08:55",
+      "departure": "2014-12-09 08:55",
+      "serviceId": "2_17",
+      "tripId": "2_20297",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 08:56",
+      "departure": "2014-12-09 08:56",
+      "serviceId": "2_17",
+      "tripId": "2_22801",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:03",
+      "departure": "2014-12-09 09:03",
+      "serviceId": "2_17",
+      "tripId": "2_22816",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:03",
+      "departure": "2014-12-09 09:03",
+      "serviceId": "2_15",
+      "tripId": "2_5008",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:07",
+      "departure": "2014-12-09 09:07",
+      "serviceId": "2_17",
+      "tripId": "2_20177",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 09:07",
+      "departure": "2014-12-09 09:07",
+      "serviceId": "2_15",
+      "tripId": "2_5735",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:09",
+      "departure": "2014-12-09 09:09",
+      "serviceId": "2_17",
+      "tripId": "2_22791",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:12",
+      "departure": "2014-12-09 09:12",
+      "serviceId": "2_15",
+      "tripId": "2_5380",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:15",
+      "departure": "2014-12-09 09:15",
+      "serviceId": "2_17",
+      "tripId": "2_4368",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 09:16",
+      "departure": "2014-12-09 09:16",
+      "serviceId": "2_17",
+      "tripId": "2_22776",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:19",
+      "departure": "2014-12-09 09:19",
+      "serviceId": "2_17",
+      "tripId": "2_20172",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 09:20",
+      "departure": "2014-12-09 09:20",
+      "serviceId": "2_17",
+      "tripId": "2_22756",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:22",
+      "departure": "2014-12-09 09:22",
+      "serviceId": "2_15",
+      "tripId": "2_5013",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:27",
+      "departure": "2014-12-09 09:27",
+      "serviceId": "2_17",
+      "tripId": "2_22926",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:27",
+      "departure": "2014-12-09 09:27",
+      "serviceId": "2_15",
+      "tripId": "2_5740",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:29",
+      "departure": "2014-12-09 09:29",
+      "serviceId": "2_15",
+      "tripId": "2_5385",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:34",
+      "departure": "2014-12-09 09:34",
+      "serviceId": "2_17",
+      "tripId": "2_20452",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 09:34",
+      "departure": "2014-12-09 09:34",
+      "serviceId": "2_17",
+      "tripId": "2_22726",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:34",
+      "departure": "2014-12-09 09:34",
+      "serviceId": "2_17",
+      "tripId": "2_4373",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 09:40",
+      "departure": "2014-12-09 09:40",
+      "serviceId": "2_15",
+      "tripId": "2_5018",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:42",
+      "departure": "2014-12-09 09:42",
+      "serviceId": "2_17",
+      "tripId": "2_22881",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:47",
+      "departure": "2014-12-09 09:47",
+      "serviceId": "2_15",
+      "tripId": "2_9316",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:48",
+      "departure": "2014-12-09 09:48",
+      "serviceId": "2_17",
+      "tripId": "2_23106",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:49",
+      "departure": "2014-12-09 09:49",
+      "serviceId": "2_17",
+      "tripId": "2_20457",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 09:53",
+      "departure": "2014-12-09 09:53",
+      "serviceId": "2_15",
+      "tripId": "2_5390",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 09:54",
+      "departure": "2014-12-09 09:54",
+      "serviceId": "2_17",
+      "tripId": "2_4378",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 09:56",
+      "departure": "2014-12-09 09:56",
+      "serviceId": "2_17",
+      "tripId": "2_23101",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 09:59",
+      "departure": "2014-12-09 09:59",
+      "serviceId": "2_15",
+      "tripId": "2_5148",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 10:04",
+      "departure": "2014-12-09 10:04",
+      "serviceId": "2_17",
+      "tripId": "2_20462",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 10:04",
+      "departure": "2014-12-09 10:04",
+      "serviceId": "2_17",
+      "tripId": "2_23086",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:12",
+      "departure": "2014-12-09 10:12",
+      "serviceId": "2_17",
+      "tripId": "2_23096",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:13",
+      "departure": "2014-12-09 10:13",
+      "serviceId": "2_15",
+      "tripId": "2_5395",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 10:13",
+      "departure": "2014-12-09 10:13",
+      "serviceId": "2_17",
+      "tripId": "2_4453",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 10:18",
+      "departure": "2014-12-09 10:18",
+      "serviceId": "2_17",
+      "tripId": "2_22971",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:19",
+      "departure": "2014-12-09 10:19",
+      "serviceId": "2_17",
+      "tripId": "2_20467",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 10:25",
+      "departure": "2014-12-09 10:25",
+      "serviceId": "2_17",
+      "tripId": "2_23466",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:29",
+      "departure": "2014-12-09 10:29",
+      "serviceId": "2_15",
+      "tripId": "2_5023",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 10:32",
+      "departure": "2014-12-09 10:32",
+      "serviceId": "2_17",
+      "tripId": "2_23471",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:34",
+      "departure": "2014-12-09 10:34",
+      "serviceId": "2_17",
+      "tripId": "2_20472",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 10:40",
+      "departure": "2014-12-09 10:40",
+      "serviceId": "2_17",
+      "tripId": "2_23476",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:43",
+      "departure": "2014-12-09 10:43",
+      "serviceId": "2_15",
+      "tripId": "2_5400",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 10:47",
+      "departure": "2014-12-09 10:47",
+      "serviceId": "2_17",
+      "tripId": "2_23481",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:49",
+      "departure": "2014-12-09 10:49",
+      "serviceId": "2_17",
+      "tripId": "2_20477",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 10:50",
+      "departure": "2014-12-09 10:50",
+      "serviceId": "2_17",
+      "tripId": "2_4468",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 10:55",
+      "departure": "2014-12-09 10:55",
+      "serviceId": "2_17",
+      "tripId": "2_23486",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 10:59",
+      "departure": "2014-12-09 10:59",
+      "serviceId": "2_15",
+      "tripId": "2_5153",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:02",
+      "departure": "2014-12-09 11:02",
+      "serviceId": "2_17",
+      "tripId": "2_23491",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:04",
+      "departure": "2014-12-09 11:04",
+      "serviceId": "2_17",
+      "tripId": "2_20482",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 11:07",
+      "departure": "2014-12-09 11:07",
+      "serviceId": "2_15",
+      "tripId": "2_5745",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:10",
+      "departure": "2014-12-09 11:10",
+      "serviceId": "2_17",
+      "tripId": "2_23496",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:13",
+      "departure": "2014-12-09 11:13",
+      "serviceId": "2_15",
+      "tripId": "2_5405",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:17",
+      "departure": "2014-12-09 11:17",
+      "serviceId": "2_17",
+      "tripId": "2_23501",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:19",
+      "departure": "2014-12-09 11:19",
+      "serviceId": "2_17",
+      "tripId": "2_20487",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 11:25",
+      "departure": "2014-12-09 11:25",
+      "serviceId": "2_17",
+      "tripId": "2_23506",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:29",
+      "departure": "2014-12-09 11:29",
+      "serviceId": "2_15",
+      "tripId": "2_5028",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:30",
+      "departure": "2014-12-09 11:30",
+      "serviceId": "2_17",
+      "tripId": "2_4458",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 11:32",
+      "departure": "2014-12-09 11:32",
+      "serviceId": "2_17",
+      "tripId": "2_23511",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:34",
+      "departure": "2014-12-09 11:34",
+      "serviceId": "2_17",
+      "tripId": "2_20492",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 11:40",
+      "departure": "2014-12-09 11:40",
+      "serviceId": "2_17",
+      "tripId": "2_23516",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:43",
+      "departure": "2014-12-09 11:43",
+      "serviceId": "2_15",
+      "tripId": "2_5410",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:48",
+      "departure": "2014-12-09 11:48",
+      "serviceId": "2_17",
+      "tripId": "2_23521",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 11:49",
+      "departure": "2014-12-09 11:49",
+      "serviceId": "2_17",
+      "tripId": "2_20497",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 11:54",
+      "departure": "2014-12-09 11:54",
+      "serviceId": "2_15",
+      "tripId": "2_5158",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 11:57",
+      "departure": "2014-12-09 11:57",
+      "serviceId": "2_17",
+      "tripId": "2_23526",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:04",
+      "departure": "2014-12-09 12:04",
+      "serviceId": "2_17",
+      "tripId": "2_20502",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 12:04",
+      "departure": "2014-12-09 12:04",
+      "serviceId": "2_17",
+      "tripId": "2_23531",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:05",
+      "departure": "2014-12-09 12:05",
+      "serviceId": "2_17",
+      "tripId": "2_4473",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 12:12",
+      "departure": "2014-12-09 12:12",
+      "serviceId": "2_17",
+      "tripId": "2_23536",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:13",
+      "departure": "2014-12-09 12:13",
+      "serviceId": "2_15",
+      "tripId": "2_5415",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 12:19",
+      "departure": "2014-12-09 12:19",
+      "serviceId": "2_17",
+      "tripId": "2_20507",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 12:19",
+      "departure": "2014-12-09 12:19",
+      "serviceId": "2_17",
+      "tripId": "2_23541",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:27",
+      "departure": "2014-12-09 12:27",
+      "serviceId": "2_17",
+      "tripId": "2_23546",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:27",
+      "departure": "2014-12-09 12:27",
+      "serviceId": "2_15",
+      "tripId": "2_5750",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 12:30",
+      "departure": "2014-12-09 12:30",
+      "serviceId": "2_15",
+      "tripId": "2_5033",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 12:34",
+      "departure": "2014-12-09 12:34",
+      "serviceId": "2_17",
+      "tripId": "2_20512",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 12:34",
+      "departure": "2014-12-09 12:34",
+      "serviceId": "2_17",
+      "tripId": "2_23551",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:42",
+      "departure": "2014-12-09 12:42",
+      "serviceId": "2_17",
+      "tripId": "2_23556",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:43",
+      "departure": "2014-12-09 12:43",
+      "serviceId": "2_15",
+      "tripId": "2_5420",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 12:45",
+      "departure": "2014-12-09 12:45",
+      "serviceId": "2_17",
+      "tripId": "2_4463",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 12:49",
+      "departure": "2014-12-09 12:49",
+      "serviceId": "2_17",
+      "tripId": "2_20517",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 12:49",
+      "departure": "2014-12-09 12:49",
+      "serviceId": "2_17",
+      "tripId": "2_23561",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 12:57",
+      "departure": "2014-12-09 12:57",
+      "serviceId": "2_17",
+      "tripId": "2_23566",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:00",
+      "departure": "2014-12-09 13:00",
+      "serviceId": "2_15",
+      "tripId": "2_5163",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:04",
+      "departure": "2014-12-09 13:04",
+      "serviceId": "2_17",
+      "tripId": "2_23571",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:05",
+      "departure": "2014-12-09 13:05",
+      "serviceId": "2_17",
+      "tripId": "2_20522",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 13:12",
+      "departure": "2014-12-09 13:12",
+      "serviceId": "2_17",
+      "tripId": "2_23576",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:12",
+      "departure": "2014-12-09 13:12",
+      "serviceId": "2_15",
+      "tripId": "2_5425",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:16",
+      "departure": "2014-12-09 13:16",
+      "serviceId": "2_15",
+      "tripId": "2_5780",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:19",
+      "departure": "2014-12-09 13:19",
+      "serviceId": "2_17",
+      "tripId": "2_23581",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:20",
+      "departure": "2014-12-09 13:20",
+      "serviceId": "2_17",
+      "tripId": "2_20527",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 13:20",
+      "departure": "2014-12-09 13:20",
+      "serviceId": "2_17",
+      "tripId": "2_4478",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 13:23",
+      "departure": "2014-12-09 13:23",
+      "serviceId": "2_15",
+      "tripId": "2_5038",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:27",
+      "departure": "2014-12-09 13:27",
+      "serviceId": "2_17",
+      "tripId": "2_23586",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:34",
+      "departure": "2014-12-09 13:34",
+      "serviceId": "2_17",
+      "tripId": "2_23591",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:35",
+      "departure": "2014-12-09 13:35",
+      "serviceId": "2_17",
+      "tripId": "2_20532",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 13:36",
+      "departure": "2014-12-09 13:36",
+      "serviceId": "2_15",
+      "tripId": "2_5043",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:40",
+      "departure": "2014-12-09 13:40",
+      "serviceId": "2_17",
+      "tripId": "2_4663",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 13:42",
+      "departure": "2014-12-09 13:42",
+      "serviceId": "2_17",
+      "tripId": "2_23596",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:42",
+      "departure": "2014-12-09 13:42",
+      "serviceId": "2_15",
+      "tripId": "2_5430",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:47",
+      "departure": "2014-12-09 13:47",
+      "serviceId": "2_15",
+      "tripId": "2_5785",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:49",
+      "departure": "2014-12-09 13:49",
+      "serviceId": "2_17",
+      "tripId": "2_23601",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 13:50",
+      "departure": "2014-12-09 13:50",
+      "serviceId": "2_17",
+      "tripId": "2_20537",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 13:56",
+      "departure": "2014-12-09 13:56",
+      "serviceId": "2_15",
+      "tripId": "2_5048",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 13:57",
+      "departure": "2014-12-09 13:57",
+      "serviceId": "2_17",
+      "tripId": "2_23606",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:00",
+      "departure": "2014-12-09 14:00",
+      "serviceId": "2_17",
+      "tripId": "2_4668",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 14:04",
+      "departure": "2014-12-09 14:04",
+      "serviceId": "2_17",
+      "tripId": "2_23611",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:06",
+      "departure": "2014-12-09 14:06",
+      "serviceId": "2_17",
+      "tripId": "2_20542",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 14:12",
+      "departure": "2014-12-09 14:12",
+      "serviceId": "2_17",
+      "tripId": "2_23616",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:13",
+      "departure": "2014-12-09 14:13",
+      "serviceId": "2_15",
+      "tripId": "2_5435",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:18",
+      "departure": "2014-12-09 14:18",
+      "serviceId": "2_17",
+      "tripId": "2_4673",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 14:19",
+      "departure": "2014-12-09 14:19",
+      "serviceId": "2_17",
+      "tripId": "2_23621",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:19",
+      "departure": "2014-12-09 14:19",
+      "serviceId": "2_15",
+      "tripId": "2_5168",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:21",
+      "departure": "2014-12-09 14:21",
+      "serviceId": "2_17",
+      "tripId": "2_20547",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 14:27",
+      "departure": "2014-12-09 14:27",
+      "serviceId": "2_17",
+      "tripId": "2_23626",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:34",
+      "departure": "2014-12-09 14:34",
+      "serviceId": "2_17",
+      "tripId": "2_23631",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:36",
+      "departure": "2014-12-09 14:36",
+      "serviceId": "2_15",
+      "tripId": "2_5053",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:36",
+      "departure": "2014-12-09 14:36",
+      "serviceId": "2_15",
+      "tripId": "2_9336",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:37",
+      "departure": "2014-12-09 14:37",
+      "serviceId": "2_17",
+      "tripId": "2_20552",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 14:38",
+      "departure": "2014-12-09 14:38",
+      "serviceId": "2_17",
+      "tripId": "2_4678",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 14:42",
+      "departure": "2014-12-09 14:42",
+      "serviceId": "2_17",
+      "tripId": "2_23636",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:43",
+      "departure": "2014-12-09 14:43",
+      "serviceId": "2_15",
+      "tripId": "2_5440",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:49",
+      "departure": "2014-12-09 14:49",
+      "serviceId": "2_17",
+      "tripId": "2_23641",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:52",
+      "departure": "2014-12-09 14:52",
+      "serviceId": "2_17",
+      "tripId": "2_20557",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 14:54",
+      "departure": "2014-12-09 14:54",
+      "serviceId": "2_15",
+      "tripId": "2_5058",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 14:57",
+      "departure": "2014-12-09 14:57",
+      "serviceId": "2_17",
+      "tripId": "2_23646",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 14:58",
+      "departure": "2014-12-09 14:58",
+      "serviceId": "2_17",
+      "tripId": "2_4683",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 15:04",
+      "departure": "2014-12-09 15:04",
+      "serviceId": "2_17",
+      "tripId": "2_23651",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:08",
+      "departure": "2014-12-09 15:08",
+      "serviceId": "2_17",
+      "tripId": "2_20562",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 15:12",
+      "departure": "2014-12-09 15:12",
+      "serviceId": "2_17",
+      "tripId": "2_23656",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:14",
+      "departure": "2014-12-09 15:14",
+      "serviceId": "2_15",
+      "tripId": "2_5445",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:16",
+      "departure": "2014-12-09 15:16",
+      "serviceId": "2_15",
+      "tripId": "2_5825",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:18",
+      "departure": "2014-12-09 15:18",
+      "serviceId": "2_17",
+      "tripId": "2_4688",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 15:19",
+      "departure": "2014-12-09 15:19",
+      "serviceId": "2_17",
+      "tripId": "2_23661",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:23",
+      "departure": "2014-12-09 15:23",
+      "serviceId": "2_17",
+      "tripId": "2_20417",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 15:25",
+      "departure": "2014-12-09 15:25",
+      "serviceId": "2_15",
+      "tripId": "2_5063",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:27",
+      "departure": "2014-12-09 15:27",
+      "serviceId": "2_17",
+      "tripId": "2_23666",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:34",
+      "departure": "2014-12-09 15:34",
+      "serviceId": "2_17",
+      "tripId": "2_23671",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:38",
+      "departure": "2014-12-09 15:38",
+      "serviceId": "2_17",
+      "tripId": "2_4693",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 15:39",
+      "departure": "2014-12-09 15:39",
+      "serviceId": "2_17",
+      "tripId": "2_20442",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 15:42",
+      "departure": "2014-12-09 15:42",
+      "serviceId": "2_17",
+      "tripId": "2_23676",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:44",
+      "departure": "2014-12-09 15:44",
+      "serviceId": "2_15",
+      "tripId": "2_5450",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:45",
+      "departure": "2014-12-09 15:45",
+      "serviceId": "2_15",
+      "tripId": "2_5068",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:49",
+      "departure": "2014-12-09 15:49",
+      "serviceId": "2_17",
+      "tripId": "2_23681",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:53",
+      "departure": "2014-12-09 15:53",
+      "serviceId": "2_17",
+      "tripId": "2_20367",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 15:56",
+      "departure": "2014-12-09 15:56",
+      "serviceId": "2_17",
+      "tripId": "2_23686",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 15:57",
+      "departure": "2014-12-09 15:57",
+      "serviceId": "2_15",
+      "tripId": "2_9346",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 15:58",
+      "departure": "2014-12-09 15:58",
+      "serviceId": "2_17",
+      "tripId": "2_4573",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 16:04",
+      "departure": "2014-12-09 16:04",
+      "serviceId": "2_17",
+      "tripId": "2_20402",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:04",
+      "departure": "2014-12-09 16:04",
+      "serviceId": "2_17",
+      "tripId": "2_23691",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:05",
+      "departure": "2014-12-09 16:05",
+      "serviceId": "2_15",
+      "tripId": "2_5073",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:09",
+      "departure": "2014-12-09 16:09",
+      "serviceId": "2_15",
+      "tripId": "2_5455",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:12",
+      "departure": "2014-12-09 16:12",
+      "serviceId": "2_17",
+      "tripId": "2_23696",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:15",
+      "departure": "2014-12-09 16:15",
+      "serviceId": "2_17",
+      "tripId": "2_20637",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:16",
+      "departure": "2014-12-09 16:16",
+      "serviceId": "2_17",
+      "tripId": "2_4578",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 16:19",
+      "departure": "2014-12-09 16:19",
+      "serviceId": "2_17",
+      "tripId": "2_23701",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:25",
+      "departure": "2014-12-09 16:25",
+      "serviceId": "2_17",
+      "tripId": "2_20607",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:25",
+      "departure": "2014-12-09 16:25",
+      "serviceId": "2_15",
+      "tripId": "2_5078",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:27",
+      "departure": "2014-12-09 16:27",
+      "serviceId": "2_17",
+      "tripId": "2_23706",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:27",
+      "departure": "2014-12-09 16:27",
+      "serviceId": "2_15",
+      "tripId": "2_5845",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:34",
+      "departure": "2014-12-09 16:34",
+      "serviceId": "2_17",
+      "tripId": "2_23711",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:35",
+      "departure": "2014-12-09 16:35",
+      "serviceId": "2_17",
+      "tripId": "2_20802",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:35",
+      "departure": "2014-12-09 16:35",
+      "serviceId": "2_15",
+      "tripId": "2_5475",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:38",
+      "departure": "2014-12-09 16:38",
+      "serviceId": "2_17",
+      "tripId": "2_4583",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 16:43",
+      "departure": "2014-12-09 16:43",
+      "serviceId": "2_17",
+      "tripId": "2_23716",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:46",
+      "departure": "2014-12-09 16:46",
+      "serviceId": "2_17",
+      "tripId": "2_20572",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:48",
+      "departure": "2014-12-09 16:48",
+      "serviceId": "2_15",
+      "tripId": "2_5083",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 16:51",
+      "departure": "2014-12-09 16:51",
+      "serviceId": "2_17",
+      "tripId": "2_23721",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:56",
+      "departure": "2014-12-09 16:56",
+      "serviceId": "2_17",
+      "tripId": "2_20617",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 16:58",
+      "departure": "2014-12-09 16:58",
+      "serviceId": "2_17",
+      "tripId": "2_4588",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 16:59",
+      "departure": "2014-12-09 16:59",
+      "serviceId": "2_17",
+      "tripId": "2_22711",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 16:59",
+      "departure": "2014-12-09 16:59",
+      "serviceId": "2_15",
+      "tripId": "2_5830",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:00",
+      "departure": "2014-12-09 17:00",
+      "serviceId": "2_15",
+      "tripId": "2_5460",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:06",
+      "departure": "2014-12-09 17:06",
+      "serviceId": "2_17",
+      "tripId": "2_20642",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:07",
+      "departure": "2014-12-09 17:07",
+      "serviceId": "2_17",
+      "tripId": "2_22706",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:11",
+      "departure": "2014-12-09 17:11",
+      "serviceId": "2_15",
+      "tripId": "2_5088",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:15",
+      "departure": "2014-12-09 17:15",
+      "serviceId": "2_17",
+      "tripId": "2_22461",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:16",
+      "departure": "2014-12-09 17:16",
+      "serviceId": "2_17",
+      "tripId": "2_20592",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:18",
+      "departure": "2014-12-09 17:18",
+      "serviceId": "2_17",
+      "tripId": "2_4593",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 17:20",
+      "departure": "2014-12-09 17:20",
+      "serviceId": "2_15",
+      "tripId": "2_5465",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:23",
+      "departure": "2014-12-09 17:23",
+      "serviceId": "2_17",
+      "tripId": "2_23081",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:27",
+      "departure": "2014-12-09 17:27",
+      "serviceId": "2_17",
+      "tripId": "2_20582",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:28",
+      "departure": "2014-12-09 17:28",
+      "serviceId": "2_17",
+      "tripId": "2_4313",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 17:29",
+      "departure": "2014-12-09 17:29",
+      "serviceId": "2_15",
+      "tripId": "2_9376",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:30",
+      "departure": "2014-12-09 17:30",
+      "serviceId": "2_17",
+      "tripId": "2_22746",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:31",
+      "departure": "2014-12-09 17:31",
+      "serviceId": "2_15",
+      "tripId": "2_5093",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:37",
+      "departure": "2014-12-09 17:37",
+      "serviceId": "2_17",
+      "tripId": "2_20577",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:37",
+      "departure": "2014-12-09 17:37",
+      "serviceId": "2_17",
+      "tripId": "2_22441",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:38",
+      "departure": "2014-12-09 17:38",
+      "serviceId": "2_17",
+      "tripId": "2_4598",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 17:40",
+      "departure": "2014-12-09 17:40",
+      "serviceId": "2_15",
+      "tripId": "2_5480",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:46",
+      "departure": "2014-12-09 17:46",
+      "serviceId": "2_17",
+      "tripId": "2_22446",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:48",
+      "departure": "2014-12-09 17:48",
+      "serviceId": "2_17",
+      "tripId": "2_20587",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:48",
+      "departure": "2014-12-09 17:48",
+      "serviceId": "2_17",
+      "tripId": "2_4318",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 17:51",
+      "departure": "2014-12-09 17:51",
+      "serviceId": "2_15",
+      "tripId": "2_5098",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 17:53",
+      "departure": "2014-12-09 17:53",
+      "serviceId": "2_17",
+      "tripId": "2_22936",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 17:58",
+      "departure": "2014-12-09 17:58",
+      "serviceId": "2_17",
+      "tripId": "2_4603",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 17:59",
+      "departure": "2014-12-09 17:59",
+      "serviceId": "2_17",
+      "tripId": "2_20627",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 17:59",
+      "departure": "2014-12-09 17:59",
+      "serviceId": "2_15",
+      "tripId": "2_5835",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:00",
+      "departure": "2014-12-09 18:00",
+      "serviceId": "2_17",
+      "tripId": "2_23206",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:00",
+      "departure": "2014-12-09 18:00",
+      "serviceId": "2_15",
+      "tripId": "2_5485",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:07",
+      "departure": "2014-12-09 18:07",
+      "serviceId": "2_17",
+      "tripId": "2_23156",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:10",
+      "departure": "2014-12-09 18:10",
+      "serviceId": "2_17",
+      "tripId": "2_20632",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:11",
+      "departure": "2014-12-09 18:11",
+      "serviceId": "2_15",
+      "tripId": "2_5103",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:15",
+      "departure": "2014-12-09 18:15",
+      "serviceId": "2_17",
+      "tripId": "2_23111",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:18",
+      "departure": "2014-12-09 18:18",
+      "serviceId": "2_17",
+      "tripId": "2_4608",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 18:19",
+      "departure": "2014-12-09 18:19",
+      "serviceId": "2_15",
+      "tripId": "2_5490",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:20",
+      "departure": "2014-12-09 18:20",
+      "serviceId": "2_17",
+      "tripId": "2_20597",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:21",
+      "departure": "2014-12-09 18:21",
+      "serviceId": "2_17",
+      "tripId": "2_22426",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:28",
+      "departure": "2014-12-09 18:28",
+      "serviceId": "2_17",
+      "tripId": "2_4323",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 18:29",
+      "departure": "2014-12-09 18:29",
+      "serviceId": "2_17",
+      "tripId": "2_23041",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:29",
+      "departure": "2014-12-09 18:29",
+      "serviceId": "2_15",
+      "tripId": "2_9301",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:30",
+      "departure": "2014-12-09 18:30",
+      "serviceId": "2_17",
+      "tripId": "2_20787",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:30",
+      "departure": "2014-12-09 18:30",
+      "serviceId": "2_15",
+      "tripId": "2_5108",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:35",
+      "departure": "2014-12-09 18:35",
+      "serviceId": "2_17",
+      "tripId": "2_23176",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:37",
+      "departure": "2014-12-09 18:37",
+      "serviceId": "2_17",
+      "tripId": "2_20652",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:38",
+      "departure": "2014-12-09 18:38",
+      "serviceId": "2_15",
+      "tripId": "2_5495",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:38",
+      "departure": "2014-12-09 18:38",
+      "serviceId": "2_17",
+      "tripId": "2_4613",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 18:41",
+      "departure": "2014-12-09 18:41",
+      "serviceId": "2_17",
+      "tripId": "2_23061",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:47",
+      "departure": "2014-12-09 18:47",
+      "serviceId": "2_17",
+      "tripId": "2_20647",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:47",
+      "departure": "2014-12-09 18:47",
+      "serviceId": "2_17",
+      "tripId": "2_23171",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:48",
+      "departure": "2014-12-09 18:48",
+      "serviceId": "2_17",
+      "tripId": "2_4328",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 18:49",
+      "departure": "2014-12-09 18:49",
+      "serviceId": "2_15",
+      "tripId": "2_5113",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:53",
+      "departure": "2014-12-09 18:53",
+      "serviceId": "2_17",
+      "tripId": "2_23051",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 18:57",
+      "departure": "2014-12-09 18:57",
+      "serviceId": "2_15",
+      "tripId": "2_5500",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:57",
+      "departure": "2014-12-09 18:57",
+      "serviceId": "2_17",
+      "tripId": "2_4618",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 18:58",
+      "departure": "2014-12-09 18:58",
+      "serviceId": "2_17",
+      "tripId": "2_20567",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 18:58",
+      "departure": "2014-12-09 18:58",
+      "serviceId": "2_15",
+      "tripId": "2_5840",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 18:59",
+      "departure": "2014-12-09 18:59",
+      "serviceId": "2_17",
+      "tripId": "2_23231",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:05",
+      "departure": "2014-12-09 19:05",
+      "serviceId": "2_17",
+      "tripId": "2_22621",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:06",
+      "departure": "2014-12-09 19:06",
+      "serviceId": "2_15",
+      "tripId": "2_5118",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:10",
+      "departure": "2014-12-09 19:10",
+      "serviceId": "2_17",
+      "tripId": "2_20762",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 19:11",
+      "departure": "2014-12-09 19:11",
+      "serviceId": "2_17",
+      "tripId": "2_23236",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:15",
+      "departure": "2014-12-09 19:15",
+      "serviceId": "2_15",
+      "tripId": "2_5505",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:16",
+      "departure": "2014-12-09 19:16",
+      "serviceId": "2_17",
+      "tripId": "2_4623",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 19:18",
+      "departure": "2014-12-09 19:18",
+      "serviceId": "2_17",
+      "tripId": "2_23761",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:22",
+      "departure": "2014-12-09 19:22",
+      "serviceId": "2_17",
+      "tripId": "2_20767",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 19:24",
+      "departure": "2014-12-09 19:24",
+      "serviceId": "2_17",
+      "tripId": "2_22696",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:25",
+      "departure": "2014-12-09 19:25",
+      "serviceId": "2_15",
+      "tripId": "2_5123",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:27",
+      "departure": "2014-12-09 19:27",
+      "serviceId": "2_15",
+      "tripId": "2_9286",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:32",
+      "departure": "2014-12-09 19:32",
+      "serviceId": "2_17",
+      "tripId": "2_23091",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:34",
+      "departure": "2014-12-09 19:34",
+      "serviceId": "2_17",
+      "tripId": "2_20772",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 19:35",
+      "departure": "2014-12-09 19:35",
+      "serviceId": "2_15",
+      "tripId": "2_5510",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:35",
+      "departure": "2014-12-09 19:35",
+      "serviceId": "2_17",
+      "tripId": "2_4628",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 19:40",
+      "departure": "2014-12-09 19:40",
+      "serviceId": "2_17",
+      "tripId": "2_23056",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:44",
+      "departure": "2014-12-09 19:44",
+      "serviceId": "2_15",
+      "tripId": "2_5128",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:48",
+      "departure": "2014-12-09 19:48",
+      "serviceId": "2_17",
+      "tripId": "2_22736",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:54",
+      "departure": "2014-12-09 19:54",
+      "serviceId": "2_17",
+      "tripId": "2_20752",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 19:55",
+      "departure": "2014-12-09 19:55",
+      "serviceId": "2_15",
+      "tripId": "2_5515",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 19:55",
+      "departure": "2014-12-09 19:55",
+      "serviceId": "2_17",
+      "tripId": "2_4633",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 19:56",
+      "departure": "2014-12-09 19:56",
+      "serviceId": "2_17",
+      "tripId": "2_23751",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 19:56",
+      "departure": "2014-12-09 19:56",
+      "serviceId": "2_15",
+      "tripId": "2_9291",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:04",
+      "departure": "2014-12-09 20:04",
+      "serviceId": "2_17",
+      "tripId": "2_22651",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:04",
+      "departure": "2014-12-09 20:04",
+      "serviceId": "2_15",
+      "tripId": "2_5133",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:09",
+      "departure": "2014-12-09 20:09",
+      "serviceId": "2_17",
+      "tripId": "2_4638",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 20:12",
+      "departure": "2014-12-09 20:12",
+      "serviceId": "2_17",
+      "tripId": "2_23001",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:19",
+      "departure": "2014-12-09 20:19",
+      "serviceId": "2_17",
+      "tripId": "2_23136",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:20",
+      "departure": "2014-12-09 20:20",
+      "serviceId": "2_15",
+      "tripId": "2_5520",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:24",
+      "departure": "2014-12-09 20:24",
+      "serviceId": "2_17",
+      "tripId": "2_20742",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 20:25",
+      "departure": "2014-12-09 20:25",
+      "serviceId": "2_15",
+      "tripId": "2_9361",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:26",
+      "departure": "2014-12-09 20:26",
+      "serviceId": "2_17",
+      "tripId": "2_22946",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:29",
+      "departure": "2014-12-09 20:29",
+      "serviceId": "2_17",
+      "tripId": "2_4643",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 20:33",
+      "departure": "2014-12-09 20:33",
+      "serviceId": "2_17",
+      "tripId": "2_23756",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:36",
+      "departure": "2014-12-09 20:36",
+      "serviceId": "2_15",
+      "tripId": "2_5138",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:43",
+      "departure": "2014-12-09 20:43",
+      "serviceId": "2_17",
+      "tripId": "2_23076",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 20:44",
+      "departure": "2014-12-09 20:44",
+      "serviceId": "2_17",
+      "tripId": "2_20747",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 20:46",
+      "departure": "2014-12-09 20:46",
+      "serviceId": "2_15",
+      "tripId": "2_5530",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 20:49",
+      "departure": "2014-12-09 20:49",
+      "serviceId": "2_17",
+      "tripId": "2_4648",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 20:53",
+      "departure": "2014-12-09 20:53",
+      "serviceId": "2_17",
+      "tripId": "2_23736",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 21:01",
+      "departure": "2014-12-09 21:01",
+      "serviceId": "2_15",
+      "tripId": "2_5143",
+      "routeId": "2_0054",
+      "headsign": "54 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 21:12",
+      "departure": "2014-12-09 21:12",
+      "serviceId": "2_17",
+      "tripId": "2_20757",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 21:16",
+      "departure": "2014-12-09 21:16",
+      "serviceId": "2_15",
+      "tripId": "2_5525",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2014-12-09 21:18",
+      "departure": "2014-12-09 21:18",
+      "serviceId": "2_17",
+      "tripId": "2_22886",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 21:19",
+      "departure": "2014-12-09 21:19",
+      "serviceId": "2_17",
+      "tripId": "2_4728",
+      "routeId": "2_0053",
+      "headsign": "53 | Rennes République"
+    },
+    {
+      "arrival": "2014-12-09 21:48",
+      "departure": "2014-12-09 21:48",
+      "serviceId": "2_17",
+      "tripId": "2_23006",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 22:02",
+      "departure": "2014-12-09 22:02",
+      "serviceId": "2_15",
+      "tripId": "2_22190",
+      "routeId": "2_0011",
+      "headsign": "11 | La Poterie via ZI Sud-Est"
+    },
+    {
+      "arrival": "2014-12-09 22:18",
+      "departure": "2014-12-09 22:18",
+      "serviceId": "2_17",
+      "tripId": "2_22866",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 22:48",
+      "departure": "2014-12-09 22:48",
+      "serviceId": "2_17",
+      "tripId": "2_22901",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 23:18",
+      "departure": "2014-12-09 23:18",
+      "serviceId": "2_17",
+      "tripId": "2_22906",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-09 23:48",
+      "departure": "2014-12-09 23:48",
+      "serviceId": "2_17",
+      "tripId": "2_22846",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-10 00:18",
+      "departure": "2014-12-10 00:18",
+      "serviceId": "2_17",
+      "tripId": "2_22876",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    }
+  ]
+}

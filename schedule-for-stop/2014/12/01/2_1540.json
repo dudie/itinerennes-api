@@ -1,0 +1,1274 @@
+{
+  "date": "2014-12-01 00:00",
+  "stop": {
+    "id": "2_1540",
+    "lat": 48.1099522,
+    "lon": -1.68519001,
+    "name": "Pont de Bretagne",
+    "code": 1540
+  },
+  "routes": [
+    {
+      "id": "2_0053",
+      "textColor": "FFFFFF",
+      "color": "D20132",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Vezin-le-Coquet / L\u0027Hermitage / La Chapelle-Thouarault",
+      "shortName": "53",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0054",
+      "textColor": "FFFFFF",
+      "color": "CD93BD",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Le Rheu / Cintré",
+      "shortName": "54",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0055",
+      "textColor": "1A171B",
+      "color": "F7A800",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Mordelles / Le Verger",
+      "shortName": "55",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0056",
+      "textColor": "FFFFFF",
+      "color": "009A47",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+      "shortName": "56",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0154",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Le Rheu / Cintré",
+      "shortName": "154",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0155",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Mordelles",
+      "shortName": "155",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-12-01 06:26",
+      "departure": "2014-12-01 06:26",
+      "serviceId": "2_9",
+      "tripId": "2_5534",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 06:26",
+      "departure": "2014-12-01 06:26",
+      "serviceId": "2_9",
+      "tripId": "2_5172",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 06:28",
+      "departure": "2014-12-01 06:28",
+      "serviceId": "2_11",
+      "tripId": "2_4382",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 06:46",
+      "departure": "2014-12-01 06:46",
+      "serviceId": "2_9",
+      "tripId": "2_5177",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 06:53",
+      "departure": "2014-12-01 06:53",
+      "serviceId": "2_11",
+      "tripId": "2_4392",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 07:01",
+      "departure": "2014-12-01 07:01",
+      "serviceId": "2_9",
+      "tripId": "2_5182",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 07:06",
+      "departure": "2014-12-01 07:06",
+      "serviceId": "2_9",
+      "tripId": "2_5539",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 07:06",
+      "departure": "2014-12-01 07:06",
+      "serviceId": "2_9",
+      "tripId": "2_9365",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 07:08",
+      "departure": "2014-12-01 07:08",
+      "serviceId": "2_11",
+      "tripId": "2_4397",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 07:22",
+      "departure": "2014-12-01 07:22",
+      "serviceId": "2_9",
+      "tripId": "2_5549",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 07:27",
+      "departure": "2014-12-01 07:27",
+      "serviceId": "2_9",
+      "tripId": "2_5187",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 07:27",
+      "departure": "2014-12-01 07:27",
+      "serviceId": "2_9",
+      "tripId": "2_9295",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 07:28",
+      "departure": "2014-12-01 07:28",
+      "serviceId": "2_11",
+      "tripId": "2_4402",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 07:38",
+      "departure": "2014-12-01 07:38",
+      "serviceId": "2_11",
+      "tripId": "2_4297",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-01 07:42",
+      "departure": "2014-12-01 07:42",
+      "serviceId": "2_9",
+      "tripId": "2_5554",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 07:48",
+      "departure": "2014-12-01 07:48",
+      "serviceId": "2_11",
+      "tripId": "2_4407",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 07:52",
+      "departure": "2014-12-01 07:52",
+      "serviceId": "2_9",
+      "tripId": "2_5192",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 07:58",
+      "departure": "2014-12-01 07:58",
+      "serviceId": "2_11",
+      "tripId": "2_4302",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-01 08:02",
+      "departure": "2014-12-01 08:02",
+      "serviceId": "2_9",
+      "tripId": "2_5559",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 08:02",
+      "departure": "2014-12-01 08:02",
+      "serviceId": "2_9",
+      "tripId": "2_5724",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 08:08",
+      "departure": "2014-12-01 08:08",
+      "serviceId": "2_11",
+      "tripId": "2_4412",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 08:12",
+      "departure": "2014-12-01 08:12",
+      "serviceId": "2_9",
+      "tripId": "2_4862",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 08:17",
+      "departure": "2014-12-01 08:17",
+      "serviceId": "2_9",
+      "tripId": "2_9380",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 08:22",
+      "departure": "2014-12-01 08:22",
+      "serviceId": "2_9",
+      "tripId": "2_5564",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 08:28",
+      "departure": "2014-12-01 08:28",
+      "serviceId": "2_11",
+      "tripId": "2_4417",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 08:32",
+      "departure": "2014-12-01 08:32",
+      "serviceId": "2_9",
+      "tripId": "2_5202",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 08:32",
+      "departure": "2014-12-01 08:32",
+      "serviceId": "2_9",
+      "tripId": "2_5754",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 08:38",
+      "departure": "2014-12-01 08:38",
+      "serviceId": "2_11",
+      "tripId": "2_4307",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-01 08:42",
+      "departure": "2014-12-01 08:42",
+      "serviceId": "2_9",
+      "tripId": "2_5569",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 08:48",
+      "departure": "2014-12-01 08:48",
+      "serviceId": "2_11",
+      "tripId": "2_4422",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 08:52",
+      "departure": "2014-12-01 08:52",
+      "serviceId": "2_9",
+      "tripId": "2_4867",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 09:07",
+      "departure": "2014-12-01 09:07",
+      "serviceId": "2_9",
+      "tripId": "2_5574",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 09:08",
+      "departure": "2014-12-01 09:08",
+      "serviceId": "2_11",
+      "tripId": "2_4387",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 09:21",
+      "departure": "2014-12-01 09:21",
+      "serviceId": "2_9",
+      "tripId": "2_5212",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 09:26",
+      "departure": "2014-12-01 09:26",
+      "serviceId": "2_9",
+      "tripId": "2_9320",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 09:36",
+      "departure": "2014-12-01 09:36",
+      "serviceId": "2_9",
+      "tripId": "2_5579",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 09:48",
+      "departure": "2014-12-01 09:48",
+      "serviceId": "2_11",
+      "tripId": "2_4427",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 09:51",
+      "departure": "2014-12-01 09:51",
+      "serviceId": "2_9",
+      "tripId": "2_4847",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 10:06",
+      "departure": "2014-12-01 10:06",
+      "serviceId": "2_9",
+      "tripId": "2_5584",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 10:06",
+      "departure": "2014-12-01 10:06",
+      "serviceId": "2_9",
+      "tripId": "2_5759",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 10:21",
+      "departure": "2014-12-01 10:21",
+      "serviceId": "2_9",
+      "tripId": "2_5217",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 10:28",
+      "departure": "2014-12-01 10:28",
+      "serviceId": "2_11",
+      "tripId": "2_4437",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 10:36",
+      "departure": "2014-12-01 10:36",
+      "serviceId": "2_9",
+      "tripId": "2_5589",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 10:51",
+      "departure": "2014-12-01 10:51",
+      "serviceId": "2_9",
+      "tripId": "2_4852",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 11:03",
+      "departure": "2014-12-01 11:03",
+      "serviceId": "2_11",
+      "tripId": "2_4432",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 11:06",
+      "departure": "2014-12-01 11:06",
+      "serviceId": "2_9",
+      "tripId": "2_5594",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 11:21",
+      "departure": "2014-12-01 11:21",
+      "serviceId": "2_9",
+      "tripId": "2_4842",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 11:26",
+      "departure": "2014-12-01 11:26",
+      "serviceId": "2_9",
+      "tripId": "2_5764",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 11:36",
+      "departure": "2014-12-01 11:36",
+      "serviceId": "2_9",
+      "tripId": "2_5244",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 11:43",
+      "departure": "2014-12-01 11:43",
+      "serviceId": "2_11",
+      "tripId": "2_4442",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 11:51",
+      "departure": "2014-12-01 11:51",
+      "serviceId": "2_9",
+      "tripId": "2_4857",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 12:16",
+      "departure": "2014-12-01 12:16",
+      "serviceId": "2_9",
+      "tripId": "2_5207",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 12:16",
+      "departure": "2014-12-01 12:16",
+      "serviceId": "2_9",
+      "tripId": "2_5249",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 12:16",
+      "departure": "2014-12-01 12:16",
+      "serviceId": "2_9",
+      "tripId": "2_5769",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 12:18",
+      "departure": "2014-12-01 12:18",
+      "serviceId": "2_11",
+      "tripId": "2_4447",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 12:31",
+      "departure": "2014-12-01 12:31",
+      "serviceId": "2_9",
+      "tripId": "2_5197",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 12:38",
+      "departure": "2014-12-01 12:38",
+      "serviceId": "2_11",
+      "tripId": "2_4482",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 12:41",
+      "departure": "2014-12-01 12:41",
+      "serviceId": "2_9",
+      "tripId": "2_5254",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 12:46",
+      "departure": "2014-12-01 12:46",
+      "serviceId": "2_9",
+      "tripId": "2_5774",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 12:51",
+      "departure": "2014-12-01 12:51",
+      "serviceId": "2_9",
+      "tripId": "2_4882",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 12:58",
+      "departure": "2014-12-01 12:58",
+      "serviceId": "2_11",
+      "tripId": "2_4487",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 13:11",
+      "departure": "2014-12-01 13:11",
+      "serviceId": "2_9",
+      "tripId": "2_5259",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 13:13",
+      "departure": "2014-12-01 13:13",
+      "serviceId": "2_11",
+      "tripId": "2_4697",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 13:21",
+      "departure": "2014-12-01 13:21",
+      "serviceId": "2_9",
+      "tripId": "2_4872",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 13:31",
+      "departure": "2014-12-01 13:31",
+      "serviceId": "2_9",
+      "tripId": "2_4887",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 13:33",
+      "departure": "2014-12-01 13:33",
+      "serviceId": "2_11",
+      "tripId": "2_4702",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 13:36",
+      "departure": "2014-12-01 13:36",
+      "serviceId": "2_9",
+      "tripId": "2_9325",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 13:41",
+      "departure": "2014-12-01 13:41",
+      "serviceId": "2_9",
+      "tripId": "2_5264",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 13:53",
+      "departure": "2014-12-01 13:53",
+      "serviceId": "2_11",
+      "tripId": "2_4707",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 13:56",
+      "departure": "2014-12-01 13:56",
+      "serviceId": "2_9",
+      "tripId": "2_4877",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu"
+    },
+    {
+      "arrival": "2014-12-01 14:11",
+      "departure": "2014-12-01 14:11",
+      "serviceId": "2_9",
+      "tripId": "2_5269",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 14:11",
+      "departure": "2014-12-01 14:11",
+      "serviceId": "2_9",
+      "tripId": "2_5789",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 14:13",
+      "departure": "2014-12-01 14:13",
+      "serviceId": "2_11",
+      "tripId": "2_4712",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 14:16",
+      "departure": "2014-12-01 14:16",
+      "serviceId": "2_9",
+      "tripId": "2_4892",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 14:33",
+      "departure": "2014-12-01 14:33",
+      "serviceId": "2_11",
+      "tripId": "2_4717",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 14:36",
+      "departure": "2014-12-01 14:36",
+      "serviceId": "2_9",
+      "tripId": "2_4897",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 14:41",
+      "departure": "2014-12-01 14:41",
+      "serviceId": "2_9",
+      "tripId": "2_5274",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 14:53",
+      "departure": "2014-12-01 14:53",
+      "serviceId": "2_11",
+      "tripId": "2_4722",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 14:56",
+      "departure": "2014-12-01 14:56",
+      "serviceId": "2_9",
+      "tripId": "2_4902",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 14:56",
+      "departure": "2014-12-01 14:56",
+      "serviceId": "2_9",
+      "tripId": "2_9330",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 15:06",
+      "departure": "2014-12-01 15:06",
+      "serviceId": "2_9",
+      "tripId": "2_5279",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 15:13",
+      "departure": "2014-12-01 15:13",
+      "serviceId": "2_11",
+      "tripId": "2_4657",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 15:16",
+      "departure": "2014-12-01 15:16",
+      "serviceId": "2_9",
+      "tripId": "2_4907",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 15:26",
+      "departure": "2014-12-01 15:26",
+      "serviceId": "2_9",
+      "tripId": "2_5469",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 15:33",
+      "departure": "2014-12-01 15:33",
+      "serviceId": "2_11",
+      "tripId": "2_4492",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 15:37",
+      "departure": "2014-12-01 15:37",
+      "serviceId": "2_9",
+      "tripId": "2_4912",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 15:42",
+      "departure": "2014-12-01 15:42",
+      "serviceId": "2_9",
+      "tripId": "2_9340",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 15:47",
+      "departure": "2014-12-01 15:47",
+      "serviceId": "2_9",
+      "tripId": "2_5284",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 15:53",
+      "departure": "2014-12-01 15:53",
+      "serviceId": "2_11",
+      "tripId": "2_4497",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 15:57",
+      "departure": "2014-12-01 15:57",
+      "serviceId": "2_9",
+      "tripId": "2_4917",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 16:07",
+      "departure": "2014-12-01 16:07",
+      "serviceId": "2_9",
+      "tripId": "2_5289",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 16:13",
+      "departure": "2014-12-01 16:13",
+      "serviceId": "2_11",
+      "tripId": "2_4502",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 16:17",
+      "departure": "2014-12-01 16:17",
+      "serviceId": "2_9",
+      "tripId": "2_4922",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 16:17",
+      "departure": "2014-12-01 16:17",
+      "serviceId": "2_9",
+      "tripId": "2_9370",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 16:27",
+      "departure": "2014-12-01 16:27",
+      "serviceId": "2_9",
+      "tripId": "2_5294",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 16:30",
+      "departure": "2014-12-01 16:30",
+      "serviceId": "2_11",
+      "tripId": "2_4507",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 16:36",
+      "departure": "2014-12-01 16:36",
+      "serviceId": "2_9",
+      "tripId": "2_5644",
+      "routeId": "2_0155",
+      "headsign": "155 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 16:37",
+      "departure": "2014-12-01 16:37",
+      "serviceId": "2_9",
+      "tripId": "2_4927",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 16:46",
+      "departure": "2014-12-01 16:46",
+      "serviceId": "2_9",
+      "tripId": "2_5614",
+      "routeId": "2_0154",
+      "headsign": "154 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 16:47",
+      "departure": "2014-12-01 16:47",
+      "serviceId": "2_9",
+      "tripId": "2_5299",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 16:47",
+      "departure": "2014-12-01 16:47",
+      "serviceId": "2_9",
+      "tripId": "2_5794",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 16:53",
+      "departure": "2014-12-01 16:53",
+      "serviceId": "2_11",
+      "tripId": "2_4512",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 16:57",
+      "departure": "2014-12-01 16:57",
+      "serviceId": "2_9",
+      "tripId": "2_4932",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 17:07",
+      "departure": "2014-12-01 17:07",
+      "serviceId": "2_9",
+      "tripId": "2_5304",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 17:13",
+      "departure": "2014-12-01 17:13",
+      "serviceId": "2_11",
+      "tripId": "2_4517",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 17:16",
+      "departure": "2014-12-01 17:16",
+      "serviceId": "2_9",
+      "tripId": "2_5649",
+      "routeId": "2_0155",
+      "headsign": "155 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 17:17",
+      "departure": "2014-12-01 17:17",
+      "serviceId": "2_9",
+      "tripId": "2_4937",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 17:22",
+      "departure": "2014-12-01 17:22",
+      "serviceId": "2_9",
+      "tripId": "2_9350",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 17:26",
+      "departure": "2014-12-01 17:26",
+      "serviceId": "2_9",
+      "tripId": "2_5619",
+      "routeId": "2_0154",
+      "headsign": "154 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 17:27",
+      "departure": "2014-12-01 17:27",
+      "serviceId": "2_9",
+      "tripId": "2_5309",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 17:33",
+      "departure": "2014-12-01 17:33",
+      "serviceId": "2_11",
+      "tripId": "2_4522",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 17:36",
+      "departure": "2014-12-01 17:36",
+      "serviceId": "2_9",
+      "tripId": "2_5654",
+      "routeId": "2_0155",
+      "headsign": "155 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 17:37",
+      "departure": "2014-12-01 17:37",
+      "serviceId": "2_9",
+      "tripId": "2_4942",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 17:47",
+      "departure": "2014-12-01 17:47",
+      "serviceId": "2_9",
+      "tripId": "2_5314",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 17:52",
+      "departure": "2014-12-01 17:52",
+      "serviceId": "2_9",
+      "tripId": "2_5804",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 17:53",
+      "departure": "2014-12-01 17:53",
+      "serviceId": "2_11",
+      "tripId": "2_4527",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 17:57",
+      "departure": "2014-12-01 17:57",
+      "serviceId": "2_9",
+      "tripId": "2_5229",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 18:07",
+      "departure": "2014-12-01 18:07",
+      "serviceId": "2_9",
+      "tripId": "2_5319",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 18:13",
+      "departure": "2014-12-01 18:13",
+      "serviceId": "2_11",
+      "tripId": "2_4532",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 18:16",
+      "departure": "2014-12-01 18:16",
+      "serviceId": "2_9",
+      "tripId": "2_5659",
+      "routeId": "2_0155",
+      "headsign": "155 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 18:17",
+      "departure": "2014-12-01 18:17",
+      "serviceId": "2_9",
+      "tripId": "2_4947",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 18:22",
+      "departure": "2014-12-01 18:22",
+      "serviceId": "2_9",
+      "tripId": "2_9310",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 18:26",
+      "departure": "2014-12-01 18:26",
+      "serviceId": "2_9",
+      "tripId": "2_5624",
+      "routeId": "2_0154",
+      "headsign": "154 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 18:27",
+      "departure": "2014-12-01 18:27",
+      "serviceId": "2_9",
+      "tripId": "2_5324",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 18:33",
+      "departure": "2014-12-01 18:33",
+      "serviceId": "2_11",
+      "tripId": "2_4537",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 18:36",
+      "departure": "2014-12-01 18:36",
+      "serviceId": "2_9",
+      "tripId": "2_5664",
+      "routeId": "2_0155",
+      "headsign": "155 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 18:37",
+      "departure": "2014-12-01 18:37",
+      "serviceId": "2_9",
+      "tripId": "2_4952",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 18:47",
+      "departure": "2014-12-01 18:47",
+      "serviceId": "2_9",
+      "tripId": "2_5329",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 18:52",
+      "departure": "2014-12-01 18:52",
+      "serviceId": "2_9",
+      "tripId": "2_9305",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 18:53",
+      "departure": "2014-12-01 18:53",
+      "serviceId": "2_11",
+      "tripId": "2_4542",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 18:57",
+      "departure": "2014-12-01 18:57",
+      "serviceId": "2_9",
+      "tripId": "2_5224",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 19:07",
+      "departure": "2014-12-01 19:07",
+      "serviceId": "2_9",
+      "tripId": "2_5334",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 19:13",
+      "departure": "2014-12-01 19:13",
+      "serviceId": "2_11",
+      "tripId": "2_4547",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 19:16",
+      "departure": "2014-12-01 19:16",
+      "serviceId": "2_9",
+      "tripId": "2_4957",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 19:21",
+      "departure": "2014-12-01 19:21",
+      "serviceId": "2_9",
+      "tripId": "2_5809",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 19:26",
+      "departure": "2014-12-01 19:26",
+      "serviceId": "2_9",
+      "tripId": "2_5339",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 19:33",
+      "departure": "2014-12-01 19:33",
+      "serviceId": "2_11",
+      "tripId": "2_4552",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 19:36",
+      "departure": "2014-12-01 19:36",
+      "serviceId": "2_9",
+      "tripId": "2_4962",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 19:46",
+      "departure": "2014-12-01 19:46",
+      "serviceId": "2_9",
+      "tripId": "2_5344",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 19:46",
+      "departure": "2014-12-01 19:46",
+      "serviceId": "2_9",
+      "tripId": "2_5819",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 19:53",
+      "departure": "2014-12-01 19:53",
+      "serviceId": "2_11",
+      "tripId": "2_4557",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 19:56",
+      "departure": "2014-12-01 19:56",
+      "serviceId": "2_9",
+      "tripId": "2_4967",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 20:16",
+      "departure": "2014-12-01 20:16",
+      "serviceId": "2_9",
+      "tripId": "2_4972",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 20:16",
+      "departure": "2014-12-01 20:16",
+      "serviceId": "2_9",
+      "tripId": "2_5814",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 20:21",
+      "departure": "2014-12-01 20:21",
+      "serviceId": "2_9",
+      "tripId": "2_5349",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles Le Verger"
+    },
+    {
+      "arrival": "2014-12-01 20:23",
+      "departure": "2014-12-01 20:23",
+      "serviceId": "2_11",
+      "tripId": "2_4562",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-01 20:46",
+      "departure": "2014-12-01 20:46",
+      "serviceId": "2_9",
+      "tripId": "2_9355",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2014-12-01 20:56",
+      "departure": "2014-12-01 20:56",
+      "serviceId": "2_9",
+      "tripId": "2_5544",
+      "routeId": "2_0055",
+      "headsign": "55 | Mordelles"
+    },
+    {
+      "arrival": "2014-12-01 20:56",
+      "departure": "2014-12-01 20:56",
+      "serviceId": "2_9",
+      "tripId": "2_4977",
+      "routeId": "2_0054",
+      "headsign": "54 | Le Rheu Cintré"
+    },
+    {
+      "arrival": "2014-12-01 20:58",
+      "departure": "2014-12-01 20:58",
+      "serviceId": "2_11",
+      "tripId": "2_4567",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    }
+  ]
+}

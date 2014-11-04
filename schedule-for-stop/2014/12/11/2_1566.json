@@ -1,0 +1,398 @@
+{
+  "date": "2014-12-11 00:00",
+  "stop": {
+    "id": "2_1566",
+    "lat": 48.1253701,
+    "lon": -1.69257643,
+    "name": "Lycée Basch",
+    "code": 1566
+  },
+  "routes": [
+    {
+      "id": "2_0065",
+      "textColor": "FFFFFF",
+      "color": "E36DA3",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé / Parthenay-de-Bretagne",
+      "shortName": "65",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0076",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Vezin-le-Coquet / Le Rheu / Mordelles",
+      "shortName": "76",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0152",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Lycée V. H. Basch) \u003c\u003e Saint-Gilles",
+      "shortName": "152",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0210",
+      "textColor": "FFFFFF",
+      "color": "E30613",
+      "description": "Complémentaire",
+      "longName": "L\u0027Hermitage (Centre) \u003c\u003e Rennes (Lycée V.H. Basch)",
+      "shortName": "210",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-12-11 07:43",
+      "departure": "2014-12-11 07:43",
+      "serviceId": "2_3",
+      "tripId": "2_9544",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 07:45",
+      "departure": "2014-12-11 07:45",
+      "serviceId": "2_3",
+      "tripId": "2_12176",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 07:46",
+      "departure": "2014-12-11 07:46",
+      "serviceId": "2_3",
+      "tripId": "2_7785",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2014-12-11 07:50",
+      "departure": "2014-12-11 07:50",
+      "serviceId": "2_5",
+      "tripId": "2_21224",
+      "routeId": "2_0210",
+      "headsign": "210 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 07:50",
+      "departure": "2014-12-11 07:50",
+      "serviceId": "2_3",
+      "tripId": "2_9569",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 07:51",
+      "departure": "2014-12-11 07:51",
+      "serviceId": "2_3",
+      "tripId": "2_10969",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 07:51",
+      "departure": "2014-12-11 07:51",
+      "serviceId": "2_3",
+      "tripId": "2_7774",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2014-12-11 08:10",
+      "departure": "2014-12-11 08:10",
+      "serviceId": "2_3",
+      "tripId": "2_9549",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 08:15",
+      "departure": "2014-12-11 08:15",
+      "serviceId": "2_3",
+      "tripId": "2_9574",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 08:48",
+      "departure": "2014-12-11 08:48",
+      "serviceId": "2_3",
+      "tripId": "2_9554",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 08:49",
+      "departure": "2014-12-11 08:49",
+      "serviceId": "2_3",
+      "tripId": "2_10979",
+      "routeId": "2_0152",
+      "headsign": "152 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 08:50",
+      "departure": "2014-12-11 08:50",
+      "serviceId": "2_5",
+      "tripId": "2_21229",
+      "routeId": "2_0210",
+      "headsign": "210 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 08:50",
+      "departure": "2014-12-11 08:50",
+      "serviceId": "2_3",
+      "tripId": "2_7780",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2014-12-11 09:05",
+      "departure": "2014-12-11 09:05",
+      "serviceId": "2_3",
+      "tripId": "2_9579",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 09:18",
+      "departure": "2014-12-11 09:18",
+      "serviceId": "2_3",
+      "tripId": "2_9559",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 09:42",
+      "departure": "2014-12-11 09:42",
+      "serviceId": "2_3",
+      "tripId": "2_9564",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 10:31",
+      "departure": "2014-12-11 10:31",
+      "serviceId": "2_3",
+      "tripId": "2_9629",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 10:40",
+      "departure": "2014-12-11 10:40",
+      "serviceId": "2_3",
+      "tripId": "2_9584",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 12:06",
+      "departure": "2014-12-11 12:06",
+      "serviceId": "2_3",
+      "tripId": "2_9634",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 12:15",
+      "departure": "2014-12-11 12:15",
+      "serviceId": "2_3",
+      "tripId": "2_9589",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 13:10",
+      "departure": "2014-12-11 13:10",
+      "serviceId": "2_3",
+      "tripId": "2_9594",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 13:41",
+      "departure": "2014-12-11 13:41",
+      "serviceId": "2_3",
+      "tripId": "2_9639",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 14:36",
+      "departure": "2014-12-11 14:36",
+      "serviceId": "2_3",
+      "tripId": "2_9644",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 14:40",
+      "departure": "2014-12-11 14:40",
+      "serviceId": "2_3",
+      "tripId": "2_9599",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 16:06",
+      "departure": "2014-12-11 16:06",
+      "serviceId": "2_3",
+      "tripId": "2_9649",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 16:10",
+      "departure": "2014-12-11 16:10",
+      "serviceId": "2_6",
+      "tripId": "2_21244",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-11 16:15",
+      "departure": "2014-12-11 16:15",
+      "serviceId": "2_3",
+      "tripId": "2_9654",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 17:10",
+      "departure": "2014-12-11 17:10",
+      "serviceId": "2_3",
+      "tripId": "2_10984",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-11 17:10",
+      "departure": "2014-12-11 17:10",
+      "serviceId": "2_5",
+      "tripId": "2_21234",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-11 17:10",
+      "departure": "2014-12-11 17:10",
+      "serviceId": "2_4",
+      "tripId": "2_7766",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-11 17:10",
+      "departure": "2014-12-11 17:10",
+      "serviceId": "2_3",
+      "tripId": "2_9604",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 17:41",
+      "departure": "2014-12-11 17:41",
+      "serviceId": "2_3",
+      "tripId": "2_9659",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 17:50",
+      "departure": "2014-12-11 17:50",
+      "serviceId": "2_3",
+      "tripId": "2_9609",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 18:10",
+      "departure": "2014-12-11 18:10",
+      "serviceId": "2_3",
+      "tripId": "2_10974",
+      "routeId": "2_0152",
+      "headsign": "152 | Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-11 18:10",
+      "departure": "2014-12-11 18:10",
+      "serviceId": "2_5",
+      "tripId": "2_21239",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-11 18:10",
+      "departure": "2014-12-11 18:10",
+      "serviceId": "2_4",
+      "tripId": "2_7771",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-11 18:15",
+      "departure": "2014-12-11 18:15",
+      "serviceId": "2_3",
+      "tripId": "2_9614",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 18:41",
+      "departure": "2014-12-11 18:41",
+      "serviceId": "2_3",
+      "tripId": "2_9669",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 18:50",
+      "departure": "2014-12-11 18:50",
+      "serviceId": "2_3",
+      "tripId": "2_9619",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 19:21",
+      "departure": "2014-12-11 19:21",
+      "serviceId": "2_3",
+      "tripId": "2_9674",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 19:25",
+      "departure": "2014-12-11 19:25",
+      "serviceId": "2_3",
+      "tripId": "2_9624",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-11 19:46",
+      "departure": "2014-12-11 19:46",
+      "serviceId": "2_3",
+      "tripId": "2_9664",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2014-12-11 20:16",
+      "departure": "2014-12-11 20:16",
+      "serviceId": "2_3",
+      "tripId": "2_9679",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    }
+  ]
+}
