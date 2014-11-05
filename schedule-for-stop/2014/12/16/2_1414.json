@@ -1,0 +1,992 @@
+{
+  "date": "2014-12-16 00:00",
+  "stop": {
+    "id": "2_1414",
+    "lat": 48.11638524,
+    "lon": -1.71215936,
+    "name": "Merlin",
+    "code": 1414
+  },
+  "routes": [
+    {
+      "id": "2_0014",
+      "textColor": "FFFFFF",
+      "color": "805A26",
+      "description": "Urbaine",
+      "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+      "shortName": "14",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0053",
+      "textColor": "FFFFFF",
+      "color": "D20132",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Vezin-le-Coquet / L\u0027Hermitage / La Chapelle-Thouarault",
+      "shortName": "53",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0076",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Vezin-le-Coquet / Le Rheu / Mordelles",
+      "shortName": "76",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0209",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "Vezin-le-Coquet (Vallée) \u003c\u003e Rennes (Collège Rosa Parks)",
+      "shortName": "209",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0210",
+      "textColor": "FFFFFF",
+      "color": "E30613",
+      "description": "Complémentaire",
+      "longName": "L\u0027Hermitage (Centre) \u003c\u003e Rennes (Lycée V.H. Basch)",
+      "shortName": "210",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-12-16 06:24",
+      "departure": "2014-12-16 06:24",
+      "serviceId": "2_17",
+      "tripId": "2_12828",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 06:33",
+      "departure": "2014-12-16 06:33",
+      "serviceId": "2_17",
+      "tripId": "2_4383",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 06:58",
+      "departure": "2014-12-16 06:58",
+      "serviceId": "2_17",
+      "tripId": "2_4393",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 07:01",
+      "departure": "2014-12-16 07:01",
+      "serviceId": "2_17",
+      "tripId": "2_12833",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 07:13",
+      "departure": "2014-12-16 07:13",
+      "serviceId": "2_17",
+      "tripId": "2_4398",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 07:26",
+      "departure": "2014-12-16 07:26",
+      "serviceId": "2_17",
+      "tripId": "2_12838",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 07:35",
+      "departure": "2014-12-16 07:35",
+      "serviceId": "2_17",
+      "tripId": "2_4403",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 07:45",
+      "departure": "2014-12-16 07:45",
+      "serviceId": "2_17",
+      "tripId": "2_4298",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-16 07:47",
+      "departure": "2014-12-16 07:47",
+      "serviceId": "2_17",
+      "tripId": "2_12763",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 07:55",
+      "departure": "2014-12-16 07:55",
+      "serviceId": "2_17",
+      "tripId": "2_4408",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 07:59",
+      "departure": "2014-12-16 07:59",
+      "serviceId": "2_15",
+      "tripId": "2_9571",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 08:02",
+      "departure": "2014-12-16 08:02",
+      "serviceId": "2_17",
+      "tripId": "2_12768",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 08:05",
+      "departure": "2014-12-16 08:05",
+      "serviceId": "2_17",
+      "tripId": "2_4303",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-16 08:15",
+      "departure": "2014-12-16 08:15",
+      "serviceId": "2_17",
+      "tripId": "2_4413",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 08:16",
+      "departure": "2014-12-16 08:16",
+      "serviceId": "2_17",
+      "tripId": "2_12813",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 08:24",
+      "departure": "2014-12-16 08:24",
+      "serviceId": "2_15",
+      "tripId": "2_9576",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 08:32",
+      "departure": "2014-12-16 08:32",
+      "serviceId": "2_17",
+      "tripId": "2_12818",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 08:35",
+      "departure": "2014-12-16 08:35",
+      "serviceId": "2_17",
+      "tripId": "2_4418",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 08:45",
+      "departure": "2014-12-16 08:45",
+      "serviceId": "2_17",
+      "tripId": "2_4308",
+      "routeId": "2_0053",
+      "headsign": "53 | Colin"
+    },
+    {
+      "arrival": "2014-12-16 08:47",
+      "departure": "2014-12-16 08:47",
+      "serviceId": "2_17",
+      "tripId": "2_12823",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 08:55",
+      "departure": "2014-12-16 08:55",
+      "serviceId": "2_17",
+      "tripId": "2_4423",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 09:02",
+      "departure": "2014-12-16 09:02",
+      "serviceId": "2_17",
+      "tripId": "2_12843",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 09:14",
+      "departure": "2014-12-16 09:14",
+      "serviceId": "2_15",
+      "tripId": "2_9581",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 09:15",
+      "departure": "2014-12-16 09:15",
+      "serviceId": "2_17",
+      "tripId": "2_12848",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 09:15",
+      "departure": "2014-12-16 09:15",
+      "serviceId": "2_17",
+      "tripId": "2_4388",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 09:26",
+      "departure": "2014-12-16 09:26",
+      "serviceId": "2_17",
+      "tripId": "2_12853",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 09:40",
+      "departure": "2014-12-16 09:40",
+      "serviceId": "2_17",
+      "tripId": "2_12858",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 09:55",
+      "departure": "2014-12-16 09:55",
+      "serviceId": "2_17",
+      "tripId": "2_12863",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 09:55",
+      "departure": "2014-12-16 09:55",
+      "serviceId": "2_17",
+      "tripId": "2_4428",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 10:10",
+      "departure": "2014-12-16 10:10",
+      "serviceId": "2_17",
+      "tripId": "2_12868",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 10:25",
+      "departure": "2014-12-16 10:25",
+      "serviceId": "2_17",
+      "tripId": "2_12873",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 10:35",
+      "departure": "2014-12-16 10:35",
+      "serviceId": "2_17",
+      "tripId": "2_4438",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 10:40",
+      "departure": "2014-12-16 10:40",
+      "serviceId": "2_17",
+      "tripId": "2_12878",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 10:49",
+      "departure": "2014-12-16 10:49",
+      "serviceId": "2_15",
+      "tripId": "2_9586",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 10:55",
+      "departure": "2014-12-16 10:55",
+      "serviceId": "2_17",
+      "tripId": "2_12883",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 11:10",
+      "departure": "2014-12-16 11:10",
+      "serviceId": "2_17",
+      "tripId": "2_12888",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 11:10",
+      "departure": "2014-12-16 11:10",
+      "serviceId": "2_17",
+      "tripId": "2_4433",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 11:25",
+      "departure": "2014-12-16 11:25",
+      "serviceId": "2_17",
+      "tripId": "2_12893",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 11:40",
+      "departure": "2014-12-16 11:40",
+      "serviceId": "2_17",
+      "tripId": "2_12898",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 11:50",
+      "departure": "2014-12-16 11:50",
+      "serviceId": "2_17",
+      "tripId": "2_4443",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 11:56",
+      "departure": "2014-12-16 11:56",
+      "serviceId": "2_17",
+      "tripId": "2_12903",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 12:11",
+      "departure": "2014-12-16 12:11",
+      "serviceId": "2_17",
+      "tripId": "2_12908",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 12:24",
+      "departure": "2014-12-16 12:24",
+      "serviceId": "2_15",
+      "tripId": "2_9591",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 12:25",
+      "departure": "2014-12-16 12:25",
+      "serviceId": "2_17",
+      "tripId": "2_4448",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 12:26",
+      "departure": "2014-12-16 12:26",
+      "serviceId": "2_17",
+      "tripId": "2_12913",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 12:42",
+      "departure": "2014-12-16 12:42",
+      "serviceId": "2_17",
+      "tripId": "2_12918",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 12:45",
+      "departure": "2014-12-16 12:45",
+      "serviceId": "2_17",
+      "tripId": "2_4483",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 12:58",
+      "departure": "2014-12-16 12:58",
+      "serviceId": "2_17",
+      "tripId": "2_13241",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 13:05",
+      "departure": "2014-12-16 13:05",
+      "serviceId": "2_17",
+      "tripId": "2_4488",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 13:14",
+      "departure": "2014-12-16 13:14",
+      "serviceId": "2_17",
+      "tripId": "2_13246",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 13:19",
+      "departure": "2014-12-16 13:19",
+      "serviceId": "2_15",
+      "tripId": "2_9596",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 13:20",
+      "departure": "2014-12-16 13:20",
+      "serviceId": "2_17",
+      "tripId": "2_4698",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 13:30",
+      "departure": "2014-12-16 13:30",
+      "serviceId": "2_17",
+      "tripId": "2_13251",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 13:40",
+      "departure": "2014-12-16 13:40",
+      "serviceId": "2_17",
+      "tripId": "2_4703",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 13:45",
+      "departure": "2014-12-16 13:45",
+      "serviceId": "2_17",
+      "tripId": "2_13256",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 14:00",
+      "departure": "2014-12-16 14:00",
+      "serviceId": "2_17",
+      "tripId": "2_4708",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 14:01",
+      "departure": "2014-12-16 14:01",
+      "serviceId": "2_17",
+      "tripId": "2_13261",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 14:16",
+      "departure": "2014-12-16 14:16",
+      "serviceId": "2_17",
+      "tripId": "2_13266",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 14:20",
+      "departure": "2014-12-16 14:20",
+      "serviceId": "2_17",
+      "tripId": "2_4713",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 14:31",
+      "departure": "2014-12-16 14:31",
+      "serviceId": "2_17",
+      "tripId": "2_13271",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 14:40",
+      "departure": "2014-12-16 14:40",
+      "serviceId": "2_17",
+      "tripId": "2_4718",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 14:46",
+      "departure": "2014-12-16 14:46",
+      "serviceId": "2_17",
+      "tripId": "2_13276",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 14:49",
+      "departure": "2014-12-16 14:49",
+      "serviceId": "2_15",
+      "tripId": "2_9601",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 15:00",
+      "departure": "2014-12-16 15:00",
+      "serviceId": "2_17",
+      "tripId": "2_4723",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 15:02",
+      "departure": "2014-12-16 15:02",
+      "serviceId": "2_17",
+      "tripId": "2_13281",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 15:17",
+      "departure": "2014-12-16 15:17",
+      "serviceId": "2_17",
+      "tripId": "2_13286",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 15:20",
+      "departure": "2014-12-16 15:20",
+      "serviceId": "2_17",
+      "tripId": "2_4658",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 15:33",
+      "departure": "2014-12-16 15:33",
+      "serviceId": "2_17",
+      "tripId": "2_13291",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 15:40",
+      "departure": "2014-12-16 15:40",
+      "serviceId": "2_17",
+      "tripId": "2_4493",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 15:48",
+      "departure": "2014-12-16 15:48",
+      "serviceId": "2_17",
+      "tripId": "2_13296",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 15:56",
+      "departure": "2014-12-16 15:56",
+      "serviceId": "2_20",
+      "tripId": "2_20872",
+      "routeId": "2_0209",
+      "headsign": "209 | Vezin-le-Coquet Vallée"
+    },
+    {
+      "arrival": "2014-12-16 16:00",
+      "departure": "2014-12-16 16:00",
+      "serviceId": "2_17",
+      "tripId": "2_4498",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 16:03",
+      "departure": "2014-12-16 16:03",
+      "serviceId": "2_17",
+      "tripId": "2_13301",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 16:18",
+      "departure": "2014-12-16 16:18",
+      "serviceId": "2_17",
+      "tripId": "2_13306",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 16:20",
+      "departure": "2014-12-16 16:20",
+      "serviceId": "2_20",
+      "tripId": "2_21246",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-16 16:21",
+      "departure": "2014-12-16 16:21",
+      "serviceId": "2_17",
+      "tripId": "2_4503",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 16:24",
+      "departure": "2014-12-16 16:24",
+      "serviceId": "2_15",
+      "tripId": "2_9656",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 16:33",
+      "departure": "2014-12-16 16:33",
+      "serviceId": "2_17",
+      "tripId": "2_13311",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 16:38",
+      "departure": "2014-12-16 16:38",
+      "serviceId": "2_17",
+      "tripId": "2_4508",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 16:44",
+      "departure": "2014-12-16 16:44",
+      "serviceId": "2_17",
+      "tripId": "2_13316",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 17:01",
+      "departure": "2014-12-16 17:01",
+      "serviceId": "2_17",
+      "tripId": "2_13321",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 17:01",
+      "departure": "2014-12-16 17:01",
+      "serviceId": "2_17",
+      "tripId": "2_4513",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 17:02",
+      "departure": "2014-12-16 17:02",
+      "serviceId": "2_20",
+      "tripId": "2_20876",
+      "routeId": "2_0209",
+      "headsign": "209 | Vezin-le-Coquet Vallée"
+    },
+    {
+      "arrival": "2014-12-16 17:17",
+      "departure": "2014-12-16 17:17",
+      "serviceId": "2_17",
+      "tripId": "2_13501",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 17:20",
+      "departure": "2014-12-16 17:20",
+      "serviceId": "2_19",
+      "tripId": "2_21236",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-16 17:21",
+      "departure": "2014-12-16 17:21",
+      "serviceId": "2_17",
+      "tripId": "2_4518",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 17:21",
+      "departure": "2014-12-16 17:21",
+      "serviceId": "2_15",
+      "tripId": "2_9606",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 17:32",
+      "departure": "2014-12-16 17:32",
+      "serviceId": "2_17",
+      "tripId": "2_13326",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 17:41",
+      "departure": "2014-12-16 17:41",
+      "serviceId": "2_17",
+      "tripId": "2_4523",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 17:51",
+      "departure": "2014-12-16 17:51",
+      "serviceId": "2_17",
+      "tripId": "2_13331",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 18:01",
+      "departure": "2014-12-16 18:01",
+      "serviceId": "2_17",
+      "tripId": "2_4528",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 18:01",
+      "departure": "2014-12-16 18:01",
+      "serviceId": "2_15",
+      "tripId": "2_9611",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 18:07",
+      "departure": "2014-12-16 18:07",
+      "serviceId": "2_17",
+      "tripId": "2_13336",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 18:20",
+      "departure": "2014-12-16 18:20",
+      "serviceId": "2_19",
+      "tripId": "2_21241",
+      "routeId": "2_0210",
+      "headsign": "210 | Vezin L\u0027Hermitage"
+    },
+    {
+      "arrival": "2014-12-16 18:21",
+      "departure": "2014-12-16 18:21",
+      "serviceId": "2_17",
+      "tripId": "2_4533",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 18:24",
+      "departure": "2014-12-16 18:24",
+      "serviceId": "2_17",
+      "tripId": "2_13341",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 18:26",
+      "departure": "2014-12-16 18:26",
+      "serviceId": "2_15",
+      "tripId": "2_9616",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 18:39",
+      "departure": "2014-12-16 18:39",
+      "serviceId": "2_17",
+      "tripId": "2_13346",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 18:41",
+      "departure": "2014-12-16 18:41",
+      "serviceId": "2_17",
+      "tripId": "2_4538",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 18:53",
+      "departure": "2014-12-16 18:53",
+      "serviceId": "2_17",
+      "tripId": "2_13351",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 19:00",
+      "departure": "2014-12-16 19:00",
+      "serviceId": "2_17",
+      "tripId": "2_4543",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 19:00",
+      "departure": "2014-12-16 19:00",
+      "serviceId": "2_15",
+      "tripId": "2_9621",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 19:08",
+      "departure": "2014-12-16 19:08",
+      "serviceId": "2_17",
+      "tripId": "2_13356",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 19:20",
+      "departure": "2014-12-16 19:20",
+      "serviceId": "2_17",
+      "tripId": "2_4548",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 19:21",
+      "departure": "2014-12-16 19:21",
+      "serviceId": "2_17",
+      "tripId": "2_13361",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 19:35",
+      "departure": "2014-12-16 19:35",
+      "serviceId": "2_15",
+      "tripId": "2_9626",
+      "routeId": "2_0076",
+      "headsign": "76 | Vezin Le Rheu Mordelles"
+    },
+    {
+      "arrival": "2014-12-16 19:36",
+      "departure": "2014-12-16 19:36",
+      "serviceId": "2_17",
+      "tripId": "2_13366",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 19:40",
+      "departure": "2014-12-16 19:40",
+      "serviceId": "2_17",
+      "tripId": "2_4553",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 19:55",
+      "departure": "2014-12-16 19:55",
+      "serviceId": "2_17",
+      "tripId": "2_13506",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 19:59",
+      "departure": "2014-12-16 19:59",
+      "serviceId": "2_17",
+      "tripId": "2_4558",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 20:13",
+      "departure": "2014-12-16 20:13",
+      "serviceId": "2_17",
+      "tripId": "2_13511",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 20:29",
+      "departure": "2014-12-16 20:29",
+      "serviceId": "2_17",
+      "tripId": "2_4563",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 20:35",
+      "departure": "2014-12-16 20:35",
+      "serviceId": "2_17",
+      "tripId": "2_13516",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 21:04",
+      "departure": "2014-12-16 21:04",
+      "serviceId": "2_17",
+      "tripId": "2_4568",
+      "routeId": "2_0053",
+      "headsign": "53 | Vezin Hermitage Chapelle-Th."
+    },
+    {
+      "arrival": "2014-12-16 21:05",
+      "departure": "2014-12-16 21:05",
+      "serviceId": "2_17",
+      "tripId": "2_13521",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-16 21:35",
+      "departure": "2014-12-16 21:35",
+      "serviceId": "2_17",
+      "tripId": "2_13526",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    }
+  ]
+}

@@ -1,0 +1,1408 @@
+{
+  "date": "2014-12-06 00:00",
+  "stop": {
+    "id": "2_1543",
+    "lat": 48.13134643,
+    "lon": -1.69183513,
+    "name": "Léonard",
+    "code": 1543
+  },
+  "routes": [
+    {
+      "id": "2_0004",
+      "textColor": "FFFFFF",
+      "color": "6D1F80",
+      "description": "Chronostar",
+      "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+      "shortName": "C4",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0014",
+      "textColor": "FFFFFF",
+      "color": "805A26",
+      "description": "Urbaine",
+      "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+      "shortName": "14",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0068",
+      "textColor": "1A171B",
+      "color": "DDC500",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
+      "shortName": "68",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E3006A",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-12-06 06:06",
+      "departure": "2014-12-06 06:06",
+      "serviceId": "2_28",
+      "tripId": "2_3151",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 06:24",
+      "departure": "2014-12-06 06:24",
+      "serviceId": "2_28",
+      "tripId": "2_3167",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 06:44",
+      "departure": "2014-12-06 06:44",
+      "serviceId": "2_28",
+      "tripId": "2_3156",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 07:04",
+      "departure": "2014-12-06 07:04",
+      "serviceId": "2_28",
+      "tripId": "2_3130",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 07:16",
+      "departure": "2014-12-06 07:16",
+      "serviceId": "2_27",
+      "tripId": "2_12326",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 07:21",
+      "departure": "2014-12-06 07:21",
+      "serviceId": "2_28",
+      "tripId": "2_3152",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 07:24",
+      "departure": "2014-12-06 07:24",
+      "serviceId": "2_28",
+      "tripId": "2_12741",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 07:29",
+      "departure": "2014-12-06 07:29",
+      "serviceId": "2_27",
+      "tripId": "2_13562",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 07:36",
+      "departure": "2014-12-06 07:36",
+      "serviceId": "2_28",
+      "tripId": "2_3140",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 07:51",
+      "departure": "2014-12-06 07:51",
+      "serviceId": "2_28",
+      "tripId": "2_3168",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 07:54",
+      "departure": "2014-12-06 07:54",
+      "serviceId": "2_28",
+      "tripId": "2_12589",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 08:06",
+      "departure": "2014-12-06 08:06",
+      "serviceId": "2_28",
+      "tripId": "2_3157",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 08:07",
+      "departure": "2014-12-06 08:07",
+      "serviceId": "2_27",
+      "tripId": "2_12327",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 08:21",
+      "departure": "2014-12-06 08:21",
+      "serviceId": "2_28",
+      "tripId": "2_3163",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 08:24",
+      "departure": "2014-12-06 08:24",
+      "serviceId": "2_28",
+      "tripId": "2_12590",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 08:36",
+      "departure": "2014-12-06 08:36",
+      "serviceId": "2_28",
+      "tripId": "2_3131",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 08:39",
+      "departure": "2014-12-06 08:39",
+      "serviceId": "2_27",
+      "tripId": "2_13563",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 08:51",
+      "departure": "2014-12-06 08:51",
+      "serviceId": "2_28",
+      "tripId": "2_3153",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 08:55",
+      "departure": "2014-12-06 08:55",
+      "serviceId": "2_28",
+      "tripId": "2_12591",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 09:02",
+      "departure": "2014-12-06 09:02",
+      "serviceId": "2_27",
+      "tripId": "2_12350",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 09:06",
+      "departure": "2014-12-06 09:06",
+      "serviceId": "2_28",
+      "tripId": "2_3141",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 09:21",
+      "departure": "2014-12-06 09:21",
+      "serviceId": "2_28",
+      "tripId": "2_3169",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 09:25",
+      "departure": "2014-12-06 09:25",
+      "serviceId": "2_28",
+      "tripId": "2_12592",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 09:36",
+      "departure": "2014-12-06 09:36",
+      "serviceId": "2_27",
+      "tripId": "2_12558",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 09:36",
+      "departure": "2014-12-06 09:36",
+      "serviceId": "2_28",
+      "tripId": "2_3164",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 09:48",
+      "departure": "2014-12-06 09:48",
+      "serviceId": "2_27",
+      "tripId": "2_12351",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 09:50",
+      "departure": "2014-12-06 09:50",
+      "serviceId": "2_27",
+      "tripId": "2_13575",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 09:51",
+      "departure": "2014-12-06 09:51",
+      "serviceId": "2_28",
+      "tripId": "2_3132",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 09:56",
+      "departure": "2014-12-06 09:56",
+      "serviceId": "2_28",
+      "tripId": "2_12593",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 10:06",
+      "departure": "2014-12-06 10:06",
+      "serviceId": "2_28",
+      "tripId": "2_3256",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 10:19",
+      "departure": "2014-12-06 10:19",
+      "serviceId": "2_28",
+      "tripId": "2_3255",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 10:23",
+      "departure": "2014-12-06 10:23",
+      "serviceId": "2_27",
+      "tripId": "2_12352",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 10:31",
+      "departure": "2014-12-06 10:31",
+      "serviceId": "2_28",
+      "tripId": "2_12594",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 10:31",
+      "departure": "2014-12-06 10:31",
+      "serviceId": "2_28",
+      "tripId": "2_3257",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 10:44",
+      "departure": "2014-12-06 10:44",
+      "serviceId": "2_28",
+      "tripId": "2_3233",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 10:51",
+      "departure": "2014-12-06 10:51",
+      "serviceId": "2_27",
+      "tripId": "2_12551",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 10:55",
+      "departure": "2014-12-06 10:55",
+      "serviceId": "2_27",
+      "tripId": "2_13576",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 10:56",
+      "departure": "2014-12-06 10:56",
+      "serviceId": "2_28",
+      "tripId": "2_3232",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 10:58",
+      "departure": "2014-12-06 10:58",
+      "serviceId": "2_27",
+      "tripId": "2_12353",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 11:01",
+      "departure": "2014-12-06 11:01",
+      "serviceId": "2_28",
+      "tripId": "2_12595",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 11:09",
+      "departure": "2014-12-06 11:09",
+      "serviceId": "2_28",
+      "tripId": "2_3231",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 11:21",
+      "departure": "2014-12-06 11:21",
+      "serviceId": "2_28",
+      "tripId": "2_3228",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 11:33",
+      "departure": "2014-12-06 11:33",
+      "serviceId": "2_27",
+      "tripId": "2_12354",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 11:33",
+      "departure": "2014-12-06 11:33",
+      "serviceId": "2_28",
+      "tripId": "2_12596",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 11:34",
+      "departure": "2014-12-06 11:34",
+      "serviceId": "2_28",
+      "tripId": "2_3227",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 11:46",
+      "departure": "2014-12-06 11:46",
+      "serviceId": "2_28",
+      "tripId": "2_3226",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 11:59",
+      "departure": "2014-12-06 11:59",
+      "serviceId": "2_28",
+      "tripId": "2_3223",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 12:00",
+      "departure": "2014-12-06 12:00",
+      "serviceId": "2_27",
+      "tripId": "2_13577",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 12:06",
+      "departure": "2014-12-06 12:06",
+      "serviceId": "2_27",
+      "tripId": "2_12552",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 12:08",
+      "departure": "2014-12-06 12:08",
+      "serviceId": "2_27",
+      "tripId": "2_12355",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 12:10",
+      "departure": "2014-12-06 12:10",
+      "serviceId": "2_28",
+      "tripId": "2_12597",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 12:11",
+      "departure": "2014-12-06 12:11",
+      "serviceId": "2_28",
+      "tripId": "2_3222",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 12:24",
+      "departure": "2014-12-06 12:24",
+      "serviceId": "2_28",
+      "tripId": "2_3221",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 12:36",
+      "departure": "2014-12-06 12:36",
+      "serviceId": "2_28",
+      "tripId": "2_3220",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 12:40",
+      "departure": "2014-12-06 12:40",
+      "serviceId": "2_28",
+      "tripId": "2_12598",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 12:43",
+      "departure": "2014-12-06 12:43",
+      "serviceId": "2_27",
+      "tripId": "2_12356",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 12:49",
+      "departure": "2014-12-06 12:49",
+      "serviceId": "2_28",
+      "tripId": "2_3198",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 13:01",
+      "departure": "2014-12-06 13:01",
+      "serviceId": "2_28",
+      "tripId": "2_3197",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 13:05",
+      "departure": "2014-12-06 13:05",
+      "serviceId": "2_27",
+      "tripId": "2_13578",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 13:13",
+      "departure": "2014-12-06 13:13",
+      "serviceId": "2_27",
+      "tripId": "2_12357",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 13:13",
+      "departure": "2014-12-06 13:13",
+      "serviceId": "2_28",
+      "tripId": "2_12681",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 13:14",
+      "departure": "2014-12-06 13:14",
+      "serviceId": "2_28",
+      "tripId": "2_3196",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 13:26",
+      "departure": "2014-12-06 13:26",
+      "serviceId": "2_27",
+      "tripId": "2_12553",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 13:26",
+      "departure": "2014-12-06 13:26",
+      "serviceId": "2_28",
+      "tripId": "2_3195",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 13:33",
+      "departure": "2014-12-06 13:33",
+      "serviceId": "2_28",
+      "tripId": "2_12746",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 13:35",
+      "departure": "2014-12-06 13:35",
+      "serviceId": "2_27",
+      "tripId": "2_13579",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 13:39",
+      "departure": "2014-12-06 13:39",
+      "serviceId": "2_28",
+      "tripId": "2_3204",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 13:48",
+      "departure": "2014-12-06 13:48",
+      "serviceId": "2_27",
+      "tripId": "2_12358",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 13:50",
+      "departure": "2014-12-06 13:50",
+      "serviceId": "2_28",
+      "tripId": "2_12683",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 13:52",
+      "departure": "2014-12-06 13:52",
+      "serviceId": "2_28",
+      "tripId": "2_3205",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:03",
+      "departure": "2014-12-06 14:03",
+      "serviceId": "2_28",
+      "tripId": "2_12715",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 14:04",
+      "departure": "2014-12-06 14:04",
+      "serviceId": "2_28",
+      "tripId": "2_3174",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:11",
+      "departure": "2014-12-06 14:11",
+      "serviceId": "2_27",
+      "tripId": "2_13580",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 14:16",
+      "departure": "2014-12-06 14:16",
+      "serviceId": "2_28",
+      "tripId": "2_3154",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:18",
+      "departure": "2014-12-06 14:18",
+      "serviceId": "2_28",
+      "tripId": "2_12716",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 14:24",
+      "departure": "2014-12-06 14:24",
+      "serviceId": "2_27",
+      "tripId": "2_12359",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 14:26",
+      "departure": "2014-12-06 14:26",
+      "serviceId": "2_28",
+      "tripId": "2_3142",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:33",
+      "departure": "2014-12-06 14:33",
+      "serviceId": "2_28",
+      "tripId": "2_12717",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 14:36",
+      "departure": "2014-12-06 14:36",
+      "serviceId": "2_28",
+      "tripId": "2_3269",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:46",
+      "departure": "2014-12-06 14:46",
+      "serviceId": "2_28",
+      "tripId": "2_3270",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:47",
+      "departure": "2014-12-06 14:47",
+      "serviceId": "2_27",
+      "tripId": "2_12554",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 14:48",
+      "departure": "2014-12-06 14:48",
+      "serviceId": "2_28",
+      "tripId": "2_12718",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 14:51",
+      "departure": "2014-12-06 14:51",
+      "serviceId": "2_27",
+      "tripId": "2_13581",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 14:56",
+      "departure": "2014-12-06 14:56",
+      "serviceId": "2_28",
+      "tripId": "2_3271",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 14:59",
+      "departure": "2014-12-06 14:59",
+      "serviceId": "2_27",
+      "tripId": "2_12360",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 15:03",
+      "departure": "2014-12-06 15:03",
+      "serviceId": "2_28",
+      "tripId": "2_12719",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 15:06",
+      "departure": "2014-12-06 15:06",
+      "serviceId": "2_28",
+      "tripId": "2_3272",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 15:16",
+      "departure": "2014-12-06 15:16",
+      "serviceId": "2_28",
+      "tripId": "2_3273",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 15:18",
+      "departure": "2014-12-06 15:18",
+      "serviceId": "2_28",
+      "tripId": "2_12720",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 15:26",
+      "departure": "2014-12-06 15:26",
+      "serviceId": "2_28",
+      "tripId": "2_3274",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 15:31",
+      "departure": "2014-12-06 15:31",
+      "serviceId": "2_27",
+      "tripId": "2_13582",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 15:33",
+      "departure": "2014-12-06 15:33",
+      "serviceId": "2_28",
+      "tripId": "2_12721",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 15:34",
+      "departure": "2014-12-06 15:34",
+      "serviceId": "2_27",
+      "tripId": "2_12361",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 15:36",
+      "departure": "2014-12-06 15:36",
+      "serviceId": "2_28",
+      "tripId": "2_3275",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 15:46",
+      "departure": "2014-12-06 15:46",
+      "serviceId": "2_28",
+      "tripId": "2_3276",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 15:49",
+      "departure": "2014-12-06 15:49",
+      "serviceId": "2_28",
+      "tripId": "2_12722",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 15:56",
+      "departure": "2014-12-06 15:56",
+      "serviceId": "2_28",
+      "tripId": "2_3277",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:05",
+      "departure": "2014-12-06 16:05",
+      "serviceId": "2_28",
+      "tripId": "2_12723",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 16:06",
+      "departure": "2014-12-06 16:06",
+      "serviceId": "2_28",
+      "tripId": "2_3278",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:07",
+      "departure": "2014-12-06 16:07",
+      "serviceId": "2_27",
+      "tripId": "2_12555",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 16:09",
+      "departure": "2014-12-06 16:09",
+      "serviceId": "2_27",
+      "tripId": "2_12362",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 16:16",
+      "departure": "2014-12-06 16:16",
+      "serviceId": "2_28",
+      "tripId": "2_3279",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:22",
+      "departure": "2014-12-06 16:22",
+      "serviceId": "2_28",
+      "tripId": "2_12724",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 16:26",
+      "departure": "2014-12-06 16:26",
+      "serviceId": "2_28",
+      "tripId": "2_3280",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:36",
+      "departure": "2014-12-06 16:36",
+      "serviceId": "2_27",
+      "tripId": "2_13583",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 16:36",
+      "departure": "2014-12-06 16:36",
+      "serviceId": "2_28",
+      "tripId": "2_3281",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:38",
+      "departure": "2014-12-06 16:38",
+      "serviceId": "2_28",
+      "tripId": "2_12725",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 16:46",
+      "departure": "2014-12-06 16:46",
+      "serviceId": "2_28",
+      "tripId": "2_3282",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 16:49",
+      "departure": "2014-12-06 16:49",
+      "serviceId": "2_27",
+      "tripId": "2_12363",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 16:54",
+      "departure": "2014-12-06 16:54",
+      "serviceId": "2_28",
+      "tripId": "2_12726",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 16:56",
+      "departure": "2014-12-06 16:56",
+      "serviceId": "2_28",
+      "tripId": "2_3283",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:05",
+      "departure": "2014-12-06 17:05",
+      "serviceId": "2_27",
+      "tripId": "2_13584",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 17:06",
+      "departure": "2014-12-06 17:06",
+      "serviceId": "2_28",
+      "tripId": "2_3284",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:09",
+      "departure": "2014-12-06 17:09",
+      "serviceId": "2_28",
+      "tripId": "2_12727",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 17:16",
+      "departure": "2014-12-06 17:16",
+      "serviceId": "2_28",
+      "tripId": "2_3285",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:24",
+      "departure": "2014-12-06 17:24",
+      "serviceId": "2_27",
+      "tripId": "2_12364",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 17:24",
+      "departure": "2014-12-06 17:24",
+      "serviceId": "2_28",
+      "tripId": "2_12728",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 17:26",
+      "departure": "2014-12-06 17:26",
+      "serviceId": "2_28",
+      "tripId": "2_3286",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:27",
+      "departure": "2014-12-06 17:27",
+      "serviceId": "2_27",
+      "tripId": "2_12556",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 17:36",
+      "departure": "2014-12-06 17:36",
+      "serviceId": "2_28",
+      "tripId": "2_3287",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:40",
+      "departure": "2014-12-06 17:40",
+      "serviceId": "2_28",
+      "tripId": "2_12729",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 17:40",
+      "departure": "2014-12-06 17:40",
+      "serviceId": "2_27",
+      "tripId": "2_13585",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 17:46",
+      "departure": "2014-12-06 17:46",
+      "serviceId": "2_28",
+      "tripId": "2_3288",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:56",
+      "departure": "2014-12-06 17:56",
+      "serviceId": "2_28",
+      "tripId": "2_12730",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 17:56",
+      "departure": "2014-12-06 17:56",
+      "serviceId": "2_28",
+      "tripId": "2_3289",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 17:59",
+      "departure": "2014-12-06 17:59",
+      "serviceId": "2_27",
+      "tripId": "2_12365",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 18:06",
+      "departure": "2014-12-06 18:06",
+      "serviceId": "2_28",
+      "tripId": "2_3290",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:11",
+      "departure": "2014-12-06 18:11",
+      "serviceId": "2_28",
+      "tripId": "2_12708",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 18:15",
+      "departure": "2014-12-06 18:15",
+      "serviceId": "2_27",
+      "tripId": "2_13586",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 18:16",
+      "departure": "2014-12-06 18:16",
+      "serviceId": "2_28",
+      "tripId": "2_3291",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:26",
+      "departure": "2014-12-06 18:26",
+      "serviceId": "2_28",
+      "tripId": "2_3292",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:28",
+      "departure": "2014-12-06 18:28",
+      "serviceId": "2_28",
+      "tripId": "2_12709",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 18:36",
+      "departure": "2014-12-06 18:36",
+      "serviceId": "2_28",
+      "tripId": "2_3293",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:39",
+      "departure": "2014-12-06 18:39",
+      "serviceId": "2_27",
+      "tripId": "2_12366",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 18:43",
+      "departure": "2014-12-06 18:43",
+      "serviceId": "2_28",
+      "tripId": "2_12706",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 18:46",
+      "departure": "2014-12-06 18:46",
+      "serviceId": "2_28",
+      "tripId": "2_3294",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:50",
+      "departure": "2014-12-06 18:50",
+      "serviceId": "2_27",
+      "tripId": "2_13587",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 18:51",
+      "departure": "2014-12-06 18:51",
+      "serviceId": "2_27",
+      "tripId": "2_12557",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 18:56",
+      "departure": "2014-12-06 18:56",
+      "serviceId": "2_28",
+      "tripId": "2_3295",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 18:58",
+      "departure": "2014-12-06 18:58",
+      "serviceId": "2_28",
+      "tripId": "2_12712",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 19:06",
+      "departure": "2014-12-06 19:06",
+      "serviceId": "2_28",
+      "tripId": "2_3176",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 19:09",
+      "departure": "2014-12-06 19:09",
+      "serviceId": "2_27",
+      "tripId": "2_12367",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 19:13",
+      "departure": "2014-12-06 19:13",
+      "serviceId": "2_28",
+      "tripId": "2_12704",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 19:16",
+      "departure": "2014-12-06 19:16",
+      "serviceId": "2_28",
+      "tripId": "2_3264",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 19:25",
+      "departure": "2014-12-06 19:25",
+      "serviceId": "2_27",
+      "tripId": "2_13588",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 19:26",
+      "departure": "2014-12-06 19:26",
+      "serviceId": "2_28",
+      "tripId": "2_3177",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 19:28",
+      "departure": "2014-12-06 19:28",
+      "serviceId": "2_28",
+      "tripId": "2_12710",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 19:36",
+      "departure": "2014-12-06 19:36",
+      "serviceId": "2_28",
+      "tripId": "2_3165",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 19:46",
+      "departure": "2014-12-06 19:46",
+      "serviceId": "2_28",
+      "tripId": "2_14653",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 19:49",
+      "departure": "2014-12-06 19:49",
+      "serviceId": "2_27",
+      "tripId": "2_12368",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 19:53",
+      "departure": "2014-12-06 19:53",
+      "serviceId": "2_28",
+      "tripId": "2_12707",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 19:56",
+      "departure": "2014-12-06 19:56",
+      "serviceId": "2_28",
+      "tripId": "2_3181",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 20:05",
+      "departure": "2014-12-06 20:05",
+      "serviceId": "2_27",
+      "tripId": "2_13589",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2014-12-06 20:11",
+      "departure": "2014-12-06 20:11",
+      "serviceId": "2_28",
+      "tripId": "2_3155",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 20:19",
+      "departure": "2014-12-06 20:19",
+      "serviceId": "2_27",
+      "tripId": "2_12369",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 20:26",
+      "departure": "2014-12-06 20:26",
+      "serviceId": "2_28",
+      "tripId": "2_12711",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 20:26",
+      "departure": "2014-12-06 20:26",
+      "serviceId": "2_28",
+      "tripId": "2_3143",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 20:36",
+      "departure": "2014-12-06 20:36",
+      "serviceId": "2_28",
+      "tripId": "2_3304",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 20:49",
+      "departure": "2014-12-06 20:49",
+      "serviceId": "2_27",
+      "tripId": "2_12349",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2014-12-06 20:56",
+      "departure": "2014-12-06 20:56",
+      "serviceId": "2_28",
+      "tripId": "2_12743",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2014-12-06 21:06",
+      "departure": "2014-12-06 21:06",
+      "serviceId": "2_28",
+      "tripId": "2_3308",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 21:36",
+      "departure": "2014-12-06 21:36",
+      "serviceId": "2_28",
+      "tripId": "2_3313",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 22:06",
+      "departure": "2014-12-06 22:06",
+      "serviceId": "2_28",
+      "tripId": "2_3302",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 22:36",
+      "departure": "2014-12-06 22:36",
+      "serviceId": "2_28",
+      "tripId": "2_3309",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 23:06",
+      "departure": "2014-12-06 23:06",
+      "serviceId": "2_28",
+      "tripId": "2_3310",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-06 23:36",
+      "departure": "2014-12-06 23:36",
+      "serviceId": "2_28",
+      "tripId": "2_3306",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-07 00:06",
+      "departure": "2014-12-07 00:06",
+      "serviceId": "2_28",
+      "tripId": "2_3307",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    },
+    {
+      "arrival": "2014-12-07 00:56",
+      "departure": "2014-12-07 00:56",
+      "serviceId": "2_28",
+      "tripId": "2_3183",
+      "routeId": "2_0004",
+      "headsign": "C4 | ZA Saint-Sulpice"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "date": "2014-11-14 00:00",
+  "stop": {
+    "id": "2_3204",
+    "lat": 47.98326978,
+    "lon": -1.66000223,
+    "name": "Télégraphe",
+    "code": 3204
+  },
+  "routes": [
+    {
+      "id": "2_0074",
+      "textColor": "1A171B",
+      "color": "FCC000",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Orgères / Bourgbarré",
+      "shortName": "74",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0213",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Moc Souris) \u003c\u003e Rennes (Lycée Bréquigny)",
+      "shortName": "213",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2014-11-14 07:00",
+      "departure": "2014-11-14 07:00",
+      "serviceId": "2_29",
+      "tripId": "2_10728",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-11-14 07:33",
+      "departure": "2014-11-14 07:33",
+      "serviceId": "2_33",
+      "tripId": "2_20916",
+      "routeId": "2_0213",
+      "headsign": "213 | Rennes Lycée Bréquigny"
+    },
+    {
+      "arrival": "2014-11-14 08:03",
+      "departure": "2014-11-14 08:03",
+      "serviceId": "2_29",
+      "tripId": "2_10723",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Moc Souris"
+    },
+    {
+      "arrival": "2014-11-14 08:24",
+      "departure": "2014-11-14 08:24",
+      "serviceId": "2_29",
+      "tripId": "2_10738",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2014-11-14 16:53",
+      "departure": "2014-11-14 16:53",
+      "serviceId": "2_29",
+      "tripId": "2_10883",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Moc Souris"
+    },
+    {
+      "arrival": "2014-11-14 17:49",
+      "departure": "2014-11-14 17:49",
+      "serviceId": "2_29",
+      "tripId": "2_10873",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Moc Souris"
+    },
+    {
+      "arrival": "2014-11-14 18:49",
+      "departure": "2014-11-14 18:49",
+      "serviceId": "2_29",
+      "tripId": "2_10878",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Moc Souris"
+    }
+  ]
+}
