@@ -1,0 +1,534 @@
+{
+  "date": "2015-01-16 00:00",
+  "stop": {
+    "id": "2_2335",
+    "lat": 48.02625491,
+    "lon": -1.73452897,
+    "name": "Bobinais",
+    "code": 2335
+  },
+  "routes": [
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A9701E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0091",
+      "textColor": "1A171B",
+      "color": "AECC52",
+      "description": "Intercommunale",
+      "longName": "Bruz / Chartres \u003c\u003e Noyal-Châtillon-sur-Seiche",
+      "shortName": "91",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0159",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "159",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-01-16 01:14",
+      "departure": "2015-01-16 01:14",
+      "serviceId": "2_39",
+      "tripId": "2_16357",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-01-16 06:18",
+      "departure": "2015-01-16 06:18",
+      "serviceId": "2_38",
+      "tripId": "2_5672",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 06:49",
+      "departure": "2015-01-16 06:49",
+      "serviceId": "2_38",
+      "tripId": "2_5677",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 07:09",
+      "departure": "2015-01-16 07:09",
+      "serviceId": "2_38",
+      "tripId": "2_5977",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 07:19",
+      "departure": "2015-01-16 07:19",
+      "serviceId": "2_38",
+      "tripId": "2_8486",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 07:29",
+      "departure": "2015-01-16 07:29",
+      "serviceId": "2_38",
+      "tripId": "2_5682",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 07:38",
+      "departure": "2015-01-16 07:38",
+      "serviceId": "2_38",
+      "tripId": "2_21087",
+      "routeId": "2_0091",
+      "headsign": "91 | Chartres Collège Pôle Sud"
+    },
+    {
+      "arrival": "2015-01-16 07:39",
+      "departure": "2015-01-16 07:39",
+      "serviceId": "2_38",
+      "tripId": "2_8491",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 07:49",
+      "departure": "2015-01-16 07:49",
+      "serviceId": "2_38",
+      "tripId": "2_5687",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 07:59",
+      "departure": "2015-01-16 07:59",
+      "serviceId": "2_38",
+      "tripId": "2_8496",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 08:09",
+      "departure": "2015-01-16 08:09",
+      "serviceId": "2_38",
+      "tripId": "2_5692",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 08:15",
+      "departure": "2015-01-16 08:15",
+      "serviceId": "2_38",
+      "tripId": "2_21062",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 08:15",
+      "departure": "2015-01-16 08:15",
+      "serviceId": "2_38",
+      "tripId": "2_21157",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-01-16 08:19",
+      "departure": "2015-01-16 08:19",
+      "serviceId": "2_38",
+      "tripId": "2_8501",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 08:29",
+      "departure": "2015-01-16 08:29",
+      "serviceId": "2_38",
+      "tripId": "2_5697",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 08:48",
+      "departure": "2015-01-16 08:48",
+      "serviceId": "2_38",
+      "tripId": "2_21057",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 08:49",
+      "departure": "2015-01-16 08:49",
+      "serviceId": "2_38",
+      "tripId": "2_5702",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 09:09",
+      "departure": "2015-01-16 09:09",
+      "serviceId": "2_38",
+      "tripId": "2_6007",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes La Poterie"
+    },
+    {
+      "arrival": "2015-01-16 09:15",
+      "departure": "2015-01-16 09:15",
+      "serviceId": "2_38",
+      "tripId": "2_21067",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 09:28",
+      "departure": "2015-01-16 09:28",
+      "serviceId": "2_38",
+      "tripId": "2_5957",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 09:58",
+      "departure": "2015-01-16 09:58",
+      "serviceId": "2_38",
+      "tripId": "2_5707",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 10:28",
+      "departure": "2015-01-16 10:28",
+      "serviceId": "2_38",
+      "tripId": "2_5712",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 10:58",
+      "departure": "2015-01-16 10:58",
+      "serviceId": "2_38",
+      "tripId": "2_5717",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 11:28",
+      "departure": "2015-01-16 11:28",
+      "serviceId": "2_38",
+      "tripId": "2_5722",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 12:03",
+      "departure": "2015-01-16 12:03",
+      "serviceId": "2_38",
+      "tripId": "2_5727",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 12:33",
+      "departure": "2015-01-16 12:33",
+      "serviceId": "2_38",
+      "tripId": "2_5732",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 12:41",
+      "departure": "2015-01-16 12:41",
+      "serviceId": "2_38",
+      "tripId": "2_21052",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 13:01",
+      "departure": "2015-01-16 13:01",
+      "serviceId": "2_38",
+      "tripId": "2_5737",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 13:33",
+      "departure": "2015-01-16 13:33",
+      "serviceId": "2_38",
+      "tripId": "2_5742",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 13:38",
+      "departure": "2015-01-16 13:38",
+      "serviceId": "2_38",
+      "tripId": "2_21117",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 13:53",
+      "departure": "2015-01-16 13:53",
+      "serviceId": "2_38",
+      "tripId": "2_5747",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 14:19",
+      "departure": "2015-01-16 14:19",
+      "serviceId": "2_38",
+      "tripId": "2_21127",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 14:28",
+      "departure": "2015-01-16 14:28",
+      "serviceId": "2_38",
+      "tripId": "2_5752",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 14:58",
+      "departure": "2015-01-16 14:58",
+      "serviceId": "2_38",
+      "tripId": "2_21122",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 15:03",
+      "departure": "2015-01-16 15:03",
+      "serviceId": "2_38",
+      "tripId": "2_5757",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 15:42",
+      "departure": "2015-01-16 15:42",
+      "serviceId": "2_38",
+      "tripId": "2_5762",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 15:53",
+      "departure": "2015-01-16 15:53",
+      "serviceId": "2_38",
+      "tripId": "2_21132",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:00",
+      "departure": "2015-01-16 16:00",
+      "serviceId": "2_38",
+      "tripId": "2_5767",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:19",
+      "departure": "2015-01-16 16:19",
+      "serviceId": "2_38",
+      "tripId": "2_21022",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:20",
+      "departure": "2015-01-16 16:20",
+      "serviceId": "2_38",
+      "tripId": "2_5772",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:39",
+      "departure": "2015-01-16 16:39",
+      "serviceId": "2_38",
+      "tripId": "2_5777",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:50",
+      "departure": "2015-01-16 16:50",
+      "serviceId": "2_38",
+      "tripId": "2_21107",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 16:59",
+      "departure": "2015-01-16 16:59",
+      "serviceId": "2_38",
+      "tripId": "2_5782",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 17:18",
+      "departure": "2015-01-16 17:18",
+      "serviceId": "2_38",
+      "tripId": "2_5787",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 17:20",
+      "departure": "2015-01-16 17:20",
+      "serviceId": "2_38",
+      "tripId": "2_21072",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 17:43",
+      "departure": "2015-01-16 17:43",
+      "serviceId": "2_38",
+      "tripId": "2_5792",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 17:45",
+      "departure": "2015-01-16 17:45",
+      "serviceId": "2_38",
+      "tripId": "2_21152",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 18:03",
+      "departure": "2015-01-16 18:03",
+      "serviceId": "2_38",
+      "tripId": "2_5797",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 18:14",
+      "departure": "2015-01-16 18:14",
+      "serviceId": "2_38",
+      "tripId": "2_21047",
+      "routeId": "2_0091",
+      "headsign": "91 | Noyal-Châtillon-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 18:26",
+      "departure": "2015-01-16 18:26",
+      "serviceId": "2_38",
+      "tripId": "2_5802",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 18:49",
+      "departure": "2015-01-16 18:49",
+      "serviceId": "2_38",
+      "tripId": "2_5807",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 19:20",
+      "departure": "2015-01-16 19:20",
+      "serviceId": "2_38",
+      "tripId": "2_6017",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 19:51",
+      "departure": "2015-01-16 19:51",
+      "serviceId": "2_38",
+      "tripId": "2_6029",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 20:21",
+      "departure": "2015-01-16 20:21",
+      "serviceId": "2_38",
+      "tripId": "2_6022",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-16 20:56",
+      "departure": "2015-01-16 20:56",
+      "serviceId": "2_38",
+      "tripId": "2_5992",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 21:26",
+      "departure": "2015-01-16 21:26",
+      "serviceId": "2_38",
+      "tripId": "2_6049",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-16 21:56",
+      "departure": "2015-01-16 21:56",
+      "serviceId": "2_38",
+      "tripId": "2_5650",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-01-16 22:56",
+      "departure": "2015-01-16 22:56",
+      "serviceId": "2_38",
+      "tripId": "2_5665",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-01-16 23:40",
+      "departure": "2015-01-16 23:40",
+      "serviceId": "2_38",
+      "tripId": "2_5637",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-01-17 02:15",
+      "departure": "2015-01-17 02:15",
+      "serviceId": "2_39",
+      "tripId": "2_5667",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    }
+  ]
+}

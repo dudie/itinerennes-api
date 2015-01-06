@@ -1,0 +1,954 @@
+{
+  "date": "2015-01-10 00:00",
+  "stop": {
+    "id": "2_1130",
+    "lat": 48.08520714,
+    "lon": -1.6824849,
+    "name": "Canada",
+    "code": 1130
+  },
+  "routes": [
+    {
+      "id": "2_0003",
+      "textColor": "FFFFFF",
+      "color": "008436",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Henri Fréville",
+      "shortName": "3",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0033",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+      "shortName": "33",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-01-10 06:35",
+      "departure": "2015-01-10 06:35",
+      "serviceId": "2_35",
+      "tripId": "2_2949",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 07:14",
+      "departure": "2015-01-10 07:14",
+      "serviceId": "2_35",
+      "tripId": "2_3001",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 07:31",
+      "departure": "2015-01-10 07:31",
+      "serviceId": "2_35",
+      "tripId": "2_3139",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 07:34",
+      "departure": "2015-01-10 07:34",
+      "serviceId": "2_35",
+      "tripId": "2_2959",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 07:51",
+      "departure": "2015-01-10 07:51",
+      "serviceId": "2_35",
+      "tripId": "2_2995",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 08:01",
+      "departure": "2015-01-10 08:01",
+      "serviceId": "2_35",
+      "tripId": "2_3140",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 08:08",
+      "departure": "2015-01-10 08:08",
+      "serviceId": "2_35",
+      "tripId": "2_2950",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 08:24",
+      "departure": "2015-01-10 08:24",
+      "serviceId": "2_35",
+      "tripId": "2_3019",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 08:31",
+      "departure": "2015-01-10 08:31",
+      "serviceId": "2_35",
+      "tripId": "2_3141",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 08:40",
+      "departure": "2015-01-10 08:40",
+      "serviceId": "2_35",
+      "tripId": "2_2918",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 08:52",
+      "departure": "2015-01-10 08:52",
+      "serviceId": "2_35",
+      "tripId": "2_3027",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 09:03",
+      "departure": "2015-01-10 09:03",
+      "serviceId": "2_35",
+      "tripId": "2_2960",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 09:03",
+      "departure": "2015-01-10 09:03",
+      "serviceId": "2_35",
+      "tripId": "2_3142",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 09:15",
+      "departure": "2015-01-10 09:15",
+      "serviceId": "2_35",
+      "tripId": "2_2996",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 09:27",
+      "departure": "2015-01-10 09:27",
+      "serviceId": "2_35",
+      "tripId": "2_2987",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 09:38",
+      "departure": "2015-01-10 09:38",
+      "serviceId": "2_35",
+      "tripId": "2_3143",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 09:40",
+      "departure": "2015-01-10 09:40",
+      "serviceId": "2_35",
+      "tripId": "2_3020",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 09:53",
+      "departure": "2015-01-10 09:53",
+      "serviceId": "2_35",
+      "tripId": "2_2919",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 10:05",
+      "departure": "2015-01-10 10:05",
+      "serviceId": "2_35",
+      "tripId": "2_3028",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 10:09",
+      "departure": "2015-01-10 10:09",
+      "serviceId": "2_35",
+      "tripId": "2_3144",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 10:18",
+      "departure": "2015-01-10 10:18",
+      "serviceId": "2_35",
+      "tripId": "2_2961",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 10:28",
+      "departure": "2015-01-10 10:28",
+      "serviceId": "2_35",
+      "tripId": "2_2997",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 10:29",
+      "departure": "2015-01-10 10:29",
+      "serviceId": "2_35",
+      "tripId": "2_3145",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 10:38",
+      "departure": "2015-01-10 10:38",
+      "serviceId": "2_35",
+      "tripId": "2_3071",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 10:49",
+      "departure": "2015-01-10 10:49",
+      "serviceId": "2_35",
+      "tripId": "2_3146",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 10:50",
+      "departure": "2015-01-10 10:50",
+      "serviceId": "2_35",
+      "tripId": "2_2951",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:02",
+      "departure": "2015-01-10 11:02",
+      "serviceId": "2_35",
+      "tripId": "2_2988",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:09",
+      "departure": "2015-01-10 11:09",
+      "serviceId": "2_35",
+      "tripId": "2_3147",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 11:15",
+      "departure": "2015-01-10 11:15",
+      "serviceId": "2_35",
+      "tripId": "2_3021",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:27",
+      "departure": "2015-01-10 11:27",
+      "serviceId": "2_35",
+      "tripId": "2_2920",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:34",
+      "departure": "2015-01-10 11:34",
+      "serviceId": "2_35",
+      "tripId": "2_3148",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 11:39",
+      "departure": "2015-01-10 11:39",
+      "serviceId": "2_35",
+      "tripId": "2_3029",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:51",
+      "departure": "2015-01-10 11:51",
+      "serviceId": "2_35",
+      "tripId": "2_2962",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 11:54",
+      "departure": "2015-01-10 11:54",
+      "serviceId": "2_35",
+      "tripId": "2_3149",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 12:03",
+      "departure": "2015-01-10 12:03",
+      "serviceId": "2_35",
+      "tripId": "2_2998",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 12:14",
+      "departure": "2015-01-10 12:14",
+      "serviceId": "2_35",
+      "tripId": "2_3150",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 12:14",
+      "departure": "2015-01-10 12:14",
+      "serviceId": "2_35",
+      "tripId": "2_2952",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 12:26",
+      "departure": "2015-01-10 12:26",
+      "serviceId": "2_35",
+      "tripId": "2_2989",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 12:34",
+      "departure": "2015-01-10 12:34",
+      "serviceId": "2_35",
+      "tripId": "2_3137",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 12:38",
+      "departure": "2015-01-10 12:38",
+      "serviceId": "2_35",
+      "tripId": "2_3022",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 12:50",
+      "departure": "2015-01-10 12:50",
+      "serviceId": "2_35",
+      "tripId": "2_2921",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 12:54",
+      "departure": "2015-01-10 12:54",
+      "serviceId": "2_35",
+      "tripId": "2_3151",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 13:02",
+      "departure": "2015-01-10 13:02",
+      "serviceId": "2_35",
+      "tripId": "2_3030",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 13:14",
+      "departure": "2015-01-10 13:14",
+      "serviceId": "2_35",
+      "tripId": "2_2963",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 13:19",
+      "departure": "2015-01-10 13:19",
+      "serviceId": "2_35",
+      "tripId": "2_3152",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 13:26",
+      "departure": "2015-01-10 13:26",
+      "serviceId": "2_35",
+      "tripId": "2_2999",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 13:38",
+      "departure": "2015-01-10 13:38",
+      "serviceId": "2_35",
+      "tripId": "2_2953",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 13:40",
+      "departure": "2015-01-10 13:40",
+      "serviceId": "2_35",
+      "tripId": "2_3153",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 13:50",
+      "departure": "2015-01-10 13:50",
+      "serviceId": "2_35",
+      "tripId": "2_2990",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:00",
+      "departure": "2015-01-10 14:00",
+      "serviceId": "2_35",
+      "tripId": "2_3154",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 14:01",
+      "departure": "2015-01-10 14:01",
+      "serviceId": "2_35",
+      "tripId": "2_3023",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:12",
+      "departure": "2015-01-10 14:12",
+      "serviceId": "2_35",
+      "tripId": "2_2922",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:20",
+      "departure": "2015-01-10 14:20",
+      "serviceId": "2_35",
+      "tripId": "2_3155",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 14:23",
+      "departure": "2015-01-10 14:23",
+      "serviceId": "2_35",
+      "tripId": "2_3031",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:33",
+      "departure": "2015-01-10 14:33",
+      "serviceId": "2_35",
+      "tripId": "2_3045",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:40",
+      "departure": "2015-01-10 14:40",
+      "serviceId": "2_35",
+      "tripId": "2_3156",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 14:43",
+      "departure": "2015-01-10 14:43",
+      "serviceId": "2_35",
+      "tripId": "2_2964",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 14:53",
+      "departure": "2015-01-10 14:53",
+      "serviceId": "2_35",
+      "tripId": "2_3000",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:00",
+      "departure": "2015-01-10 15:00",
+      "serviceId": "2_35",
+      "tripId": "2_3157",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 15:03",
+      "departure": "2015-01-10 15:03",
+      "serviceId": "2_35",
+      "tripId": "2_2954",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:13",
+      "departure": "2015-01-10 15:13",
+      "serviceId": "2_35",
+      "tripId": "2_2991",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:20",
+      "departure": "2015-01-10 15:20",
+      "serviceId": "2_35",
+      "tripId": "2_3158",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 15:24",
+      "departure": "2015-01-10 15:24",
+      "serviceId": "2_35",
+      "tripId": "2_3024",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:35",
+      "departure": "2015-01-10 15:35",
+      "serviceId": "2_35",
+      "tripId": "2_2923",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:40",
+      "departure": "2015-01-10 15:40",
+      "serviceId": "2_35",
+      "tripId": "2_3159",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 15:45",
+      "departure": "2015-01-10 15:45",
+      "serviceId": "2_35",
+      "tripId": "2_3049",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 15:55",
+      "departure": "2015-01-10 15:55",
+      "serviceId": "2_35",
+      "tripId": "2_3032",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:00",
+      "departure": "2015-01-10 16:00",
+      "serviceId": "2_35",
+      "tripId": "2_3160",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 16:05",
+      "departure": "2015-01-10 16:05",
+      "serviceId": "2_35",
+      "tripId": "2_3046",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:15",
+      "departure": "2015-01-10 16:15",
+      "serviceId": "2_35",
+      "tripId": "2_2965",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:22",
+      "departure": "2015-01-10 16:22",
+      "serviceId": "2_35",
+      "tripId": "2_3161",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 16:25",
+      "departure": "2015-01-10 16:25",
+      "serviceId": "2_35",
+      "tripId": "2_2917",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:34",
+      "departure": "2015-01-10 16:34",
+      "serviceId": "2_35",
+      "tripId": "2_2955",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:44",
+      "departure": "2015-01-10 16:44",
+      "serviceId": "2_35",
+      "tripId": "2_2992",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 16:45",
+      "departure": "2015-01-10 16:45",
+      "serviceId": "2_35",
+      "tripId": "2_3162",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 16:54",
+      "departure": "2015-01-10 16:54",
+      "serviceId": "2_35",
+      "tripId": "2_3025",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:04",
+      "departure": "2015-01-10 17:04",
+      "serviceId": "2_35",
+      "tripId": "2_2924",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:05",
+      "departure": "2015-01-10 17:05",
+      "serviceId": "2_35",
+      "tripId": "2_3163",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 17:14",
+      "departure": "2015-01-10 17:14",
+      "serviceId": "2_35",
+      "tripId": "2_3050",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:24",
+      "departure": "2015-01-10 17:24",
+      "serviceId": "2_35",
+      "tripId": "2_3033",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:25",
+      "departure": "2015-01-10 17:25",
+      "serviceId": "2_35",
+      "tripId": "2_3164",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 17:34",
+      "departure": "2015-01-10 17:34",
+      "serviceId": "2_35",
+      "tripId": "2_3047",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:44",
+      "departure": "2015-01-10 17:44",
+      "serviceId": "2_35",
+      "tripId": "2_2966",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 17:45",
+      "departure": "2015-01-10 17:45",
+      "serviceId": "2_35",
+      "tripId": "2_3165",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 17:54",
+      "departure": "2015-01-10 17:54",
+      "serviceId": "2_35",
+      "tripId": "2_3002",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:04",
+      "departure": "2015-01-10 18:04",
+      "serviceId": "2_35",
+      "tripId": "2_2956",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:05",
+      "departure": "2015-01-10 18:05",
+      "serviceId": "2_35",
+      "tripId": "2_3166",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 18:14",
+      "departure": "2015-01-10 18:14",
+      "serviceId": "2_35",
+      "tripId": "2_2993",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:23",
+      "departure": "2015-01-10 18:23",
+      "serviceId": "2_35",
+      "tripId": "2_3167",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 18:24",
+      "departure": "2015-01-10 18:24",
+      "serviceId": "2_35",
+      "tripId": "2_3026",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:34",
+      "departure": "2015-01-10 18:34",
+      "serviceId": "2_35",
+      "tripId": "2_2925",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:40",
+      "departure": "2015-01-10 18:40",
+      "serviceId": "2_35",
+      "tripId": "2_3168",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 18:43",
+      "departure": "2015-01-10 18:43",
+      "serviceId": "2_35",
+      "tripId": "2_3051",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 18:53",
+      "departure": "2015-01-10 18:53",
+      "serviceId": "2_35",
+      "tripId": "2_3034",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:00",
+      "departure": "2015-01-10 19:00",
+      "serviceId": "2_35",
+      "tripId": "2_3169",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 19:03",
+      "departure": "2015-01-10 19:03",
+      "serviceId": "2_35",
+      "tripId": "2_3048",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:13",
+      "departure": "2015-01-10 19:13",
+      "serviceId": "2_35",
+      "tripId": "2_3072",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:20",
+      "departure": "2015-01-10 19:20",
+      "serviceId": "2_35",
+      "tripId": "2_3170",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 19:23",
+      "departure": "2015-01-10 19:23",
+      "serviceId": "2_35",
+      "tripId": "2_2967",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:33",
+      "departure": "2015-01-10 19:33",
+      "serviceId": "2_35",
+      "tripId": "2_2957",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:39",
+      "departure": "2015-01-10 19:39",
+      "serviceId": "2_35",
+      "tripId": "2_3171",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 19:45",
+      "departure": "2015-01-10 19:45",
+      "serviceId": "2_35",
+      "tripId": "2_2994",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 19:59",
+      "departure": "2015-01-10 19:59",
+      "serviceId": "2_35",
+      "tripId": "2_3172",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 20:00",
+      "departure": "2015-01-10 20:00",
+      "serviceId": "2_35",
+      "tripId": "2_2926",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 20:14",
+      "departure": "2015-01-10 20:14",
+      "serviceId": "2_35",
+      "tripId": "2_3052",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 20:23",
+      "departure": "2015-01-10 20:23",
+      "serviceId": "2_35",
+      "tripId": "2_3173",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-01-10 20:34",
+      "departure": "2015-01-10 20:34",
+      "serviceId": "2_35",
+      "tripId": "2_3060",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 20:53",
+      "departure": "2015-01-10 20:53",
+      "serviceId": "2_35",
+      "tripId": "2_2958",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 21:15",
+      "departure": "2015-01-10 21:15",
+      "serviceId": "2_35",
+      "tripId": "2_3064",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 21:55",
+      "departure": "2015-01-10 21:55",
+      "serviceId": "2_35",
+      "tripId": "2_3061",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 22:40",
+      "departure": "2015-01-10 22:40",
+      "serviceId": "2_35",
+      "tripId": "2_3065",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-10 23:20",
+      "departure": "2015-01-10 23:20",
+      "serviceId": "2_35",
+      "tripId": "2_3062",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-11 00:05",
+      "departure": "2015-01-11 00:05",
+      "serviceId": "2_35",
+      "tripId": "2_3066",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-11 00:45",
+      "departure": "2015-01-11 00:45",
+      "serviceId": "2_35",
+      "tripId": "2_3063",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-11 01:45",
+      "departure": "2015-01-11 01:45",
+      "serviceId": "2_35",
+      "tripId": "2_3074",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    }
+  ]
+}
