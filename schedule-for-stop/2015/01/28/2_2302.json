@@ -1,0 +1,952 @@
+{
+  "date": "2015-01-28 00:00",
+  "stop": {
+    "id": "2_2302",
+    "lat": 48.02485673,
+    "lon": -1.7507341,
+    "name": "Herverie",
+    "code": 2302
+  },
+  "routes": [
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A9701E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0091",
+      "textColor": "1A171B",
+      "color": "AECC52",
+      "description": "Intercommunale",
+      "longName": "Bruz / Chartres \u003c\u003e Noyal-Châtillon-sur-Seiche",
+      "shortName": "91",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0157",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Bruz (Centre)",
+      "shortName": "157",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0159",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Bruz (Centre)",
+      "shortName": "159",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-01-28 05:07",
+      "departure": "2015-01-28 05:07",
+      "serviceId": "2_30",
+      "tripId": "2_5616",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 05:47",
+      "departure": "2015-01-28 05:47",
+      "serviceId": "2_30",
+      "tripId": "2_5621",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 06:12",
+      "departure": "2015-01-28 06:12",
+      "serviceId": "2_30",
+      "tripId": "2_5671",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 06:17",
+      "departure": "2015-01-28 06:17",
+      "serviceId": "2_28",
+      "tripId": "2_5191",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 06:32",
+      "departure": "2015-01-28 06:32",
+      "serviceId": "2_28",
+      "tripId": "2_5196",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 06:42",
+      "departure": "2015-01-28 06:42",
+      "serviceId": "2_30",
+      "tripId": "2_5676",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 06:52",
+      "departure": "2015-01-28 06:52",
+      "serviceId": "2_28",
+      "tripId": "2_5596",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 06:57",
+      "departure": "2015-01-28 06:57",
+      "serviceId": "2_28",
+      "tripId": "2_8023",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:02",
+      "departure": "2015-01-28 07:02",
+      "serviceId": "2_30",
+      "tripId": "2_5976",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 07:07",
+      "departure": "2015-01-28 07:07",
+      "serviceId": "2_28",
+      "tripId": "2_5201",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:12",
+      "departure": "2015-01-28 07:12",
+      "serviceId": "2_30",
+      "tripId": "2_8485",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 07:12",
+      "departure": "2015-01-28 07:12",
+      "serviceId": "2_28",
+      "tripId": "2_8028",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:22",
+      "departure": "2015-01-28 07:22",
+      "serviceId": "2_30",
+      "tripId": "2_5681",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 07:22",
+      "departure": "2015-01-28 07:22",
+      "serviceId": "2_28",
+      "tripId": "2_5206",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:32",
+      "departure": "2015-01-28 07:32",
+      "serviceId": "2_30",
+      "tripId": "2_8490",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 07:32",
+      "departure": "2015-01-28 07:32",
+      "serviceId": "2_28",
+      "tripId": "2_8033",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:42",
+      "departure": "2015-01-28 07:42",
+      "serviceId": "2_30",
+      "tripId": "2_5686",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 07:42",
+      "departure": "2015-01-28 07:42",
+      "serviceId": "2_28",
+      "tripId": "2_5211",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 07:52",
+      "departure": "2015-01-28 07:52",
+      "serviceId": "2_30",
+      "tripId": "2_8495",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 07:52",
+      "departure": "2015-01-28 07:52",
+      "serviceId": "2_28",
+      "tripId": "2_8038",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 08:02",
+      "departure": "2015-01-28 08:02",
+      "serviceId": "2_30",
+      "tripId": "2_5691",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 08:02",
+      "departure": "2015-01-28 08:02",
+      "serviceId": "2_28",
+      "tripId": "2_5216",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 08:12",
+      "departure": "2015-01-28 08:12",
+      "serviceId": "2_30",
+      "tripId": "2_8500",
+      "routeId": "2_0159",
+      "headsign": "159 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 08:12",
+      "departure": "2015-01-28 08:12",
+      "serviceId": "2_28",
+      "tripId": "2_8043",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 08:15",
+      "departure": "2015-01-28 08:15",
+      "serviceId": "2_30",
+      "tripId": "2_21016",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 08:22",
+      "departure": "2015-01-28 08:22",
+      "serviceId": "2_30",
+      "tripId": "2_5696",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 08:27",
+      "departure": "2015-01-28 08:27",
+      "serviceId": "2_28",
+      "tripId": "2_5221",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 08:42",
+      "departure": "2015-01-28 08:42",
+      "serviceId": "2_30",
+      "tripId": "2_5701",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 08:47",
+      "departure": "2015-01-28 08:47",
+      "serviceId": "2_28",
+      "tripId": "2_5226",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 08:53",
+      "departure": "2015-01-28 08:53",
+      "serviceId": "2_30",
+      "tripId": "2_21136",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 09:02",
+      "departure": "2015-01-28 09:02",
+      "serviceId": "2_30",
+      "tripId": "2_6006",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes La Poterie"
+    },
+    {
+      "arrival": "2015-01-28 09:07",
+      "departure": "2015-01-28 09:07",
+      "serviceId": "2_28",
+      "tripId": "2_5231",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 09:19",
+      "departure": "2015-01-28 09:19",
+      "serviceId": "2_30",
+      "tripId": "2_21006",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 09:22",
+      "departure": "2015-01-28 09:22",
+      "serviceId": "2_30",
+      "tripId": "2_5956",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 09:27",
+      "departure": "2015-01-28 09:27",
+      "serviceId": "2_28",
+      "tripId": "2_5236",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 09:47",
+      "departure": "2015-01-28 09:47",
+      "serviceId": "2_28",
+      "tripId": "2_5241",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 09:52",
+      "departure": "2015-01-28 09:52",
+      "serviceId": "2_30",
+      "tripId": "2_5706",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 10:07",
+      "departure": "2015-01-28 10:07",
+      "serviceId": "2_30",
+      "tripId": "2_21101",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 10:07",
+      "departure": "2015-01-28 10:07",
+      "serviceId": "2_28",
+      "tripId": "2_5246",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 10:22",
+      "departure": "2015-01-28 10:22",
+      "serviceId": "2_30",
+      "tripId": "2_5711",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 10:27",
+      "departure": "2015-01-28 10:27",
+      "serviceId": "2_28",
+      "tripId": "2_5251",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 10:47",
+      "departure": "2015-01-28 10:47",
+      "serviceId": "2_28",
+      "tripId": "2_5256",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 10:52",
+      "departure": "2015-01-28 10:52",
+      "serviceId": "2_30",
+      "tripId": "2_5716",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 11:07",
+      "departure": "2015-01-28 11:07",
+      "serviceId": "2_28",
+      "tripId": "2_5261",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 11:22",
+      "departure": "2015-01-28 11:22",
+      "serviceId": "2_30",
+      "tripId": "2_5721",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 11:27",
+      "departure": "2015-01-28 11:27",
+      "serviceId": "2_28",
+      "tripId": "2_5266",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 11:47",
+      "departure": "2015-01-28 11:47",
+      "serviceId": "2_28",
+      "tripId": "2_5271",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 11:48",
+      "departure": "2015-01-28 11:48",
+      "serviceId": "2_31",
+      "tripId": "2_21164",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 11:57",
+      "departure": "2015-01-28 11:57",
+      "serviceId": "2_30",
+      "tripId": "2_5726",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 12:07",
+      "departure": "2015-01-28 12:07",
+      "serviceId": "2_28",
+      "tripId": "2_5276",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 12:27",
+      "departure": "2015-01-28 12:27",
+      "serviceId": "2_30",
+      "tripId": "2_5731",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 12:27",
+      "departure": "2015-01-28 12:27",
+      "serviceId": "2_28",
+      "tripId": "2_5281",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 12:46",
+      "departure": "2015-01-28 12:46",
+      "serviceId": "2_31",
+      "tripId": "2_21167",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 12:47",
+      "departure": "2015-01-28 12:47",
+      "serviceId": "2_28",
+      "tripId": "2_5286",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 12:48",
+      "departure": "2015-01-28 12:48",
+      "serviceId": "2_31",
+      "tripId": "2_21159",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 12:55",
+      "departure": "2015-01-28 12:55",
+      "serviceId": "2_30",
+      "tripId": "2_5736",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 13:05",
+      "departure": "2015-01-28 13:05",
+      "serviceId": "2_31",
+      "tripId": "2_21166",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 13:07",
+      "departure": "2015-01-28 13:07",
+      "serviceId": "2_28",
+      "tripId": "2_5611",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 13:27",
+      "departure": "2015-01-28 13:27",
+      "serviceId": "2_30",
+      "tripId": "2_5741",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 13:27",
+      "departure": "2015-01-28 13:27",
+      "serviceId": "2_28",
+      "tripId": "2_5291",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 13:47",
+      "departure": "2015-01-28 13:47",
+      "serviceId": "2_30",
+      "tripId": "2_5746",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 13:47",
+      "departure": "2015-01-28 13:47",
+      "serviceId": "2_28",
+      "tripId": "2_5296",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 13:50",
+      "departure": "2015-01-28 13:50",
+      "serviceId": "2_30",
+      "tripId": "2_21011",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 14:07",
+      "departure": "2015-01-28 14:07",
+      "serviceId": "2_28",
+      "tripId": "2_5301",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 14:22",
+      "departure": "2015-01-28 14:22",
+      "serviceId": "2_30",
+      "tripId": "2_5751",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 14:27",
+      "departure": "2015-01-28 14:27",
+      "serviceId": "2_28",
+      "tripId": "2_5306",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 14:31",
+      "departure": "2015-01-28 14:31",
+      "serviceId": "2_30",
+      "tripId": "2_21026",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 14:47",
+      "departure": "2015-01-28 14:47",
+      "serviceId": "2_28",
+      "tripId": "2_5311",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 14:57",
+      "departure": "2015-01-28 14:57",
+      "serviceId": "2_30",
+      "tripId": "2_5756",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 15:07",
+      "departure": "2015-01-28 15:07",
+      "serviceId": "2_28",
+      "tripId": "2_5316",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 15:16",
+      "departure": "2015-01-28 15:16",
+      "serviceId": "2_30",
+      "tripId": "2_21076",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 15:27",
+      "departure": "2015-01-28 15:27",
+      "serviceId": "2_28",
+      "tripId": "2_5321",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 15:36",
+      "departure": "2015-01-28 15:36",
+      "serviceId": "2_30",
+      "tripId": "2_5761",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 15:47",
+      "departure": "2015-01-28 15:47",
+      "serviceId": "2_28",
+      "tripId": "2_5326",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 15:51",
+      "departure": "2015-01-28 15:51",
+      "serviceId": "2_30",
+      "tripId": "2_21091",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 15:54",
+      "departure": "2015-01-28 15:54",
+      "serviceId": "2_30",
+      "tripId": "2_5766",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 16:07",
+      "departure": "2015-01-28 16:07",
+      "serviceId": "2_28",
+      "tripId": "2_5331",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-01-28 16:13",
+      "departure": "2015-01-28 16:13",
+      "serviceId": "2_30",
+      "tripId": "2_5771",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 16:22",
+      "departure": "2015-01-28 16:22",
+      "serviceId": "2_30",
+      "tripId": "2_21031",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 16:27",
+      "departure": "2015-01-28 16:27",
+      "serviceId": "2_28",
+      "tripId": "2_5336",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-01-28 16:32",
+      "departure": "2015-01-28 16:32",
+      "serviceId": "2_30",
+      "tripId": "2_5776",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 16:47",
+      "departure": "2015-01-28 16:47",
+      "serviceId": "2_28",
+      "tripId": "2_5341",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-01-28 16:52",
+      "departure": "2015-01-28 16:52",
+      "serviceId": "2_30",
+      "tripId": "2_5781",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 16:53",
+      "departure": "2015-01-28 16:53",
+      "serviceId": "2_30",
+      "tripId": "2_21141",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 17:07",
+      "departure": "2015-01-28 17:07",
+      "serviceId": "2_28",
+      "tripId": "2_5346",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-01-28 17:11",
+      "departure": "2015-01-28 17:11",
+      "serviceId": "2_30",
+      "tripId": "2_5786",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 17:21",
+      "departure": "2015-01-28 17:21",
+      "serviceId": "2_30",
+      "tripId": "2_21036",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 17:27",
+      "departure": "2015-01-28 17:27",
+      "serviceId": "2_28",
+      "tripId": "2_5351",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-01-28 17:36",
+      "departure": "2015-01-28 17:36",
+      "serviceId": "2_30",
+      "tripId": "2_5791",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 17:47",
+      "departure": "2015-01-28 17:47",
+      "serviceId": "2_28",
+      "tripId": "2_5356",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 17:48",
+      "departure": "2015-01-28 17:48",
+      "serviceId": "2_30",
+      "tripId": "2_21096",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 17:56",
+      "departure": "2015-01-28 17:56",
+      "serviceId": "2_30",
+      "tripId": "2_5796",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 18:07",
+      "departure": "2015-01-28 18:07",
+      "serviceId": "2_28",
+      "tripId": "2_5361",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 18:19",
+      "departure": "2015-01-28 18:19",
+      "serviceId": "2_30",
+      "tripId": "2_21041",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-01-28 18:19",
+      "departure": "2015-01-28 18:19",
+      "serviceId": "2_30",
+      "tripId": "2_5801",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 18:27",
+      "departure": "2015-01-28 18:27",
+      "serviceId": "2_28",
+      "tripId": "2_5366",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 18:42",
+      "departure": "2015-01-28 18:42",
+      "serviceId": "2_30",
+      "tripId": "2_5806",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 18:45",
+      "departure": "2015-01-28 18:45",
+      "serviceId": "2_30",
+      "tripId": "2_21146",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-01-28 18:47",
+      "departure": "2015-01-28 18:47",
+      "serviceId": "2_28",
+      "tripId": "2_5371",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 19:07",
+      "departure": "2015-01-28 19:07",
+      "serviceId": "2_28",
+      "tripId": "2_5376",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 19:14",
+      "departure": "2015-01-28 19:14",
+      "serviceId": "2_30",
+      "tripId": "2_6016",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 19:37",
+      "departure": "2015-01-28 19:37",
+      "serviceId": "2_28",
+      "tripId": "2_5381",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 19:45",
+      "departure": "2015-01-28 19:45",
+      "serviceId": "2_30",
+      "tripId": "2_6028",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 20:07",
+      "departure": "2015-01-28 20:07",
+      "serviceId": "2_28",
+      "tripId": "2_5386",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 20:15",
+      "departure": "2015-01-28 20:15",
+      "serviceId": "2_30",
+      "tripId": "2_6021",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-01-28 20:37",
+      "departure": "2015-01-28 20:37",
+      "serviceId": "2_28",
+      "tripId": "2_5601",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 20:50",
+      "departure": "2015-01-28 20:50",
+      "serviceId": "2_30",
+      "tripId": "2_5991",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 21:20",
+      "departure": "2015-01-28 21:20",
+      "serviceId": "2_30",
+      "tripId": "2_6048",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-01-28 21:32",
+      "departure": "2015-01-28 21:32",
+      "serviceId": "2_30",
+      "tripId": "2_5659",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 22:12",
+      "departure": "2015-01-28 22:12",
+      "serviceId": "2_30",
+      "tripId": "2_5626",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-01-28 23:57",
+      "departure": "2015-01-28 23:57",
+      "serviceId": "2_30",
+      "tripId": "2_5631",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    }
+  ]
+}

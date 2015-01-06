@@ -1,168 +1,344 @@
 {
-  "headsign": "74 | Orgères Bourgbarré",
+  "headsign": "3 | Henri Fréville",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1534",
-        "lat": 48.08831454,
-        "lon": -1.67444337,
+        "id": "2_1103",
+        "lat": 48.13880017,
+        "lon": -1.65921311,
+        "name": "Saint-Laurent",
+        "code": 1103
+      },
+      "arrival": 56700,
+      "departure": 56700
+    },
+    {
+      "stop": {
+        "id": "2_1104",
+        "lat": 48.13478815,
+        "lon": -1.65854932,
+        "name": "Hôtel de Région",
+        "code": 1104
+      },
+      "arrival": 56820,
+      "departure": 56820
+    },
+    {
+      "stop": {
+        "id": "2_1105",
+        "lat": 48.13555,
+        "lon": -1.65569436,
+        "name": "Héronière",
+        "code": 1105
+      },
+      "arrival": 56880,
+      "departure": 56880
+    },
+    {
+      "stop": {
+        "id": "2_1106",
+        "lat": 48.13436418,
+        "lon": -1.65216944,
+        "name": "Gayeulles Piscine",
+        "code": 1106
+      },
+      "arrival": 56880,
+      "departure": 56880
+    },
+    {
+      "stop": {
+        "id": "2_1107",
+        "lat": 48.13086935,
+        "lon": -1.65210388,
+        "name": "Le Blizz",
+        "code": 1107
+      },
+      "arrival": 56940,
+      "departure": 56940
+    },
+    {
+      "stop": {
+        "id": "2_1108",
+        "lat": 48.12838797,
+        "lon": -1.652168,
+        "name": "Gayeulles",
+        "code": 1108
+      },
+      "arrival": 57000,
+      "departure": 57000
+    },
+    {
+      "stop": {
+        "id": "2_1618",
+        "lat": 48.12513724,
+        "lon": -1.65304693,
+        "name": "Joliot-Curie",
+        "code": 1618
+      },
+      "arrival": 57060,
+      "departure": 57060
+    },
+    {
+      "stop": {
+        "id": "2_1637",
+        "lat": 48.12307228,
+        "lon": -1.65145652,
+        "name": "Lycée Chateaubriand",
+        "code": 1637
+      },
+      "arrival": 57120,
+      "departure": 57120
+    },
+    {
+      "stop": {
+        "id": "2_1111",
+        "lat": 48.12024278,
+        "lon": -1.65071004,
+        "name": "Docteur Quentin",
+        "code": 1111
+      },
+      "arrival": 57180,
+      "departure": 57180
+    },
+    {
+      "stop": {
+        "id": "2_1112",
+        "lat": 48.11890008,
+        "lon": -1.65092835,
+        "name": "Vitré Danton",
+        "code": 1112
+      },
+      "arrival": 57240,
+      "departure": 57240
+    },
+    {
+      "stop": {
+        "id": "2_1113",
+        "lat": 48.11635262,
+        "lon": -1.65563088,
+        "name": "Jeanne d\u0027Arc",
+        "code": 1113
+      },
+      "arrival": 57300,
+      "departure": 57300
+    },
+    {
+      "stop": {
+        "id": "2_1114",
+        "lat": 48.11447379,
+        "lon": -1.65800938,
+        "name": "Durafour",
+        "code": 1114
+      },
+      "arrival": 57360,
+      "departure": 57360
+    },
+    {
+      "stop": {
+        "id": "2_1115",
+        "lat": 48.11349726,
+        "lon": -1.66127497,
+        "name": "Oberthur",
+        "code": 1115
+      },
+      "arrival": 57420,
+      "departure": 57420
+    },
+    {
+      "stop": {
+        "id": "2_1116",
+        "lat": 48.11274314,
+        "lon": -1.6643851,
+        "name": "Saint-Vincent",
+        "code": 1116
+      },
+      "arrival": 57480,
+      "departure": 57480
+    },
+    {
+      "stop": {
+        "id": "2_1117",
+        "lat": 48.11249213,
+        "lon": -1.66685313,
+        "name": "Châteaudun",
+        "code": 1117
+      },
+      "arrival": 57540,
+      "departure": 57540
+    },
+    {
+      "stop": {
+        "id": "2_1118",
+        "lat": 48.11175864,
+        "lon": -1.67121493,
+        "name": "Thabor",
+        "code": 1118
+      },
+      "arrival": 57660,
+      "departure": 57660
+    },
+    {
+      "stop": {
+        "id": "2_1644",
+        "lat": 48.11070175,
+        "lon": -1.67357691,
+        "name": "Place Pasteur",
+        "code": 1644
+      },
+      "arrival": 57720,
+      "departure": 57720
+    },
+    {
+      "stop": {
+        "id": "2_1120",
+        "lat": 48.1099823,
+        "lon": -1.67785697,
+        "name": "République Jaurès",
+        "code": 1120
+      },
+      "arrival": 57900,
+      "departure": 57900
+    },
+    {
+      "stop": {
+        "id": "2_1121",
+        "lat": 48.10607068,
+        "lon": -1.6777658,
+        "name": "Charles de Gaulle",
+        "code": 1121
+      },
+      "arrival": 58020,
+      "departure": 58020
+    },
+    {
+      "stop": {
+        "id": "2_1122",
+        "lat": 48.10306416,
+        "lon": -1.67682716,
+        "name": "Gare Sud Féval",
+        "code": 1122
+      },
+      "arrival": 58080,
+      "departure": 58080
+    },
+    {
+      "stop": {
+        "id": "2_1123",
+        "lat": 48.09916061,
+        "lon": -1.67570108,
+        "name": "Ginguené",
+        "code": 1123
+      },
+      "arrival": 58140,
+      "departure": 58140
+    },
+    {
+      "stop": {
+        "id": "2_1124",
+        "lat": 48.09733551,
+        "lon": -1.67557993,
+        "name": "Jacques Cartier",
+        "code": 1124
+      },
+      "arrival": 58200,
+      "departure": 58200
+    },
+    {
+      "stop": {
+        "id": "2_1125",
+        "lat": 48.09690529,
+        "lon": -1.67914824,
+        "name": "Sacrés Coeurs",
+        "code": 1125
+      },
+      "arrival": 58260,
+      "departure": 58260
+    },
+    {
+      "stop": {
+        "id": "2_1126",
+        "lat": 48.0960299,
+        "lon": -1.68166781,
+        "name": "Garigliano",
+        "code": 1126
+      },
+      "arrival": 58320,
+      "departure": 58320
+    },
+    {
+      "stop": {
+        "id": "2_1127",
+        "lat": 48.09306489,
+        "lon": -1.68187605,
+        "name": "Frères Moine",
+        "code": 1127
+      },
+      "arrival": 58380,
+      "departure": 58380
+    },
+    {
+      "stop": {
+        "id": "2_1128",
+        "lat": 48.09103622,
+        "lon": -1.68211341,
+        "name": "Champs Manceaux",
+        "code": 1128
+      },
+      "arrival": 58440,
+      "departure": 58440
+    },
+    {
+      "stop": {
+        "id": "2_1129",
+        "lat": 48.08727486,
+        "lon": -1.68239903,
+        "name": "Suède",
+        "code": 1129
+      },
+      "arrival": 58560,
+      "departure": 58560
+    },
+    {
+      "stop": {
+        "id": "2_1130",
+        "lat": 48.08520714,
+        "lon": -1.6824849,
+        "name": "Canada",
+        "code": 1130
+      },
+      "arrival": 58620,
+      "departure": 58620
+    },
+    {
+      "stop": {
+        "id": "2_1623",
+        "lat": 48.08400034,
+        "lon": -1.67830796,
+        "name": "Alma",
+        "code": 1623
+      },
+      "arrival": 58680,
+      "departure": 58680
+    },
+    {
+      "stop": {
+        "id": "2_1564",
+        "lat": 48.08782223,
+        "lon": -1.67459024,
         "name": "Henri Fréville",
-        "code": 1534
+        "code": 1564
       },
-      "arrival": 41100,
-      "departure": 41100
-    },
-    {
-      "stop": {
-        "id": "2_4357",
-        "lat": 48.01706446,
-        "lon": -1.66466568,
-        "name": "Croix du Pigeonnet",
-        "code": 4357
-      },
-      "arrival": 41880,
-      "departure": 41880
-    },
-    {
-      "stop": {
-        "id": "2_3249",
-        "lat": 48.01492989,
-        "lon": -1.66394359,
-        "name": "Orgerblon",
-        "code": 3249
-      },
-      "arrival": 41880,
-      "departure": 41880
-    },
-    {
-      "stop": {
-        "id": "2_3216",
-        "lat": 48.00912373,
-        "lon": -1.66637371,
-        "name": "Plardière",
-        "code": 3216
-      },
-      "arrival": 41940,
-      "departure": 41940
-    },
-    {
-      "stop": {
-        "id": "2_3217",
-        "lat": 48.00045137,
-        "lon": -1.66706223,
-        "name": "Levant",
-        "code": 3217
-      },
-      "arrival": 42060,
-      "departure": 42060
-    },
-    {
-      "stop": {
-        "id": "2_3218",
-        "lat": 47.99689445,
-        "lon": -1.66900508,
-        "name": "Groupe Scolaire",
-        "code": 3218
-      },
-      "arrival": 42120,
-      "departure": 42120
-    },
-    {
-      "stop": {
-        "id": "2_3219",
-        "lat": 47.99494129,
-        "lon": -1.67090261,
-        "name": "Coteau",
-        "code": 3219
-      },
-      "arrival": 42180,
-      "departure": 42180
-    },
-    {
-      "stop": {
-        "id": "2_3220",
-        "lat": 47.99225073,
-        "lon": -1.66789719,
-        "name": "Surcouf",
-        "code": 3220
-      },
-      "arrival": 42240,
-      "departure": 42240
-    },
-    {
-      "stop": {
-        "id": "2_3221",
-        "lat": 47.99372624,
-        "lon": -1.6652472,
-        "name": "Chateaubriand",
-        "code": 3221
-      },
-      "arrival": 42360,
-      "departure": 42360
-    },
-    {
-      "stop": {
-        "id": "2_3806",
-        "lat": 47.99442685,
-        "lon": -1.63135702,
-        "name": "Perelle",
-        "code": 3806
-      },
-      "arrival": 42540,
-      "departure": 42540
-    },
-    {
-      "stop": {
-        "id": "2_3807",
-        "lat": 47.99512363,
-        "lon": -1.62373584,
-        "name": "La Basse Erable",
-        "code": 3807
-      },
-      "arrival": 42600,
-      "departure": 42600
-    },
-    {
-      "stop": {
-        "id": "2_3808",
-        "lat": 47.99590317,
-        "lon": -1.61766621,
-        "name": "La Motte",
-        "code": 3808
-      },
-      "arrival": 42720,
-      "departure": 42720
-    },
-    {
-      "stop": {
-        "id": "2_3809",
-        "lat": 47.99476166,
-        "lon": -1.61410331,
-        "name": "Bourgbarré Mairie",
-        "code": 3809
-      },
-      "arrival": 42720,
-      "departure": 42720
-    },
-    {
-      "stop": {
-        "id": "2_3801",
-        "lat": 47.99009528,
-        "lon": -1.6138293,
-        "name": "Centre de Loisirs",
-        "code": 3801
-      },
-      "arrival": 42900,
-      "departure": 42900
+      "arrival": 58800,
+      "departure": 58800
     }
   ],
   "route": {
-    "id": "2_0074",
-    "textColor": "1A171B",
-    "color": "FCC000",
-    "description": "Métropolitaine",
-    "longName": "Rennes (Henri Fréville) \u003c\u003e Orgères / Bourgbarré",
-    "shortName": "74",
+    "id": "2_0003",
+    "textColor": "FFFFFF",
+    "color": "008436",
+    "description": "Majeure",
+    "longName": "Saint-Laurent \u003c\u003e Henri Fréville",
+    "shortName": "3",
     "type": 3,
     "agencyId": "2"
   }
