@@ -1,378 +1,180 @@
 {
-  "headsign": "11 | La Poterie via ZI Sud-Est",
+  "headsign": "a | J.F. Kennedy",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1234",
-        "lat": 48.10775888,
-        "lon": -1.71484897,
-        "name": "Stade Rennais",
-        "code": 1234
-      },
-      "arrival": 37680,
-      "departure": 37680
-    },
-    {
-      "stop": {
-        "id": "2_1235",
-        "lat": 48.10892663,
-        "lon": -1.70977108,
-        "name": "Géniaux",
-        "code": 1235
-      },
-      "arrival": 37800,
-      "departure": 37800
-    },
-    {
-      "stop": {
-        "id": "2_1236",
-        "lat": 48.10881331,
-        "lon": -1.7056153,
-        "name": "Kerviler",
-        "code": 1236
-      },
-      "arrival": 37860,
-      "departure": 37860
-    },
-    {
-      "stop": {
-        "id": "2_1237",
-        "lat": 48.10773621,
-        "lon": -1.70211405,
-        "name": "Papeteries",
-        "code": 1237
-      },
-      "arrival": 37920,
-      "departure": 37920
-    },
-    {
-      "stop": {
-        "id": "2_1238",
-        "lat": 48.10869591,
-        "lon": -1.69884796,
-        "name": "Guilloux Lorient",
-        "code": 1238
-      },
-      "arrival": 37980,
-      "departure": 37980
-    },
-    {
-      "stop": {
-        "id": "2_1239",
-        "lat": 48.10827073,
-        "lon": -1.6941653,
-        "name": "Chèques Postaux",
-        "code": 1239
-      },
-      "arrival": 38040,
-      "departure": 38040
-    },
-    {
-      "stop": {
-        "id": "2_1240",
-        "lat": 48.10927186,
-        "lon": -1.68970708,
-        "name": "Le Mail",
-        "code": 1240
-      },
-      "arrival": 38160,
-      "departure": 38160
-    },
-    {
-      "stop": {
-        "id": "2_1091",
-        "lat": 48.10977886,
-        "lon": -1.68388248,
-        "name": "Place de Bretagne",
-        "code": 1091
-      },
-      "arrival": 38280,
-      "departure": 38280
-    },
-    {
-      "stop": {
-        "id": "2_1242",
-        "lat": 48.10980333,
-        "lon": -1.6795219,
-        "name": "République",
-        "code": 1242
-      },
-      "arrival": 38400,
-      "departure": 38400
-    },
-    {
-      "stop": {
-        "id": "2_1088",
-        "lat": 48.10744897,
-        "lon": -1.67491383,
-        "name": "Liberté TNB",
-        "code": 1088
-      },
-      "arrival": 38580,
-      "departure": 38580
-    },
-    {
-      "stop": {
-        "id": "2_1087",
-        "lat": 48.1060299,
-        "lon": -1.67410184,
-        "name": "Champs Libres",
-        "code": 1087
-      },
-      "arrival": 38640,
-      "departure": 38640
-    },
-    {
-      "stop": {
-        "id": "2_1477",
-        "lat": 48.10388016,
-        "lon": -1.67284842,
-        "name": "Gares",
-        "code": 1477
-      },
-      "arrival": 38700,
-      "departure": 38700
-    },
-    {
-      "stop": {
-        "id": "2_1085",
-        "lat": 48.10476768,
-        "lon": -1.66658594,
-        "name": "Laënnec",
-        "code": 1085
-      },
-      "arrival": 38820,
-      "departure": 38820
-    },
-    {
-      "stop": {
-        "id": "2_1243",
-        "lat": 48.10254897,
-        "lon": -1.66111869,
-        "name": "Croix Saint-Hélier",
-        "code": 1243
-      },
-      "arrival": 38880,
-      "departure": 38880
-    },
-    {
-      "stop": {
-        "id": "2_1244",
-        "lat": 48.10229227,
-        "lon": -1.65513195,
-        "name": "Mouézy",
-        "code": 1244
-      },
-      "arrival": 38940,
-      "departure": 38940
-    },
-    {
-      "stop": {
-        "id": "2_1211",
-        "lat": 48.10317679,
-        "lon": -1.65251241,
-        "name": "Serpette",
-        "code": 1211
-      },
-      "arrival": 39000,
-      "departure": 39000
-    },
-    {
-      "stop": {
-        "id": "2_1246",
-        "lat": 48.10439597,
-        "lon": -1.64934184,
-        "name": "Cimetière de l\u0027Est",
-        "code": 1246
-      },
-      "arrival": 39060,
-      "departure": 39060
-    },
-    {
-      "stop": {
-        "id": "2_1247",
-        "lat": 48.10491097,
-        "lon": -1.64382886,
-        "name": "Pavie",
-        "code": 1247
-      },
-      "arrival": 39120,
-      "departure": 39120
-    },
-    {
-      "stop": {
-        "id": "2_1248",
-        "lat": 48.10393193,
-        "lon": -1.63578425,
-        "name": "Pré Garel",
-        "code": 1248
-      },
-      "arrival": 39180,
-      "departure": 39180
-    },
-    {
-      "stop": {
-        "id": "2_2123",
-        "lat": 48.10460642,
-        "lon": -1.63076044,
-        "name": "Buisson",
-        "code": 2123
-      },
-      "arrival": 39240,
-      "departure": 39240
-    },
-    {
-      "stop": {
-        "id": "2_2037",
-        "lat": 48.10607373,
-        "lon": -1.62563212,
-        "name": "Erbonière",
-        "code": 2037
-      },
-      "arrival": 39300,
-      "departure": 39300
-    },
-    {
-      "stop": {
-        "id": "2_2032",
-        "lat": 48.10622656,
-        "lon": -1.6212918,
-        "name": "Charmilles",
-        "code": 2032
-      },
-      "arrival": 39360,
-      "departure": 39360
-    },
-    {
-      "stop": {
-        "id": "2_2036",
-        "lat": 48.10118579,
-        "lon": -1.62396139,
-        "name": "Bas Village",
-        "code": 2036
-      },
-      "arrival": 39420,
-      "departure": 39420
-    },
-    {
-      "stop": {
-        "id": "2_2034",
-        "lat": 48.0996197,
-        "lon": -1.62114642,
-        "name": "Forum",
-        "code": 2034
-      },
-      "arrival": 39480,
-      "departure": 39480
-    },
-    {
-      "stop": {
-        "id": "2_3015",
-        "lat": 48.09813047,
-        "lon": -1.62296013,
-        "name": "Breillou",
-        "code": 3015
-      },
-      "arrival": 39540,
-      "departure": 39540
-    },
-    {
-      "stop": {
-        "id": "2_1205",
-        "lat": 48.09712076,
-        "lon": -1.62923032,
-        "name": "Veyettes",
-        "code": 1205
-      },
-      "arrival": 39600,
-      "departure": 39600
-    },
-    {
-      "stop": {
-        "id": "2_1633",
-        "lat": 48.09663714,
-        "lon": -1.63652489,
-        "name": "Haut Sancé",
-        "code": 1633
-      },
-      "arrival": 39660,
-      "departure": 39660
-    },
-    {
-      "stop": {
-        "id": "2_1072",
-        "lat": 48.09499328,
-        "lon": -1.63793817,
-        "name": "CARSAT",
-        "code": 1072
-      },
-      "arrival": 39720,
-      "departure": 39720
-    },
-    {
-      "stop": {
-        "id": "2_1073",
-        "lat": 48.09257263,
-        "lon": -1.63966324,
-        "name": "Ronceray",
-        "code": 1073
-      },
-      "arrival": 39780,
-      "departure": 39780
-    },
-    {
-      "stop": {
-        "id": "2_1074",
-        "lat": 48.09187614,
-        "lon": -1.63629215,
-        "name": "Gohier",
-        "code": 1074
-      },
-      "arrival": 39780,
-      "departure": 39780
-    },
-    {
-      "stop": {
-        "id": "2_1075",
-        "lat": 48.08949402,
-        "lon": -1.63543734,
-        "name": "Bourgueil",
-        "code": 1075
-      },
-      "arrival": 39840,
-      "departure": 39840
-    },
-    {
-      "stop": {
-        "id": "2_1076",
-        "lat": 48.08799285,
-        "lon": -1.6383059,
-        "name": "Monnet",
-        "code": 1076
-      },
-      "arrival": 39900,
-      "departure": 39900
-    },
-    {
-      "stop": {
-        "id": "2_1065",
-        "lat": 48.08758724,
-        "lon": -1.64393705,
+        "id": "2_5030",
+        "lat": 48.087531,
+        "lon": -1.644633,
         "name": "La Poterie",
-        "code": 1065
+        "code": 5030
       },
-      "arrival": 39960,
-      "departure": 39960
+      "arrival": 62520,
+      "departure": 62520
+    },
+    {
+      "stop": {
+        "id": "2_5029",
+        "lat": 48.087765,
+        "lon": -1.654439,
+        "name": "Le Blosne",
+        "code": 5029
+      },
+      "arrival": 62601,
+      "departure": 62601
+    },
+    {
+      "stop": {
+        "id": "2_5028",
+        "lat": 48.086477,
+        "lon": -1.660654,
+        "name": "Triangle",
+        "code": 5028
+      },
+      "arrival": 62656,
+      "departure": 62656
+    },
+    {
+      "stop": {
+        "id": "2_5027",
+        "lat": 48.086598,
+        "lon": -1.667741,
+        "name": "Italie",
+        "code": 5027
+      },
+      "arrival": 62719,
+      "departure": 62719
+    },
+    {
+      "stop": {
+        "id": "2_5026",
+        "lat": 48.087673,
+        "lon": -1.674777,
+        "name": "Henri Fréville",
+        "code": 5026
+      },
+      "arrival": 62786,
+      "departure": 62786
+    },
+    {
+      "stop": {
+        "id": "2_5025",
+        "lat": 48.093653,
+        "lon": -1.674394,
+        "name": "Clemenceau",
+        "code": 5025
+      },
+      "arrival": 62859,
+      "departure": 62859
+    },
+    {
+      "stop": {
+        "id": "2_5024",
+        "lat": 48.097605,
+        "lon": -1.675419,
+        "name": "Jacques Cartier",
+        "code": 5024
+      },
+      "arrival": 62910,
+      "departure": 62910
+    },
+    {
+      "stop": {
+        "id": "2_5023",
+        "lat": 48.103875,
+        "lon": -1.672183,
+        "name": "Gares",
+        "code": 5023
+      },
+      "arrival": 63012,
+      "departure": 63012
+    },
+    {
+      "stop": {
+        "id": "2_5022",
+        "lat": 48.105541,
+        "lon": -1.677023,
+        "name": "Charles de Gaulle",
+        "code": 5022
+      },
+      "arrival": 63055,
+      "departure": 63055
+    },
+    {
+      "stop": {
+        "id": "2_5021",
+        "lat": 48.109712,
+        "lon": -1.679138,
+        "name": "République",
+        "code": 5021
+      },
+      "arrival": 63120,
+      "departure": 63120
+    },
+    {
+      "stop": {
+        "id": "2_5020",
+        "lat": 48.114501,
+        "lon": -1.680398,
+        "name": "Sainte-Anne",
+        "code": 5020
+      },
+      "arrival": 63184,
+      "departure": 63184
+    },
+    {
+      "stop": {
+        "id": "2_5019",
+        "lat": 48.118119,
+        "lon": -1.687454,
+        "name": "Anatole France",
+        "code": 5019
+      },
+      "arrival": 63259,
+      "departure": 63259
+    },
+    {
+      "stop": {
+        "id": "2_5018",
+        "lat": 48.121578,
+        "lon": -1.693461,
+        "name": "Pontchaillou",
+        "code": 5018
+      },
+      "arrival": 63330,
+      "departure": 63330
+    },
+    {
+      "stop": {
+        "id": "2_5017",
+        "lat": 48.121283,
+        "lon": -1.703879,
+        "name": "Villejean-Université",
+        "code": 5017
+      },
+      "arrival": 63420,
+      "departure": 63420
+    },
+    {
+      "stop": {
+        "id": "2_5001",
+        "lat": 48.121295,
+        "lon": -1.710943,
+        "name": "J.F. Kennedy",
+        "code": 5001
+      },
+      "arrival": 63480,
+      "departure": 63480
     }
   ],
   "route": {
-    "id": "2_0011",
-    "textColor": "FFFFFF",
-    "color": "DD84B1",
-    "description": "Urbaine",
-    "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
-    "shortName": "11",
-    "type": 3,
+    "id": "2_1001",
+    "textColor": "EE1D23",
+    "color": "FFFFFF",
+    "description": "Métro",
+    "longName": "La Poterie \u003c\u003e J.F. Kennedy",
+    "shortName": "a",
+    "type": 1,
     "agencyId": "2"
   }
 }

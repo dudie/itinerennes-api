@@ -1,0 +1,526 @@
+{
+  "date": "2015-02-26 00:00",
+  "stop": {
+    "id": "2_3801",
+    "lat": 47.99009528,
+    "lon": -1.6138293,
+    "name": "Centre de Loisirs",
+    "code": 3801
+  },
+  "routes": [
+    {
+      "id": "2_0074",
+      "textColor": "1A171B",
+      "color": "FCC000",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Orgères / Bourgbarré",
+      "shortName": "74",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0161",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon / Bourgbarré",
+      "shortName": "161",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0213",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Moc Souris) \u003c\u003e Rennes (Lycée Bréquigny)",
+      "shortName": "213",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0233",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Bourgbarré (Centre de Loisirs) \u003c\u003e Orgères (Collège Andrée Récipon)",
+      "shortName": "233",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-02-26 06:35",
+      "departure": "2015-02-26 06:35",
+      "serviceId": "2_10",
+      "tripId": "2_29150",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 07:05",
+      "departure": "2015-02-26 07:05",
+      "serviceId": "2_10",
+      "tripId": "2_29145",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 07:20",
+      "departure": "2015-02-26 07:20",
+      "serviceId": "2_10",
+      "tripId": "2_29210",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 07:30",
+      "departure": "2015-02-26 07:30",
+      "serviceId": "2_10",
+      "tripId": "2_29100",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Bréquigny via H. Fréville"
+    },
+    {
+      "arrival": "2015-02-26 07:39",
+      "departure": "2015-02-26 07:39",
+      "serviceId": "2_10",
+      "tripId": "2_29220",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 07:45",
+      "departure": "2015-02-26 07:45",
+      "serviceId": "2_10",
+      "tripId": "2_29205",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 07:52",
+      "departure": "2015-02-26 07:52",
+      "serviceId": "2_14",
+      "tripId": "2_12935",
+      "routeId": "2_0233",
+      "headsign": "233 | Orgères Collège Andrée Récipon"
+    },
+    {
+      "arrival": "2015-02-26 08:01",
+      "departure": "2015-02-26 08:01",
+      "serviceId": "2_10",
+      "tripId": "2_29105",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 08:10",
+      "departure": "2015-02-26 08:10",
+      "serviceId": "2_10",
+      "tripId": "2_29115",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 08:30",
+      "departure": "2015-02-26 08:30",
+      "serviceId": "2_10",
+      "tripId": "2_29215",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 08:44",
+      "departure": "2015-02-26 08:44",
+      "serviceId": "2_10",
+      "tripId": "2_29400",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 08:50",
+      "departure": "2015-02-26 08:50",
+      "serviceId": "2_10",
+      "tripId": "2_29200",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 09:29",
+      "departure": "2015-02-26 09:29",
+      "serviceId": "2_10",
+      "tripId": "2_29165",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 09:35",
+      "departure": "2015-02-26 09:35",
+      "serviceId": "2_10",
+      "tripId": "2_29155",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 10:44",
+      "departure": "2015-02-26 10:44",
+      "serviceId": "2_10",
+      "tripId": "2_29225",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 10:50",
+      "departure": "2015-02-26 10:50",
+      "serviceId": "2_10",
+      "tripId": "2_29270",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 11:55",
+      "departure": "2015-02-26 11:55",
+      "serviceId": "2_10",
+      "tripId": "2_29230",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 12:00",
+      "departure": "2015-02-26 12:00",
+      "serviceId": "2_10",
+      "tripId": "2_29275",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 12:55",
+      "departure": "2015-02-26 12:55",
+      "serviceId": "2_10",
+      "tripId": "2_29235",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 13:00",
+      "departure": "2015-02-26 13:00",
+      "serviceId": "2_10",
+      "tripId": "2_29280",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 13:30",
+      "departure": "2015-02-26 13:30",
+      "serviceId": "2_10",
+      "tripId": "2_29240",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 13:35",
+      "departure": "2015-02-26 13:35",
+      "serviceId": "2_10",
+      "tripId": "2_29285",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 14:05",
+      "departure": "2015-02-26 14:05",
+      "serviceId": "2_10",
+      "tripId": "2_29245",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 14:10",
+      "departure": "2015-02-26 14:10",
+      "serviceId": "2_10",
+      "tripId": "2_29290",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 14:40",
+      "departure": "2015-02-26 14:40",
+      "serviceId": "2_10",
+      "tripId": "2_29250",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 14:45",
+      "departure": "2015-02-26 14:45",
+      "serviceId": "2_10",
+      "tripId": "2_29295",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 15:15",
+      "departure": "2015-02-26 15:15",
+      "serviceId": "2_10",
+      "tripId": "2_29255",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 15:20",
+      "departure": "2015-02-26 15:20",
+      "serviceId": "2_10",
+      "tripId": "2_29300",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 15:50",
+      "departure": "2015-02-26 15:50",
+      "serviceId": "2_10",
+      "tripId": "2_29260",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 15:55",
+      "departure": "2015-02-26 15:55",
+      "serviceId": "2_10",
+      "tripId": "2_29305",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 16:15",
+      "departure": "2015-02-26 16:15",
+      "serviceId": "2_10",
+      "tripId": "2_29265",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 16:30",
+      "departure": "2015-02-26 16:30",
+      "serviceId": "2_10",
+      "tripId": "2_29310",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 16:42",
+      "departure": "2015-02-26 16:42",
+      "serviceId": "2_10",
+      "tripId": "2_29125",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 16:48",
+      "departure": "2015-02-26 16:48",
+      "serviceId": "2_10",
+      "tripId": "2_29110",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 17:02",
+      "departure": "2015-02-26 17:02",
+      "serviceId": "2_10",
+      "tripId": "2_29140",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 17:08",
+      "departure": "2015-02-26 17:08",
+      "serviceId": "2_10",
+      "tripId": "2_29090",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 17:21",
+      "departure": "2015-02-26 17:21",
+      "serviceId": "2_10",
+      "tripId": "2_29360",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 17:25",
+      "departure": "2015-02-26 17:25",
+      "serviceId": "2_15",
+      "tripId": "2_12940",
+      "routeId": "2_0233",
+      "headsign": "233 | Bourgbarré Centre de Loisirs"
+    },
+    {
+      "arrival": "2015-02-26 17:25",
+      "departure": "2015-02-26 17:25",
+      "serviceId": "2_10",
+      "tripId": "2_29335",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 17:36",
+      "departure": "2015-02-26 17:36",
+      "serviceId": "2_10",
+      "tripId": "2_29340",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 17:42",
+      "departure": "2015-02-26 17:42",
+      "serviceId": "2_15",
+      "tripId": "2_12724",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 17:49",
+      "departure": "2015-02-26 17:49",
+      "serviceId": "2_10",
+      "tripId": "2_29130",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 17:50",
+      "departure": "2015-02-26 17:50",
+      "serviceId": "2_10",
+      "tripId": "2_29345",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 17:53",
+      "departure": "2015-02-26 17:53",
+      "serviceId": "2_10",
+      "tripId": "2_29120",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 18:10",
+      "departure": "2015-02-26 18:10",
+      "serviceId": "2_10",
+      "tripId": "2_29080",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 18:13",
+      "departure": "2015-02-26 18:13",
+      "serviceId": "2_10",
+      "tripId": "2_29095",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 18:16",
+      "departure": "2015-02-26 18:16",
+      "serviceId": "2_10",
+      "tripId": "2_29365",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 18:20",
+      "departure": "2015-02-26 18:20",
+      "serviceId": "2_10",
+      "tripId": "2_29390",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 18:36",
+      "departure": "2015-02-26 18:36",
+      "serviceId": "2_10",
+      "tripId": "2_29350",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 18:40",
+      "departure": "2015-02-26 18:40",
+      "serviceId": "2_10",
+      "tripId": "2_29355",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 18:42",
+      "departure": "2015-02-26 18:42",
+      "serviceId": "2_15",
+      "tripId": "2_12727",
+      "routeId": "2_0213",
+      "headsign": "213 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 18:53",
+      "departure": "2015-02-26 18:53",
+      "serviceId": "2_10",
+      "tripId": "2_29135",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 19:11",
+      "departure": "2015-02-26 19:11",
+      "serviceId": "2_10",
+      "tripId": "2_29085",
+      "routeId": "2_0161",
+      "headsign": "161 | Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 19:15",
+      "departure": "2015-02-26 19:15",
+      "serviceId": "2_10",
+      "tripId": "2_29370",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 19:25",
+      "departure": "2015-02-26 19:25",
+      "serviceId": "2_10",
+      "tripId": "2_29395",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 19:45",
+      "departure": "2015-02-26 19:45",
+      "serviceId": "2_10",
+      "tripId": "2_29380",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 19:55",
+      "departure": "2015-02-26 19:55",
+      "serviceId": "2_10",
+      "tripId": "2_29315",
+      "routeId": "2_0074",
+      "headsign": "74 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-02-26 20:14",
+      "departure": "2015-02-26 20:14",
+      "serviceId": "2_10",
+      "tripId": "2_29375",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    },
+    {
+      "arrival": "2015-02-26 20:59",
+      "departure": "2015-02-26 20:59",
+      "serviceId": "2_10",
+      "tripId": "2_29385",
+      "routeId": "2_0074",
+      "headsign": "74 | Orgères Bourgbarré"
+    }
+  ]
+}

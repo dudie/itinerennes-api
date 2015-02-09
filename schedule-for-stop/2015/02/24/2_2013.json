@@ -1,0 +1,992 @@
+{
+  "date": "2015-02-24 00:00",
+  "stop": {
+    "id": "2_2013",
+    "lat": 48.11643917,
+    "lon": -1.60735329,
+    "name": "Vilaine",
+    "code": 2013
+  },
+  "routes": [
+    {
+      "id": "2_0006",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Rigourdière) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0031",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Villejean-Churchill \u003c\u003e Cesson-Sévigné (Base de Loisirs)",
+      "shortName": "31",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0034",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Chantepie (Rosa Parks) \u003c\u003e ZAC Saint-Sulpice",
+      "shortName": "34",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0206",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Métairies Chalotais) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "206",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0217",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Cormiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "217",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-02-24 05:27",
+      "departure": "2015-02-24 05:27",
+      "serviceId": "2_24",
+      "tripId": "2_10220",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 06:07",
+      "departure": "2015-02-24 06:07",
+      "serviceId": "2_24",
+      "tripId": "2_10330",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 06:34",
+      "departure": "2015-02-24 06:34",
+      "serviceId": "2_24",
+      "tripId": "2_10340",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 06:49",
+      "departure": "2015-02-24 06:49",
+      "serviceId": "2_24",
+      "tripId": "2_10360",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:01",
+      "departure": "2015-02-24 07:01",
+      "serviceId": "2_24",
+      "tripId": "2_9637",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 07:04",
+      "departure": "2015-02-24 07:04",
+      "serviceId": "2_24",
+      "tripId": "2_10255",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:18",
+      "departure": "2015-02-24 07:18",
+      "serviceId": "2_24",
+      "tripId": "2_10465",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:23",
+      "departure": "2015-02-24 07:23",
+      "serviceId": "2_24",
+      "tripId": "2_1124",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 07:26",
+      "departure": "2015-02-24 07:26",
+      "serviceId": "2_24",
+      "tripId": "2_9632",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 07:29",
+      "departure": "2015-02-24 07:29",
+      "serviceId": "2_24",
+      "tripId": "2_10235",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:37",
+      "departure": "2015-02-24 07:37",
+      "serviceId": "2_26",
+      "tripId": "2_20600",
+      "routeId": "2_0206",
+      "headsign": "206 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-02-24 07:40",
+      "departure": "2015-02-24 07:40",
+      "serviceId": "2_24",
+      "tripId": "2_10265",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:41",
+      "departure": "2015-02-24 07:41",
+      "serviceId": "2_24",
+      "tripId": "2_9627",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 07:50",
+      "departure": "2015-02-24 07:50",
+      "serviceId": "2_24",
+      "tripId": "2_10245",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 07:53",
+      "departure": "2015-02-24 07:53",
+      "serviceId": "2_24",
+      "tripId": "2_1129",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 08:00",
+      "departure": "2015-02-24 08:00",
+      "serviceId": "2_24",
+      "tripId": "2_10270",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 08:04",
+      "departure": "2015-02-24 08:04",
+      "serviceId": "2_24",
+      "tripId": "2_9642",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 08:10",
+      "departure": "2015-02-24 08:10",
+      "serviceId": "2_24",
+      "tripId": "2_10260",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 08:19",
+      "departure": "2015-02-24 08:19",
+      "serviceId": "2_24",
+      "tripId": "2_1134",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 08:20",
+      "departure": "2015-02-24 08:20",
+      "serviceId": "2_24",
+      "tripId": "2_10250",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 08:22",
+      "departure": "2015-02-24 08:22",
+      "serviceId": "2_24",
+      "tripId": "2_9647",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 08:30",
+      "departure": "2015-02-24 08:30",
+      "serviceId": "2_24",
+      "tripId": "2_10505",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 08:32",
+      "departure": "2015-02-24 08:32",
+      "serviceId": "2_26",
+      "tripId": "2_16614",
+      "routeId": "2_0217",
+      "headsign": "217 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-02-24 08:40",
+      "departure": "2015-02-24 08:40",
+      "serviceId": "2_24",
+      "tripId": "2_10280",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 08:42",
+      "departure": "2015-02-24 08:42",
+      "serviceId": "2_24",
+      "tripId": "2_9652",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 08:49",
+      "departure": "2015-02-24 08:49",
+      "serviceId": "2_24",
+      "tripId": "2_9587",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 08:50",
+      "departure": "2015-02-24 08:50",
+      "serviceId": "2_24",
+      "tripId": "2_10935",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 09:00",
+      "departure": "2015-02-24 09:00",
+      "serviceId": "2_24",
+      "tripId": "2_10320",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 09:06",
+      "departure": "2015-02-24 09:06",
+      "serviceId": "2_24",
+      "tripId": "2_9657",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 09:11",
+      "departure": "2015-02-24 09:11",
+      "serviceId": "2_24",
+      "tripId": "2_10300",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 09:26",
+      "departure": "2015-02-24 09:26",
+      "serviceId": "2_24",
+      "tripId": "2_10455",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 09:36",
+      "departure": "2015-02-24 09:36",
+      "serviceId": "2_24",
+      "tripId": "2_9662",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 09:41",
+      "departure": "2015-02-24 09:41",
+      "serviceId": "2_24",
+      "tripId": "2_10405",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 09:56",
+      "departure": "2015-02-24 09:56",
+      "serviceId": "2_24",
+      "tripId": "2_10275",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 10:06",
+      "departure": "2015-02-24 10:06",
+      "serviceId": "2_24",
+      "tripId": "2_9667",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 10:11",
+      "departure": "2015-02-24 10:11",
+      "serviceId": "2_24",
+      "tripId": "2_10285",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 10:26",
+      "departure": "2015-02-24 10:26",
+      "serviceId": "2_24",
+      "tripId": "2_10485",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 10:36",
+      "departure": "2015-02-24 10:36",
+      "serviceId": "2_24",
+      "tripId": "2_9742",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 10:41",
+      "departure": "2015-02-24 10:41",
+      "serviceId": "2_24",
+      "tripId": "2_10550",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 10:56",
+      "departure": "2015-02-24 10:56",
+      "serviceId": "2_24",
+      "tripId": "2_10555",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 11:06",
+      "departure": "2015-02-24 11:06",
+      "serviceId": "2_24",
+      "tripId": "2_9737",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 11:11",
+      "departure": "2015-02-24 11:11",
+      "serviceId": "2_24",
+      "tripId": "2_10560",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 11:26",
+      "departure": "2015-02-24 11:26",
+      "serviceId": "2_24",
+      "tripId": "2_10565",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 11:36",
+      "departure": "2015-02-24 11:36",
+      "serviceId": "2_24",
+      "tripId": "2_9732",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 11:41",
+      "departure": "2015-02-24 11:41",
+      "serviceId": "2_24",
+      "tripId": "2_10570",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 11:56",
+      "departure": "2015-02-24 11:56",
+      "serviceId": "2_24",
+      "tripId": "2_10575",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 12:06",
+      "departure": "2015-02-24 12:06",
+      "serviceId": "2_24",
+      "tripId": "2_9727",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 12:11",
+      "departure": "2015-02-24 12:11",
+      "serviceId": "2_24",
+      "tripId": "2_10580",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 12:26",
+      "departure": "2015-02-24 12:26",
+      "serviceId": "2_24",
+      "tripId": "2_10585",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 12:36",
+      "departure": "2015-02-24 12:36",
+      "serviceId": "2_24",
+      "tripId": "2_9722",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 12:41",
+      "departure": "2015-02-24 12:41",
+      "serviceId": "2_24",
+      "tripId": "2_10590",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 12:57",
+      "departure": "2015-02-24 12:57",
+      "serviceId": "2_24",
+      "tripId": "2_10595",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 13:06",
+      "departure": "2015-02-24 13:06",
+      "serviceId": "2_24",
+      "tripId": "2_9717",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 13:12",
+      "departure": "2015-02-24 13:12",
+      "serviceId": "2_24",
+      "tripId": "2_10600",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 13:27",
+      "departure": "2015-02-24 13:27",
+      "serviceId": "2_24",
+      "tripId": "2_10605",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 13:36",
+      "departure": "2015-02-24 13:36",
+      "serviceId": "2_24",
+      "tripId": "2_9712",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 13:42",
+      "departure": "2015-02-24 13:42",
+      "serviceId": "2_24",
+      "tripId": "2_10610",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 13:57",
+      "departure": "2015-02-24 13:57",
+      "serviceId": "2_24",
+      "tripId": "2_10615",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 14:06",
+      "departure": "2015-02-24 14:06",
+      "serviceId": "2_24",
+      "tripId": "2_9707",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 14:11",
+      "departure": "2015-02-24 14:11",
+      "serviceId": "2_24",
+      "tripId": "2_10620",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 14:26",
+      "departure": "2015-02-24 14:26",
+      "serviceId": "2_24",
+      "tripId": "2_10625",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 14:36",
+      "departure": "2015-02-24 14:36",
+      "serviceId": "2_24",
+      "tripId": "2_9702",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 14:41",
+      "departure": "2015-02-24 14:41",
+      "serviceId": "2_24",
+      "tripId": "2_10630",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 14:56",
+      "departure": "2015-02-24 14:56",
+      "serviceId": "2_24",
+      "tripId": "2_10635",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 15:06",
+      "departure": "2015-02-24 15:06",
+      "serviceId": "2_24",
+      "tripId": "2_9917",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 15:11",
+      "departure": "2015-02-24 15:11",
+      "serviceId": "2_24",
+      "tripId": "2_10640",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 15:26",
+      "departure": "2015-02-24 15:26",
+      "serviceId": "2_24",
+      "tripId": "2_10645",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 15:36",
+      "departure": "2015-02-24 15:36",
+      "serviceId": "2_24",
+      "tripId": "2_9697",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 15:41",
+      "departure": "2015-02-24 15:41",
+      "serviceId": "2_24",
+      "tripId": "2_10650",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 15:56",
+      "departure": "2015-02-24 15:56",
+      "serviceId": "2_24",
+      "tripId": "2_10785",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 15:56",
+      "departure": "2015-02-24 15:56",
+      "serviceId": "2_24",
+      "tripId": "2_9692",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 16:11",
+      "departure": "2015-02-24 16:11",
+      "serviceId": "2_24",
+      "tripId": "2_10790",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 16:13",
+      "departure": "2015-02-24 16:13",
+      "serviceId": "2_24",
+      "tripId": "2_1139",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 16:17",
+      "departure": "2015-02-24 16:17",
+      "serviceId": "2_24",
+      "tripId": "2_9852",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 16:21",
+      "departure": "2015-02-24 16:21",
+      "serviceId": "2_24",
+      "tripId": "2_10795",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 16:31",
+      "departure": "2015-02-24 16:31",
+      "serviceId": "2_24",
+      "tripId": "2_10800",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 16:37",
+      "departure": "2015-02-24 16:37",
+      "serviceId": "2_24",
+      "tripId": "2_9857",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 16:41",
+      "departure": "2015-02-24 16:41",
+      "serviceId": "2_24",
+      "tripId": "2_10805",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 16:51",
+      "departure": "2015-02-24 16:51",
+      "serviceId": "2_24",
+      "tripId": "2_10810",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 16:57",
+      "departure": "2015-02-24 16:57",
+      "serviceId": "2_24",
+      "tripId": "2_9862",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 17:01",
+      "departure": "2015-02-24 17:01",
+      "serviceId": "2_24",
+      "tripId": "2_10815",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:03",
+      "departure": "2015-02-24 17:03",
+      "serviceId": "2_24",
+      "tripId": "2_1144",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 17:11",
+      "departure": "2015-02-24 17:11",
+      "serviceId": "2_24",
+      "tripId": "2_10820",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:17",
+      "departure": "2015-02-24 17:17",
+      "serviceId": "2_24",
+      "tripId": "2_9867",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 17:20",
+      "departure": "2015-02-24 17:20",
+      "serviceId": "2_24",
+      "tripId": "2_10825",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:30",
+      "departure": "2015-02-24 17:30",
+      "serviceId": "2_24",
+      "tripId": "2_10830",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:35",
+      "departure": "2015-02-24 17:35",
+      "serviceId": "2_24",
+      "tripId": "2_1149",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 17:37",
+      "departure": "2015-02-24 17:37",
+      "serviceId": "2_24",
+      "tripId": "2_9872",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 17:40",
+      "departure": "2015-02-24 17:40",
+      "serviceId": "2_24",
+      "tripId": "2_10835",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:51",
+      "departure": "2015-02-24 17:51",
+      "serviceId": "2_24",
+      "tripId": "2_10840",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 17:57",
+      "departure": "2015-02-24 17:57",
+      "serviceId": "2_24",
+      "tripId": "2_9877",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 18:01",
+      "departure": "2015-02-24 18:01",
+      "serviceId": "2_24",
+      "tripId": "2_10845",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 18:06",
+      "departure": "2015-02-24 18:06",
+      "serviceId": "2_24",
+      "tripId": "2_1189",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 18:11",
+      "departure": "2015-02-24 18:11",
+      "serviceId": "2_24",
+      "tripId": "2_10850",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 18:17",
+      "departure": "2015-02-24 18:17",
+      "serviceId": "2_24",
+      "tripId": "2_9882",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 18:22",
+      "departure": "2015-02-24 18:22",
+      "serviceId": "2_24",
+      "tripId": "2_10515",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 18:33",
+      "departure": "2015-02-24 18:33",
+      "serviceId": "2_24",
+      "tripId": "2_10530",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 18:35",
+      "departure": "2015-02-24 18:35",
+      "serviceId": "2_24",
+      "tripId": "2_1154",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 18:37",
+      "departure": "2015-02-24 18:37",
+      "serviceId": "2_24",
+      "tripId": "2_9887",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 18:43",
+      "departure": "2015-02-24 18:43",
+      "serviceId": "2_24",
+      "tripId": "2_10525",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 18:53",
+      "departure": "2015-02-24 18:53",
+      "serviceId": "2_24",
+      "tripId": "2_10540",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 19:03",
+      "departure": "2015-02-24 19:03",
+      "serviceId": "2_24",
+      "tripId": "2_10855",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 19:03",
+      "departure": "2015-02-24 19:03",
+      "serviceId": "2_24",
+      "tripId": "2_1159",
+      "routeId": "2_0034",
+      "headsign": "34 | Chantepie Rosa Parks"
+    },
+    {
+      "arrival": "2015-02-24 19:07",
+      "departure": "2015-02-24 19:07",
+      "serviceId": "2_24",
+      "tripId": "2_9892",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 19:18",
+      "departure": "2015-02-24 19:18",
+      "serviceId": "2_24",
+      "tripId": "2_10860",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 19:31",
+      "departure": "2015-02-24 19:31",
+      "serviceId": "2_24",
+      "tripId": "2_10480",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 19:37",
+      "departure": "2015-02-24 19:37",
+      "serviceId": "2_24",
+      "tripId": "2_9897",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 19:47",
+      "departure": "2015-02-24 19:47",
+      "serviceId": "2_24",
+      "tripId": "2_10305",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 20:07",
+      "departure": "2015-02-24 20:07",
+      "serviceId": "2_24",
+      "tripId": "2_9902",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 20:08",
+      "departure": "2015-02-24 20:08",
+      "serviceId": "2_24",
+      "tripId": "2_10450",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 20:33",
+      "departure": "2015-02-24 20:33",
+      "serviceId": "2_24",
+      "tripId": "2_10420",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 20:37",
+      "departure": "2015-02-24 20:37",
+      "serviceId": "2_24",
+      "tripId": "2_9922",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-02-24 21:25",
+      "departure": "2015-02-24 21:25",
+      "serviceId": "2_24",
+      "tripId": "2_10355",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 22:19",
+      "departure": "2015-02-24 22:19",
+      "serviceId": "2_24",
+      "tripId": "2_10415",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-24 23:09",
+      "departure": "2015-02-24 23:09",
+      "serviceId": "2_24",
+      "tripId": "2_10495",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-02-25 00:09",
+      "departure": "2015-02-25 00:09",
+      "serviceId": "2_24",
+      "tripId": "2_10335",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    }
+  ]
+}
