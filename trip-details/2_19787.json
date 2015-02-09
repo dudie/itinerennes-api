@@ -1,16 +1,38 @@
 {
-  "headsign": "41 | Pâtis Tatelin",
+  "headsign": "C4 | ZA Saint-Sulpice",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1477",
-        "lat": 48.10388016,
-        "lon": -1.67284842,
-        "name": "Gares",
-        "code": 1477
+        "id": "2_1168",
+        "lat": 48.10980866,
+        "lon": -1.67882417,
+        "name": "République",
+        "code": 1168
       },
-      "arrival": 31500,
-      "departure": 31500
+      "arrival": 82200,
+      "departure": 82200
+    },
+    {
+      "stop": {
+        "id": "2_1169",
+        "lat": 48.10985335,
+        "lon": -1.67452094,
+        "name": "Musée Beaux Arts",
+        "code": 1169
+      },
+      "arrival": 82260,
+      "departure": 82260
+    },
+    {
+      "stop": {
+        "id": "2_1170",
+        "lat": 48.11003344,
+        "lon": -1.66907214,
+        "name": "Paul Bert",
+        "code": 1170
+      },
+      "arrival": 82380,
+      "departure": 82380
     },
     {
       "stop": {
@@ -20,8 +42,30 @@
         "name": "Pont de Châteaudun",
         "code": 1171
       },
-      "arrival": 31800,
-      "departure": 31800
+      "arrival": 82440,
+      "departure": 82440
+    },
+    {
+      "stop": {
+        "id": "2_1172",
+        "lat": 48.11007924,
+        "lon": -1.65919453,
+        "name": "Robidou",
+        "code": 1172
+      },
+      "arrival": 82500,
+      "departure": 82500
+    },
+    {
+      "stop": {
+        "id": "2_1173",
+        "lat": 48.11008942,
+        "lon": -1.65614253,
+        "name": "Pont de Strasbourg",
+        "code": 1173
+      },
+      "arrival": 82500,
+      "departure": 82500
     },
     {
       "stop": {
@@ -31,8 +75,19 @@
         "name": "Plaine de Baud",
         "code": 1174
       },
-      "arrival": 32040,
-      "departure": 32040
+      "arrival": 82620,
+      "departure": 82620
+    },
+    {
+      "stop": {
+        "id": "2_1604",
+        "lat": 48.11354849,
+        "lon": -1.64100035,
+        "name": "Les Préales",
+        "code": 1604
+      },
+      "arrival": 82680,
+      "departure": 82680
     },
     {
       "stop": {
@@ -42,8 +97,8 @@
         "name": "Tournebride",
         "code": 1610
       },
-      "arrival": 32100,
-      "departure": 32100
+      "arrival": 82740,
+      "departure": 82740
     },
     {
       "stop": {
@@ -53,8 +108,8 @@
         "name": "Beaulieu Chimie",
         "code": 1175
       },
-      "arrival": 32220,
-      "departure": 32220
+      "arrival": 82800,
+      "departure": 82800
     },
     {
       "stop": {
@@ -64,8 +119,8 @@
         "name": "Beaulieu INSA",
         "code": 1204
       },
-      "arrival": 32220,
-      "departure": 32220
+      "arrival": 82860,
+      "departure": 82860
     },
     {
       "stop": {
@@ -75,8 +130,8 @@
         "name": "Beaulieu Restau U",
         "code": 1313
       },
-      "arrival": 32340,
-      "departure": 32340
+      "arrival": 82920,
+      "departure": 82920
     },
     {
       "stop": {
@@ -86,8 +141,8 @@
         "name": "IUT",
         "code": 1314
       },
-      "arrival": 32400,
-      "departure": 32400
+      "arrival": 82980,
+      "departure": 82980
     },
     {
       "stop": {
@@ -97,8 +152,8 @@
         "name": "Clos Courtel",
         "code": 1475
       },
-      "arrival": 32460,
-      "departure": 32460
+      "arrival": 83040,
+      "departure": 83040
     },
     {
       "stop": {
@@ -108,39 +163,28 @@
         "name": "Longs Champs Est",
         "code": 2121
       },
-      "arrival": 32580,
-      "departure": 32580
+      "arrival": 83100,
+      "departure": 83100
     },
     {
       "stop": {
-        "id": "2_1484",
-        "lat": 48.13185966,
-        "lon": -1.63589821,
+        "id": "2_1630",
+        "lat": 48.13266219,
+        "lon": -1.63618724,
         "name": "ZA Saint-Sulpice",
-        "code": 1484
+        "code": 1630
       },
-      "arrival": 32700,
-      "departure": 32700
-    },
-    {
-      "stop": {
-        "id": "2_1483",
-        "lat": 48.12955581,
-        "lon": -1.64358619,
-        "name": "Pâtis Tatelin",
-        "code": 1483
-      },
-      "arrival": 32820,
-      "departure": 32820
+      "arrival": 83220,
+      "departure": 83220
     }
   ],
   "route": {
-    "id": "2_0041",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express urbaine",
-    "longName": "Gares \u003c\u003e Pâtis Tatelin",
-    "shortName": "41",
+    "id": "2_0004",
+    "textColor": "FFFFFF",
+    "color": "6D1F80",
+    "description": "Chronostar",
+    "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+    "shortName": "C4",
     "type": 3,
     "agencyId": "2"
   }

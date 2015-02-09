@@ -1,0 +1,844 @@
+{
+  "date": "2015-03-01 00:00",
+  "stop": {
+    "id": "2_1018",
+    "lat": 48.10618372,
+    "lon": -1.68095249,
+    "name": "Plélo Colombier",
+    "code": 1018
+  },
+  "routes": [
+    {
+      "id": "2_0005",
+      "textColor": "FFFFFF",
+      "color": "EE7F01",
+      "description": "Majeure",
+      "longName": "Patton \u003c\u003e Lycée Bréquigny",
+      "shortName": "5",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0009",
+      "textColor": "FFFFFF",
+      "color": "00519E",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Cleunay",
+      "shortName": "9",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A9701E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-01 00:37",
+      "departure": "2015-03-01 00:37",
+      "serviceId": "2_8",
+      "tripId": "2_13208",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 08:37",
+      "departure": "2015-03-01 08:37",
+      "serviceId": "2_9",
+      "tripId": "2_7965",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 08:42",
+      "departure": "2015-03-01 08:42",
+      "serviceId": "2_9",
+      "tripId": "2_8041",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 09:12",
+      "departure": "2015-03-01 09:12",
+      "serviceId": "2_9",
+      "tripId": "2_7973",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 09:20",
+      "departure": "2015-03-01 09:20",
+      "serviceId": "2_9",
+      "tripId": "2_8048",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 09:47",
+      "departure": "2015-03-01 09:47",
+      "serviceId": "2_9",
+      "tripId": "2_7966",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 09:57",
+      "departure": "2015-03-01 09:57",
+      "serviceId": "2_9",
+      "tripId": "2_8040",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 10:22",
+      "departure": "2015-03-01 10:22",
+      "serviceId": "2_9",
+      "tripId": "2_7938",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 10:36",
+      "departure": "2015-03-01 10:36",
+      "serviceId": "2_9",
+      "tripId": "2_8050",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 10:47",
+      "departure": "2015-03-01 10:47",
+      "serviceId": "2_8",
+      "tripId": "2_9423",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 10:57",
+      "departure": "2015-03-01 10:57",
+      "serviceId": "2_9",
+      "tripId": "2_7967",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 11:13",
+      "departure": "2015-03-01 11:13",
+      "serviceId": "2_9",
+      "tripId": "2_8039",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 11:32",
+      "departure": "2015-03-01 11:32",
+      "serviceId": "2_9",
+      "tripId": "2_7939",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 11:47",
+      "departure": "2015-03-01 11:47",
+      "serviceId": "2_8",
+      "tripId": "2_9420",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 11:54",
+      "departure": "2015-03-01 11:54",
+      "serviceId": "2_9",
+      "tripId": "2_8052",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 12:07",
+      "departure": "2015-03-01 12:07",
+      "serviceId": "2_9",
+      "tripId": "2_7968",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 12:31",
+      "departure": "2015-03-01 12:31",
+      "serviceId": "2_9",
+      "tripId": "2_8049",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 12:42",
+      "departure": "2015-03-01 12:42",
+      "serviceId": "2_9",
+      "tripId": "2_7940",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 12:47",
+      "departure": "2015-03-01 12:47",
+      "serviceId": "2_8",
+      "tripId": "2_9388",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 13:11",
+      "departure": "2015-03-01 13:11",
+      "serviceId": "2_9",
+      "tripId": "2_8051",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 13:17",
+      "departure": "2015-03-01 13:17",
+      "serviceId": "2_9",
+      "tripId": "2_7969",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 13:33",
+      "departure": "2015-03-01 13:33",
+      "serviceId": "2_9",
+      "tripId": "2_8018",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 13:47",
+      "departure": "2015-03-01 13:47",
+      "serviceId": "2_8",
+      "tripId": "2_9389",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 13:47",
+      "departure": "2015-03-01 13:47",
+      "serviceId": "2_9",
+      "tripId": "2_8053",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 13:52",
+      "departure": "2015-03-01 13:52",
+      "serviceId": "2_9",
+      "tripId": "2_7941",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 14:02",
+      "departure": "2015-03-01 14:02",
+      "serviceId": "2_9",
+      "tripId": "2_8065",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 14:07",
+      "departure": "2015-03-01 14:07",
+      "serviceId": "2_9",
+      "tripId": "2_7975",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 14:17",
+      "departure": "2015-03-01 14:17",
+      "serviceId": "2_9",
+      "tripId": "2_8066",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 14:27",
+      "departure": "2015-03-01 14:27",
+      "serviceId": "2_9",
+      "tripId": "2_7970",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 14:27",
+      "departure": "2015-03-01 14:27",
+      "serviceId": "2_9",
+      "tripId": "2_8067",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 14:42",
+      "departure": "2015-03-01 14:42",
+      "serviceId": "2_9",
+      "tripId": "2_8068",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 14:47",
+      "departure": "2015-03-01 14:47",
+      "serviceId": "2_8",
+      "tripId": "2_9390",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 14:47",
+      "departure": "2015-03-01 14:47",
+      "serviceId": "2_9",
+      "tripId": "2_7990",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 14:57",
+      "departure": "2015-03-01 14:57",
+      "serviceId": "2_9",
+      "tripId": "2_8069",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 15:07",
+      "departure": "2015-03-01 15:07",
+      "serviceId": "2_9",
+      "tripId": "2_7942",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 15:12",
+      "departure": "2015-03-01 15:12",
+      "serviceId": "2_9",
+      "tripId": "2_8070",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 15:27",
+      "departure": "2015-03-01 15:27",
+      "serviceId": "2_9",
+      "tripId": "2_7976",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 15:27",
+      "departure": "2015-03-01 15:27",
+      "serviceId": "2_9",
+      "tripId": "2_8071",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 15:42",
+      "departure": "2015-03-01 15:42",
+      "serviceId": "2_9",
+      "tripId": "2_8072",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 15:47",
+      "departure": "2015-03-01 15:47",
+      "serviceId": "2_8",
+      "tripId": "2_9391",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 15:47",
+      "departure": "2015-03-01 15:47",
+      "serviceId": "2_9",
+      "tripId": "2_7971",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 15:57",
+      "departure": "2015-03-01 15:57",
+      "serviceId": "2_9",
+      "tripId": "2_8073",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 16:07",
+      "departure": "2015-03-01 16:07",
+      "serviceId": "2_9",
+      "tripId": "2_7991",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 16:12",
+      "departure": "2015-03-01 16:12",
+      "serviceId": "2_9",
+      "tripId": "2_8074",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 16:27",
+      "departure": "2015-03-01 16:27",
+      "serviceId": "2_9",
+      "tripId": "2_7943",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 16:27",
+      "departure": "2015-03-01 16:27",
+      "serviceId": "2_9",
+      "tripId": "2_8075",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 16:42",
+      "departure": "2015-03-01 16:42",
+      "serviceId": "2_9",
+      "tripId": "2_8076",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 16:47",
+      "departure": "2015-03-01 16:47",
+      "serviceId": "2_8",
+      "tripId": "2_9392",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 16:47",
+      "departure": "2015-03-01 16:47",
+      "serviceId": "2_9",
+      "tripId": "2_7977",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 16:57",
+      "departure": "2015-03-01 16:57",
+      "serviceId": "2_9",
+      "tripId": "2_8077",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 17:07",
+      "departure": "2015-03-01 17:07",
+      "serviceId": "2_9",
+      "tripId": "2_7972",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 17:12",
+      "departure": "2015-03-01 17:12",
+      "serviceId": "2_9",
+      "tripId": "2_8078",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 17:27",
+      "departure": "2015-03-01 17:27",
+      "serviceId": "2_9",
+      "tripId": "2_7992",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 17:27",
+      "departure": "2015-03-01 17:27",
+      "serviceId": "2_9",
+      "tripId": "2_8079",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 17:42",
+      "departure": "2015-03-01 17:42",
+      "serviceId": "2_9",
+      "tripId": "2_8080",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 17:47",
+      "departure": "2015-03-01 17:47",
+      "serviceId": "2_9",
+      "tripId": "2_7944",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 17:47",
+      "departure": "2015-03-01 17:47",
+      "serviceId": "2_8",
+      "tripId": "2_9393",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 17:57",
+      "departure": "2015-03-01 17:57",
+      "serviceId": "2_9",
+      "tripId": "2_8081",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 18:07",
+      "departure": "2015-03-01 18:07",
+      "serviceId": "2_9",
+      "tripId": "2_7978",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 18:12",
+      "departure": "2015-03-01 18:12",
+      "serviceId": "2_9",
+      "tripId": "2_8082",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 18:27",
+      "departure": "2015-03-01 18:27",
+      "serviceId": "2_9",
+      "tripId": "2_7937",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 18:27",
+      "departure": "2015-03-01 18:27",
+      "serviceId": "2_9",
+      "tripId": "2_8083",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 18:42",
+      "departure": "2015-03-01 18:42",
+      "serviceId": "2_9",
+      "tripId": "2_8084",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 18:47",
+      "departure": "2015-03-01 18:47",
+      "serviceId": "2_8",
+      "tripId": "2_9394",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 18:47",
+      "departure": "2015-03-01 18:47",
+      "serviceId": "2_9",
+      "tripId": "2_7993",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 18:57",
+      "departure": "2015-03-01 18:57",
+      "serviceId": "2_9",
+      "tripId": "2_8085",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 19:07",
+      "departure": "2015-03-01 19:07",
+      "serviceId": "2_9",
+      "tripId": "2_7945",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 19:12",
+      "departure": "2015-03-01 19:12",
+      "serviceId": "2_9",
+      "tripId": "2_8086",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 19:27",
+      "departure": "2015-03-01 19:27",
+      "serviceId": "2_9",
+      "tripId": "2_7979",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 19:27",
+      "departure": "2015-03-01 19:27",
+      "serviceId": "2_9",
+      "tripId": "2_8058",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 19:47",
+      "departure": "2015-03-01 19:47",
+      "serviceId": "2_8",
+      "tripId": "2_9395",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 19:47",
+      "departure": "2015-03-01 19:47",
+      "serviceId": "2_9",
+      "tripId": "2_7974",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 19:47",
+      "departure": "2015-03-01 19:47",
+      "serviceId": "2_9",
+      "tripId": "2_8060",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 20:07",
+      "departure": "2015-03-01 20:07",
+      "serviceId": "2_9",
+      "tripId": "2_8055",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 20:12",
+      "departure": "2015-03-01 20:12",
+      "serviceId": "2_9",
+      "tripId": "2_7994",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 20:27",
+      "departure": "2015-03-01 20:27",
+      "serviceId": "2_9",
+      "tripId": "2_8032",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 20:37",
+      "departure": "2015-03-01 20:37",
+      "serviceId": "2_9",
+      "tripId": "2_7995",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 20:47",
+      "departure": "2015-03-01 20:47",
+      "serviceId": "2_8",
+      "tripId": "2_9396",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 20:52",
+      "departure": "2015-03-01 20:52",
+      "serviceId": "2_9",
+      "tripId": "2_8019",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 21:08",
+      "departure": "2015-03-01 21:08",
+      "serviceId": "2_9",
+      "tripId": "2_8006",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 21:17",
+      "departure": "2015-03-01 21:17",
+      "serviceId": "2_8",
+      "tripId": "2_9397",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 21:22",
+      "departure": "2015-03-01 21:22",
+      "serviceId": "2_9",
+      "tripId": "2_8029",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 21:33",
+      "departure": "2015-03-01 21:33",
+      "serviceId": "2_9",
+      "tripId": "2_7996",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 21:52",
+      "departure": "2015-03-01 21:52",
+      "serviceId": "2_9",
+      "tripId": "2_8033",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 21:58",
+      "departure": "2015-03-01 21:58",
+      "serviceId": "2_9",
+      "tripId": "2_8014",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 22:17",
+      "departure": "2015-03-01 22:17",
+      "serviceId": "2_8",
+      "tripId": "2_9469",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 22:17",
+      "departure": "2015-03-01 22:17",
+      "serviceId": "2_9",
+      "tripId": "2_8020",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 22:23",
+      "departure": "2015-03-01 22:23",
+      "serviceId": "2_9",
+      "tripId": "2_8007",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 22:42",
+      "departure": "2015-03-01 22:42",
+      "serviceId": "2_9",
+      "tripId": "2_8030",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 22:48",
+      "departure": "2015-03-01 22:48",
+      "serviceId": "2_9",
+      "tripId": "2_7997",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 23:02",
+      "departure": "2015-03-01 23:02",
+      "serviceId": "2_8",
+      "tripId": "2_9398",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-01 23:12",
+      "departure": "2015-03-01 23:12",
+      "serviceId": "2_9",
+      "tripId": "2_8034",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 23:13",
+      "departure": "2015-03-01 23:13",
+      "serviceId": "2_9",
+      "tripId": "2_8011",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 23:37",
+      "departure": "2015-03-01 23:37",
+      "serviceId": "2_9",
+      "tripId": "2_8021",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-01 23:38",
+      "departure": "2015-03-01 23:38",
+      "serviceId": "2_9",
+      "tripId": "2_8008",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-01 23:57",
+      "departure": "2015-03-01 23:57",
+      "serviceId": "2_9",
+      "tripId": "2_8031",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-02 00:03",
+      "departure": "2015-03-02 00:03",
+      "serviceId": "2_9",
+      "tripId": "2_7998",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    },
+    {
+      "arrival": "2015-03-02 00:37",
+      "departure": "2015-03-02 00:37",
+      "serviceId": "2_8",
+      "tripId": "2_9399",
+      "routeId": "2_0057",
+      "headsign": "57 | Bruz Lavoisier"
+    },
+    {
+      "arrival": "2015-03-02 00:37",
+      "departure": "2015-03-02 00:37",
+      "serviceId": "2_9",
+      "tripId": "2_8035",
+      "routeId": "2_0009",
+      "headsign": "9 | Cleunay"
+    },
+    {
+      "arrival": "2015-03-02 00:38",
+      "departure": "2015-03-02 00:38",
+      "serviceId": "2_9",
+      "tripId": "2_8009",
+      "routeId": "2_0005",
+      "headsign": "5 | Lycée Bréquigny"
+    }
+  ]
+}
