@@ -1,0 +1,1654 @@
+{
+  "date": "2015-03-09 00:00",
+  "stop": {
+    "id": "2_1111",
+    "lat": 48.120189,
+    "lon": -1.65077,
+    "name": "Docteur Quentin",
+    "code": 1111
+  },
+  "routes": [
+    {
+      "id": "2_0003",
+      "textColor": "FFFFFF",
+      "color": "008436",
+      "description": "Majeure",
+      "longName": "Saint-Laurent \u003c\u003e Henri Fréville",
+      "shortName": "3",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0014",
+      "textColor": "FFFFFF",
+      "color": "805A26",
+      "description": "Urbaine",
+      "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+      "shortName": "14",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0044",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express urbaine",
+      "longName": "République \u003c\u003e Joliot-Curie",
+      "shortName": "44",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0050",
+      "textColor": "FFFFFF",
+      "color": "8DA6D2",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "50",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0206",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Métairies Chalotais) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "206",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0216",
+      "textColor": "1A171B",
+      "color": "F29FC5",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Base de Loisirs) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "216",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0217",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Cormiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "217",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-09 04:29",
+      "departure": "2015-03-09 04:29",
+      "serviceId": "2_16",
+      "tripId": "2_7605",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 3"
+    },
+    {
+      "arrival": "2015-03-09 05:32",
+      "departure": "2015-03-09 05:32",
+      "serviceId": "2_18",
+      "tripId": "2_19649",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 06:12",
+      "departure": "2015-03-09 06:12",
+      "serviceId": "2_18",
+      "tripId": "2_19654",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 06:34",
+      "departure": "2015-03-09 06:34",
+      "serviceId": "2_18",
+      "tripId": "2_19659",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 06:36",
+      "departure": "2015-03-09 06:36",
+      "serviceId": "2_18",
+      "tripId": "2_101",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 06:55",
+      "departure": "2015-03-09 06:55",
+      "serviceId": "2_18",
+      "tripId": "2_19664",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:07",
+      "departure": "2015-03-09 07:07",
+      "serviceId": "2_18",
+      "tripId": "2_106",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 07:12",
+      "departure": "2015-03-09 07:12",
+      "serviceId": "2_18",
+      "tripId": "2_19669",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:18",
+      "departure": "2015-03-09 07:18",
+      "serviceId": "2_18",
+      "tripId": "2_15955",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 07:22",
+      "departure": "2015-03-09 07:22",
+      "serviceId": "2_18",
+      "tripId": "2_19674",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:32",
+      "departure": "2015-03-09 07:32",
+      "serviceId": "2_18",
+      "tripId": "2_19679",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:33",
+      "departure": "2015-03-09 07:33",
+      "serviceId": "2_18",
+      "tripId": "2_111",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 07:40",
+      "departure": "2015-03-09 07:40",
+      "serviceId": "2_18",
+      "tripId": "2_19684",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:47",
+      "departure": "2015-03-09 07:47",
+      "serviceId": "2_18",
+      "tripId": "2_15960",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 07:51",
+      "departure": "2015-03-09 07:51",
+      "serviceId": "2_18",
+      "tripId": "2_19689",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 07:55",
+      "departure": "2015-03-09 07:55",
+      "serviceId": "2_18",
+      "tripId": "2_116",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 08:00",
+      "departure": "2015-03-09 08:00",
+      "serviceId": "2_18",
+      "tripId": "2_15965",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 08:01",
+      "departure": "2015-03-09 08:01",
+      "serviceId": "2_18",
+      "tripId": "2_19694",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:11",
+      "departure": "2015-03-09 08:11",
+      "serviceId": "2_18",
+      "tripId": "2_15970",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 08:11",
+      "departure": "2015-03-09 08:11",
+      "serviceId": "2_18",
+      "tripId": "2_19699",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:14",
+      "departure": "2015-03-09 08:14",
+      "serviceId": "2_18",
+      "tripId": "2_121",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 08:21",
+      "departure": "2015-03-09 08:21",
+      "serviceId": "2_18",
+      "tripId": "2_19804",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:27",
+      "departure": "2015-03-09 08:27",
+      "serviceId": "2_18",
+      "tripId": "2_15975",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 08:31",
+      "departure": "2015-03-09 08:31",
+      "serviceId": "2_18",
+      "tripId": "2_19809",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:39",
+      "departure": "2015-03-09 08:39",
+      "serviceId": "2_18",
+      "tripId": "2_126",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 08:41",
+      "departure": "2015-03-09 08:41",
+      "serviceId": "2_18",
+      "tripId": "2_19814",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:47",
+      "departure": "2015-03-09 08:47",
+      "serviceId": "2_18",
+      "tripId": "2_15980",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 08:51",
+      "departure": "2015-03-09 08:51",
+      "serviceId": "2_18",
+      "tripId": "2_19819",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 08:59",
+      "departure": "2015-03-09 08:59",
+      "serviceId": "2_18",
+      "tripId": "2_131",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 09:01",
+      "departure": "2015-03-09 09:01",
+      "serviceId": "2_18",
+      "tripId": "2_19824",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 09:02",
+      "departure": "2015-03-09 09:02",
+      "serviceId": "2_18",
+      "tripId": "2_15985",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 09:10",
+      "departure": "2015-03-09 09:10",
+      "serviceId": "2_18",
+      "tripId": "2_20514",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 09:16",
+      "departure": "2015-03-09 09:16",
+      "serviceId": "2_18",
+      "tripId": "2_136",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 09:18",
+      "departure": "2015-03-09 09:18",
+      "serviceId": "2_18",
+      "tripId": "2_15990",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 09:20",
+      "departure": "2015-03-09 09:20",
+      "serviceId": "2_18",
+      "tripId": "2_20519",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 09:30",
+      "departure": "2015-03-09 09:30",
+      "serviceId": "2_18",
+      "tripId": "2_20524",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 09:33",
+      "departure": "2015-03-09 09:33",
+      "serviceId": "2_18",
+      "tripId": "2_16180",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 09:36",
+      "departure": "2015-03-09 09:36",
+      "serviceId": "2_18",
+      "tripId": "2_141",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 09:40",
+      "departure": "2015-03-09 09:40",
+      "serviceId": "2_18",
+      "tripId": "2_20529",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 09:48",
+      "departure": "2015-03-09 09:48",
+      "serviceId": "2_18",
+      "tripId": "2_16175",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 09:50",
+      "departure": "2015-03-09 09:50",
+      "serviceId": "2_18",
+      "tripId": "2_20534",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:00",
+      "departure": "2015-03-09 10:00",
+      "serviceId": "2_18",
+      "tripId": "2_20539",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:04",
+      "departure": "2015-03-09 10:04",
+      "serviceId": "2_18",
+      "tripId": "2_16170",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 10:05",
+      "departure": "2015-03-09 10:05",
+      "serviceId": "2_18",
+      "tripId": "2_146",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 10:10",
+      "departure": "2015-03-09 10:10",
+      "serviceId": "2_18",
+      "tripId": "2_20374",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:19",
+      "departure": "2015-03-09 10:19",
+      "serviceId": "2_18",
+      "tripId": "2_16165",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 10:20",
+      "departure": "2015-03-09 10:20",
+      "serviceId": "2_18",
+      "tripId": "2_20494",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:30",
+      "departure": "2015-03-09 10:30",
+      "serviceId": "2_18",
+      "tripId": "2_20364",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:35",
+      "departure": "2015-03-09 10:35",
+      "serviceId": "2_18",
+      "tripId": "2_16160",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 10:39",
+      "departure": "2015-03-09 10:39",
+      "serviceId": "2_18",
+      "tripId": "2_151",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 10:40",
+      "departure": "2015-03-09 10:40",
+      "serviceId": "2_18",
+      "tripId": "2_20399",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 10:50",
+      "departure": "2015-03-09 10:50",
+      "serviceId": "2_18",
+      "tripId": "2_16155",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 10:50",
+      "departure": "2015-03-09 10:50",
+      "serviceId": "2_18",
+      "tripId": "2_20484",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:00",
+      "departure": "2015-03-09 11:00",
+      "serviceId": "2_18",
+      "tripId": "2_20504",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:05",
+      "departure": "2015-03-09 11:05",
+      "serviceId": "2_18",
+      "tripId": "2_16150",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 11:10",
+      "departure": "2015-03-09 11:10",
+      "serviceId": "2_18",
+      "tripId": "2_20474",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:20",
+      "departure": "2015-03-09 11:20",
+      "serviceId": "2_18",
+      "tripId": "2_16145",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 11:20",
+      "departure": "2015-03-09 11:20",
+      "serviceId": "2_18",
+      "tripId": "2_20419",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:21",
+      "departure": "2015-03-09 11:21",
+      "serviceId": "2_18",
+      "tripId": "2_156",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 11:30",
+      "departure": "2015-03-09 11:30",
+      "serviceId": "2_18",
+      "tripId": "2_20434",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:35",
+      "departure": "2015-03-09 11:35",
+      "serviceId": "2_18",
+      "tripId": "2_16140",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 11:40",
+      "departure": "2015-03-09 11:40",
+      "serviceId": "2_18",
+      "tripId": "2_20389",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:50",
+      "departure": "2015-03-09 11:50",
+      "serviceId": "2_18",
+      "tripId": "2_16135",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 11:50",
+      "departure": "2015-03-09 11:50",
+      "serviceId": "2_18",
+      "tripId": "2_20394",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 11:56",
+      "departure": "2015-03-09 11:56",
+      "serviceId": "2_18",
+      "tripId": "2_161",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 12:00",
+      "departure": "2015-03-09 12:00",
+      "serviceId": "2_18",
+      "tripId": "2_20379",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:06",
+      "departure": "2015-03-09 12:06",
+      "serviceId": "2_18",
+      "tripId": "2_16130",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 12:07",
+      "departure": "2015-03-09 12:07",
+      "serviceId": "2_18",
+      "tripId": "2_2",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 12:10",
+      "departure": "2015-03-09 12:10",
+      "serviceId": "2_18",
+      "tripId": "2_20429",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:20",
+      "departure": "2015-03-09 12:20",
+      "serviceId": "2_18",
+      "tripId": "2_19829",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:22",
+      "departure": "2015-03-09 12:22",
+      "serviceId": "2_18",
+      "tripId": "2_16125",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 12:30",
+      "departure": "2015-03-09 12:30",
+      "serviceId": "2_18",
+      "tripId": "2_19834",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:37",
+      "departure": "2015-03-09 12:37",
+      "serviceId": "2_18",
+      "tripId": "2_166",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 12:38",
+      "departure": "2015-03-09 12:38",
+      "serviceId": "2_18",
+      "tripId": "2_16120",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 12:40",
+      "departure": "2015-03-09 12:40",
+      "serviceId": "2_18",
+      "tripId": "2_19839",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:50",
+      "departure": "2015-03-09 12:50",
+      "serviceId": "2_18",
+      "tripId": "2_19844",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 12:54",
+      "departure": "2015-03-09 12:54",
+      "serviceId": "2_18",
+      "tripId": "2_16105",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 13:00",
+      "departure": "2015-03-09 13:00",
+      "serviceId": "2_18",
+      "tripId": "2_19849",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:09",
+      "departure": "2015-03-09 13:09",
+      "serviceId": "2_18",
+      "tripId": "2_16115",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 13:10",
+      "departure": "2015-03-09 13:10",
+      "serviceId": "2_18",
+      "tripId": "2_19854",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:14",
+      "departure": "2015-03-09 13:14",
+      "serviceId": "2_18",
+      "tripId": "2_171",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 13:20",
+      "departure": "2015-03-09 13:20",
+      "serviceId": "2_18",
+      "tripId": "2_19859",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:25",
+      "departure": "2015-03-09 13:25",
+      "serviceId": "2_18",
+      "tripId": "2_16110",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 13:30",
+      "departure": "2015-03-09 13:30",
+      "serviceId": "2_18",
+      "tripId": "2_19864",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:35",
+      "departure": "2015-03-09 13:35",
+      "serviceId": "2_18",
+      "tripId": "2_176",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 13:40",
+      "departure": "2015-03-09 13:40",
+      "serviceId": "2_18",
+      "tripId": "2_19869",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:41",
+      "departure": "2015-03-09 13:41",
+      "serviceId": "2_18",
+      "tripId": "2_16330",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 13:50",
+      "departure": "2015-03-09 13:50",
+      "serviceId": "2_18",
+      "tripId": "2_19874",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 13:57",
+      "departure": "2015-03-09 13:57",
+      "serviceId": "2_18",
+      "tripId": "2_16335",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 14:00",
+      "departure": "2015-03-09 14:00",
+      "serviceId": "2_18",
+      "tripId": "2_19879",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:10",
+      "departure": "2015-03-09 14:10",
+      "serviceId": "2_18",
+      "tripId": "2_19884",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:13",
+      "departure": "2015-03-09 14:13",
+      "serviceId": "2_18",
+      "tripId": "2_16340",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 14:15",
+      "departure": "2015-03-09 14:15",
+      "serviceId": "2_18",
+      "tripId": "2_181",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 14:20",
+      "departure": "2015-03-09 14:20",
+      "serviceId": "2_18",
+      "tripId": "2_19889",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:28",
+      "departure": "2015-03-09 14:28",
+      "serviceId": "2_18",
+      "tripId": "2_16345",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 14:30",
+      "departure": "2015-03-09 14:30",
+      "serviceId": "2_18",
+      "tripId": "2_19894",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:40",
+      "departure": "2015-03-09 14:40",
+      "serviceId": "2_18",
+      "tripId": "2_19899",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:43",
+      "departure": "2015-03-09 14:43",
+      "serviceId": "2_18",
+      "tripId": "2_16350",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 14:50",
+      "departure": "2015-03-09 14:50",
+      "serviceId": "2_18",
+      "tripId": "2_19904",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 14:54",
+      "departure": "2015-03-09 14:54",
+      "serviceId": "2_18",
+      "tripId": "2_186",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 14:59",
+      "departure": "2015-03-09 14:59",
+      "serviceId": "2_18",
+      "tripId": "2_16355",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 15:00",
+      "departure": "2015-03-09 15:00",
+      "serviceId": "2_18",
+      "tripId": "2_19909",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:10",
+      "departure": "2015-03-09 15:10",
+      "serviceId": "2_18",
+      "tripId": "2_19914",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:14",
+      "departure": "2015-03-09 15:14",
+      "serviceId": "2_18",
+      "tripId": "2_16360",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 15:20",
+      "departure": "2015-03-09 15:20",
+      "serviceId": "2_18",
+      "tripId": "2_19919",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:25",
+      "departure": "2015-03-09 15:25",
+      "serviceId": "2_19",
+      "tripId": "2_97",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 15:30",
+      "departure": "2015-03-09 15:30",
+      "serviceId": "2_18",
+      "tripId": "2_16365",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 15:30",
+      "departure": "2015-03-09 15:30",
+      "serviceId": "2_18",
+      "tripId": "2_20044",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:34",
+      "departure": "2015-03-09 15:34",
+      "serviceId": "2_18",
+      "tripId": "2_191",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 15:40",
+      "departure": "2015-03-09 15:40",
+      "serviceId": "2_18",
+      "tripId": "2_20039",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:45",
+      "departure": "2015-03-09 15:45",
+      "serviceId": "2_18",
+      "tripId": "2_16370",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 15:50",
+      "departure": "2015-03-09 15:50",
+      "serviceId": "2_18",
+      "tripId": "2_20339",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 15:55",
+      "departure": "2015-03-09 15:55",
+      "serviceId": "2_21",
+      "tripId": "2_14764",
+      "routeId": "2_0217",
+      "headsign": "217 | Cesson-Sévigné Cormier"
+    },
+    {
+      "arrival": "2015-03-09 15:56",
+      "departure": "2015-03-09 15:56",
+      "serviceId": "2_19",
+      "tripId": "2_7",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 15:59",
+      "departure": "2015-03-09 15:59",
+      "serviceId": "2_18",
+      "tripId": "2_20049",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:00",
+      "departure": "2015-03-09 16:00",
+      "serviceId": "2_18",
+      "tripId": "2_16375",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 16:04",
+      "departure": "2015-03-09 16:04",
+      "serviceId": "2_18",
+      "tripId": "2_351",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 16:07",
+      "departure": "2015-03-09 16:07",
+      "serviceId": "2_18",
+      "tripId": "2_20054",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:11",
+      "departure": "2015-03-09 16:11",
+      "serviceId": "2_19",
+      "tripId": "2_14",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 16:15",
+      "departure": "2015-03-09 16:15",
+      "serviceId": "2_18",
+      "tripId": "2_20059",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:18",
+      "departure": "2015-03-09 16:18",
+      "serviceId": "2_18",
+      "tripId": "2_16380",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 16:21",
+      "departure": "2015-03-09 16:21",
+      "serviceId": "2_19",
+      "tripId": "2_18",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 16:25",
+      "departure": "2015-03-09 16:25",
+      "serviceId": "2_18",
+      "tripId": "2_20064",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:25",
+      "departure": "2015-03-09 16:25",
+      "serviceId": "2_18",
+      "tripId": "2_356",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 16:31",
+      "departure": "2015-03-09 16:31",
+      "serviceId": "2_19",
+      "tripId": "2_22",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 16:33",
+      "departure": "2015-03-09 16:33",
+      "serviceId": "2_18",
+      "tripId": "2_16385",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 16:35",
+      "departure": "2015-03-09 16:35",
+      "serviceId": "2_18",
+      "tripId": "2_20069",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:41",
+      "departure": "2015-03-09 16:41",
+      "serviceId": "2_19",
+      "tripId": "2_26",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 16:45",
+      "departure": "2015-03-09 16:45",
+      "serviceId": "2_18",
+      "tripId": "2_20074",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 16:50",
+      "departure": "2015-03-09 16:50",
+      "serviceId": "2_18",
+      "tripId": "2_16390",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 16:51",
+      "departure": "2015-03-09 16:51",
+      "serviceId": "2_19",
+      "tripId": "2_30",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 16:55",
+      "departure": "2015-03-09 16:55",
+      "serviceId": "2_18",
+      "tripId": "2_20079",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:01",
+      "departure": "2015-03-09 17:01",
+      "serviceId": "2_18",
+      "tripId": "2_361",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes via Placis Vert"
+    },
+    {
+      "arrival": "2015-03-09 17:01",
+      "departure": "2015-03-09 17:01",
+      "serviceId": "2_19",
+      "tripId": "2_34",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 17:05",
+      "departure": "2015-03-09 17:05",
+      "serviceId": "2_21",
+      "tripId": "2_14754",
+      "routeId": "2_0216",
+      "headsign": "216 | Cesson-Sévigné Base de Loisirs"
+    },
+    {
+      "arrival": "2015-03-09 17:05",
+      "departure": "2015-03-09 17:05",
+      "serviceId": "2_18",
+      "tripId": "2_16395",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 17:05",
+      "departure": "2015-03-09 17:05",
+      "serviceId": "2_21",
+      "tripId": "2_18526",
+      "routeId": "2_0206",
+      "headsign": "206 | Cesson-Sévigné Métairies Chalotais"
+    },
+    {
+      "arrival": "2015-03-09 17:05",
+      "departure": "2015-03-09 17:05",
+      "serviceId": "2_18",
+      "tripId": "2_20084",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:11",
+      "departure": "2015-03-09 17:11",
+      "serviceId": "2_19",
+      "tripId": "2_38",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 17:15",
+      "departure": "2015-03-09 17:15",
+      "serviceId": "2_18",
+      "tripId": "2_20089",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:16",
+      "departure": "2015-03-09 17:16",
+      "serviceId": "2_18",
+      "tripId": "2_366",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 17:21",
+      "departure": "2015-03-09 17:21",
+      "serviceId": "2_19",
+      "tripId": "2_42",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 17:23",
+      "departure": "2015-03-09 17:23",
+      "serviceId": "2_18",
+      "tripId": "2_16400",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 17:25",
+      "departure": "2015-03-09 17:25",
+      "serviceId": "2_18",
+      "tripId": "2_20094",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:31",
+      "departure": "2015-03-09 17:31",
+      "serviceId": "2_19",
+      "tripId": "2_46",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 17:35",
+      "departure": "2015-03-09 17:35",
+      "serviceId": "2_18",
+      "tripId": "2_20099",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:36",
+      "departure": "2015-03-09 17:36",
+      "serviceId": "2_18",
+      "tripId": "2_371",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 17:38",
+      "departure": "2015-03-09 17:38",
+      "serviceId": "2_18",
+      "tripId": "2_16405",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 17:45",
+      "departure": "2015-03-09 17:45",
+      "serviceId": "2_18",
+      "tripId": "2_20104",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:51",
+      "departure": "2015-03-09 17:51",
+      "serviceId": "2_19",
+      "tripId": "2_50",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 17:55",
+      "departure": "2015-03-09 17:55",
+      "serviceId": "2_18",
+      "tripId": "2_16410",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 17:55",
+      "departure": "2015-03-09 17:55",
+      "serviceId": "2_18",
+      "tripId": "2_20109",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 17:57",
+      "departure": "2015-03-09 17:57",
+      "serviceId": "2_18",
+      "tripId": "2_376",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 18:01",
+      "departure": "2015-03-09 18:01",
+      "serviceId": "2_19",
+      "tripId": "2_54",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 18:05",
+      "departure": "2015-03-09 18:05",
+      "serviceId": "2_21",
+      "tripId": "2_14768",
+      "routeId": "2_0217",
+      "headsign": "217 | Cesson-Sévigné Cormier"
+    },
+    {
+      "arrival": "2015-03-09 18:05",
+      "departure": "2015-03-09 18:05",
+      "serviceId": "2_18",
+      "tripId": "2_20114",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:10",
+      "departure": "2015-03-09 18:10",
+      "serviceId": "2_18",
+      "tripId": "2_16415",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 18:11",
+      "departure": "2015-03-09 18:11",
+      "serviceId": "2_19",
+      "tripId": "2_58",
+      "routeId": "2_0044",
+      "headsign": "44 | République"
+    },
+    {
+      "arrival": "2015-03-09 18:15",
+      "departure": "2015-03-09 18:15",
+      "serviceId": "2_18",
+      "tripId": "2_20119",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:17",
+      "departure": "2015-03-09 18:17",
+      "serviceId": "2_18",
+      "tripId": "2_381",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 18:25",
+      "departure": "2015-03-09 18:25",
+      "serviceId": "2_18",
+      "tripId": "2_20124",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:26",
+      "departure": "2015-03-09 18:26",
+      "serviceId": "2_18",
+      "tripId": "2_16420",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 18:35",
+      "departure": "2015-03-09 18:35",
+      "serviceId": "2_18",
+      "tripId": "2_20129",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:36",
+      "departure": "2015-03-09 18:36",
+      "serviceId": "2_18",
+      "tripId": "2_386",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 18:40",
+      "departure": "2015-03-09 18:40",
+      "serviceId": "2_18",
+      "tripId": "2_16425",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 18:45",
+      "departure": "2015-03-09 18:45",
+      "serviceId": "2_18",
+      "tripId": "2_20134",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:55",
+      "departure": "2015-03-09 18:55",
+      "serviceId": "2_18",
+      "tripId": "2_16430",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 18:55",
+      "departure": "2015-03-09 18:55",
+      "serviceId": "2_18",
+      "tripId": "2_20139",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 18:56",
+      "departure": "2015-03-09 18:56",
+      "serviceId": "2_18",
+      "tripId": "2_391",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 19:06",
+      "departure": "2015-03-09 19:06",
+      "serviceId": "2_18",
+      "tripId": "2_20144",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 19:09",
+      "departure": "2015-03-09 19:09",
+      "serviceId": "2_18",
+      "tripId": "2_16435",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 19:19",
+      "departure": "2015-03-09 19:19",
+      "serviceId": "2_18",
+      "tripId": "2_20149",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 19:23",
+      "departure": "2015-03-09 19:23",
+      "serviceId": "2_18",
+      "tripId": "2_16440",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 19:25",
+      "departure": "2015-03-09 19:25",
+      "serviceId": "2_18",
+      "tripId": "2_396",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 19:32",
+      "departure": "2015-03-09 19:32",
+      "serviceId": "2_18",
+      "tripId": "2_20274",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 19:36",
+      "departure": "2015-03-09 19:36",
+      "serviceId": "2_18",
+      "tripId": "2_16475",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 19:45",
+      "departure": "2015-03-09 19:45",
+      "serviceId": "2_18",
+      "tripId": "2_20279",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 19:50",
+      "departure": "2015-03-09 19:50",
+      "serviceId": "2_18",
+      "tripId": "2_16480",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 19:57",
+      "departure": "2015-03-09 19:57",
+      "serviceId": "2_18",
+      "tripId": "2_20284",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 19:59",
+      "departure": "2015-03-09 19:59",
+      "serviceId": "2_18",
+      "tripId": "2_401",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 20:05",
+      "departure": "2015-03-09 20:05",
+      "serviceId": "2_18",
+      "tripId": "2_16485",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 20:09",
+      "departure": "2015-03-09 20:09",
+      "serviceId": "2_18",
+      "tripId": "2_20289",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 20:19",
+      "departure": "2015-03-09 20:19",
+      "serviceId": "2_18",
+      "tripId": "2_16490",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 20:29",
+      "departure": "2015-03-09 20:29",
+      "serviceId": "2_18",
+      "tripId": "2_20294",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 20:34",
+      "departure": "2015-03-09 20:34",
+      "serviceId": "2_18",
+      "tripId": "2_16315",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 20:37",
+      "departure": "2015-03-09 20:37",
+      "serviceId": "2_18",
+      "tripId": "2_406",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-03-09 20:48",
+      "departure": "2015-03-09 20:48",
+      "serviceId": "2_18",
+      "tripId": "2_16495",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 20:49",
+      "departure": "2015-03-09 20:49",
+      "serviceId": "2_18",
+      "tripId": "2_20299",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 21:23",
+      "departure": "2015-03-09 21:23",
+      "serviceId": "2_18",
+      "tripId": "2_16325",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 21:29",
+      "departure": "2015-03-09 21:29",
+      "serviceId": "2_18",
+      "tripId": "2_20304",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 21:53",
+      "departure": "2015-03-09 21:53",
+      "serviceId": "2_18",
+      "tripId": "2_16320",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-03-09 22:14",
+      "departure": "2015-03-09 22:14",
+      "serviceId": "2_18",
+      "tripId": "2_20309",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 22:49",
+      "departure": "2015-03-09 22:49",
+      "serviceId": "2_18",
+      "tripId": "2_20314",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-09 23:34",
+      "departure": "2015-03-09 23:34",
+      "serviceId": "2_18",
+      "tripId": "2_20319",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    },
+    {
+      "arrival": "2015-03-10 00:14",
+      "departure": "2015-03-10 00:14",
+      "serviceId": "2_18",
+      "tripId": "2_20324",
+      "routeId": "2_0003",
+      "headsign": "3 | Henri Fréville"
+    }
+  ]
+}

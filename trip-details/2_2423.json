@@ -1,91 +1,311 @@
 {
-  "headsign": "153 | Rennes République",
+  "headsign": "53 | Rennes République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_4322",
-        "lat": 48.12547104,
-        "lon": -1.81549739,
-        "name": "L\u0027Hermitage Centre",
-        "code": 4322
-      },
-      "arrival": 30060,
-      "departure": 30060
-    },
-    {
-      "stop": {
-        "id": "2_4305",
-        "lat": 48.12464354,
-        "lon": -1.81159175,
-        "name": "Village",
-        "code": 4305
+        "id": "2_4267",
+        "lat": 48.122595,
+        "lon": -1.868366,
+        "name": "Ville aux Archers",
+        "code": 4267
       },
       "arrival": 30120,
       "departure": 30120
     },
     {
       "stop": {
-        "id": "2_4306",
-        "lat": 48.12320965,
-        "lon": -1.8063041,
-        "name": "Clairefontaine",
-        "code": 4306
+        "id": "2_4264",
+        "lat": 48.123069,
+        "lon": -1.865899,
+        "name": "Place de la Mairie",
+        "code": 4264
       },
-      "arrival": 30120,
-      "departure": 30120
+      "arrival": 30180,
+      "departure": 30180
     },
     {
       "stop": {
-        "id": "2_3756",
-        "lat": 48.1190811,
-        "lon": -1.76101447,
-        "name": "Lion d\u0027Or",
-        "code": 3756
+        "id": "2_4252",
+        "lat": 48.123011,
+        "lon": -1.860726,
+        "name": "Rochers",
+        "code": 4252
       },
-      "arrival": 30540,
-      "departure": 30540
+      "arrival": 30240,
+      "departure": 30240
     },
     {
       "stop": {
-        "id": "2_3757",
-        "lat": 48.11889936,
-        "lon": -1.75681107,
-        "name": "Vezin Centre",
-        "code": 3757
+        "id": "2_4253",
+        "lat": 48.121939,
+        "lon": -1.846158,
+        "name": "Piardière",
+        "code": 4253
+      },
+      "arrival": 30360,
+      "departure": 30360
+    },
+    {
+      "stop": {
+        "id": "2_4254",
+        "lat": 48.121285,
+        "lon": -1.837645,
+        "name": "Grippière",
+        "code": 4254
+      },
+      "arrival": 30420,
+      "departure": 30420
+    },
+    {
+      "stop": {
+        "id": "2_4301",
+        "lat": 48.122924,
+        "lon": -1.821633,
+        "name": "Hautière",
+        "code": 4301
       },
       "arrival": 30600,
       "departure": 30600
     },
     {
       "stop": {
-        "id": "2_3770",
-        "lat": 48.11902243,
-        "lon": -1.74936828,
-        "name": "Champs Bleus",
-        "code": 3770
+        "id": "2_4303",
+        "lat": 48.123875,
+        "lon": -1.817721,
+        "name": "L\u0027Hermitage Gare",
+        "code": 4303
+      },
+      "arrival": 30600,
+      "departure": 30600
+    },
+    {
+      "stop": {
+        "id": "2_4322",
+        "lat": 48.125447,
+        "lon": -1.815491,
+        "name": "L\u0027Hermitage Centre",
+        "code": 4322
       },
       "arrival": 30660,
       "departure": 30660
     },
     {
       "stop": {
+        "id": "2_4305",
+        "lat": 48.124609,
+        "lon": -1.811557,
+        "name": "Village",
+        "code": 4305
+      },
+      "arrival": 30720,
+      "departure": 30720
+    },
+    {
+      "stop": {
+        "id": "2_4306",
+        "lat": 48.123163,
+        "lon": -1.806172,
+        "name": "Clairefontaine",
+        "code": 4306
+      },
+      "arrival": 30720,
+      "departure": 30720
+    },
+    {
+      "stop": {
+        "id": "2_4316",
+        "lat": 48.122778,
+        "lon": -1.801123,
+        "name": "Noë Biche",
+        "code": 4316
+      },
+      "arrival": 30780,
+      "departure": 30780
+    },
+    {
+      "stop": {
+        "id": "2_3754",
+        "lat": 48.12091,
+        "lon": -1.772466,
+        "name": "Haie de Terre",
+        "code": 3754
+      },
+      "arrival": 31020,
+      "departure": 31020
+    },
+    {
+      "stop": {
+        "id": "2_3755",
+        "lat": 48.120211,
+        "lon": -1.765417,
+        "name": "Vallée",
+        "code": 3755
+      },
+      "arrival": 31080,
+      "departure": 31080
+    },
+    {
+      "stop": {
+        "id": "2_3756",
+        "lat": 48.119004,
+        "lon": -1.760926,
+        "name": "Lion d\u0027Or",
+        "code": 3756
+      },
+      "arrival": 31200,
+      "departure": 31200
+    },
+    {
+      "stop": {
+        "id": "2_3757",
+        "lat": 48.11887,
+        "lon": -1.756833,
+        "name": "Vezin Centre",
+        "code": 3757
+      },
+      "arrival": 31260,
+      "departure": 31260
+    },
+    {
+      "stop": {
+        "id": "2_3770",
+        "lat": 48.118999,
+        "lon": -1.749372,
+        "name": "Champs Bleus",
+        "code": 3770
+      },
+      "arrival": 31320,
+      "departure": 31320
+    },
+    {
+      "stop": {
+        "id": "2_3758",
+        "lat": 48.118334,
+        "lon": -1.742441,
+        "name": "Tertre",
+        "code": 3758
+      },
+      "arrival": 31440,
+      "departure": 31440
+    },
+    {
+      "stop": {
+        "id": "2_3759",
+        "lat": 48.117611,
+        "lon": -1.731377,
+        "name": "Champ Noël",
+        "code": 3759
+      },
+      "arrival": 31500,
+      "departure": 31500
+    },
+    {
+      "stop": {
+        "id": "2_1504",
+        "lat": 48.116353,
+        "lon": -1.723158,
+        "name": "Petit Champeaux",
+        "code": 1504
+      },
+      "arrival": 31620,
+      "departure": 31620
+    },
+    {
+      "stop": {
+        "id": "2_1503",
+        "lat": 48.116133,
+        "lon": -1.715924,
+        "name": "Colin",
+        "code": 1503
+      },
+      "arrival": 31680,
+      "departure": 31680
+    },
+    {
+      "stop": {
+        "id": "2_1422",
+        "lat": 48.116261,
+        "lon": -1.711309,
+        "name": "Merlin",
+        "code": 1422
+      },
+      "arrival": 31740,
+      "departure": 31740
+    },
+    {
+      "stop": {
+        "id": "2_1500",
+        "lat": 48.113203,
+        "lon": -1.704506,
+        "name": "Agrocampus",
+        "code": 1500
+      },
+      "arrival": 31860,
+      "departure": 31860
+    },
+    {
+      "stop": {
+        "id": "2_1294",
+        "lat": 48.111305,
+        "lon": -1.701301,
+        "name": "Marbeuf",
+        "code": 1294
+      },
+      "arrival": 31920,
+      "departure": 31920
+    },
+    {
+      "stop": {
+        "id": "2_1311",
+        "lat": 48.10957,
+        "lon": -1.698313,
+        "name": "Guilloux",
+        "code": 1311
+      },
+      "arrival": 31980,
+      "departure": 31980
+    },
+    {
+      "stop": {
+        "id": "2_1239",
+        "lat": 48.108256,
+        "lon": -1.694158,
+        "name": "Chèques Postaux",
+        "code": 1239
+      },
+      "arrival": 32040,
+      "departure": 32040
+    },
+    {
+      "stop": {
+        "id": "2_1542",
+        "lat": 48.10992,
+        "lon": -1.68535,
+        "name": "Pont de Bretagne",
+        "code": 1542
+      },
+      "arrival": 32160,
+      "departure": 32160
+    },
+    {
+      "stop": {
         "id": "2_1167",
-        "lat": 48.10936738,
-        "lon": -1.678658,
+        "lat": 48.109405,
+        "lon": -1.678734,
         "name": "République Pré Botté",
         "code": 1167
       },
-      "arrival": 31560,
-      "departure": 31560
+      "arrival": 32340,
+      "departure": 32340
     }
   ],
   "route": {
-    "id": "2_0153",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express métropolitaine",
+    "id": "2_0053",
+    "textColor": "FFFFFF",
+    "color": "D20132",
+    "description": "Métropolitaine",
     "longName": "Rennes (République) \u003c\u003e Vezin-le-Coquet / L\u0027Hermitage / La Chapelle-Thouarault",
-    "shortName": "153",
+    "shortName": "53",
     "type": 3,
     "agencyId": "2"
   }

@@ -1,0 +1,108 @@
+{
+  "date": "2015-03-25 00:00",
+  "stop": {
+    "id": "2_2841",
+    "lat": 48.16048,
+    "lon": -1.676774,
+    "name": "Parking scolaire Jean-Paul II",
+    "code": 2841
+  },
+  "routes": [
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0224",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Gévezé (Cheval Blanc) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "224",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0225",
+      "textColor": "FFFFFF",
+      "color": "E30613",
+      "description": "Complémentaire",
+      "longName": "Pacé (Pie Neuve) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "225",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-25 08:05",
+      "departure": "2015-03-25 08:05",
+      "serviceId": "2_32",
+      "tripId": "2_10948",
+      "routeId": "2_0225",
+      "headsign": "225 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-03-25 08:05",
+      "departure": "2015-03-25 08:05",
+      "serviceId": "2_32",
+      "tripId": "2_10938",
+      "routeId": "2_0224",
+      "headsign": "224 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-03-25 08:05",
+      "departure": "2015-03-25 08:05",
+      "serviceId": "2_32",
+      "tripId": "2_11272",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-03-25 08:05",
+      "departure": "2015-03-25 08:05",
+      "serviceId": "2_32",
+      "tripId": "2_11277",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-03-25 12:20",
+      "departure": "2015-03-25 12:20",
+      "serviceId": "2_33",
+      "tripId": "2_10954",
+      "routeId": "2_0225",
+      "headsign": "225 | Pacé Pie Neuve"
+    },
+    {
+      "arrival": "2015-03-25 12:20",
+      "departure": "2015-03-25 12:20",
+      "serviceId": "2_33",
+      "tripId": "2_10944",
+      "routeId": "2_0224",
+      "headsign": "224 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2015-03-25 12:20",
+      "departure": "2015-03-25 12:20",
+      "serviceId": "2_33",
+      "tripId": "2_11292",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2015-03-25 12:20",
+      "departure": "2015-03-25 12:20",
+      "serviceId": "2_33",
+      "tripId": "2_11291",
+      "routeId": "2_0223",
+      "headsign": "223 | Betton"
+    }
+  ]
+}

@@ -1,0 +1,2186 @@
+{
+  "date": "2015-03-16 00:00",
+  "stop": {
+    "id": "2_1056",
+    "lat": 48.103956,
+    "lon": -1.673185,
+    "name": "Gares",
+    "code": 1056
+  },
+  "routes": [
+    {
+      "id": "2_0001",
+      "textColor": "1A171B",
+      "color": "97BF0D",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Champs Blancs) \u003c\u003e Chantepie (Rosa Parks)",
+      "shortName": "1",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0002",
+      "textColor": "FFFFFF",
+      "color": "008BCF",
+      "description": "Majeure",
+      "longName": "Grand Quartier \u003c\u003e La Poterie / Haut Sancé",
+      "shortName": "2",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0011",
+      "textColor": "FFFFFF",
+      "color": "DD84B1",
+      "description": "Urbaine",
+      "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
+      "shortName": "11",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0041",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express urbaine",
+      "longName": "Gares \u003c\u003e Pâtis Tatelin",
+      "shortName": "41",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0207",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "Rennes (Gares) \u003c\u003e Cesson-Sévigné (Lycée Saint-Etienne)",
+      "shortName": "207",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0208",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Rennes (Gares) \u003c\u003e Saint-Grégoire (MFR Rabinardières)",
+      "shortName": "208",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-16 05:37",
+      "departure": "2015-03-16 05:37",
+      "serviceId": "2_18",
+      "tripId": "2_15200",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 05:39",
+      "departure": "2015-03-16 05:39",
+      "serviceId": "2_18",
+      "tripId": "2_10186",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 05:59",
+      "departure": "2015-03-16 05:59",
+      "serviceId": "2_18",
+      "tripId": "2_16500",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 06:17",
+      "departure": "2015-03-16 06:17",
+      "serviceId": "2_18",
+      "tripId": "2_15195",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 06:19",
+      "departure": "2015-03-16 06:19",
+      "serviceId": "2_18",
+      "tripId": "2_10181",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 06:19",
+      "departure": "2015-03-16 06:19",
+      "serviceId": "2_18",
+      "tripId": "2_16505",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 06:39",
+      "departure": "2015-03-16 06:39",
+      "serviceId": "2_18",
+      "tripId": "2_10191",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 06:40",
+      "departure": "2015-03-16 06:40",
+      "serviceId": "2_18",
+      "tripId": "2_16525",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 06:43",
+      "departure": "2015-03-16 06:43",
+      "serviceId": "2_18",
+      "tripId": "2_15210",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:00",
+      "departure": "2015-03-16 07:00",
+      "serviceId": "2_18",
+      "tripId": "2_15205",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:00",
+      "departure": "2015-03-16 07:00",
+      "serviceId": "2_18",
+      "tripId": "2_16530",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 07:02",
+      "departure": "2015-03-16 07:02",
+      "serviceId": "2_18",
+      "tripId": "2_10196",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:12",
+      "departure": "2015-03-16 07:12",
+      "serviceId": "2_18",
+      "tripId": "2_10206",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:12",
+      "departure": "2015-03-16 07:12",
+      "serviceId": "2_18",
+      "tripId": "2_15215",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:20",
+      "departure": "2015-03-16 07:20",
+      "serviceId": "2_18",
+      "tripId": "2_16545",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 07:21",
+      "departure": "2015-03-16 07:21",
+      "serviceId": "2_18",
+      "tripId": "2_10201",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:22",
+      "departure": "2015-03-16 07:22",
+      "serviceId": "2_18",
+      "tripId": "2_15220",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:31",
+      "departure": "2015-03-16 07:31",
+      "serviceId": "2_18",
+      "tripId": "2_10211",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:31",
+      "departure": "2015-03-16 07:31",
+      "serviceId": "2_18",
+      "tripId": "2_16550",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 07:33",
+      "departure": "2015-03-16 07:33",
+      "serviceId": "2_18",
+      "tripId": "2_15230",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:40",
+      "departure": "2015-03-16 07:40",
+      "serviceId": "2_18",
+      "tripId": "2_15225",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:41",
+      "departure": "2015-03-16 07:41",
+      "serviceId": "2_18",
+      "tripId": "2_10216",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:44",
+      "departure": "2015-03-16 07:44",
+      "serviceId": "2_18",
+      "tripId": "2_16555",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 07:48",
+      "departure": "2015-03-16 07:48",
+      "serviceId": "2_18",
+      "tripId": "2_10226",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 07:48",
+      "departure": "2015-03-16 07:48",
+      "serviceId": "2_18",
+      "tripId": "2_15585",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:56",
+      "departure": "2015-03-16 07:56",
+      "serviceId": "2_18",
+      "tripId": "2_15620",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 07:56",
+      "departure": "2015-03-16 07:56",
+      "serviceId": "2_18",
+      "tripId": "2_16560",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 07:57",
+      "departure": "2015-03-16 07:57",
+      "serviceId": "2_18",
+      "tripId": "2_10746",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:03",
+      "departure": "2015-03-16 08:03",
+      "serviceId": "2_18",
+      "tripId": "2_19451",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:06",
+      "departure": "2015-03-16 08:06",
+      "serviceId": "2_18",
+      "tripId": "2_10231",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:07",
+      "departure": "2015-03-16 08:07",
+      "serviceId": "2_18",
+      "tripId": "2_14985",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:07",
+      "departure": "2015-03-16 08:07",
+      "serviceId": "2_18",
+      "tripId": "2_16565",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 08:15",
+      "departure": "2015-03-16 08:15",
+      "serviceId": "2_18",
+      "tripId": "2_15630",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:16",
+      "departure": "2015-03-16 08:16",
+      "serviceId": "2_18",
+      "tripId": "2_10236",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:18",
+      "departure": "2015-03-16 08:18",
+      "serviceId": "2_18",
+      "tripId": "2_17155",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 08:23",
+      "departure": "2015-03-16 08:23",
+      "serviceId": "2_18",
+      "tripId": "2_15855",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:28",
+      "departure": "2015-03-16 08:28",
+      "serviceId": "2_18",
+      "tripId": "2_10241",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:28",
+      "departure": "2015-03-16 08:28",
+      "serviceId": "2_18",
+      "tripId": "2_16570",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 08:31",
+      "departure": "2015-03-16 08:31",
+      "serviceId": "2_18",
+      "tripId": "2_15335",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:31",
+      "departure": "2015-03-16 08:31",
+      "serviceId": "2_21",
+      "tripId": "2_29987",
+      "routeId": "2_0208",
+      "headsign": "208 | Saint-Grégoire MFR Rabinardières"
+    },
+    {
+      "arrival": "2015-03-16 08:38",
+      "departure": "2015-03-16 08:38",
+      "serviceId": "2_18",
+      "tripId": "2_16575",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 08:39",
+      "departure": "2015-03-16 08:39",
+      "serviceId": "2_18",
+      "tripId": "2_10246",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:40",
+      "departure": "2015-03-16 08:40",
+      "serviceId": "2_18",
+      "tripId": "2_15510",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:48",
+      "departure": "2015-03-16 08:48",
+      "serviceId": "2_18",
+      "tripId": "2_16580",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 08:50",
+      "departure": "2015-03-16 08:50",
+      "serviceId": "2_18",
+      "tripId": "2_10251",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 08:50",
+      "departure": "2015-03-16 08:50",
+      "serviceId": "2_18",
+      "tripId": "2_15685",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 08:58",
+      "departure": "2015-03-16 08:58",
+      "serviceId": "2_18",
+      "tripId": "2_16585",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 09:00",
+      "departure": "2015-03-16 09:00",
+      "serviceId": "2_18",
+      "tripId": "2_15660",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:01",
+      "departure": "2015-03-16 09:01",
+      "serviceId": "2_18",
+      "tripId": "2_10256",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:08",
+      "departure": "2015-03-16 09:08",
+      "serviceId": "2_18",
+      "tripId": "2_16590",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 09:09",
+      "departure": "2015-03-16 09:09",
+      "serviceId": "2_18",
+      "tripId": "2_15655",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:11",
+      "departure": "2015-03-16 09:11",
+      "serviceId": "2_18",
+      "tripId": "2_10261",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:16",
+      "departure": "2015-03-16 09:16",
+      "serviceId": "2_18",
+      "tripId": "2_15610",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:17",
+      "departure": "2015-03-16 09:17",
+      "serviceId": "2_18",
+      "tripId": "2_16595",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 09:21",
+      "departure": "2015-03-16 09:21",
+      "serviceId": "2_18",
+      "tripId": "2_10266",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:24",
+      "departure": "2015-03-16 09:24",
+      "serviceId": "2_18",
+      "tripId": "2_14975",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:26",
+      "departure": "2015-03-16 09:26",
+      "serviceId": "2_18",
+      "tripId": "2_16600",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 09:31",
+      "departure": "2015-03-16 09:31",
+      "serviceId": "2_18",
+      "tripId": "2_10271",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:33",
+      "departure": "2015-03-16 09:33",
+      "serviceId": "2_18",
+      "tripId": "2_15535",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:36",
+      "departure": "2015-03-16 09:36",
+      "serviceId": "2_18",
+      "tripId": "2_16800",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 09:42",
+      "departure": "2015-03-16 09:42",
+      "serviceId": "2_18",
+      "tripId": "2_10276",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:43",
+      "departure": "2015-03-16 09:43",
+      "serviceId": "2_18",
+      "tripId": "2_15045",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 09:51",
+      "departure": "2015-03-16 09:51",
+      "serviceId": "2_18",
+      "tripId": "2_16795",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 09:52",
+      "departure": "2015-03-16 09:52",
+      "serviceId": "2_18",
+      "tripId": "2_10281",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 09:53",
+      "departure": "2015-03-16 09:53",
+      "serviceId": "2_18",
+      "tripId": "2_15490",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:03",
+      "departure": "2015-03-16 10:03",
+      "serviceId": "2_18",
+      "tripId": "2_10286",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 10:03",
+      "departure": "2015-03-16 10:03",
+      "serviceId": "2_18",
+      "tripId": "2_15635",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:06",
+      "departure": "2015-03-16 10:06",
+      "serviceId": "2_18",
+      "tripId": "2_16745",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 10:13",
+      "departure": "2015-03-16 10:13",
+      "serviceId": "2_18",
+      "tripId": "2_15255",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:14",
+      "departure": "2015-03-16 10:14",
+      "serviceId": "2_18",
+      "tripId": "2_10756",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 10:21",
+      "departure": "2015-03-16 10:21",
+      "serviceId": "2_18",
+      "tripId": "2_16790",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 10:23",
+      "departure": "2015-03-16 10:23",
+      "serviceId": "2_18",
+      "tripId": "2_15605",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:25",
+      "departure": "2015-03-16 10:25",
+      "serviceId": "2_18",
+      "tripId": "2_10291",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 10:33",
+      "departure": "2015-03-16 10:33",
+      "serviceId": "2_18",
+      "tripId": "2_15240",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:35",
+      "departure": "2015-03-16 10:35",
+      "serviceId": "2_18",
+      "tripId": "2_10296",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 10:36",
+      "departure": "2015-03-16 10:36",
+      "serviceId": "2_18",
+      "tripId": "2_16715",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 10:43",
+      "departure": "2015-03-16 10:43",
+      "serviceId": "2_18",
+      "tripId": "2_15095",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:45",
+      "departure": "2015-03-16 10:45",
+      "serviceId": "2_18",
+      "tripId": "2_10301",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 10:51",
+      "departure": "2015-03-16 10:51",
+      "serviceId": "2_18",
+      "tripId": "2_16700",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 10:53",
+      "departure": "2015-03-16 10:53",
+      "serviceId": "2_18",
+      "tripId": "2_15025",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 10:55",
+      "departure": "2015-03-16 10:55",
+      "serviceId": "2_18",
+      "tripId": "2_10306",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:03",
+      "departure": "2015-03-16 11:03",
+      "serviceId": "2_18",
+      "tripId": "2_15615",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:05",
+      "departure": "2015-03-16 11:05",
+      "serviceId": "2_18",
+      "tripId": "2_10311",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:06",
+      "departure": "2015-03-16 11:06",
+      "serviceId": "2_18",
+      "tripId": "2_16810",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 11:13",
+      "departure": "2015-03-16 11:13",
+      "serviceId": "2_18",
+      "tripId": "2_15090",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:15",
+      "departure": "2015-03-16 11:15",
+      "serviceId": "2_18",
+      "tripId": "2_10316",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:21",
+      "departure": "2015-03-16 11:21",
+      "serviceId": "2_18",
+      "tripId": "2_16680",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 11:23",
+      "departure": "2015-03-16 11:23",
+      "serviceId": "2_18",
+      "tripId": "2_15550",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:25",
+      "departure": "2015-03-16 11:25",
+      "serviceId": "2_18",
+      "tripId": "2_10321",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:33",
+      "departure": "2015-03-16 11:33",
+      "serviceId": "2_18",
+      "tripId": "2_15555",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:36",
+      "departure": "2015-03-16 11:36",
+      "serviceId": "2_18",
+      "tripId": "2_10326",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:36",
+      "departure": "2015-03-16 11:36",
+      "serviceId": "2_18",
+      "tripId": "2_16785",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 11:43",
+      "departure": "2015-03-16 11:43",
+      "serviceId": "2_18",
+      "tripId": "2_15080",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:47",
+      "departure": "2015-03-16 11:47",
+      "serviceId": "2_18",
+      "tripId": "2_10331",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 11:51",
+      "departure": "2015-03-16 11:51",
+      "serviceId": "2_18",
+      "tripId": "2_16755",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 11:53",
+      "departure": "2015-03-16 11:53",
+      "serviceId": "2_18",
+      "tripId": "2_15735",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 11:58",
+      "departure": "2015-03-16 11:58",
+      "serviceId": "2_18",
+      "tripId": "2_10336",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:03",
+      "departure": "2015-03-16 12:03",
+      "serviceId": "2_18",
+      "tripId": "2_15005",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:06",
+      "departure": "2015-03-16 12:06",
+      "serviceId": "2_18",
+      "tripId": "2_16760",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 12:09",
+      "departure": "2015-03-16 12:09",
+      "serviceId": "2_18",
+      "tripId": "2_10341",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:13",
+      "departure": "2015-03-16 12:13",
+      "serviceId": "2_18",
+      "tripId": "2_15470",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:19",
+      "departure": "2015-03-16 12:19",
+      "serviceId": "2_18",
+      "tripId": "2_10346",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:21",
+      "departure": "2015-03-16 12:21",
+      "serviceId": "2_18",
+      "tripId": "2_16750",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 12:23",
+      "departure": "2015-03-16 12:23",
+      "serviceId": "2_18",
+      "tripId": "2_15520",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:29",
+      "departure": "2015-03-16 12:29",
+      "serviceId": "2_18",
+      "tripId": "2_10351",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:33",
+      "departure": "2015-03-16 12:33",
+      "serviceId": "2_18",
+      "tripId": "2_14965",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:37",
+      "departure": "2015-03-16 12:37",
+      "serviceId": "2_18",
+      "tripId": "2_16675",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 12:39",
+      "departure": "2015-03-16 12:39",
+      "serviceId": "2_18",
+      "tripId": "2_10356",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:43",
+      "departure": "2015-03-16 12:43",
+      "serviceId": "2_18",
+      "tripId": "2_15020",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:49",
+      "departure": "2015-03-16 12:49",
+      "serviceId": "2_18",
+      "tripId": "2_10361",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 12:52",
+      "departure": "2015-03-16 12:52",
+      "serviceId": "2_18",
+      "tripId": "2_15035",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 12:52",
+      "departure": "2015-03-16 12:52",
+      "serviceId": "2_18",
+      "tripId": "2_16720",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 12:59",
+      "departure": "2015-03-16 12:59",
+      "serviceId": "2_18",
+      "tripId": "2_10366",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:01",
+      "departure": "2015-03-16 13:01",
+      "serviceId": "2_18",
+      "tripId": "2_15560",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:07",
+      "departure": "2015-03-16 13:07",
+      "serviceId": "2_18",
+      "tripId": "2_16775",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 13:10",
+      "departure": "2015-03-16 13:10",
+      "serviceId": "2_18",
+      "tripId": "2_10371",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:10",
+      "departure": "2015-03-16 13:10",
+      "serviceId": "2_18",
+      "tripId": "2_15250",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:19",
+      "departure": "2015-03-16 13:19",
+      "serviceId": "2_18",
+      "tripId": "2_15920",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:21",
+      "departure": "2015-03-16 13:21",
+      "serviceId": "2_18",
+      "tripId": "2_10376",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:22",
+      "departure": "2015-03-16 13:22",
+      "serviceId": "2_18",
+      "tripId": "2_16770",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 13:28",
+      "departure": "2015-03-16 13:28",
+      "serviceId": "2_18",
+      "tripId": "2_15460",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:32",
+      "departure": "2015-03-16 13:32",
+      "serviceId": "2_18",
+      "tripId": "2_10386",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:37",
+      "departure": "2015-03-16 13:37",
+      "serviceId": "2_18",
+      "tripId": "2_15060",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:37",
+      "departure": "2015-03-16 13:37",
+      "serviceId": "2_18",
+      "tripId": "2_16705",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 13:40",
+      "departure": "2015-03-16 13:40",
+      "serviceId": "2_18",
+      "tripId": "2_10381",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:47",
+      "departure": "2015-03-16 13:47",
+      "serviceId": "2_18",
+      "tripId": "2_15570",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 13:48",
+      "departure": "2015-03-16 13:48",
+      "serviceId": "2_18",
+      "tripId": "2_10781",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:52",
+      "departure": "2015-03-16 13:52",
+      "serviceId": "2_18",
+      "tripId": "2_16670",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 13:56",
+      "departure": "2015-03-16 13:56",
+      "serviceId": "2_18",
+      "tripId": "2_10391",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 13:56",
+      "departure": "2015-03-16 13:56",
+      "serviceId": "2_18",
+      "tripId": "2_15525",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:05",
+      "departure": "2015-03-16 14:05",
+      "serviceId": "2_18",
+      "tripId": "2_15545",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:06",
+      "departure": "2015-03-16 14:06",
+      "serviceId": "2_18",
+      "tripId": "2_10396",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:09",
+      "departure": "2015-03-16 14:09",
+      "serviceId": "2_18",
+      "tripId": "2_16735",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 14:14",
+      "departure": "2015-03-16 14:14",
+      "serviceId": "2_18",
+      "tripId": "2_15465",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:16",
+      "departure": "2015-03-16 14:16",
+      "serviceId": "2_18",
+      "tripId": "2_10401",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:23",
+      "departure": "2015-03-16 14:23",
+      "serviceId": "2_18",
+      "tripId": "2_15075",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:25",
+      "departure": "2015-03-16 14:25",
+      "serviceId": "2_18",
+      "tripId": "2_10406",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:25",
+      "departure": "2015-03-16 14:25",
+      "serviceId": "2_18",
+      "tripId": "2_16725",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 14:33",
+      "departure": "2015-03-16 14:33",
+      "serviceId": "2_18",
+      "tripId": "2_15675",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:35",
+      "departure": "2015-03-16 14:35",
+      "serviceId": "2_18",
+      "tripId": "2_10411",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:40",
+      "departure": "2015-03-16 14:40",
+      "serviceId": "2_18",
+      "tripId": "2_16710",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 14:42",
+      "departure": "2015-03-16 14:42",
+      "serviceId": "2_18",
+      "tripId": "2_15015",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:45",
+      "departure": "2015-03-16 14:45",
+      "serviceId": "2_18",
+      "tripId": "2_10416",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:51",
+      "departure": "2015-03-16 14:51",
+      "serviceId": "2_18",
+      "tripId": "2_15530",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 14:55",
+      "departure": "2015-03-16 14:55",
+      "serviceId": "2_18",
+      "tripId": "2_10421",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 14:55",
+      "departure": "2015-03-16 14:55",
+      "serviceId": "2_18",
+      "tripId": "2_16740",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 15:00",
+      "departure": "2015-03-16 15:00",
+      "serviceId": "2_18",
+      "tripId": "2_15725",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:05",
+      "departure": "2015-03-16 15:05",
+      "serviceId": "2_18",
+      "tripId": "2_10426",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:09",
+      "departure": "2015-03-16 15:09",
+      "serviceId": "2_18",
+      "tripId": "2_15935",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:11",
+      "departure": "2015-03-16 15:11",
+      "serviceId": "2_18",
+      "tripId": "2_16685",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 15:15",
+      "departure": "2015-03-16 15:15",
+      "serviceId": "2_18",
+      "tripId": "2_10431",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:18",
+      "departure": "2015-03-16 15:18",
+      "serviceId": "2_18",
+      "tripId": "2_15340",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:25",
+      "departure": "2015-03-16 15:25",
+      "serviceId": "2_18",
+      "tripId": "2_10436",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:26",
+      "departure": "2015-03-16 15:26",
+      "serviceId": "2_18",
+      "tripId": "2_16665",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 15:27",
+      "departure": "2015-03-16 15:27",
+      "serviceId": "2_18",
+      "tripId": "2_15345",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:35",
+      "departure": "2015-03-16 15:35",
+      "serviceId": "2_18",
+      "tripId": "2_10441",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:36",
+      "departure": "2015-03-16 15:36",
+      "serviceId": "2_18",
+      "tripId": "2_15350",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:41",
+      "departure": "2015-03-16 15:41",
+      "serviceId": "2_18",
+      "tripId": "2_17140",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 15:45",
+      "departure": "2015-03-16 15:45",
+      "serviceId": "2_18",
+      "tripId": "2_10446",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:45",
+      "departure": "2015-03-16 15:45",
+      "serviceId": "2_18",
+      "tripId": "2_15355",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:54",
+      "departure": "2015-03-16 15:54",
+      "serviceId": "2_18",
+      "tripId": "2_10451",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 15:54",
+      "departure": "2015-03-16 15:54",
+      "serviceId": "2_18",
+      "tripId": "2_15360",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 15:57",
+      "departure": "2015-03-16 15:57",
+      "serviceId": "2_18",
+      "tripId": "2_16695",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:03",
+      "departure": "2015-03-16 16:03",
+      "serviceId": "2_18",
+      "tripId": "2_10456",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:03",
+      "departure": "2015-03-16 16:03",
+      "serviceId": "2_18",
+      "tripId": "2_15905",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:12",
+      "departure": "2015-03-16 16:12",
+      "serviceId": "2_18",
+      "tripId": "2_10461",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:12",
+      "departure": "2015-03-16 16:12",
+      "serviceId": "2_18",
+      "tripId": "2_15420",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:12",
+      "departure": "2015-03-16 16:12",
+      "serviceId": "2_18",
+      "tripId": "2_16690",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:21",
+      "departure": "2015-03-16 16:21",
+      "serviceId": "2_18",
+      "tripId": "2_10466",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:21",
+      "departure": "2015-03-16 16:21",
+      "serviceId": "2_18",
+      "tripId": "2_15425",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:22",
+      "departure": "2015-03-16 16:22",
+      "serviceId": "2_18",
+      "tripId": "2_14807",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 16:22",
+      "departure": "2015-03-16 16:22",
+      "serviceId": "2_18",
+      "tripId": "2_17020",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:30",
+      "departure": "2015-03-16 16:30",
+      "serviceId": "2_18",
+      "tripId": "2_15865",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:31",
+      "departure": "2015-03-16 16:31",
+      "serviceId": "2_18",
+      "tripId": "2_10471",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:33",
+      "departure": "2015-03-16 16:33",
+      "serviceId": "2_18",
+      "tripId": "2_17025",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:38",
+      "departure": "2015-03-16 16:38",
+      "serviceId": "2_18",
+      "tripId": "2_15775",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:41",
+      "departure": "2015-03-16 16:41",
+      "serviceId": "2_18",
+      "tripId": "2_10616",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:42",
+      "departure": "2015-03-16 16:42",
+      "serviceId": "2_18",
+      "tripId": "2_14812",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 16:43",
+      "departure": "2015-03-16 16:43",
+      "serviceId": "2_18",
+      "tripId": "2_17030",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:47",
+      "departure": "2015-03-16 16:47",
+      "serviceId": "2_18",
+      "tripId": "2_15780",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 16:51",
+      "departure": "2015-03-16 16:51",
+      "serviceId": "2_18",
+      "tripId": "2_10621",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 16:53",
+      "departure": "2015-03-16 16:53",
+      "serviceId": "2_18",
+      "tripId": "2_17035",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 16:54",
+      "departure": "2015-03-16 16:54",
+      "serviceId": "2_18",
+      "tripId": "2_15785",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:01",
+      "departure": "2015-03-16 17:01",
+      "serviceId": "2_18",
+      "tripId": "2_10626",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:02",
+      "departure": "2015-03-16 17:02",
+      "serviceId": "2_18",
+      "tripId": "2_14857",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 17:02",
+      "departure": "2015-03-16 17:02",
+      "serviceId": "2_18",
+      "tripId": "2_15260",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:03",
+      "departure": "2015-03-16 17:03",
+      "serviceId": "2_18",
+      "tripId": "2_17040",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 17:10",
+      "departure": "2015-03-16 17:10",
+      "serviceId": "2_18",
+      "tripId": "2_15265",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:11",
+      "departure": "2015-03-16 17:11",
+      "serviceId": "2_18",
+      "tripId": "2_10631",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:14",
+      "departure": "2015-03-16 17:14",
+      "serviceId": "2_18",
+      "tripId": "2_17045",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 17:19",
+      "departure": "2015-03-16 17:19",
+      "serviceId": "2_18",
+      "tripId": "2_15270",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:22",
+      "departure": "2015-03-16 17:22",
+      "serviceId": "2_18",
+      "tripId": "2_10636",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:24",
+      "departure": "2015-03-16 17:24",
+      "serviceId": "2_18",
+      "tripId": "2_17050",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 17:25",
+      "departure": "2015-03-16 17:25",
+      "serviceId": "2_18",
+      "tripId": "2_14817",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 17:28",
+      "departure": "2015-03-16 17:28",
+      "serviceId": "2_18",
+      "tripId": "2_15275",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:33",
+      "departure": "2015-03-16 17:33",
+      "serviceId": "2_18",
+      "tripId": "2_10641",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:34",
+      "departure": "2015-03-16 17:34",
+      "serviceId": "2_18",
+      "tripId": "2_17055",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 17:37",
+      "departure": "2015-03-16 17:37",
+      "serviceId": "2_18",
+      "tripId": "2_15430",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:43",
+      "departure": "2015-03-16 17:43",
+      "serviceId": "2_18",
+      "tripId": "2_10221",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:44",
+      "departure": "2015-03-16 17:44",
+      "serviceId": "2_18",
+      "tripId": "2_17060",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 17:45",
+      "departure": "2015-03-16 17:45",
+      "serviceId": "2_18",
+      "tripId": "2_14822",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 17:45",
+      "departure": "2015-03-16 17:45",
+      "serviceId": "2_18",
+      "tripId": "2_15435",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:53",
+      "departure": "2015-03-16 17:53",
+      "serviceId": "2_18",
+      "tripId": "2_15440",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 17:54",
+      "departure": "2015-03-16 17:54",
+      "serviceId": "2_18",
+      "tripId": "2_10646",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 17:54",
+      "departure": "2015-03-16 17:54",
+      "serviceId": "2_18",
+      "tripId": "2_17160",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 18:00",
+      "departure": "2015-03-16 18:00",
+      "serviceId": "2_18",
+      "tripId": "2_19431",
+      "routeId": "2_0207",
+      "headsign": "207 | Rennes Gares"
+    },
+    {
+      "arrival": "2015-03-16 18:01",
+      "departure": "2015-03-16 18:01",
+      "serviceId": "2_18",
+      "tripId": "2_15445",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:04",
+      "departure": "2015-03-16 18:04",
+      "serviceId": "2_18",
+      "tripId": "2_17065",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 18:05",
+      "departure": "2015-03-16 18:05",
+      "serviceId": "2_18",
+      "tripId": "2_10651",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:06",
+      "departure": "2015-03-16 18:06",
+      "serviceId": "2_18",
+      "tripId": "2_14847",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 18:10",
+      "departure": "2015-03-16 18:10",
+      "serviceId": "2_18",
+      "tripId": "2_15365",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:15",
+      "departure": "2015-03-16 18:15",
+      "serviceId": "2_18",
+      "tripId": "2_10656",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:15",
+      "departure": "2015-03-16 18:15",
+      "serviceId": "2_18",
+      "tripId": "2_17070",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 18:18",
+      "departure": "2015-03-16 18:18",
+      "serviceId": "2_18",
+      "tripId": "2_15370",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:25",
+      "departure": "2015-03-16 18:25",
+      "serviceId": "2_18",
+      "tripId": "2_10661",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:26",
+      "departure": "2015-03-16 18:26",
+      "serviceId": "2_18",
+      "tripId": "2_14827",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 18:27",
+      "departure": "2015-03-16 18:27",
+      "serviceId": "2_18",
+      "tripId": "2_15375",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:27",
+      "departure": "2015-03-16 18:27",
+      "serviceId": "2_18",
+      "tripId": "2_17075",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 18:35",
+      "departure": "2015-03-16 18:35",
+      "serviceId": "2_18",
+      "tripId": "2_10666",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:35",
+      "departure": "2015-03-16 18:35",
+      "serviceId": "2_18",
+      "tripId": "2_15380",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:37",
+      "departure": "2015-03-16 18:37",
+      "serviceId": "2_18",
+      "tripId": "2_17145",
+      "routeId": "2_0011",
+      "headsign": "11 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-03-16 18:44",
+      "departure": "2015-03-16 18:44",
+      "serviceId": "2_18",
+      "tripId": "2_15385",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:45",
+      "departure": "2015-03-16 18:45",
+      "serviceId": "2_18",
+      "tripId": "2_10671",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:45",
+      "departure": "2015-03-16 18:45",
+      "serviceId": "2_18",
+      "tripId": "2_14832",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 18:46",
+      "departure": "2015-03-16 18:46",
+      "serviceId": "2_18",
+      "tripId": "2_17080",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 18:52",
+      "departure": "2015-03-16 18:52",
+      "serviceId": "2_18",
+      "tripId": "2_15390",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 18:53",
+      "departure": "2015-03-16 18:53",
+      "serviceId": "2_18",
+      "tripId": "2_10676",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 18:57",
+      "departure": "2015-03-16 18:57",
+      "serviceId": "2_18",
+      "tripId": "2_17085",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 19:00",
+      "departure": "2015-03-16 19:00",
+      "serviceId": "2_18",
+      "tripId": "2_15395",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:03",
+      "departure": "2015-03-16 19:03",
+      "serviceId": "2_18",
+      "tripId": "2_10681",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 19:07",
+      "departure": "2015-03-16 19:07",
+      "serviceId": "2_18",
+      "tripId": "2_14852",
+      "routeId": "2_0041",
+      "headsign": "41 | Gares"
+    },
+    {
+      "arrival": "2015-03-16 19:07",
+      "departure": "2015-03-16 19:07",
+      "serviceId": "2_18",
+      "tripId": "2_17090",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 19:08",
+      "departure": "2015-03-16 19:08",
+      "serviceId": "2_18",
+      "tripId": "2_15895",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:13",
+      "departure": "2015-03-16 19:13",
+      "serviceId": "2_18",
+      "tripId": "2_10686",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 19:16",
+      "departure": "2015-03-16 19:16",
+      "serviceId": "2_18",
+      "tripId": "2_15400",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:22",
+      "departure": "2015-03-16 19:22",
+      "serviceId": "2_18",
+      "tripId": "2_17095",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 19:23",
+      "departure": "2015-03-16 19:23",
+      "serviceId": "2_18",
+      "tripId": "2_10691",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 19:24",
+      "departure": "2015-03-16 19:24",
+      "serviceId": "2_18",
+      "tripId": "2_15915",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:34",
+      "departure": "2015-03-16 19:34",
+      "serviceId": "2_18",
+      "tripId": "2_15900",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:36",
+      "departure": "2015-03-16 19:36",
+      "serviceId": "2_18",
+      "tripId": "2_10696",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 19:42",
+      "departure": "2015-03-16 19:42",
+      "serviceId": "2_18",
+      "tripId": "2_17100",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 19:46",
+      "departure": "2015-03-16 19:46",
+      "serviceId": "2_18",
+      "tripId": "2_15405",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 19:48",
+      "departure": "2015-03-16 19:48",
+      "serviceId": "2_18",
+      "tripId": "2_10766",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 19:58",
+      "departure": "2015-03-16 19:58",
+      "serviceId": "2_18",
+      "tripId": "2_15450",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 20:00",
+      "departure": "2015-03-16 20:00",
+      "serviceId": "2_18",
+      "tripId": "2_10701",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 20:03",
+      "departure": "2015-03-16 20:03",
+      "serviceId": "2_18",
+      "tripId": "2_16985",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 20:11",
+      "departure": "2015-03-16 20:11",
+      "serviceId": "2_18",
+      "tripId": "2_15415",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 20:17",
+      "departure": "2015-03-16 20:17",
+      "serviceId": "2_18",
+      "tripId": "2_10706",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 20:26",
+      "departure": "2015-03-16 20:26",
+      "serviceId": "2_18",
+      "tripId": "2_15455",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 20:34",
+      "departure": "2015-03-16 20:34",
+      "serviceId": "2_18",
+      "tripId": "2_16975",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 20:37",
+      "departure": "2015-03-16 20:37",
+      "serviceId": "2_18",
+      "tripId": "2_10711",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 20:46",
+      "departure": "2015-03-16 20:46",
+      "serviceId": "2_18",
+      "tripId": "2_15845",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 20:57",
+      "departure": "2015-03-16 20:57",
+      "serviceId": "2_18",
+      "tripId": "2_10716",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 21:18",
+      "departure": "2015-03-16 21:18",
+      "serviceId": "2_18",
+      "tripId": "2_15880",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 21:19",
+      "departure": "2015-03-16 21:19",
+      "serviceId": "2_18",
+      "tripId": "2_16965",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 21:53",
+      "departure": "2015-03-16 21:53",
+      "serviceId": "2_18",
+      "tripId": "2_15800",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 21:57",
+      "departure": "2015-03-16 21:57",
+      "serviceId": "2_18",
+      "tripId": "2_10721",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 22:19",
+      "departure": "2015-03-16 22:19",
+      "serviceId": "2_16",
+      "tripId": "2_14772",
+      "routeId": "2_0011",
+      "headsign": "11 | ZI Ouest"
+    },
+    {
+      "arrival": "2015-03-16 22:31",
+      "departure": "2015-03-16 22:31",
+      "serviceId": "2_18",
+      "tripId": "2_15825",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 23:02",
+      "departure": "2015-03-16 23:02",
+      "serviceId": "2_18",
+      "tripId": "2_10726",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-16 23:06",
+      "departure": "2015-03-16 23:06",
+      "serviceId": "2_18",
+      "tripId": "2_15875",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-16 23:39",
+      "departure": "2015-03-16 23:39",
+      "serviceId": "2_18",
+      "tripId": "2_15810",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    },
+    {
+      "arrival": "2015-03-17 00:12",
+      "departure": "2015-03-17 00:12",
+      "serviceId": "2_18",
+      "tripId": "2_10731",
+      "routeId": "2_0002",
+      "headsign": "2 | Grand Quartier"
+    },
+    {
+      "arrival": "2015-03-17 00:19",
+      "departure": "2015-03-17 00:19",
+      "serviceId": "2_18",
+      "tripId": "2_15820",
+      "routeId": "2_0001",
+      "headsign": "1 | Cesson-Sévigné Champs Blancs"
+    }
+  ]
+}

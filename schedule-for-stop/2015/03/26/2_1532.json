@@ -1,0 +1,68 @@
+{
+  "date": "2015-03-26 00:00",
+  "stop": {
+    "id": "2_1532",
+    "lat": 48.127001,
+    "lon": -1.652714,
+    "name": "Joliot-Curie",
+    "code": 1532
+  },
+  "routes": [
+    {
+      "id": "2_0206",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Métairies Chalotais) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "206",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0216",
+      "textColor": "1A171B",
+      "color": "F29FC5",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Base de Loisirs) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "216",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0217",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Cesson-Sévigné (Cormiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "217",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-26 08:00",
+      "departure": "2015-03-26 08:00",
+      "serviceId": "2_14",
+      "tripId": "2_14748",
+      "routeId": "2_0216",
+      "headsign": "216 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-03-26 08:00",
+      "departure": "2015-03-26 08:00",
+      "serviceId": "2_14",
+      "tripId": "2_18520",
+      "routeId": "2_0206",
+      "headsign": "206 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-03-26 08:55",
+      "departure": "2015-03-26 08:55",
+      "serviceId": "2_14",
+      "tripId": "2_14758",
+      "routeId": "2_0217",
+      "headsign": "217 | Rennes Lycée Assomption"
+    }
+  ]
+}

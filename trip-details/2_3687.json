@@ -1,113 +1,223 @@
 {
-  "headsign": "154 | Le Rheu Cintré",
+  "headsign": "56 | Chavagne",
   "stopTimes": [
     {
       "stop": {
+        "id": "2_1595",
+        "lat": 48.105833,
+        "lon": -1.6773,
+        "name": "Charles de Gaulle",
+        "code": 1595
+      },
+      "arrival": 28560,
+      "departure": 28560
+    },
+    {
+      "stop": {
         "id": "2_1214",
-        "lat": 48.10990137,
-        "lon": -1.6796669,
+        "lat": 48.109932,
+        "lon": -1.679644,
         "name": "République",
         "code": 1214
       },
-      "arrival": 62700,
-      "departure": 62700
+      "arrival": 28800,
+      "departure": 28800
     },
     {
       "stop": {
         "id": "2_1540",
-        "lat": 48.1099522,
-        "lon": -1.68519001,
+        "lat": 48.109999,
+        "lon": -1.685158,
         "name": "Pont de Bretagne",
         "code": 1540
       },
-      "arrival": 62760,
-      "departure": 62760
+      "arrival": 28920,
+      "departure": 28920
     },
     {
       "stop": {
-        "id": "2_2515",
-        "lat": 48.09924523,
-        "lon": -1.79065184,
-        "name": "Genêts",
-        "code": 2515
+        "id": "2_1217",
+        "lat": 48.108252,
+        "lon": -1.694511,
+        "name": "Chèques Postaux",
+        "code": 1217
       },
-      "arrival": 64080,
-      "departure": 64080
+      "arrival": 29100,
+      "departure": 29100
     },
     {
       "stop": {
-        "id": "2_2516",
-        "lat": 48.10177606,
-        "lon": -1.79491908,
-        "name": "Bouleaux",
-        "code": 2516
+        "id": "2_1218",
+        "lat": 48.109099,
+        "lon": -1.697997,
+        "name": "Guilloux Lorient",
+        "code": 1218
       },
-      "arrival": 64200,
-      "departure": 64200
+      "arrival": 29160,
+      "departure": 29160
     },
     {
       "stop": {
-        "id": "2_2517",
-        "lat": 48.0993953,
-        "lon": -1.79670831,
-        "name": "Brassens",
-        "code": 2517
+        "id": "2_1221",
+        "lat": 48.108871,
+        "lon": -1.710766,
+        "name": "Géniaux",
+        "code": 1221
       },
-      "arrival": 64260,
-      "departure": 64260
+      "arrival": 29340,
+      "departure": 29340
     },
     {
       "stop": {
-        "id": "2_2518",
-        "lat": 48.09927492,
-        "lon": -1.80209424,
-        "name": "Champs Freslons",
-        "code": 2518
+        "id": "2_1539",
+        "lat": 48.107253,
+        "lon": -1.723135,
+        "name": "Lemaistre",
+        "code": 1539
       },
-      "arrival": 64380,
-      "departure": 64380
+      "arrival": 29460,
+      "departure": 29460
     },
     {
       "stop": {
-        "id": "2_2519",
-        "lat": 48.10084549,
-        "lon": -1.80690728,
-        "name": "Lycée Monod",
-        "code": 2519
+        "id": "2_1506",
+        "lat": 48.106477,
+        "lon": -1.73157,
+        "name": "Berthault",
+        "code": 1506
       },
-      "arrival": 64440,
-      "departure": 64440
+      "arrival": 29580,
+      "departure": 29580
     },
     {
       "stop": {
-        "id": "2_4654",
-        "lat": 48.10342337,
-        "lon": -1.86944808,
-        "name": "Saint-Melaine",
-        "code": 4654
+        "id": "2_3766",
+        "lat": 48.104998,
+        "lon": -1.740624,
+        "name": "Trois Marches",
+        "code": 3766
       },
-      "arrival": 64800,
-      "departure": 64800
+      "arrival": 29700,
+      "departure": 29700
     },
     {
       "stop": {
-        "id": "2_4652",
-        "lat": 48.10508252,
-        "lon": -1.87271047,
-        "name": "Chêne Vert",
-        "code": 4652
+        "id": "2_2512",
+        "lat": 48.096246,
+        "lon": -1.764714,
+        "name": "Pont d\u0027Avoine",
+        "code": 2512
       },
-      "arrival": 64860,
-      "departure": 64860
+      "arrival": 29880,
+      "departure": 29880
+    },
+    {
+      "stop": {
+        "id": "2_2523",
+        "lat": 48.0941,
+        "lon": -1.774098,
+        "name": "Mahomat",
+        "code": 2523
+      },
+      "arrival": 29940,
+      "departure": 29940
+    },
+    {
+      "stop": {
+        "id": "2_2529",
+        "lat": 48.08028,
+        "lon": -1.774466,
+        "name": "Moigné",
+        "code": 2529
+      },
+      "arrival": 30120,
+      "departure": 30120
+    },
+    {
+      "stop": {
+        "id": "2_2530",
+        "lat": 48.078763,
+        "lon": -1.772125,
+        "name": "Haut Plessis",
+        "code": 2530
+      },
+      "arrival": 30120,
+      "departure": 30120
+    },
+    {
+      "stop": {
+        "id": "2_4207",
+        "lat": 48.063429,
+        "lon": -1.772449,
+        "name": "Mare Doux",
+        "code": 4207
+      },
+      "arrival": 30360,
+      "departure": 30360
+    },
+    {
+      "stop": {
+        "id": "2_4208",
+        "lat": 48.057762,
+        "lon": -1.77645,
+        "name": "Grippay",
+        "code": 4208
+      },
+      "arrival": 30420,
+      "departure": 30420
+    },
+    {
+      "stop": {
+        "id": "2_4209",
+        "lat": 48.054115,
+        "lon": -1.783746,
+        "name": "Avenir",
+        "code": 4209
+      },
+      "arrival": 30540,
+      "departure": 30540
+    },
+    {
+      "stop": {
+        "id": "2_4203",
+        "lat": 48.05512,
+        "lon": -1.790086,
+        "name": "Alfred de Musset",
+        "code": 4203
+      },
+      "arrival": 30600,
+      "departure": 30600
+    },
+    {
+      "stop": {
+        "id": "2_4211",
+        "lat": 48.052438,
+        "lon": -1.790592,
+        "name": "Calvaire",
+        "code": 4211
+      },
+      "arrival": 30660,
+      "departure": 30660
+    },
+    {
+      "stop": {
+        "id": "2_4201",
+        "lat": 48.051925,
+        "lon": -1.797682,
+        "name": "Croix Blanche",
+        "code": 4201
+      },
+      "arrival": 30780,
+      "departure": 30780
     }
   ],
   "route": {
-    "id": "2_0154",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express métropolitaine",
-    "longName": "Rennes (République) \u003c\u003e Le Rheu / Cintré",
-    "shortName": "154",
+    "id": "2_0056",
+    "textColor": "FFFFFF",
+    "color": "009A47",
+    "description": "Métropolitaine",
+    "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+    "shortName": "56",
     "type": 3,
     "agencyId": "2"
   }
