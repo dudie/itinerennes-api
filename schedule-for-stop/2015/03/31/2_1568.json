@@ -1,0 +1,58 @@
+{
+  "date": "2015-03-31 00:00",
+  "stop": {
+    "id": "2_1568",
+    "lat": 48.121028,
+    "lon": -1.713571,
+    "name": "Kennedy Guyenne",
+    "code": 1568
+  },
+  "routes": [
+    {
+      "id": "2_0209",
+      "textColor": "FFFFFF",
+      "color": "BA67A6",
+      "description": "Complémentaire",
+      "longName": "Vezin-le-Coquet (Vallée) \u003c\u003e Rennes (Collège Rosa Parks)",
+      "shortName": "209",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-31 04:31",
+      "departure": "2015-03-31 04:31",
+      "serviceId": "2_22",
+      "tripId": "2_7611",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 1"
+    },
+    {
+      "arrival": "2015-03-31 15:52",
+      "departure": "2015-03-31 15:52",
+      "serviceId": "2_27",
+      "tripId": "2_10828",
+      "routeId": "2_0209",
+      "headsign": "209 | Vezin-le-Coquet Vallée"
+    },
+    {
+      "arrival": "2015-03-31 16:57",
+      "departure": "2015-03-31 16:57",
+      "serviceId": "2_27",
+      "tripId": "2_10832",
+      "routeId": "2_0209",
+      "headsign": "209 | Vezin-le-Coquet Vallée"
+    }
+  ]
+}

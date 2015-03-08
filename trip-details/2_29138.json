@@ -1,124 +1,234 @@
 {
-  "headsign": "161 | Bourgbarré",
+  "headsign": "61 | Rennes Henri Fréville",
   "stopTimes": [
     {
       "stop": {
+        "id": "2_4351",
+        "lat": 48.01727,
+        "lon": -1.660332,
+        "name": "Parc d\u0027Activités",
+        "code": 4351
+      },
+      "arrival": 40800,
+      "departure": 40800
+    },
+    {
+      "stop": {
+        "id": "2_4352",
+        "lat": 48.018873,
+        "lon": -1.657716,
+        "name": "Champ Mulon",
+        "code": 4352
+      },
+      "arrival": 40860,
+      "departure": 40860
+    },
+    {
+      "stop": {
+        "id": "2_4353",
+        "lat": 48.017654,
+        "lon": -1.654585,
+        "name": "Paul Féval",
+        "code": 4353
+      },
+      "arrival": 40920,
+      "departure": 40920
+    },
+    {
+      "stop": {
+        "id": "2_4362",
+        "lat": 48.016196,
+        "lon": -1.651517,
+        "name": "Alexandre Gilois",
+        "code": 4362
+      },
+      "arrival": 40920,
+      "departure": 40920
+    },
+    {
+      "stop": {
+        "id": "2_4358",
+        "lat": 48.017644,
+        "lon": -1.649467,
+        "name": "Croix Faucheux",
+        "code": 4358
+      },
+      "arrival": 40980,
+      "departure": 40980
+    },
+    {
+      "stop": {
+        "id": "2_4359",
+        "lat": 48.021537,
+        "lon": -1.653502,
+        "name": "Leuzières",
+        "code": 4359
+      },
+      "arrival": 41040,
+      "departure": 41040
+    },
+    {
+      "stop": {
+        "id": "2_2705",
+        "lat": 48.02908,
+        "lon": -1.659799,
+        "name": "Bray",
+        "code": 2705
+      },
+      "arrival": 41160,
+      "departure": 41160
+    },
+    {
+      "stop": {
+        "id": "2_2734",
+        "lat": 48.034436,
+        "lon": -1.663421,
+        "name": "Côteaux",
+        "code": 2734
+      },
+      "arrival": 41220,
+      "departure": 41220
+    },
+    {
+      "stop": {
+        "id": "2_2727",
+        "lat": 48.038446,
+        "lon": -1.666525,
+        "name": "Pont",
+        "code": 2727
+      },
+      "arrival": 41280,
+      "departure": 41280
+    },
+    {
+      "stop": {
+        "id": "2_2706",
+        "lat": 48.038455,
+        "lon": -1.670722,
+        "name": "Molène",
+        "code": 2706
+      },
+      "arrival": 41400,
+      "departure": 41400
+    },
+    {
+      "stop": {
+        "id": "2_2707",
+        "lat": 48.040768,
+        "lon": -1.671907,
+        "name": "Potiers",
+        "code": 2707
+      },
+      "arrival": 41460,
+      "departure": 41460
+    },
+    {
+      "stop": {
+        "id": "2_2708",
+        "lat": 48.042386,
+        "lon": -1.665537,
+        "name": "Centre",
+        "code": 2708
+      },
+      "arrival": 41520,
+      "departure": 41520
+    },
+    {
+      "stop": {
+        "id": "2_2709",
+        "lat": 48.044053,
+        "lon": -1.661183,
+        "name": "Salle Polyvalente",
+        "code": 2709
+      },
+      "arrival": 41580,
+      "departure": 41580
+    },
+    {
+      "stop": {
+        "id": "2_2710",
+        "lat": 48.047169,
+        "lon": -1.661203,
+        "name": "Petite Saudrais",
+        "code": 2710
+      },
+      "arrival": 41640,
+      "departure": 41640
+    },
+    {
+      "stop": {
+        "id": "2_2711",
+        "lat": 48.056658,
+        "lon": -1.663721,
+        "name": "Croix Fleurie",
+        "code": 2711
+      },
+      "arrival": 41760,
+      "departure": 41760
+    },
+    {
+      "stop": {
+        "id": "2_2712",
+        "lat": 48.06368,
+        "lon": -1.66369,
+        "name": "Mail Lancé",
+        "code": 2712
+      },
+      "arrival": 41820,
+      "departure": 41820
+    },
+    {
+      "stop": {
+        "id": "2_2713",
+        "lat": 48.068453,
+        "lon": -1.665713,
+        "name": "Petit Beaulieu",
+        "code": 2713
+      },
+      "arrival": 41820,
+      "departure": 41820
+    },
+    {
+      "stop": {
+        "id": "2_2714",
+        "lat": 48.077187,
+        "lon": -1.661021,
+        "name": "Hil-Bintinais",
+        "code": 2714
+      },
+      "arrival": 41940,
+      "departure": 41940
+    },
+    {
+      "stop": {
+        "id": "2_1441",
+        "lat": 48.08608,
+        "lon": -1.660855,
+        "name": "Triangle",
+        "code": 1441
+      },
+      "arrival": 42060,
+      "departure": 42060
+    },
+    {
+      "stop": {
         "id": "2_1510",
-        "lat": 48.08777948,
-        "lon": -1.67446532,
+        "lat": 48.087784,
+        "lon": -1.674415,
         "name": "Henri Fréville",
         "code": 1510
       },
-      "arrival": 66300,
-      "departure": 66300
-    },
-    {
-      "stop": {
-        "id": "2_1465",
-        "lat": 48.08611757,
-        "lon": -1.66106774,
-        "name": "Triangle",
-        "code": 1465
-      },
-      "arrival": 66600,
-      "departure": 66600
-    },
-    {
-      "stop": {
-        "id": "2_2730",
-        "lat": 48.04624052,
-        "lon": -1.66470375,
-        "name": "Croix de Pierre",
-        "code": 2730
-      },
-      "arrival": 67080,
-      "departure": 67080
-    },
-    {
-      "stop": {
-        "id": "2_2731",
-        "lat": 48.04294494,
-        "lon": -1.66597246,
-        "name": "Centre",
-        "code": 2731
-      },
-      "arrival": 67140,
-      "departure": 67140
-    },
-    {
-      "stop": {
-        "id": "2_2733",
-        "lat": 48.03487037,
-        "lon": -1.66409088,
-        "name": "Côteaux",
-        "code": 2733
-      },
-      "arrival": 67260,
-      "departure": 67260
-    },
-    {
-      "stop": {
-        "id": "2_4360",
-        "lat": 48.02156395,
-        "lon": -1.65364618,
-        "name": "Leuzières",
-        "code": 4360
-      },
-      "arrival": 67440,
-      "departure": 67440
-    },
-    {
-      "stop": {
-        "id": "2_4361",
-        "lat": 48.01776753,
-        "lon": -1.64957701,
-        "name": "Croix Faucheux",
-        "code": 4361
-      },
-      "arrival": 67500,
-      "departure": 67500
-    },
-    {
-      "stop": {
-        "id": "2_3815",
-        "lat": 47.99753101,
-        "lon": -1.61890953,
-        "name": "Rue de Rennes",
-        "code": 3815
-      },
-      "arrival": 67740,
-      "departure": 67740
-    },
-    {
-      "stop": {
-        "id": "2_3809",
-        "lat": 47.99476166,
-        "lon": -1.61410331,
-        "name": "Bourgbarré Mairie",
-        "code": 3809
-      },
-      "arrival": 67800,
-      "departure": 67800
-    },
-    {
-      "stop": {
-        "id": "2_3801",
-        "lat": 47.99009528,
-        "lon": -1.6138293,
-        "name": "Centre de Loisirs",
-        "code": 3801
-      },
-      "arrival": 67980,
-      "departure": 67980
+      "arrival": 42300,
+      "departure": 42300
     }
   ],
   "route": {
-    "id": "2_0161",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express métropolitaine",
-    "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon / Bourgbarré",
-    "shortName": "161",
+    "id": "2_0061",
+    "textColor": "FFFFFF",
+    "color": "E6396C",
+    "description": "Métropolitaine",
+    "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon",
+    "shortName": "61",
     "type": 3,
     "agencyId": "2"
   }

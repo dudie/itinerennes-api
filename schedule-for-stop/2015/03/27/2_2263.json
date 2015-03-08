@@ -1,0 +1,938 @@
+{
+  "date": "2015-03-27 00:00",
+  "stop": {
+    "id": "2_2263",
+    "lat": 48.082518,
+    "lon": -1.712313,
+    "name": "Jean Jaurès",
+    "code": 2263
+  },
+  "routes": [
+    {
+      "id": "2_0006",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Rigourdière) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0033",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+      "shortName": "33",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-27 05:28",
+      "departure": "2015-03-27 05:28",
+      "serviceId": "2_36",
+      "tripId": "2_9200",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 06:08",
+      "departure": "2015-03-27 06:08",
+      "serviceId": "2_36",
+      "tripId": "2_9250",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 06:38",
+      "departure": "2015-03-27 06:38",
+      "serviceId": "2_36",
+      "tripId": "2_9115",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 06:54",
+      "departure": "2015-03-27 06:54",
+      "serviceId": "2_36",
+      "tripId": "2_9235",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:04",
+      "departure": "2015-03-27 07:04",
+      "serviceId": "2_36",
+      "tripId": "2_9325",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:10",
+      "departure": "2015-03-27 07:10",
+      "serviceId": "2_36",
+      "tripId": "2_676",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 07:14",
+      "departure": "2015-03-27 07:14",
+      "serviceId": "2_36",
+      "tripId": "2_9385",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:24",
+      "departure": "2015-03-27 07:24",
+      "serviceId": "2_36",
+      "tripId": "2_9330",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:30",
+      "departure": "2015-03-27 07:30",
+      "serviceId": "2_36",
+      "tripId": "2_681",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 07:35",
+      "departure": "2015-03-27 07:35",
+      "serviceId": "2_36",
+      "tripId": "2_9210",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:45",
+      "departure": "2015-03-27 07:45",
+      "serviceId": "2_36",
+      "tripId": "2_9195",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 07:53",
+      "departure": "2015-03-27 07:53",
+      "serviceId": "2_36",
+      "tripId": "2_686",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 07:56",
+      "departure": "2015-03-27 07:56",
+      "serviceId": "2_36",
+      "tripId": "2_9275",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:08",
+      "departure": "2015-03-27 08:08",
+      "serviceId": "2_36",
+      "tripId": "2_1056",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 08:08",
+      "departure": "2015-03-27 08:08",
+      "serviceId": "2_36",
+      "tripId": "2_9360",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:18",
+      "departure": "2015-03-27 08:18",
+      "serviceId": "2_36",
+      "tripId": "2_9125",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:26",
+      "departure": "2015-03-27 08:26",
+      "serviceId": "2_36",
+      "tripId": "2_9255",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:33",
+      "departure": "2015-03-27 08:33",
+      "serviceId": "2_36",
+      "tripId": "2_691",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 08:36",
+      "departure": "2015-03-27 08:36",
+      "serviceId": "2_36",
+      "tripId": "2_9320",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:46",
+      "departure": "2015-03-27 08:46",
+      "serviceId": "2_36",
+      "tripId": "2_9260",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 08:52",
+      "departure": "2015-03-27 08:52",
+      "serviceId": "2_36",
+      "tripId": "2_696",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 08:55",
+      "departure": "2015-03-27 08:55",
+      "serviceId": "2_36",
+      "tripId": "2_9295",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 09:04",
+      "departure": "2015-03-27 09:04",
+      "serviceId": "2_36",
+      "tripId": "2_9345",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 09:06",
+      "departure": "2015-03-27 09:06",
+      "serviceId": "2_36",
+      "tripId": "2_701",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 09:19",
+      "departure": "2015-03-27 09:19",
+      "serviceId": "2_36",
+      "tripId": "2_9265",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 09:29",
+      "departure": "2015-03-27 09:29",
+      "serviceId": "2_36",
+      "tripId": "2_706",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 09:34",
+      "departure": "2015-03-27 09:34",
+      "serviceId": "2_36",
+      "tripId": "2_9270",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 09:49",
+      "departure": "2015-03-27 09:49",
+      "serviceId": "2_36",
+      "tripId": "2_9540",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 09:51",
+      "departure": "2015-03-27 09:51",
+      "serviceId": "2_36",
+      "tripId": "2_711",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 10:04",
+      "departure": "2015-03-27 10:04",
+      "serviceId": "2_36",
+      "tripId": "2_9545",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 10:13",
+      "departure": "2015-03-27 10:13",
+      "serviceId": "2_36",
+      "tripId": "2_716",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 10:19",
+      "departure": "2015-03-27 10:19",
+      "serviceId": "2_36",
+      "tripId": "2_9550",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 10:34",
+      "departure": "2015-03-27 10:34",
+      "serviceId": "2_36",
+      "tripId": "2_9555",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 10:35",
+      "departure": "2015-03-27 10:35",
+      "serviceId": "2_36",
+      "tripId": "2_721",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 10:49",
+      "departure": "2015-03-27 10:49",
+      "serviceId": "2_36",
+      "tripId": "2_9560",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 10:57",
+      "departure": "2015-03-27 10:57",
+      "serviceId": "2_36",
+      "tripId": "2_726",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 11:04",
+      "departure": "2015-03-27 11:04",
+      "serviceId": "2_36",
+      "tripId": "2_9565",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 11:19",
+      "departure": "2015-03-27 11:19",
+      "serviceId": "2_36",
+      "tripId": "2_9570",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 11:24",
+      "departure": "2015-03-27 11:24",
+      "serviceId": "2_36",
+      "tripId": "2_731",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 11:34",
+      "departure": "2015-03-27 11:34",
+      "serviceId": "2_36",
+      "tripId": "2_9575",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 11:49",
+      "departure": "2015-03-27 11:49",
+      "serviceId": "2_36",
+      "tripId": "2_736",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 11:49",
+      "departure": "2015-03-27 11:49",
+      "serviceId": "2_36",
+      "tripId": "2_9580",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 12:04",
+      "departure": "2015-03-27 12:04",
+      "serviceId": "2_36",
+      "tripId": "2_9585",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 12:12",
+      "departure": "2015-03-27 12:12",
+      "serviceId": "2_36",
+      "tripId": "2_741",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 12:19",
+      "departure": "2015-03-27 12:19",
+      "serviceId": "2_36",
+      "tripId": "2_9590",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 12:29",
+      "departure": "2015-03-27 12:29",
+      "serviceId": "2_36",
+      "tripId": "2_746",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 12:34",
+      "departure": "2015-03-27 12:34",
+      "serviceId": "2_36",
+      "tripId": "2_9595",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 12:49",
+      "departure": "2015-03-27 12:49",
+      "serviceId": "2_36",
+      "tripId": "2_751",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 12:49",
+      "departure": "2015-03-27 12:49",
+      "serviceId": "2_36",
+      "tripId": "2_9600",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 13:04",
+      "departure": "2015-03-27 13:04",
+      "serviceId": "2_36",
+      "tripId": "2_1051",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 13:04",
+      "departure": "2015-03-27 13:04",
+      "serviceId": "2_36",
+      "tripId": "2_9605",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 13:19",
+      "departure": "2015-03-27 13:19",
+      "serviceId": "2_36",
+      "tripId": "2_9610",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 13:25",
+      "departure": "2015-03-27 13:25",
+      "serviceId": "2_36",
+      "tripId": "2_756",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 13:34",
+      "departure": "2015-03-27 13:34",
+      "serviceId": "2_36",
+      "tripId": "2_9615",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 13:45",
+      "departure": "2015-03-27 13:45",
+      "serviceId": "2_36",
+      "tripId": "2_761",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 13:49",
+      "departure": "2015-03-27 13:49",
+      "serviceId": "2_36",
+      "tripId": "2_9620",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 14:04",
+      "departure": "2015-03-27 14:04",
+      "serviceId": "2_36",
+      "tripId": "2_766",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 14:04",
+      "departure": "2015-03-27 14:04",
+      "serviceId": "2_36",
+      "tripId": "2_9625",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 14:19",
+      "departure": "2015-03-27 14:19",
+      "serviceId": "2_36",
+      "tripId": "2_9630",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 14:24",
+      "departure": "2015-03-27 14:24",
+      "serviceId": "2_36",
+      "tripId": "2_771",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 14:34",
+      "departure": "2015-03-27 14:34",
+      "serviceId": "2_36",
+      "tripId": "2_9635",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 14:44",
+      "departure": "2015-03-27 14:44",
+      "serviceId": "2_36",
+      "tripId": "2_776",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 14:49",
+      "departure": "2015-03-27 14:49",
+      "serviceId": "2_36",
+      "tripId": "2_9640",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 15:01",
+      "departure": "2015-03-27 15:01",
+      "serviceId": "2_36",
+      "tripId": "2_781",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 15:04",
+      "departure": "2015-03-27 15:04",
+      "serviceId": "2_36",
+      "tripId": "2_9645",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 15:19",
+      "departure": "2015-03-27 15:19",
+      "serviceId": "2_36",
+      "tripId": "2_9650",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 15:21",
+      "departure": "2015-03-27 15:21",
+      "serviceId": "2_36",
+      "tripId": "2_791",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 15:34",
+      "departure": "2015-03-27 15:34",
+      "serviceId": "2_36",
+      "tripId": "2_9655",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 15:39",
+      "departure": "2015-03-27 15:39",
+      "serviceId": "2_36",
+      "tripId": "2_796",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 15:49",
+      "departure": "2015-03-27 15:49",
+      "serviceId": "2_36",
+      "tripId": "2_9660",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 15:59",
+      "departure": "2015-03-27 15:59",
+      "serviceId": "2_36",
+      "tripId": "2_801",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 16:04",
+      "departure": "2015-03-27 16:04",
+      "serviceId": "2_36",
+      "tripId": "2_9665",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 16:19",
+      "departure": "2015-03-27 16:19",
+      "serviceId": "2_36",
+      "tripId": "2_1021",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 16:19",
+      "departure": "2015-03-27 16:19",
+      "serviceId": "2_36",
+      "tripId": "2_9750",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 16:30",
+      "departure": "2015-03-27 16:30",
+      "serviceId": "2_36",
+      "tripId": "2_9755",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 16:40",
+      "departure": "2015-03-27 16:40",
+      "serviceId": "2_36",
+      "tripId": "2_9760",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 16:42",
+      "departure": "2015-03-27 16:42",
+      "serviceId": "2_36",
+      "tripId": "2_806",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 16:50",
+      "departure": "2015-03-27 16:50",
+      "serviceId": "2_36",
+      "tripId": "2_9765",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 16:59",
+      "departure": "2015-03-27 16:59",
+      "serviceId": "2_36",
+      "tripId": "2_9770",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:00",
+      "departure": "2015-03-27 17:00",
+      "serviceId": "2_36",
+      "tripId": "2_811",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 17:09",
+      "departure": "2015-03-27 17:09",
+      "serviceId": "2_36",
+      "tripId": "2_9775",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:17",
+      "departure": "2015-03-27 17:17",
+      "serviceId": "2_36",
+      "tripId": "2_816",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 17:18",
+      "departure": "2015-03-27 17:18",
+      "serviceId": "2_36",
+      "tripId": "2_9780",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:28",
+      "departure": "2015-03-27 17:28",
+      "serviceId": "2_36",
+      "tripId": "2_9785",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:37",
+      "departure": "2015-03-27 17:37",
+      "serviceId": "2_36",
+      "tripId": "2_821",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 17:38",
+      "departure": "2015-03-27 17:38",
+      "serviceId": "2_36",
+      "tripId": "2_9790",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:48",
+      "departure": "2015-03-27 17:48",
+      "serviceId": "2_36",
+      "tripId": "2_9795",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 17:55",
+      "departure": "2015-03-27 17:55",
+      "serviceId": "2_36",
+      "tripId": "2_1041",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 17:58",
+      "departure": "2015-03-27 17:58",
+      "serviceId": "2_36",
+      "tripId": "2_9800",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:10",
+      "departure": "2015-03-27 18:10",
+      "serviceId": "2_36",
+      "tripId": "2_9405",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:15",
+      "departure": "2015-03-27 18:15",
+      "serviceId": "2_36",
+      "tripId": "2_826",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 18:21",
+      "departure": "2015-03-27 18:21",
+      "serviceId": "2_36",
+      "tripId": "2_9805",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:31",
+      "departure": "2015-03-27 18:31",
+      "serviceId": "2_36",
+      "tripId": "2_9810",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:34",
+      "departure": "2015-03-27 18:34",
+      "serviceId": "2_36",
+      "tripId": "2_831",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 18:41",
+      "departure": "2015-03-27 18:41",
+      "serviceId": "2_36",
+      "tripId": "2_9395",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:52",
+      "departure": "2015-03-27 18:52",
+      "serviceId": "2_36",
+      "tripId": "2_9430",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 18:54",
+      "departure": "2015-03-27 18:54",
+      "serviceId": "2_36",
+      "tripId": "2_836",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 19:02",
+      "departure": "2015-03-27 19:02",
+      "serviceId": "2_36",
+      "tripId": "2_9420",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 19:09",
+      "departure": "2015-03-27 19:09",
+      "serviceId": "2_36",
+      "tripId": "2_841",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 19:12",
+      "departure": "2015-03-27 19:12",
+      "serviceId": "2_36",
+      "tripId": "2_9815",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 19:22",
+      "departure": "2015-03-27 19:22",
+      "serviceId": "2_36",
+      "tripId": "2_9355",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 19:33",
+      "departure": "2015-03-27 19:33",
+      "serviceId": "2_36",
+      "tripId": "2_9110",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 19:43",
+      "departure": "2015-03-27 19:43",
+      "serviceId": "2_36",
+      "tripId": "2_851",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 19:43",
+      "departure": "2015-03-27 19:43",
+      "serviceId": "2_36",
+      "tripId": "2_9280",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 19:56",
+      "departure": "2015-03-27 19:56",
+      "serviceId": "2_36",
+      "tripId": "2_9315",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 20:13",
+      "departure": "2015-03-27 20:13",
+      "serviceId": "2_36",
+      "tripId": "2_1031",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-03-27 20:13",
+      "departure": "2015-03-27 20:13",
+      "serviceId": "2_36",
+      "tripId": "2_9310",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 20:33",
+      "departure": "2015-03-27 20:33",
+      "serviceId": "2_36",
+      "tripId": "2_9175",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 21:23",
+      "departure": "2015-03-27 21:23",
+      "serviceId": "2_36",
+      "tripId": "2_9285",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 22:13",
+      "departure": "2015-03-27 22:13",
+      "serviceId": "2_36",
+      "tripId": "2_9180",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 23:08",
+      "departure": "2015-03-27 23:08",
+      "serviceId": "2_36",
+      "tripId": "2_9375",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-27 23:58",
+      "departure": "2015-03-27 23:58",
+      "serviceId": "2_36",
+      "tripId": "2_9230",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    },
+    {
+      "arrival": "2015-03-28 00:58",
+      "departure": "2015-03-28 00:58",
+      "serviceId": "2_37",
+      "tripId": "2_28468",
+      "routeId": "2_0006",
+      "headsign": "6 | Cesson-Sévigné Rigourdière"
+    }
+  ]
+}

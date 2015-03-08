@@ -1,0 +1,1112 @@
+{
+  "date": "2015-03-31 00:00",
+  "stop": {
+    "id": "2_1520",
+    "lat": 48.120473,
+    "lon": -1.709574,
+    "name": "Bourbonnais",
+    "code": 1520
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0065",
+      "textColor": "FFFFFF",
+      "color": "E36DA3",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé / Parthenay-de-Bretagne",
+      "shortName": "65",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0077",
+      "textColor": "1A171B",
+      "color": "FCC000",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé",
+      "shortName": "77",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0081",
+      "textColor": "FFFFFF",
+      "color": "0081C6",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+      "shortName": "81",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-31 04:31",
+      "departure": "2015-03-31 04:31",
+      "serviceId": "2_22",
+      "tripId": "2_7611",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 1"
+    },
+    {
+      "arrival": "2015-03-31 06:31",
+      "departure": "2015-03-31 06:31",
+      "serviceId": "2_22",
+      "tripId": "2_3956",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 06:31",
+      "departure": "2015-03-31 06:31",
+      "serviceId": "2_22",
+      "tripId": "2_4949",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 06:50",
+      "departure": "2015-03-31 06:50",
+      "serviceId": "2_22",
+      "tripId": "2_4519",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:01",
+      "departure": "2015-03-31 07:01",
+      "serviceId": "2_22",
+      "tripId": "2_4774",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:02",
+      "departure": "2015-03-31 07:02",
+      "serviceId": "2_22",
+      "tripId": "2_4143",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 07:08",
+      "departure": "2015-03-31 07:08",
+      "serviceId": "2_22",
+      "tripId": "2_6158",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:17",
+      "departure": "2015-03-31 07:17",
+      "serviceId": "2_22",
+      "tripId": "2_4504",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:21",
+      "departure": "2015-03-31 07:21",
+      "serviceId": "2_22",
+      "tripId": "2_5001",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:25",
+      "departure": "2015-03-31 07:25",
+      "serviceId": "2_22",
+      "tripId": "2_4133",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 07:37",
+      "departure": "2015-03-31 07:37",
+      "serviceId": "2_22",
+      "tripId": "2_6163",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:39",
+      "departure": "2015-03-31 07:39",
+      "serviceId": "2_22",
+      "tripId": "2_4499",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2015-03-31 07:39",
+      "departure": "2015-03-31 07:39",
+      "serviceId": "2_22",
+      "tripId": "2_4779",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:40",
+      "departure": "2015-03-31 07:40",
+      "serviceId": "2_22",
+      "tripId": "2_4138",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 07:44",
+      "departure": "2015-03-31 07:44",
+      "serviceId": "2_22",
+      "tripId": "2_4488",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2015-03-31 07:47",
+      "departure": "2015-03-31 07:47",
+      "serviceId": "2_22",
+      "tripId": "2_6168",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:54",
+      "departure": "2015-03-31 07:54",
+      "serviceId": "2_22",
+      "tripId": "2_4509",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 07:55",
+      "departure": "2015-03-31 07:55",
+      "serviceId": "2_22",
+      "tripId": "2_3961",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 07:59",
+      "departure": "2015-03-31 07:59",
+      "serviceId": "2_22",
+      "tripId": "2_4904",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:10",
+      "departure": "2015-03-31 08:10",
+      "serviceId": "2_22",
+      "tripId": "2_3966",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 08:14",
+      "departure": "2015-03-31 08:14",
+      "serviceId": "2_22",
+      "tripId": "2_4909",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:22",
+      "departure": "2015-03-31 08:22",
+      "serviceId": "2_22",
+      "tripId": "2_6173",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:25",
+      "departure": "2015-03-31 08:25",
+      "serviceId": "2_22",
+      "tripId": "2_3971",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 08:25",
+      "departure": "2015-03-31 08:25",
+      "serviceId": "2_22",
+      "tripId": "2_4604",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:36",
+      "departure": "2015-03-31 08:36",
+      "serviceId": "2_22",
+      "tripId": "2_4914",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:41",
+      "departure": "2015-03-31 08:41",
+      "serviceId": "2_22",
+      "tripId": "2_3976",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 08:43",
+      "departure": "2015-03-31 08:43",
+      "serviceId": "2_22",
+      "tripId": "2_4494",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Lycée Basch via V.-U."
+    },
+    {
+      "arrival": "2015-03-31 08:50",
+      "departure": "2015-03-31 08:50",
+      "serviceId": "2_22",
+      "tripId": "2_4919",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 08:56",
+      "departure": "2015-03-31 08:56",
+      "serviceId": "2_22",
+      "tripId": "2_4128",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 08:57",
+      "departure": "2015-03-31 08:57",
+      "serviceId": "2_22",
+      "tripId": "2_6178",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:05",
+      "departure": "2015-03-31 09:05",
+      "serviceId": "2_22",
+      "tripId": "2_5011",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:11",
+      "departure": "2015-03-31 09:11",
+      "serviceId": "2_22",
+      "tripId": "2_3981",
+      "routeId": "2_0052",
+      "headsign": "52 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:12",
+      "departure": "2015-03-31 09:12",
+      "serviceId": "2_22",
+      "tripId": "2_4609",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:24",
+      "departure": "2015-03-31 09:24",
+      "serviceId": "2_22",
+      "tripId": "2_5021",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:27",
+      "departure": "2015-03-31 09:27",
+      "serviceId": "2_22",
+      "tripId": "2_6183",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:31",
+      "departure": "2015-03-31 09:31",
+      "serviceId": "2_22",
+      "tripId": "2_4754",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:34",
+      "departure": "2015-03-31 09:34",
+      "serviceId": "2_22",
+      "tripId": "2_3986",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 09:44",
+      "departure": "2015-03-31 09:44",
+      "serviceId": "2_22",
+      "tripId": "2_5026",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:56",
+      "departure": "2015-03-31 09:56",
+      "serviceId": "2_22",
+      "tripId": "2_6188",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 09:59",
+      "departure": "2015-03-31 09:59",
+      "serviceId": "2_22",
+      "tripId": "2_4614",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 10:04",
+      "departure": "2015-03-31 10:04",
+      "serviceId": "2_22",
+      "tripId": "2_5031",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 10:08",
+      "departure": "2015-03-31 10:08",
+      "serviceId": "2_22",
+      "tripId": "2_3991",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 10:24",
+      "departure": "2015-03-31 10:24",
+      "serviceId": "2_22",
+      "tripId": "2_5036",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 10:34",
+      "departure": "2015-03-31 10:34",
+      "serviceId": "2_22",
+      "tripId": "2_4654",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 10:44",
+      "departure": "2015-03-31 10:44",
+      "serviceId": "2_22",
+      "tripId": "2_5041",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 10:47",
+      "departure": "2015-03-31 10:47",
+      "serviceId": "2_22",
+      "tripId": "2_3996",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 11:04",
+      "departure": "2015-03-31 11:04",
+      "serviceId": "2_22",
+      "tripId": "2_5046",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 11:14",
+      "departure": "2015-03-31 11:14",
+      "serviceId": "2_22",
+      "tripId": "2_4724",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 11:22",
+      "departure": "2015-03-31 11:22",
+      "serviceId": "2_22",
+      "tripId": "2_4001",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 11:24",
+      "departure": "2015-03-31 11:24",
+      "serviceId": "2_22",
+      "tripId": "2_5051",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 11:44",
+      "departure": "2015-03-31 11:44",
+      "serviceId": "2_22",
+      "tripId": "2_5056",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 11:54",
+      "departure": "2015-03-31 11:54",
+      "serviceId": "2_22",
+      "tripId": "2_4729",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 12:04",
+      "departure": "2015-03-31 12:04",
+      "serviceId": "2_22",
+      "tripId": "2_5061",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 12:07",
+      "departure": "2015-03-31 12:07",
+      "serviceId": "2_22",
+      "tripId": "2_4006",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 12:24",
+      "departure": "2015-03-31 12:24",
+      "serviceId": "2_22",
+      "tripId": "2_5066",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 12:34",
+      "departure": "2015-03-31 12:34",
+      "serviceId": "2_22",
+      "tripId": "2_4734",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 12:37",
+      "departure": "2015-03-31 12:37",
+      "serviceId": "2_22",
+      "tripId": "2_4011",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 12:44",
+      "departure": "2015-03-31 12:44",
+      "serviceId": "2_22",
+      "tripId": "2_5071",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:04",
+      "departure": "2015-03-31 13:04",
+      "serviceId": "2_22",
+      "tripId": "2_5076",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:06",
+      "departure": "2015-03-31 13:06",
+      "serviceId": "2_22",
+      "tripId": "2_6218",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:12",
+      "departure": "2015-03-31 13:12",
+      "serviceId": "2_22",
+      "tripId": "2_4016",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 13:19",
+      "departure": "2015-03-31 13:19",
+      "serviceId": "2_22",
+      "tripId": "2_4739",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:25",
+      "departure": "2015-03-31 13:25",
+      "serviceId": "2_22",
+      "tripId": "2_5081",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:45",
+      "departure": "2015-03-31 13:45",
+      "serviceId": "2_22",
+      "tripId": "2_5086",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:49",
+      "departure": "2015-03-31 13:49",
+      "serviceId": "2_22",
+      "tripId": "2_4744",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 13:52",
+      "departure": "2015-03-31 13:52",
+      "serviceId": "2_22",
+      "tripId": "2_4021",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 14:05",
+      "departure": "2015-03-31 14:05",
+      "serviceId": "2_22",
+      "tripId": "2_5091",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 14:16",
+      "departure": "2015-03-31 14:16",
+      "serviceId": "2_22",
+      "tripId": "2_6223",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 14:25",
+      "departure": "2015-03-31 14:25",
+      "serviceId": "2_22",
+      "tripId": "2_5096",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 14:27",
+      "departure": "2015-03-31 14:27",
+      "serviceId": "2_22",
+      "tripId": "2_4026",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 14:29",
+      "departure": "2015-03-31 14:29",
+      "serviceId": "2_22",
+      "tripId": "2_4749",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 14:45",
+      "departure": "2015-03-31 14:45",
+      "serviceId": "2_22",
+      "tripId": "2_5101",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:02",
+      "departure": "2015-03-31 15:02",
+      "serviceId": "2_22",
+      "tripId": "2_4031",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 15:05",
+      "departure": "2015-03-31 15:05",
+      "serviceId": "2_22",
+      "tripId": "2_5106",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:09",
+      "departure": "2015-03-31 15:09",
+      "serviceId": "2_22",
+      "tripId": "2_4664",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:25",
+      "departure": "2015-03-31 15:25",
+      "serviceId": "2_22",
+      "tripId": "2_5111",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:26",
+      "departure": "2015-03-31 15:26",
+      "serviceId": "2_22",
+      "tripId": "2_6228",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:42",
+      "departure": "2015-03-31 15:42",
+      "serviceId": "2_22",
+      "tripId": "2_4036",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 15:45",
+      "departure": "2015-03-31 15:45",
+      "serviceId": "2_22",
+      "tripId": "2_5116",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 15:49",
+      "departure": "2015-03-31 15:49",
+      "serviceId": "2_22",
+      "tripId": "2_4659",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:05",
+      "departure": "2015-03-31 16:05",
+      "serviceId": "2_22",
+      "tripId": "2_5121",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:11",
+      "departure": "2015-03-31 16:11",
+      "serviceId": "2_22",
+      "tripId": "2_4106",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 16:26",
+      "departure": "2015-03-31 16:26",
+      "serviceId": "2_22",
+      "tripId": "2_5126",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:29",
+      "departure": "2015-03-31 16:29",
+      "serviceId": "2_22",
+      "tripId": "2_4769",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:30",
+      "departure": "2015-03-31 16:30",
+      "serviceId": "2_22",
+      "tripId": "2_6233",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:31",
+      "departure": "2015-03-31 16:31",
+      "serviceId": "2_22",
+      "tripId": "2_4041",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 16:46",
+      "departure": "2015-03-31 16:46",
+      "serviceId": "2_22",
+      "tripId": "2_5131",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:50",
+      "departure": "2015-03-31 16:50",
+      "serviceId": "2_22",
+      "tripId": "2_4514",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 16:51",
+      "departure": "2015-03-31 16:51",
+      "serviceId": "2_22",
+      "tripId": "2_4046",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 17:05",
+      "departure": "2015-03-31 17:05",
+      "serviceId": "2_22",
+      "tripId": "2_6238",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:07",
+      "departure": "2015-03-31 17:07",
+      "serviceId": "2_22",
+      "tripId": "2_5136",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:10",
+      "departure": "2015-03-31 17:10",
+      "serviceId": "2_22",
+      "tripId": "2_4051",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 17:16",
+      "departure": "2015-03-31 17:16",
+      "serviceId": "2_22",
+      "tripId": "2_4619",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:22",
+      "departure": "2015-03-31 17:22",
+      "serviceId": "2_22",
+      "tripId": "2_4924",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:30",
+      "departure": "2015-03-31 17:30",
+      "serviceId": "2_22",
+      "tripId": "2_4056",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 17:37",
+      "departure": "2015-03-31 17:37",
+      "serviceId": "2_22",
+      "tripId": "2_4929",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:37",
+      "departure": "2015-03-31 17:37",
+      "serviceId": "2_22",
+      "tripId": "2_4624",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:40",
+      "departure": "2015-03-31 17:40",
+      "serviceId": "2_22",
+      "tripId": "2_6303",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:50",
+      "departure": "2015-03-31 17:50",
+      "serviceId": "2_22",
+      "tripId": "2_4061",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 17:52",
+      "departure": "2015-03-31 17:52",
+      "serviceId": "2_22",
+      "tripId": "2_4934",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 17:57",
+      "departure": "2015-03-31 17:57",
+      "serviceId": "2_22",
+      "tripId": "2_4674",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:07",
+      "departure": "2015-03-31 18:07",
+      "serviceId": "2_22",
+      "tripId": "2_4939",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:10",
+      "departure": "2015-03-31 18:10",
+      "serviceId": "2_22",
+      "tripId": "2_4066",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 18:15",
+      "departure": "2015-03-31 18:15",
+      "serviceId": "2_22",
+      "tripId": "2_6248",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:16",
+      "departure": "2015-03-31 18:16",
+      "serviceId": "2_22",
+      "tripId": "2_4629",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:21",
+      "departure": "2015-03-31 18:21",
+      "serviceId": "2_22",
+      "tripId": "2_4944",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:30",
+      "departure": "2015-03-31 18:30",
+      "serviceId": "2_22",
+      "tripId": "2_4071",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 18:35",
+      "departure": "2015-03-31 18:35",
+      "serviceId": "2_22",
+      "tripId": "2_4784",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:46",
+      "departure": "2015-03-31 18:46",
+      "serviceId": "2_22",
+      "tripId": "2_4634",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:50",
+      "departure": "2015-03-31 18:50",
+      "serviceId": "2_22",
+      "tripId": "2_4076",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 18:50",
+      "departure": "2015-03-31 18:50",
+      "serviceId": "2_22",
+      "tripId": "2_4976",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 18:50",
+      "departure": "2015-03-31 18:50",
+      "serviceId": "2_22",
+      "tripId": "2_6313",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:05",
+      "departure": "2015-03-31 19:05",
+      "serviceId": "2_22",
+      "tripId": "2_4789",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:10",
+      "departure": "2015-03-31 19:10",
+      "serviceId": "2_22",
+      "tripId": "2_4081",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 19:14",
+      "departure": "2015-03-31 19:14",
+      "serviceId": "2_22",
+      "tripId": "2_4639",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:20",
+      "departure": "2015-03-31 19:20",
+      "serviceId": "2_22",
+      "tripId": "2_4794",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:24",
+      "departure": "2015-03-31 19:24",
+      "serviceId": "2_22",
+      "tripId": "2_6253",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:31",
+      "departure": "2015-03-31 19:31",
+      "serviceId": "2_22",
+      "tripId": "2_4086",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 19:35",
+      "departure": "2015-03-31 19:35",
+      "serviceId": "2_22",
+      "tripId": "2_4799",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:51",
+      "departure": "2015-03-31 19:51",
+      "serviceId": "2_22",
+      "tripId": "2_4091",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 19:54",
+      "departure": "2015-03-31 19:54",
+      "serviceId": "2_22",
+      "tripId": "2_4644",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 19:59",
+      "departure": "2015-03-31 19:59",
+      "serviceId": "2_22",
+      "tripId": "2_6323",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 20:05",
+      "departure": "2015-03-31 20:05",
+      "serviceId": "2_22",
+      "tripId": "2_4966",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 20:06",
+      "departure": "2015-03-31 20:06",
+      "serviceId": "2_22",
+      "tripId": "2_4096",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 20:25",
+      "departure": "2015-03-31 20:25",
+      "serviceId": "2_22",
+      "tripId": "2_4804",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 20:29",
+      "departure": "2015-03-31 20:29",
+      "serviceId": "2_22",
+      "tripId": "2_4649",
+      "routeId": "2_0065",
+      "headsign": "65 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 20:34",
+      "departure": "2015-03-31 20:34",
+      "serviceId": "2_22",
+      "tripId": "2_6258",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 20:46",
+      "departure": "2015-03-31 20:46",
+      "serviceId": "2_22",
+      "tripId": "2_4101",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-03-31 20:59",
+      "departure": "2015-03-31 20:59",
+      "serviceId": "2_22",
+      "tripId": "2_5231",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 21:04",
+      "departure": "2015-03-31 21:04",
+      "serviceId": "2_22",
+      "tripId": "2_6333",
+      "routeId": "2_0081",
+      "headsign": "81 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-03-31 21:24",
+      "departure": "2015-03-31 21:24",
+      "serviceId": "2_22",
+      "tripId": "2_4899",
+      "routeId": "2_0077",
+      "headsign": "77 | Rennes Villejean-Université"
+    }
+  ]
+}

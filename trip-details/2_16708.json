@@ -1,146 +1,388 @@
 {
-  "headsign": "41 | Pâtis Tatelin",
+  "headsign": "11 | Stade Rennais",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1477",
-        "lat": 48.10388016,
-        "lon": -1.67284842,
+        "id": "2_1639",
+        "lat": 48.088146,
+        "lon": -1.644513,
+        "name": "La Poterie",
+        "code": 1639
+      },
+      "arrival": 47580,
+      "departure": 47580
+    },
+    {
+      "stop": {
+        "id": "2_1066",
+        "lat": 48.087788,
+        "lon": -1.638596,
+        "name": "Monnet",
+        "code": 1066
+      },
+      "arrival": 47700,
+      "departure": 47700
+    },
+    {
+      "stop": {
+        "id": "2_1067",
+        "lat": 48.089455,
+        "lon": -1.635281,
+        "name": "Bourgueil",
+        "code": 1067
+      },
+      "arrival": 47700,
+      "departure": 47700
+    },
+    {
+      "stop": {
+        "id": "2_1068",
+        "lat": 48.092067,
+        "lon": -1.636471,
+        "name": "Gohier",
+        "code": 1068
+      },
+      "arrival": 47820,
+      "departure": 47820
+    },
+    {
+      "stop": {
+        "id": "2_1069",
+        "lat": 48.092756,
+        "lon": -1.63962,
+        "name": "Ronceray",
+        "code": 1069
+      },
+      "arrival": 47820,
+      "departure": 47820
+    },
+    {
+      "stop": {
+        "id": "2_1070",
+        "lat": 48.094492,
+        "lon": -1.637889,
+        "name": "CARSAT",
+        "code": 1070
+      },
+      "arrival": 47880,
+      "departure": 47880
+    },
+    {
+      "stop": {
+        "id": "2_1636",
+        "lat": 48.095933,
+        "lon": -1.637156,
+        "name": "Haut Sancé",
+        "code": 1636
+      },
+      "arrival": 47940,
+      "departure": 47940
+    },
+    {
+      "stop": {
+        "id": "2_1251",
+        "lat": 48.097042,
+        "lon": -1.629126,
+        "name": "Veyettes",
+        "code": 1251
+      },
+      "arrival": 48060,
+      "departure": 48060
+    },
+    {
+      "stop": {
+        "id": "2_3014",
+        "lat": 48.098087,
+        "lon": -1.622908,
+        "name": "Breillou",
+        "code": 3014
+      },
+      "arrival": 48120,
+      "departure": 48120
+    },
+    {
+      "stop": {
+        "id": "2_2035",
+        "lat": 48.09967,
+        "lon": -1.620857,
+        "name": "Forum",
+        "code": 2035
+      },
+      "arrival": 48180,
+      "departure": 48180
+    },
+    {
+      "stop": {
+        "id": "2_2033",
+        "lat": 48.10133,
+        "lon": -1.623467,
+        "name": "Bas Village",
+        "code": 2033
+      },
+      "arrival": 48240,
+      "departure": 48240
+    },
+    {
+      "stop": {
+        "id": "2_2061",
+        "lat": 48.106515,
+        "lon": -1.621243,
+        "name": "Charmilles",
+        "code": 2061
+      },
+      "arrival": 48300,
+      "departure": 48300
+    },
+    {
+      "stop": {
+        "id": "2_2102",
+        "lat": 48.106097,
+        "lon": -1.625877,
+        "name": "Erbonière",
+        "code": 2102
+      },
+      "arrival": 48360,
+      "departure": 48360
+    },
+    {
+      "stop": {
+        "id": "2_2122",
+        "lat": 48.104575,
+        "lon": -1.630458,
+        "name": "Buisson",
+        "code": 2122
+      },
+      "arrival": 48420,
+      "departure": 48420
+    },
+    {
+      "stop": {
+        "id": "2_1629",
+        "lat": 48.104031,
+        "lon": -1.635026,
+        "name": "Pré Garel",
+        "code": 1629
+      },
+      "arrival": 48420,
+      "departure": 48420
+    },
+    {
+      "stop": {
+        "id": "2_1208",
+        "lat": 48.104165,
+        "lon": -1.637787,
+        "name": "Saint-Saëns",
+        "code": 1208
+      },
+      "arrival": 48480,
+      "departure": 48480
+    },
+    {
+      "stop": {
+        "id": "2_1209",
+        "lat": 48.105033,
+        "lon": -1.64458,
+        "name": "Pavie",
+        "code": 1209
+      },
+      "arrival": 48540,
+      "departure": 48540
+    },
+    {
+      "stop": {
+        "id": "2_1210",
+        "lat": 48.10431,
+        "lon": -1.64971,
+        "name": "Cimetière de l\u0027Est",
+        "code": 1210
+      },
+      "arrival": 48600,
+      "departure": 48600
+    },
+    {
+      "stop": {
+        "id": "2_1245",
+        "lat": 48.103213,
+        "lon": -1.652536,
+        "name": "Serpette",
+        "code": 1245
+      },
+      "arrival": 48660,
+      "departure": 48660
+    },
+    {
+      "stop": {
+        "id": "2_1212",
+        "lat": 48.101949,
+        "lon": -1.656538,
+        "name": "Mouézy",
+        "code": 1212
+      },
+      "arrival": 48720,
+      "departure": 48720
+    },
+    {
+      "stop": {
+        "id": "2_1213",
+        "lat": 48.102902,
+        "lon": -1.661403,
+        "name": "Croix Saint-Hélier",
+        "code": 1213
+      },
+      "arrival": 48780,
+      "departure": 48780
+    },
+    {
+      "stop": {
+        "id": "2_1057",
+        "lat": 48.104747,
+        "lon": -1.667176,
+        "name": "Laënnec",
+        "code": 1057
+      },
+      "arrival": 48900,
+      "departure": 48900
+    },
+    {
+      "stop": {
+        "id": "2_1056",
+        "lat": 48.103956,
+        "lon": -1.673185,
         "name": "Gares",
-        "code": 1477
+        "code": 1056
       },
-      "arrival": 30420,
-      "departure": 30420
+      "arrival": 49020,
+      "departure": 49020
     },
     {
       "stop": {
-        "id": "2_1171",
-        "lat": 48.11006771,
-        "lon": -1.66358483,
-        "name": "Pont de Châteaudun",
-        "code": 1171
+        "id": "2_1055",
+        "lat": 48.106057,
+        "lon": -1.67401,
+        "name": "Champs Libres",
+        "code": 1055
       },
-      "arrival": 30720,
-      "departure": 30720
+      "arrival": 49140,
+      "departure": 49140
     },
     {
       "stop": {
-        "id": "2_1174",
-        "lat": 48.11246664,
-        "lon": -1.64290057,
-        "name": "Plaine de Baud",
-        "code": 1174
+        "id": "2_1054",
+        "lat": 48.107564,
+        "lon": -1.675176,
+        "name": "Liberté TNB",
+        "code": 1054
       },
-      "arrival": 30960,
-      "departure": 30960
+      "arrival": 49200,
+      "departure": 49200
     },
     {
       "stop": {
-        "id": "2_1610",
-        "lat": 48.11406057,
-        "lon": -1.63602668,
-        "name": "Tournebride",
-        "code": 1610
+        "id": "2_1214",
+        "lat": 48.109932,
+        "lon": -1.679644,
+        "name": "République",
+        "code": 1214
       },
-      "arrival": 31020,
-      "departure": 31020
+      "arrival": 49440,
+      "departure": 49440
     },
     {
       "stop": {
-        "id": "2_1175",
-        "lat": 48.11698398,
-        "lon": -1.63390592,
-        "name": "Beaulieu Chimie",
-        "code": 1175
+        "id": "2_1051",
+        "lat": 48.109888,
+        "lon": -1.68328,
+        "name": "Place de Bretagne",
+        "code": 1051
       },
-      "arrival": 31140,
-      "departure": 31140
+      "arrival": 49500,
+      "departure": 49500
     },
     {
       "stop": {
-        "id": "2_1204",
-        "lat": 48.11947653,
-        "lon": -1.63539005,
-        "name": "Beaulieu INSA",
-        "code": 1204
+        "id": "2_1216",
+        "lat": 48.109176,
+        "lon": -1.690514,
+        "name": "Le Mail",
+        "code": 1216
       },
-      "arrival": 31140,
-      "departure": 31140
+      "arrival": 49620,
+      "departure": 49620
     },
     {
       "stop": {
-        "id": "2_1313",
-        "lat": 48.12187502,
-        "lon": -1.63834696,
-        "name": "Beaulieu Restau U",
-        "code": 1313
+        "id": "2_1217",
+        "lat": 48.108252,
+        "lon": -1.694511,
+        "name": "Chèques Postaux",
+        "code": 1217
       },
-      "arrival": 31260,
-      "departure": 31260
+      "arrival": 49680,
+      "departure": 49680
     },
     {
       "stop": {
-        "id": "2_1314",
-        "lat": 48.1250923,
-        "lon": -1.63309609,
-        "name": "IUT",
-        "code": 1314
+        "id": "2_1218",
+        "lat": 48.109099,
+        "lon": -1.697997,
+        "name": "Guilloux Lorient",
+        "code": 1218
       },
-      "arrival": 31320,
-      "departure": 31320
+      "arrival": 49800,
+      "departure": 49800
     },
     {
       "stop": {
-        "id": "2_1475",
-        "lat": 48.12695887,
-        "lon": -1.62918033,
-        "name": "Clos Courtel",
-        "code": 1475
+        "id": "2_1219",
+        "lat": 48.108274,
+        "lon": -1.703743,
+        "name": "Papeteries",
+        "code": 1219
       },
-      "arrival": 31380,
-      "departure": 31380
+      "arrival": 49860,
+      "departure": 49860
     },
     {
       "stop": {
-        "id": "2_2121",
-        "lat": 48.13034917,
-        "lon": -1.63135124,
-        "name": "Longs Champs Est",
-        "code": 2121
+        "id": "2_1220",
+        "lat": 48.109162,
+        "lon": -1.706366,
+        "name": "Kerviler",
+        "code": 1220
       },
-      "arrival": 31500,
-      "departure": 31500
+      "arrival": 49920,
+      "departure": 49920
     },
     {
       "stop": {
-        "id": "2_1484",
-        "lat": 48.13185966,
-        "lon": -1.63589821,
-        "name": "ZA Saint-Sulpice",
-        "code": 1484
+        "id": "2_1221",
+        "lat": 48.108871,
+        "lon": -1.710766,
+        "name": "Géniaux",
+        "code": 1221
       },
-      "arrival": 31620,
-      "departure": 31620
+      "arrival": 49980,
+      "departure": 49980
     },
     {
       "stop": {
-        "id": "2_1483",
-        "lat": 48.12955581,
-        "lon": -1.64358619,
-        "name": "Pâtis Tatelin",
-        "code": 1483
+        "id": "2_1222",
+        "lat": 48.108107,
+        "lon": -1.714065,
+        "name": "Stade Rennais",
+        "code": 1222
       },
-      "arrival": 31740,
-      "departure": 31740
+      "arrival": 50040,
+      "departure": 50040
     }
   ],
   "route": {
-    "id": "2_0041",
-    "textColor": "3D3C3F",
-    "color": "FFDD00",
-    "description": "Express urbaine",
-    "longName": "Gares \u003c\u003e Pâtis Tatelin",
-    "shortName": "41",
+    "id": "2_0011",
+    "textColor": "FFFFFF",
+    "color": "DD84B1",
+    "description": "Urbaine",
+    "longName": "ZI Ouest / Stade Rennais \u003c\u003e Saint-Saëns / La Poterie",
+    "shortName": "11",
     "type": 3,
     "agencyId": "2"
   }

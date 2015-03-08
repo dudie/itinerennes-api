@@ -1,0 +1,608 @@
+{
+  "date": "2015-03-23 00:00",
+  "stop": {
+    "id": "2_2405",
+    "lat": 48.181894,
+    "lon": -1.641783,
+    "name": "Betton Mairie",
+    "code": 2405
+  },
+  "routes": [
+    {
+      "id": "2_0051",
+      "textColor": "FFFFFF",
+      "color": "93117E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "51",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E3006A",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0151",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "151",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0202",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "202",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-03-23 06:19",
+      "departure": "2015-03-23 06:19",
+      "serviceId": "2_16",
+      "tripId": "2_14226",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 06:49",
+      "departure": "2015-03-23 06:49",
+      "serviceId": "2_16",
+      "tripId": "2_13976",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:04",
+      "departure": "2015-03-23 07:04",
+      "serviceId": "2_16",
+      "tripId": "2_14171",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:14",
+      "departure": "2015-03-23 07:14",
+      "serviceId": "2_16",
+      "tripId": "2_14609",
+      "routeId": "2_0151",
+      "headsign": "151 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:18",
+      "departure": "2015-03-23 07:18",
+      "serviceId": "2_16",
+      "tripId": "2_14071",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:20",
+      "departure": "2015-03-23 07:20",
+      "serviceId": "2_16",
+      "tripId": "2_14413",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:30",
+      "departure": "2015-03-23 07:30",
+      "serviceId": "2_16",
+      "tripId": "2_14381",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:31",
+      "departure": "2015-03-23 07:31",
+      "serviceId": "2_20",
+      "tripId": "2_9893",
+      "routeId": "2_0202",
+      "headsign": "202 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-03-23 07:44",
+      "departure": "2015-03-23 07:44",
+      "serviceId": "2_16",
+      "tripId": "2_14614",
+      "routeId": "2_0151",
+      "headsign": "151 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 07:52",
+      "departure": "2015-03-23 07:52",
+      "serviceId": "2_16",
+      "tripId": "2_14176",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 08:12",
+      "departure": "2015-03-23 08:12",
+      "serviceId": "2_16",
+      "tripId": "2_14181",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 08:14",
+      "departure": "2015-03-23 08:14",
+      "serviceId": "2_16",
+      "tripId": "2_19511",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 08:19",
+      "departure": "2015-03-23 08:19",
+      "serviceId": "2_16",
+      "tripId": "2_14619",
+      "routeId": "2_0151",
+      "headsign": "151 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 08:23",
+      "departure": "2015-03-23 08:23",
+      "serviceId": "2_20",
+      "tripId": "2_9898",
+      "routeId": "2_0202",
+      "headsign": "202 | Rennes Lycée Assomption"
+    },
+    {
+      "arrival": "2015-03-23 08:27",
+      "departure": "2015-03-23 08:27",
+      "serviceId": "2_16",
+      "tripId": "2_14376",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 08:42",
+      "departure": "2015-03-23 08:42",
+      "serviceId": "2_16",
+      "tripId": "2_14246",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 08:44",
+      "departure": "2015-03-23 08:44",
+      "serviceId": "2_16",
+      "tripId": "2_19516",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 08:57",
+      "departure": "2015-03-23 08:57",
+      "serviceId": "2_16",
+      "tripId": "2_14186",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 09:07",
+      "departure": "2015-03-23 09:07",
+      "serviceId": "2_16",
+      "tripId": "2_19521",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 09:12",
+      "departure": "2015-03-23 09:12",
+      "serviceId": "2_16",
+      "tripId": "2_14361",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 09:25",
+      "departure": "2015-03-23 09:25",
+      "serviceId": "2_16",
+      "tripId": "2_14086",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 09:36",
+      "departure": "2015-03-23 09:36",
+      "serviceId": "2_16",
+      "tripId": "2_19626",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 09:55",
+      "departure": "2015-03-23 09:55",
+      "serviceId": "2_16",
+      "tripId": "2_14191",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 10:06",
+      "departure": "2015-03-23 10:06",
+      "serviceId": "2_16",
+      "tripId": "2_19526",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 10:30",
+      "departure": "2015-03-23 10:30",
+      "serviceId": "2_16",
+      "tripId": "2_14196",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 11:00",
+      "departure": "2015-03-23 11:00",
+      "serviceId": "2_16",
+      "tripId": "2_14201",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 11:26",
+      "departure": "2015-03-23 11:26",
+      "serviceId": "2_16",
+      "tripId": "2_19586",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 11:35",
+      "departure": "2015-03-23 11:35",
+      "serviceId": "2_16",
+      "tripId": "2_14206",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 12:05",
+      "departure": "2015-03-23 12:05",
+      "serviceId": "2_16",
+      "tripId": "2_14211",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 12:30",
+      "departure": "2015-03-23 12:30",
+      "serviceId": "2_16",
+      "tripId": "2_14216",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 12:47",
+      "departure": "2015-03-23 12:47",
+      "serviceId": "2_16",
+      "tripId": "2_19531",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 12:48",
+      "departure": "2015-03-23 12:48",
+      "serviceId": "2_16",
+      "tripId": "2_14221",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 13:13",
+      "departure": "2015-03-23 13:13",
+      "serviceId": "2_16",
+      "tripId": "2_14331",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 13:38",
+      "departure": "2015-03-23 13:38",
+      "serviceId": "2_16",
+      "tripId": "2_14301",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 13:58",
+      "departure": "2015-03-23 13:58",
+      "serviceId": "2_16",
+      "tripId": "2_14316",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 14:13",
+      "departure": "2015-03-23 14:13",
+      "serviceId": "2_16",
+      "tripId": "2_19536",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 14:23",
+      "departure": "2015-03-23 14:23",
+      "serviceId": "2_16",
+      "tripId": "2_14326",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 14:47",
+      "departure": "2015-03-23 14:47",
+      "serviceId": "2_16",
+      "tripId": "2_14296",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 15:07",
+      "departure": "2015-03-23 15:07",
+      "serviceId": "2_16",
+      "tripId": "2_14291",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 15:27",
+      "departure": "2015-03-23 15:27",
+      "serviceId": "2_16",
+      "tripId": "2_14311",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 15:40",
+      "departure": "2015-03-23 15:40",
+      "serviceId": "2_16",
+      "tripId": "2_19591",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 15:42",
+      "departure": "2015-03-23 15:42",
+      "serviceId": "2_16",
+      "tripId": "2_14281",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 15:54",
+      "departure": "2015-03-23 15:54",
+      "serviceId": "2_16",
+      "tripId": "2_14386",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 16:12",
+      "departure": "2015-03-23 16:12",
+      "serviceId": "2_16",
+      "tripId": "2_14231",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 16:22",
+      "departure": "2015-03-23 16:22",
+      "serviceId": "2_16",
+      "tripId": "2_14236",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 16:37",
+      "departure": "2015-03-23 16:37",
+      "serviceId": "2_16",
+      "tripId": "2_14241",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 16:52",
+      "departure": "2015-03-23 16:52",
+      "serviceId": "2_16",
+      "tripId": "2_19541",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 16:55",
+      "departure": "2015-03-23 16:55",
+      "serviceId": "2_16",
+      "tripId": "2_14256",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 16:59",
+      "departure": "2015-03-23 16:59",
+      "serviceId": "2_21",
+      "tripId": "2_10931",
+      "routeId": "2_0222",
+      "headsign": "222 | Chevaigné"
+    },
+    {
+      "arrival": "2015-03-23 17:07",
+      "departure": "2015-03-23 17:07",
+      "serviceId": "2_16",
+      "tripId": "2_14261",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 17:15",
+      "departure": "2015-03-23 17:15",
+      "serviceId": "2_16",
+      "tripId": "2_19546",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 17:22",
+      "departure": "2015-03-23 17:22",
+      "serviceId": "2_16",
+      "tripId": "2_14396",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 17:37",
+      "departure": "2015-03-23 17:37",
+      "serviceId": "2_16",
+      "tripId": "2_14266",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 17:46",
+      "departure": "2015-03-23 17:46",
+      "serviceId": "2_16",
+      "tripId": "2_19551",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 17:55",
+      "departure": "2015-03-23 17:55",
+      "serviceId": "2_16",
+      "tripId": "2_14271",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 18:10",
+      "departure": "2015-03-23 18:10",
+      "serviceId": "2_16",
+      "tripId": "2_14371",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 18:16",
+      "departure": "2015-03-23 18:16",
+      "serviceId": "2_16",
+      "tripId": "2_19601",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 18:25",
+      "departure": "2015-03-23 18:25",
+      "serviceId": "2_16",
+      "tripId": "2_14276",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 18:40",
+      "departure": "2015-03-23 18:40",
+      "serviceId": "2_16",
+      "tripId": "2_13981",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 18:44",
+      "departure": "2015-03-23 18:44",
+      "serviceId": "2_16",
+      "tripId": "2_19556",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 19:00",
+      "departure": "2015-03-23 19:00",
+      "serviceId": "2_16",
+      "tripId": "2_13986",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 19:12",
+      "departure": "2015-03-23 19:12",
+      "serviceId": "2_16",
+      "tripId": "2_19561",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 19:20",
+      "departure": "2015-03-23 19:20",
+      "serviceId": "2_16",
+      "tripId": "2_13991",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 19:35",
+      "departure": "2015-03-23 19:35",
+      "serviceId": "2_16",
+      "tripId": "2_19611",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 19:50",
+      "departure": "2015-03-23 19:50",
+      "serviceId": "2_16",
+      "tripId": "2_13996",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 20:03",
+      "departure": "2015-03-23 20:03",
+      "serviceId": "2_16",
+      "tripId": "2_19566",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-03-23 20:19",
+      "departure": "2015-03-23 20:19",
+      "serviceId": "2_16",
+      "tripId": "2_14001",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    },
+    {
+      "arrival": "2015-03-23 20:49",
+      "departure": "2015-03-23 20:49",
+      "serviceId": "2_16",
+      "tripId": "2_14406",
+      "routeId": "2_0051",
+      "headsign": "51 | Rennes Hoche"
+    }
+  ]
+}
