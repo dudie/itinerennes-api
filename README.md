@@ -1,3 +1,3 @@
-GTFS 20150302
+GTFS 20150312
 =============
-http://data.keolis-rennes.com/fileadmin/OpenDataFiles/GTFS/GTFS-20150302.zip
+http://data.keolis-rennes.com/fileadmin/OpenDataFiles/GTFS/GTFS-20150312.zip
