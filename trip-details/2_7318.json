@@ -1,157 +1,278 @@
 {
-  "headsign": "STN | Villejean",
+  "headsign": "67 | Rennes République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1052",
-        "lat": 48.109934,
-        "lon": -1.678869,
+        "id": "2_4151",
+        "lat": 48.109864,
+        "lon": -1.481103,
+        "name": "Anjou",
+        "code": 4151
+      },
+      "arrival": 54180,
+      "departure": 54180
+    },
+    {
+      "stop": {
+        "id": "2_4152",
+        "lat": 48.108998,
+        "lon": -1.47848,
+        "name": "Mainguère",
+        "code": 4152
+      },
+      "arrival": 54300,
+      "departure": 54300
+    },
+    {
+      "stop": {
+        "id": "2_4153",
+        "lat": 48.107127,
+        "lon": -1.479136,
+        "name": "Saules",
+        "code": 4153
+      },
+      "arrival": 54300,
+      "departure": 54300
+    },
+    {
+      "stop": {
+        "id": "2_4154",
+        "lat": 48.107516,
+        "lon": -1.482935,
+        "name": "Provence",
+        "code": 4154
+      },
+      "arrival": 54360,
+      "departure": 54360
+    },
+    {
+      "stop": {
+        "id": "2_4155",
+        "lat": 48.107643,
+        "lon": -1.486165,
+        "name": "Destiers",
+        "code": 4155
+      },
+      "arrival": 54420,
+      "departure": 54420
+    },
+    {
+      "stop": {
+        "id": "2_4156",
+        "lat": 48.109445,
+        "lon": -1.503174,
+        "name": "Pâtis",
+        "code": 4156
+      },
+      "arrival": 54540,
+      "departure": 54540
+    },
+    {
+      "stop": {
+        "id": "2_4162",
+        "lat": 48.108409,
+        "lon": -1.507807,
+        "name": "Turbanière",
+        "code": 4162
+      },
+      "arrival": 54600,
+      "departure": 54600
+    },
+    {
+      "stop": {
+        "id": "2_2085",
+        "lat": 48.116152,
+        "lon": -1.582472,
+        "name": "Champelé",
+        "code": 2085
+      },
+      "arrival": 55140,
+      "departure": 55140
+    },
+    {
+      "stop": {
+        "id": "2_2038",
+        "lat": 48.114975,
+        "lon": -1.590774,
+        "name": "Haut Grippé",
+        "code": 2038
+      },
+      "arrival": 55140,
+      "departure": 55140
+    },
+    {
+      "stop": {
+        "id": "2_2089",
+        "lat": 48.113572,
+        "lon": -1.59052,
+        "name": "Rigourdière",
+        "code": 2089
+      },
+      "arrival": 55200,
+      "departure": 55200
+    },
+    {
+      "stop": {
+        "id": "2_2039",
+        "lat": 48.114462,
+        "lon": -1.600472,
+        "name": "Bordage",
+        "code": 2039
+      },
+      "arrival": 55380,
+      "departure": 55380
+    },
+    {
+      "stop": {
+        "id": "2_2057",
+        "lat": 48.113861,
+        "lon": -1.603295,
+        "name": "Cesson Gare",
+        "code": 2057
+      },
+      "arrival": 55440,
+      "departure": 55440
+    },
+    {
+      "stop": {
+        "id": "2_2058",
+        "lat": 48.112638,
+        "lon": -1.607261,
+        "name": "Peupliers",
+        "code": 2058
+      },
+      "arrival": 55440,
+      "departure": 55440
+    },
+    {
+      "stop": {
+        "id": "2_2059",
+        "lat": 48.109302,
+        "lon": -1.609073,
+        "name": "Monniais",
+        "code": 2059
+      },
+      "arrival": 55560,
+      "departure": 55560
+    },
+    {
+      "stop": {
+        "id": "2_2060",
+        "lat": 48.10784,
+        "lon": -1.614683,
+        "name": "Rond Point de Bray",
+        "code": 2060
+      },
+      "arrival": 55620,
+      "departure": 55620
+    },
+    {
+      "stop": {
+        "id": "2_2016",
+        "lat": 48.114224,
+        "lon": -1.621951,
+        "name": "Taillis",
+        "code": 2016
+      },
+      "arrival": 55800,
+      "departure": 55800
+    },
+    {
+      "stop": {
+        "id": "2_2017",
+        "lat": 48.114121,
+        "lon": -1.630367,
+        "name": "Champs Péans",
+        "code": 2017
+      },
+      "arrival": 55860,
+      "departure": 55860
+    },
+    {
+      "stop": {
+        "id": "2_1609",
+        "lat": 48.114194,
+        "lon": -1.636482,
+        "name": "Tournebride",
+        "code": 1609
+      },
+      "arrival": 55920,
+      "departure": 55920
+    },
+    {
+      "stop": {
+        "id": "2_1528",
+        "lat": 48.113992,
+        "lon": -1.64442,
+        "name": "Piletière",
+        "code": 1528
+      },
+      "arrival": 56040,
+      "departure": 56040
+    },
+    {
+      "stop": {
+        "id": "2_1527",
+        "lat": 48.114569,
+        "lon": -1.649959,
+        "name": "Moulin de Joué",
+        "code": 1527
+      },
+      "arrival": 56100,
+      "departure": 56100
+    },
+    {
+      "stop": {
+        "id": "2_1526",
+        "lat": 48.114801,
+        "lon": -1.65322,
+        "name": "Hôpital Régnier",
+        "code": 1526
+      },
+      "arrival": 56160,
+      "departure": 56160
+    },
+    {
+      "stop": {
+        "id": "2_1474",
+        "lat": 48.113474,
+        "lon": -1.656747,
+        "name": "Durafour Strasbourg",
+        "code": 1474
+      },
+      "arrival": 56220,
+      "departure": 56220
+    },
+    {
+      "stop": {
+        "id": "2_1163",
+        "lat": 48.110164,
+        "lon": -1.660479,
+        "name": "Robidou",
+        "code": 1163
+      },
+      "arrival": 56400,
+      "departure": 56400
+    },
+    {
+      "stop": {
+        "id": "2_1556",
+        "lat": 48.1094,
+        "lon": -1.677626,
         "name": "République",
-        "code": 1052
+        "code": 1556
       },
-      "arrival": 6600,
-      "departure": 6600
-    },
-    {
-      "stop": {
-        "id": "2_1051",
-        "lat": 48.109888,
-        "lon": -1.68328,
-        "name": "Place de Bretagne",
-        "code": 1051
-      },
-      "arrival": 6660,
-      "departure": 6660
-    },
-    {
-      "stop": {
-        "id": "2_1216",
-        "lat": 48.109176,
-        "lon": -1.690514,
-        "name": "Le Mail",
-        "code": 1216
-      },
-      "arrival": 6780,
-      "departure": 6780
-    },
-    {
-      "stop": {
-        "id": "2_1217",
-        "lat": 48.108252,
-        "lon": -1.694511,
-        "name": "Chèques Postaux",
-        "code": 1217
-      },
-      "arrival": 6840,
-      "departure": 6840
-    },
-    {
-      "stop": {
-        "id": "2_1293",
-        "lat": 48.110001,
-        "lon": -1.698679,
-        "name": "Guilloux",
-        "code": 1293
-      },
-      "arrival": 6900,
-      "departure": 6900
-    },
-    {
-      "stop": {
-        "id": "2_1310",
-        "lat": 48.111292,
-        "lon": -1.700837,
-        "name": "Marbeuf",
-        "code": 1310
-      },
-      "arrival": 6960,
-      "departure": 6960
-    },
-    {
-      "stop": {
-        "id": "2_1192",
-        "lat": 48.114999,
-        "lon": -1.701423,
-        "name": "La Salle",
-        "code": 1192
-      },
-      "arrival": 7080,
-      "departure": 7080
-    },
-    {
-      "stop": {
-        "id": "2_1295",
-        "lat": 48.116762,
-        "lon": -1.704608,
-        "name": "Berger",
-        "code": 1295
-      },
-      "arrival": 7140,
-      "departure": 7140
-    },
-    {
-      "stop": {
-        "id": "2_1296",
-        "lat": 48.119313,
-        "lon": -1.704499,
-        "name": "Université",
-        "code": 1296
-      },
-      "arrival": 7200,
-      "departure": 7200
-    },
-    {
-      "stop": {
-        "id": "2_1297",
-        "lat": 48.121918,
-        "lon": -1.703705,
-        "name": "Villejean-Université",
-        "code": 1297
-      },
-      "arrival": 7260,
-      "departure": 7260
-    },
-    {
-      "stop": {
-        "id": "2_1298",
-        "lat": 48.125698,
-        "lon": -1.703017,
-        "name": "Bois Labbé",
-        "code": 1298
-      },
-      "arrival": 7320,
-      "departure": 7320
-    },
-    {
-      "stop": {
-        "id": "2_1305",
-        "lat": 48.127565,
-        "lon": -1.703293,
-        "name": "Olympe de Gouges",
-        "code": 1305
-      },
-      "arrival": 7380,
-      "departure": 7380
-    },
-    {
-      "stop": {
-        "id": "2_1568",
-        "lat": 48.121028,
-        "lon": -1.713571,
-        "name": "Kennedy Guyenne",
-        "code": 1568
-      },
-      "arrival": 7680,
-      "departure": 7680
+      "arrival": 56640,
+      "departure": 56640
     }
   ],
   "route": {
-    "id": "2_0805",
+    "id": "2_0067",
     "textColor": "FFFFFF",
-    "color": "004B96",
-    "description": "Spéciale",
-    "longName": "STAR de Nuit - Beaulieu Atalante \u003c\u003e J.F. Kennedy",
-    "shortName": "STN",
+    "color": "E2003B",
+    "description": "Métropolitaine",
+    "longName": "Rennes (République) \u003c\u003e Cesson-Sévigné / Brécé",
+    "shortName": "67",
     "type": 3,
     "agencyId": "2"
   }
