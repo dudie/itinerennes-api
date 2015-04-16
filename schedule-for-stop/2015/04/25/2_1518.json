@@ -1,0 +1,774 @@
+{
+  "date": "2015-04-25 00:00",
+  "stop": {
+    "id": "2_1518",
+    "lat": 48.120593,
+    "lon": -1.710572,
+    "name": "Bourbonnais",
+    "code": 1518
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0065",
+      "textColor": "FFFFFF",
+      "color": "E36DA3",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé / Parthenay-de-Bretagne",
+      "shortName": "65",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0077",
+      "textColor": "1A171B",
+      "color": "FCC000",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Pacé",
+      "shortName": "77",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0081",
+      "textColor": "FFFFFF",
+      "color": "0081C6",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Clayes / Romillé",
+      "shortName": "81",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-04-25 06:47",
+      "departure": "2015-04-25 06:47",
+      "serviceId": "2_27",
+      "tripId": "2_9965",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 07:13",
+      "departure": "2015-04-25 07:13",
+      "serviceId": "2_27",
+      "tripId": "2_10014",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 07:24",
+      "departure": "2015-04-25 07:24",
+      "serviceId": "2_27",
+      "tripId": "2_9752",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 07:38",
+      "departure": "2015-04-25 07:38",
+      "serviceId": "2_27",
+      "tripId": "2_10423",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 07:52",
+      "departure": "2015-04-25 07:52",
+      "serviceId": "2_27",
+      "tripId": "2_9947",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 08:08",
+      "departure": "2015-04-25 08:08",
+      "serviceId": "2_27",
+      "tripId": "2_9973",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 08:15",
+      "departure": "2015-04-25 08:15",
+      "serviceId": "2_27",
+      "tripId": "2_9753",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 08:38",
+      "departure": "2015-04-25 08:38",
+      "serviceId": "2_27",
+      "tripId": "2_9974",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 08:43",
+      "departure": "2015-04-25 08:43",
+      "serviceId": "2_27",
+      "tripId": "2_10426",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 09:02",
+      "departure": "2015-04-25 09:02",
+      "serviceId": "2_27",
+      "tripId": "2_9948",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 09:08",
+      "departure": "2015-04-25 09:08",
+      "serviceId": "2_27",
+      "tripId": "2_9975",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 09:10",
+      "departure": "2015-04-25 09:10",
+      "serviceId": "2_27",
+      "tripId": "2_9776",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 09:38",
+      "departure": "2015-04-25 09:38",
+      "serviceId": "2_27",
+      "tripId": "2_10004",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 09:48",
+      "departure": "2015-04-25 09:48",
+      "serviceId": "2_27",
+      "tripId": "2_10427",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 09:56",
+      "departure": "2015-04-25 09:56",
+      "serviceId": "2_27",
+      "tripId": "2_9777",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 10:08",
+      "departure": "2015-04-25 10:08",
+      "serviceId": "2_27",
+      "tripId": "2_10005",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 10:31",
+      "departure": "2015-04-25 10:31",
+      "serviceId": "2_27",
+      "tripId": "2_9778",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 10:38",
+      "departure": "2015-04-25 10:38",
+      "serviceId": "2_27",
+      "tripId": "2_10006",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 10:53",
+      "departure": "2015-04-25 10:53",
+      "serviceId": "2_27",
+      "tripId": "2_10429",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 11:06",
+      "departure": "2015-04-25 11:06",
+      "serviceId": "2_27",
+      "tripId": "2_9779",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 11:08",
+      "departure": "2015-04-25 11:08",
+      "serviceId": "2_27",
+      "tripId": "2_10007",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 11:33",
+      "departure": "2015-04-25 11:33",
+      "serviceId": "2_27",
+      "tripId": "2_10430",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 11:38",
+      "departure": "2015-04-25 11:38",
+      "serviceId": "2_27",
+      "tripId": "2_10008",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 11:41",
+      "departure": "2015-04-25 11:41",
+      "serviceId": "2_27",
+      "tripId": "2_9780",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 12:08",
+      "departure": "2015-04-25 12:08",
+      "serviceId": "2_27",
+      "tripId": "2_10009",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 12:09",
+      "departure": "2015-04-25 12:09",
+      "serviceId": "2_27",
+      "tripId": "2_9963",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 12:13",
+      "departure": "2015-04-25 12:13",
+      "serviceId": "2_27",
+      "tripId": "2_10431",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 12:16",
+      "departure": "2015-04-25 12:16",
+      "serviceId": "2_27",
+      "tripId": "2_9781",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 12:38",
+      "departure": "2015-04-25 12:38",
+      "serviceId": "2_27",
+      "tripId": "2_10010",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 12:51",
+      "departure": "2015-04-25 12:51",
+      "serviceId": "2_27",
+      "tripId": "2_9782",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 12:53",
+      "departure": "2015-04-25 12:53",
+      "serviceId": "2_27",
+      "tripId": "2_10432",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 13:08",
+      "departure": "2015-04-25 13:08",
+      "serviceId": "2_27",
+      "tripId": "2_10011",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 13:17",
+      "departure": "2015-04-25 13:17",
+      "serviceId": "2_27",
+      "tripId": "2_9954",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 13:21",
+      "departure": "2015-04-25 13:21",
+      "serviceId": "2_27",
+      "tripId": "2_9783",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 13:33",
+      "departure": "2015-04-25 13:33",
+      "serviceId": "2_27",
+      "tripId": "2_10433",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 13:38",
+      "departure": "2015-04-25 13:38",
+      "serviceId": "2_27",
+      "tripId": "2_10012",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 13:56",
+      "departure": "2015-04-25 13:56",
+      "serviceId": "2_27",
+      "tripId": "2_9784",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 13:58",
+      "departure": "2015-04-25 13:58",
+      "serviceId": "2_27",
+      "tripId": "2_10054",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 14:13",
+      "departure": "2015-04-25 14:13",
+      "serviceId": "2_27",
+      "tripId": "2_10434",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 14:18",
+      "departure": "2015-04-25 14:18",
+      "serviceId": "2_27",
+      "tripId": "2_10055",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 14:27",
+      "departure": "2015-04-25 14:27",
+      "serviceId": "2_27",
+      "tripId": "2_9955",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 14:33",
+      "departure": "2015-04-25 14:33",
+      "serviceId": "2_27",
+      "tripId": "2_9785",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 14:38",
+      "departure": "2015-04-25 14:38",
+      "serviceId": "2_27",
+      "tripId": "2_10056",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 14:53",
+      "departure": "2015-04-25 14:53",
+      "serviceId": "2_27",
+      "tripId": "2_10435",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 14:58",
+      "departure": "2015-04-25 14:58",
+      "serviceId": "2_27",
+      "tripId": "2_10057",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 15:08",
+      "departure": "2015-04-25 15:08",
+      "serviceId": "2_27",
+      "tripId": "2_9786",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 15:18",
+      "departure": "2015-04-25 15:18",
+      "serviceId": "2_27",
+      "tripId": "2_10058",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 15:33",
+      "departure": "2015-04-25 15:33",
+      "serviceId": "2_27",
+      "tripId": "2_10436",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 15:37",
+      "departure": "2015-04-25 15:37",
+      "serviceId": "2_27",
+      "tripId": "2_9956",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 15:38",
+      "departure": "2015-04-25 15:38",
+      "serviceId": "2_27",
+      "tripId": "2_10059",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 15:43",
+      "departure": "2015-04-25 15:43",
+      "serviceId": "2_27",
+      "tripId": "2_9787",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 15:58",
+      "departure": "2015-04-25 15:58",
+      "serviceId": "2_27",
+      "tripId": "2_10060",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 16:13",
+      "departure": "2015-04-25 16:13",
+      "serviceId": "2_27",
+      "tripId": "2_10437",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 16:18",
+      "departure": "2015-04-25 16:18",
+      "serviceId": "2_27",
+      "tripId": "2_10061",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 16:18",
+      "departure": "2015-04-25 16:18",
+      "serviceId": "2_27",
+      "tripId": "2_9788",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 16:38",
+      "departure": "2015-04-25 16:38",
+      "serviceId": "2_27",
+      "tripId": "2_10062",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 16:42",
+      "departure": "2015-04-25 16:42",
+      "serviceId": "2_27",
+      "tripId": "2_9957",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 16:53",
+      "departure": "2015-04-25 16:53",
+      "serviceId": "2_27",
+      "tripId": "2_10438",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 16:58",
+      "departure": "2015-04-25 16:58",
+      "serviceId": "2_27",
+      "tripId": "2_10063",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 16:58",
+      "departure": "2015-04-25 16:58",
+      "serviceId": "2_27",
+      "tripId": "2_9789",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 17:18",
+      "departure": "2015-04-25 17:18",
+      "serviceId": "2_27",
+      "tripId": "2_10064",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 17:33",
+      "departure": "2015-04-25 17:33",
+      "serviceId": "2_27",
+      "tripId": "2_10439",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 17:33",
+      "departure": "2015-04-25 17:33",
+      "serviceId": "2_27",
+      "tripId": "2_9790",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 17:38",
+      "departure": "2015-04-25 17:38",
+      "serviceId": "2_27",
+      "tripId": "2_10065",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 17:52",
+      "departure": "2015-04-25 17:52",
+      "serviceId": "2_27",
+      "tripId": "2_9959",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 17:58",
+      "departure": "2015-04-25 17:58",
+      "serviceId": "2_27",
+      "tripId": "2_10066",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 18:08",
+      "departure": "2015-04-25 18:08",
+      "serviceId": "2_27",
+      "tripId": "2_9791",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 18:13",
+      "departure": "2015-04-25 18:13",
+      "serviceId": "2_27",
+      "tripId": "2_10440",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 18:18",
+      "departure": "2015-04-25 18:18",
+      "serviceId": "2_27",
+      "tripId": "2_10035",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 18:38",
+      "departure": "2015-04-25 18:38",
+      "serviceId": "2_27",
+      "tripId": "2_10036",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 18:48",
+      "departure": "2015-04-25 18:48",
+      "serviceId": "2_27",
+      "tripId": "2_9792",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 18:53",
+      "departure": "2015-04-25 18:53",
+      "serviceId": "2_27",
+      "tripId": "2_10441",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 18:58",
+      "departure": "2015-04-25 18:58",
+      "serviceId": "2_27",
+      "tripId": "2_10037",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 19:02",
+      "departure": "2015-04-25 19:02",
+      "serviceId": "2_27",
+      "tripId": "2_9961",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 19:18",
+      "departure": "2015-04-25 19:18",
+      "serviceId": "2_27",
+      "tripId": "2_10013",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 19:18",
+      "departure": "2015-04-25 19:18",
+      "serviceId": "2_27",
+      "tripId": "2_9793",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 19:33",
+      "departure": "2015-04-25 19:33",
+      "serviceId": "2_27",
+      "tripId": "2_10442",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 19:43",
+      "departure": "2015-04-25 19:43",
+      "serviceId": "2_27",
+      "tripId": "2_10034",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 19:58",
+      "departure": "2015-04-25 19:58",
+      "serviceId": "2_27",
+      "tripId": "2_9794",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 20:12",
+      "departure": "2015-04-25 20:12",
+      "serviceId": "2_27",
+      "tripId": "2_9953",
+      "routeId": "2_0081",
+      "headsign": "81 | Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-25 20:13",
+      "departure": "2015-04-25 20:13",
+      "serviceId": "2_27",
+      "tripId": "2_10443",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 20:18",
+      "departure": "2015-04-25 20:18",
+      "serviceId": "2_27",
+      "tripId": "2_9968",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 20:28",
+      "departure": "2015-04-25 20:28",
+      "serviceId": "2_27",
+      "tripId": "2_9795",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-25 20:43",
+      "departure": "2015-04-25 20:43",
+      "serviceId": "2_27",
+      "tripId": "2_10016",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Pâtis Roussel"
+    },
+    {
+      "arrival": "2015-04-25 20:53",
+      "departure": "2015-04-25 20:53",
+      "serviceId": "2_27",
+      "tripId": "2_10425",
+      "routeId": "2_0065",
+      "headsign": "65 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-25 20:58",
+      "departure": "2015-04-25 20:58",
+      "serviceId": "2_27",
+      "tripId": "2_9775",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-04-26 00:11",
+      "departure": "2015-04-26 00:11",
+      "serviceId": "2_27",
+      "tripId": "2_9966",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-26 00:12",
+      "departure": "2015-04-26 00:12",
+      "serviceId": "2_27",
+      "tripId": "2_10031",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Parthenay-de-B."
+    },
+    {
+      "arrival": "2015-04-26 01:46",
+      "departure": "2015-04-26 01:46",
+      "serviceId": "2_27",
+      "tripId": "2_9967",
+      "routeId": "2_0081",
+      "headsign": "81 | Pacé Saint-Gilles Clayes Romillé"
+    },
+    {
+      "arrival": "2015-04-26 01:47",
+      "departure": "2015-04-26 01:47",
+      "serviceId": "2_27",
+      "tripId": "2_10032",
+      "routeId": "2_0077",
+      "headsign": "77 | Pacé Parthenay-de-B."
+    }
+  ]
+}

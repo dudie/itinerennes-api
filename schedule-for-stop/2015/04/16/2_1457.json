@@ -1,0 +1,982 @@
+{
+  "date": "2015-04-16 00:00",
+  "stop": {
+    "id": "2_1457",
+    "lat": 48.086765,
+    "lon": -1.683887,
+    "name": "Norvège",
+    "code": 1457
+  },
+  "routes": [
+    {
+      "id": "2_0033",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+      "shortName": "33",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Gare)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "004293",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-04-16 06:30",
+      "departure": "2015-04-16 06:30",
+      "serviceId": "2_13",
+      "tripId": "2_30790",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 06:36",
+      "departure": "2015-04-16 06:36",
+      "serviceId": "2_13",
+      "tripId": "2_38953",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 07:01",
+      "departure": "2015-04-16 07:01",
+      "serviceId": "2_13",
+      "tripId": "2_30796",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 07:01",
+      "departure": "2015-04-16 07:01",
+      "serviceId": "2_13",
+      "tripId": "2_38959",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 07:20",
+      "departure": "2015-04-16 07:20",
+      "serviceId": "2_42",
+      "tripId": "2_1050",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 07:23",
+      "departure": "2015-04-16 07:23",
+      "serviceId": "2_13",
+      "tripId": "2_31156",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 07:24",
+      "departure": "2015-04-16 07:24",
+      "serviceId": "2_13",
+      "tripId": "2_38965",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 07:40",
+      "departure": "2015-04-16 07:40",
+      "serviceId": "2_13",
+      "tripId": "2_38971",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 07:41",
+      "departure": "2015-04-16 07:41",
+      "serviceId": "2_42",
+      "tripId": "2_1060",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 07:51",
+      "departure": "2015-04-16 07:51",
+      "serviceId": "2_13",
+      "tripId": "2_30802",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 08:00",
+      "departure": "2015-04-16 08:00",
+      "serviceId": "2_13",
+      "tripId": "2_38977",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 08:05",
+      "departure": "2015-04-16 08:05",
+      "serviceId": "2_42",
+      "tripId": "2_1070",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 08:12",
+      "departure": "2015-04-16 08:12",
+      "serviceId": "2_13",
+      "tripId": "2_30808",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 08:13",
+      "departure": "2015-04-16 08:13",
+      "serviceId": "2_13",
+      "tripId": "2_38983",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 08:21",
+      "departure": "2015-04-16 08:21",
+      "serviceId": "2_42",
+      "tripId": "2_1810",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 08:32",
+      "departure": "2015-04-16 08:32",
+      "serviceId": "2_13",
+      "tripId": "2_30814",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 08:32",
+      "departure": "2015-04-16 08:32",
+      "serviceId": "2_13",
+      "tripId": "2_38989",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 08:46",
+      "departure": "2015-04-16 08:46",
+      "serviceId": "2_42",
+      "tripId": "2_1080",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 08:48",
+      "departure": "2015-04-16 08:48",
+      "serviceId": "2_13",
+      "tripId": "2_38995",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 08:52",
+      "departure": "2015-04-16 08:52",
+      "serviceId": "2_13",
+      "tripId": "2_30820",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 09:04",
+      "departure": "2015-04-16 09:04",
+      "serviceId": "2_42",
+      "tripId": "2_1090",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 09:04",
+      "departure": "2015-04-16 09:04",
+      "serviceId": "2_13",
+      "tripId": "2_39001",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 09:10",
+      "departure": "2015-04-16 09:10",
+      "serviceId": "2_13",
+      "tripId": "2_30826",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 09:16",
+      "departure": "2015-04-16 09:16",
+      "serviceId": "2_42",
+      "tripId": "2_1100",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 09:21",
+      "departure": "2015-04-16 09:21",
+      "serviceId": "2_13",
+      "tripId": "2_39007",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 09:27",
+      "departure": "2015-04-16 09:27",
+      "serviceId": "2_13",
+      "tripId": "2_31192",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes La Poterie"
+    },
+    {
+      "arrival": "2015-04-16 09:33",
+      "departure": "2015-04-16 09:33",
+      "serviceId": "2_13",
+      "tripId": "2_39013",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 09:38",
+      "departure": "2015-04-16 09:38",
+      "serviceId": "2_42",
+      "tripId": "2_1110",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 09:44",
+      "departure": "2015-04-16 09:44",
+      "serviceId": "2_13",
+      "tripId": "2_39325",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 09:46",
+      "departure": "2015-04-16 09:46",
+      "serviceId": "2_13",
+      "tripId": "2_31132",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 10:00",
+      "departure": "2015-04-16 10:00",
+      "serviceId": "2_42",
+      "tripId": "2_1120",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 10:11",
+      "departure": "2015-04-16 10:11",
+      "serviceId": "2_13",
+      "tripId": "2_30832",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 10:18",
+      "departure": "2015-04-16 10:18",
+      "serviceId": "2_13",
+      "tripId": "2_39019",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 10:22",
+      "departure": "2015-04-16 10:22",
+      "serviceId": "2_42",
+      "tripId": "2_1130",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 10:41",
+      "departure": "2015-04-16 10:41",
+      "serviceId": "2_13",
+      "tripId": "2_30838",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 10:44",
+      "departure": "2015-04-16 10:44",
+      "serviceId": "2_42",
+      "tripId": "2_1140",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 10:58",
+      "departure": "2015-04-16 10:58",
+      "serviceId": "2_13",
+      "tripId": "2_39025",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 11:06",
+      "departure": "2015-04-16 11:06",
+      "serviceId": "2_42",
+      "tripId": "2_1150",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 11:11",
+      "departure": "2015-04-16 11:11",
+      "serviceId": "2_13",
+      "tripId": "2_30844",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 11:33",
+      "departure": "2015-04-16 11:33",
+      "serviceId": "2_42",
+      "tripId": "2_1160",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 11:34",
+      "departure": "2015-04-16 11:34",
+      "serviceId": "2_13",
+      "tripId": "2_39031",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 11:42",
+      "departure": "2015-04-16 11:42",
+      "serviceId": "2_13",
+      "tripId": "2_30850",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 11:58",
+      "departure": "2015-04-16 11:58",
+      "serviceId": "2_42",
+      "tripId": "2_1170",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 12:17",
+      "departure": "2015-04-16 12:17",
+      "serviceId": "2_13",
+      "tripId": "2_39037",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 12:22",
+      "departure": "2015-04-16 12:22",
+      "serviceId": "2_42",
+      "tripId": "2_1180",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 12:22",
+      "departure": "2015-04-16 12:22",
+      "serviceId": "2_13",
+      "tripId": "2_30856",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 12:39",
+      "departure": "2015-04-16 12:39",
+      "serviceId": "2_42",
+      "tripId": "2_1190",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 12:47",
+      "departure": "2015-04-16 12:47",
+      "serviceId": "2_13",
+      "tripId": "2_30862",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 12:50",
+      "departure": "2015-04-16 12:50",
+      "serviceId": "2_13",
+      "tripId": "2_39043",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 12:59",
+      "departure": "2015-04-16 12:59",
+      "serviceId": "2_42",
+      "tripId": "2_1200",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 13:14",
+      "departure": "2015-04-16 13:14",
+      "serviceId": "2_42",
+      "tripId": "2_1800",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 13:17",
+      "departure": "2015-04-16 13:17",
+      "serviceId": "2_13",
+      "tripId": "2_30868",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 13:28",
+      "departure": "2015-04-16 13:28",
+      "serviceId": "2_13",
+      "tripId": "2_9741",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 13:33",
+      "departure": "2015-04-16 13:33",
+      "serviceId": "2_13",
+      "tripId": "2_39385",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 13:35",
+      "departure": "2015-04-16 13:35",
+      "serviceId": "2_42",
+      "tripId": "2_1210",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 13:53",
+      "departure": "2015-04-16 13:53",
+      "serviceId": "2_13",
+      "tripId": "2_30874",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 13:55",
+      "departure": "2015-04-16 13:55",
+      "serviceId": "2_42",
+      "tripId": "2_1220",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 13:58",
+      "departure": "2015-04-16 13:58",
+      "serviceId": "2_13",
+      "tripId": "2_39391",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 14:14",
+      "departure": "2015-04-16 14:14",
+      "serviceId": "2_42",
+      "tripId": "2_1230",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 14:22",
+      "departure": "2015-04-16 14:22",
+      "serviceId": "2_13",
+      "tripId": "2_39397",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 14:27",
+      "departure": "2015-04-16 14:27",
+      "serviceId": "2_13",
+      "tripId": "2_30880",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 14:34",
+      "departure": "2015-04-16 14:34",
+      "serviceId": "2_42",
+      "tripId": "2_1240",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 14:47",
+      "departure": "2015-04-16 14:47",
+      "serviceId": "2_13",
+      "tripId": "2_39403",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 14:54",
+      "departure": "2015-04-16 14:54",
+      "serviceId": "2_42",
+      "tripId": "2_1250",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 14:57",
+      "departure": "2015-04-16 14:57",
+      "serviceId": "2_13",
+      "tripId": "2_30886",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 15:11",
+      "departure": "2015-04-16 15:11",
+      "serviceId": "2_42",
+      "tripId": "2_1260",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 15:12",
+      "departure": "2015-04-16 15:12",
+      "serviceId": "2_13",
+      "tripId": "2_39409",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 15:27",
+      "departure": "2015-04-16 15:27",
+      "serviceId": "2_13",
+      "tripId": "2_30892",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 15:31",
+      "departure": "2015-04-16 15:31",
+      "serviceId": "2_42",
+      "tripId": "2_1280",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 15:37",
+      "departure": "2015-04-16 15:37",
+      "serviceId": "2_13",
+      "tripId": "2_39415",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 15:49",
+      "departure": "2015-04-16 15:49",
+      "serviceId": "2_42",
+      "tripId": "2_1290",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 16:02",
+      "departure": "2015-04-16 16:02",
+      "serviceId": "2_13",
+      "tripId": "2_30898",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 16:03",
+      "departure": "2015-04-16 16:03",
+      "serviceId": "2_13",
+      "tripId": "2_39331",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 16:09",
+      "departure": "2015-04-16 16:09",
+      "serviceId": "2_42",
+      "tripId": "2_1300",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 16:19",
+      "departure": "2015-04-16 16:19",
+      "serviceId": "2_13",
+      "tripId": "2_30904",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 16:24",
+      "departure": "2015-04-16 16:24",
+      "serviceId": "2_13",
+      "tripId": "2_39229",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-04-16 16:29",
+      "departure": "2015-04-16 16:29",
+      "serviceId": "2_42",
+      "tripId": "2_1740",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 16:39",
+      "departure": "2015-04-16 16:39",
+      "serviceId": "2_13",
+      "tripId": "2_30910",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 16:52",
+      "departure": "2015-04-16 16:52",
+      "serviceId": "2_42",
+      "tripId": "2_1310",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 16:54",
+      "departure": "2015-04-16 16:54",
+      "serviceId": "2_13",
+      "tripId": "2_39235",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 16:58",
+      "departure": "2015-04-16 16:58",
+      "serviceId": "2_13",
+      "tripId": "2_30916",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 17:12",
+      "departure": "2015-04-16 17:12",
+      "serviceId": "2_42",
+      "tripId": "2_1320",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 17:16",
+      "departure": "2015-04-16 17:16",
+      "serviceId": "2_13",
+      "tripId": "2_39241",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 17:18",
+      "departure": "2015-04-16 17:18",
+      "serviceId": "2_13",
+      "tripId": "2_30922",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 17:30",
+      "departure": "2015-04-16 17:30",
+      "serviceId": "2_42",
+      "tripId": "2_1330",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 17:32",
+      "departure": "2015-04-16 17:32",
+      "serviceId": "2_13",
+      "tripId": "2_39247",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-04-16 17:37",
+      "departure": "2015-04-16 17:37",
+      "serviceId": "2_13",
+      "tripId": "2_30928",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 17:48",
+      "departure": "2015-04-16 17:48",
+      "serviceId": "2_13",
+      "tripId": "2_39253",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 17:50",
+      "departure": "2015-04-16 17:50",
+      "serviceId": "2_42",
+      "tripId": "2_1340",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 17:57",
+      "departure": "2015-04-16 17:57",
+      "serviceId": "2_13",
+      "tripId": "2_30934",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 18:03",
+      "departure": "2015-04-16 18:03",
+      "serviceId": "2_13",
+      "tripId": "2_39259",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 18:08",
+      "departure": "2015-04-16 18:08",
+      "serviceId": "2_42",
+      "tripId": "2_1780",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 18:17",
+      "departure": "2015-04-16 18:17",
+      "serviceId": "2_13",
+      "tripId": "2_30940",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 18:20",
+      "departure": "2015-04-16 18:20",
+      "serviceId": "2_13",
+      "tripId": "2_39265",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 18:26",
+      "departure": "2015-04-16 18:26",
+      "serviceId": "2_42",
+      "tripId": "2_1350",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 18:39",
+      "departure": "2015-04-16 18:39",
+      "serviceId": "2_13",
+      "tripId": "2_39271",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 18:43",
+      "departure": "2015-04-16 18:43",
+      "serviceId": "2_13",
+      "tripId": "2_30946",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 18:45",
+      "departure": "2015-04-16 18:45",
+      "serviceId": "2_42",
+      "tripId": "2_1360",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 18:54",
+      "departure": "2015-04-16 18:54",
+      "serviceId": "2_13",
+      "tripId": "2_39277",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 19:03",
+      "departure": "2015-04-16 19:03",
+      "serviceId": "2_42",
+      "tripId": "2_1370",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 19:06",
+      "departure": "2015-04-16 19:06",
+      "serviceId": "2_13",
+      "tripId": "2_30952",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 19:07",
+      "departure": "2015-04-16 19:07",
+      "serviceId": "2_13",
+      "tripId": "2_39283",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 19:18",
+      "departure": "2015-04-16 19:18",
+      "serviceId": "2_42",
+      "tripId": "2_1380",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 19:22",
+      "departure": "2015-04-16 19:22",
+      "serviceId": "2_13",
+      "tripId": "2_39289",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 19:37",
+      "departure": "2015-04-16 19:37",
+      "serviceId": "2_13",
+      "tripId": "2_31204",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 19:40",
+      "departure": "2015-04-16 19:40",
+      "serviceId": "2_13",
+      "tripId": "2_39295",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 19:51",
+      "departure": "2015-04-16 19:51",
+      "serviceId": "2_42",
+      "tripId": "2_1400",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 20:08",
+      "departure": "2015-04-16 20:08",
+      "serviceId": "2_13",
+      "tripId": "2_31220",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 20:10",
+      "departure": "2015-04-16 20:10",
+      "serviceId": "2_13",
+      "tripId": "2_39301",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 20:21",
+      "departure": "2015-04-16 20:21",
+      "serviceId": "2_42",
+      "tripId": "2_1760",
+      "routeId": "2_0033",
+      "headsign": "33 | Chantepie Cucé"
+    },
+    {
+      "arrival": "2015-04-16 20:38",
+      "departure": "2015-04-16 20:38",
+      "serviceId": "2_13",
+      "tripId": "2_31210",
+      "routeId": "2_0059",
+      "headsign": "59 | Vern-sur-Seiche"
+    },
+    {
+      "arrival": "2015-04-16 20:44",
+      "departure": "2015-04-16 20:44",
+      "serviceId": "2_13",
+      "tripId": "2_39313",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 20:59",
+      "departure": "2015-04-16 20:59",
+      "serviceId": "2_13",
+      "tripId": "2_39307",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-04-16 21:16",
+      "departure": "2015-04-16 21:16",
+      "serviceId": "2_13",
+      "tripId": "2_31174",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 21:46",
+      "departure": "2015-04-16 21:46",
+      "serviceId": "2_13",
+      "tripId": "2_31244",
+      "routeId": "2_0059",
+      "headsign": "59 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-04-16 21:55",
+      "departure": "2015-04-16 21:55",
+      "serviceId": "2_13",
+      "tripId": "2_39425",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    }
+  ]
+}
