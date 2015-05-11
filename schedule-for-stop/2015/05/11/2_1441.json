@@ -1,0 +1,886 @@
+{
+  "date": "2015-05-11 00:00",
+  "stop": {
+    "id": "2_1441",
+    "lat": 48.08608,
+    "lon": -1.660855,
+    "name": "Triangle",
+    "code": 1441
+  },
+  "routes": [
+    {
+      "id": "2_0032",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Triangle \u003c\u003e Beaulieu Atalante",
+      "shortName": "32",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0033",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+      "shortName": "33",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0061",
+      "textColor": "FFFFFF",
+      "color": "E6396C",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon",
+      "shortName": "61",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0161",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon / Bourgbarré",
+      "shortName": "161",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-11 06:26",
+      "departure": "2015-05-11 06:26",
+      "serviceId": "2_22",
+      "tripId": "2_38574",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 06:51",
+      "departure": "2015-05-11 06:51",
+      "serviceId": "2_22",
+      "tripId": "2_38256",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 07:14",
+      "departure": "2015-05-11 07:14",
+      "serviceId": "2_22",
+      "tripId": "2_38538",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 07:17",
+      "departure": "2015-05-11 07:17",
+      "serviceId": "2_24",
+      "tripId": "2_1326",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 07:25",
+      "departure": "2015-05-11 07:25",
+      "serviceId": "2_24",
+      "tripId": "2_718",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 07:27",
+      "departure": "2015-05-11 07:27",
+      "serviceId": "2_22",
+      "tripId": "2_38939",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 07:31",
+      "departure": "2015-05-11 07:31",
+      "serviceId": "2_22",
+      "tripId": "2_38316",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 07:41",
+      "departure": "2015-05-11 07:41",
+      "serviceId": "2_24",
+      "tripId": "2_1334",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 07:46",
+      "departure": "2015-05-11 07:46",
+      "serviceId": "2_22",
+      "tripId": "2_38400",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 07:52",
+      "departure": "2015-05-11 07:52",
+      "serviceId": "2_22",
+      "tripId": "2_38894",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Bréquigny via H. Fréville"
+    },
+    {
+      "arrival": "2015-05-11 08:00",
+      "departure": "2015-05-11 08:00",
+      "serviceId": "2_24",
+      "tripId": "2_742",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 08:01",
+      "departure": "2015-05-11 08:01",
+      "serviceId": "2_24",
+      "tripId": "2_1342",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 08:01",
+      "departure": "2015-05-11 08:01",
+      "serviceId": "2_22",
+      "tripId": "2_38322",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 08:16",
+      "departure": "2015-05-11 08:16",
+      "serviceId": "2_24",
+      "tripId": "2_1350",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 08:19",
+      "departure": "2015-05-11 08:19",
+      "serviceId": "2_22",
+      "tripId": "2_38328",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 08:25",
+      "departure": "2015-05-11 08:25",
+      "serviceId": "2_24",
+      "tripId": "2_726",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 08:34",
+      "departure": "2015-05-11 08:34",
+      "serviceId": "2_22",
+      "tripId": "2_38909",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 08:39",
+      "departure": "2015-05-11 08:39",
+      "serviceId": "2_22",
+      "tripId": "2_38544",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 08:41",
+      "departure": "2015-05-11 08:41",
+      "serviceId": "2_24",
+      "tripId": "2_1358",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 08:54",
+      "departure": "2015-05-11 08:54",
+      "serviceId": "2_22",
+      "tripId": "2_38550",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 09:00",
+      "departure": "2015-05-11 09:00",
+      "serviceId": "2_24",
+      "tripId": "2_750",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 09:03",
+      "departure": "2015-05-11 09:03",
+      "serviceId": "2_24",
+      "tripId": "2_1366",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 09:07",
+      "departure": "2015-05-11 09:07",
+      "serviceId": "2_22",
+      "tripId": "2_38556",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 09:22",
+      "departure": "2015-05-11 09:22",
+      "serviceId": "2_22",
+      "tripId": "2_38562",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 09:26",
+      "departure": "2015-05-11 09:26",
+      "serviceId": "2_24",
+      "tripId": "2_1374",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 09:40",
+      "departure": "2015-05-11 09:40",
+      "serviceId": "2_24",
+      "tripId": "2_734",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 09:42",
+      "departure": "2015-05-11 09:42",
+      "serviceId": "2_22",
+      "tripId": "2_38334",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 09:47",
+      "departure": "2015-05-11 09:47",
+      "serviceId": "2_24",
+      "tripId": "2_1598",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 10:10",
+      "departure": "2015-05-11 10:10",
+      "serviceId": "2_24",
+      "tripId": "2_1382",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 10:12",
+      "departure": "2015-05-11 10:12",
+      "serviceId": "2_22",
+      "tripId": "2_38340",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 10:30",
+      "departure": "2015-05-11 10:30",
+      "serviceId": "2_24",
+      "tripId": "2_758",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 10:33",
+      "departure": "2015-05-11 10:33",
+      "serviceId": "2_24",
+      "tripId": "2_1390",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 10:42",
+      "departure": "2015-05-11 10:42",
+      "serviceId": "2_22",
+      "tripId": "2_38568",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 10:55",
+      "departure": "2015-05-11 10:55",
+      "serviceId": "2_24",
+      "tripId": "2_1398",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 11:11",
+      "departure": "2015-05-11 11:11",
+      "serviceId": "2_22",
+      "tripId": "2_38346",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 11:18",
+      "departure": "2015-05-11 11:18",
+      "serviceId": "2_24",
+      "tripId": "2_1406",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 11:20",
+      "departure": "2015-05-11 11:20",
+      "serviceId": "2_24",
+      "tripId": "2_766",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 11:40",
+      "departure": "2015-05-11 11:40",
+      "serviceId": "2_24",
+      "tripId": "2_1414",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 11:41",
+      "departure": "2015-05-11 11:41",
+      "serviceId": "2_22",
+      "tripId": "2_38250",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 12:00",
+      "departure": "2015-05-11 12:00",
+      "serviceId": "2_24",
+      "tripId": "2_1614",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 12:10",
+      "departure": "2015-05-11 12:10",
+      "serviceId": "2_24",
+      "tripId": "2_774",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 12:11",
+      "departure": "2015-05-11 12:11",
+      "serviceId": "2_22",
+      "tripId": "2_38352",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 12:15",
+      "departure": "2015-05-11 12:15",
+      "serviceId": "2_24",
+      "tripId": "2_1422",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 12:35",
+      "departure": "2015-05-11 12:35",
+      "serviceId": "2_24",
+      "tripId": "2_1430",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 12:35",
+      "departure": "2015-05-11 12:35",
+      "serviceId": "2_24",
+      "tripId": "2_782",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 12:41",
+      "departure": "2015-05-11 12:41",
+      "serviceId": "2_22",
+      "tripId": "2_38370",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 12:55",
+      "departure": "2015-05-11 12:55",
+      "serviceId": "2_24",
+      "tripId": "2_1438",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 13:00",
+      "departure": "2015-05-11 13:00",
+      "serviceId": "2_24",
+      "tripId": "2_790",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 13:11",
+      "departure": "2015-05-11 13:11",
+      "serviceId": "2_22",
+      "tripId": "2_38358",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 13:18",
+      "departure": "2015-05-11 13:18",
+      "serviceId": "2_24",
+      "tripId": "2_1446",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 13:30",
+      "departure": "2015-05-11 13:30",
+      "serviceId": "2_24",
+      "tripId": "2_798",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 13:36",
+      "departure": "2015-05-11 13:36",
+      "serviceId": "2_24",
+      "tripId": "2_1454",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 13:42",
+      "departure": "2015-05-11 13:42",
+      "serviceId": "2_22",
+      "tripId": "2_38376",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 13:56",
+      "departure": "2015-05-11 13:56",
+      "serviceId": "2_24",
+      "tripId": "2_1462",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 14:12",
+      "departure": "2015-05-11 14:12",
+      "serviceId": "2_22",
+      "tripId": "2_38364",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 14:13",
+      "departure": "2015-05-11 14:13",
+      "serviceId": "2_24",
+      "tripId": "2_1470",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 14:25",
+      "departure": "2015-05-11 14:25",
+      "serviceId": "2_24",
+      "tripId": "2_806",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 14:33",
+      "departure": "2015-05-11 14:33",
+      "serviceId": "2_24",
+      "tripId": "2_1478",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 14:42",
+      "departure": "2015-05-11 14:42",
+      "serviceId": "2_22",
+      "tripId": "2_38580",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 14:51",
+      "departure": "2015-05-11 14:51",
+      "serviceId": "2_24",
+      "tripId": "2_1486",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 15:11",
+      "departure": "2015-05-11 15:11",
+      "serviceId": "2_24",
+      "tripId": "2_1494",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 15:12",
+      "departure": "2015-05-11 15:12",
+      "serviceId": "2_22",
+      "tripId": "2_38586",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 15:15",
+      "departure": "2015-05-11 15:15",
+      "serviceId": "2_24",
+      "tripId": "2_814",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 15:31",
+      "departure": "2015-05-11 15:31",
+      "serviceId": "2_24",
+      "tripId": "2_1510",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 15:42",
+      "departure": "2015-05-11 15:42",
+      "serviceId": "2_22",
+      "tripId": "2_38592",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 15:51",
+      "departure": "2015-05-11 15:51",
+      "serviceId": "2_24",
+      "tripId": "2_1518",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 16:02",
+      "departure": "2015-05-11 16:02",
+      "serviceId": "2_22",
+      "tripId": "2_38688",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 16:08",
+      "departure": "2015-05-11 16:08",
+      "serviceId": "2_24",
+      "tripId": "2_1526",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 16:10",
+      "departure": "2015-05-11 16:10",
+      "serviceId": "2_24",
+      "tripId": "2_822",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 16:21",
+      "departure": "2015-05-11 16:21",
+      "serviceId": "2_24",
+      "tripId": "2_1534",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 16:22",
+      "departure": "2015-05-11 16:22",
+      "serviceId": "2_22",
+      "tripId": "2_38382",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 16:39",
+      "departure": "2015-05-11 16:39",
+      "serviceId": "2_24",
+      "tripId": "2_1542",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 16:42",
+      "departure": "2015-05-11 16:42",
+      "serviceId": "2_24",
+      "tripId": "2_998",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 16:45",
+      "departure": "2015-05-11 16:45",
+      "serviceId": "2_22",
+      "tripId": "2_38388",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 16:57",
+      "departure": "2015-05-11 16:57",
+      "serviceId": "2_24",
+      "tripId": "2_1310",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 17:05",
+      "departure": "2015-05-11 17:05",
+      "serviceId": "2_22",
+      "tripId": "2_38598",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 17:09",
+      "departure": "2015-05-11 17:09",
+      "serviceId": "2_22",
+      "tripId": "2_38904",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 17:12",
+      "departure": "2015-05-11 17:12",
+      "serviceId": "2_24",
+      "tripId": "2_1006",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 17:15",
+      "departure": "2015-05-11 17:15",
+      "serviceId": "2_24",
+      "tripId": "2_1630",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 17:25",
+      "departure": "2015-05-11 17:25",
+      "serviceId": "2_22",
+      "tripId": "2_38604",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 17:29",
+      "departure": "2015-05-11 17:29",
+      "serviceId": "2_22",
+      "tripId": "2_38884",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 17:36",
+      "departure": "2015-05-11 17:36",
+      "serviceId": "2_24",
+      "tripId": "2_1550",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 17:45",
+      "departure": "2015-05-11 17:45",
+      "serviceId": "2_24",
+      "tripId": "2_1014",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 17:49",
+      "departure": "2015-05-11 17:49",
+      "serviceId": "2_22",
+      "tripId": "2_38298",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 17:58",
+      "departure": "2015-05-11 17:58",
+      "serviceId": "2_24",
+      "tripId": "2_1558",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 18:11",
+      "departure": "2015-05-11 18:11",
+      "serviceId": "2_22",
+      "tripId": "2_38610",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 18:14",
+      "departure": "2015-05-11 18:14",
+      "serviceId": "2_22",
+      "tripId": "2_38914",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 18:15",
+      "departure": "2015-05-11 18:15",
+      "serviceId": "2_24",
+      "tripId": "2_1022",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 18:18",
+      "departure": "2015-05-11 18:18",
+      "serviceId": "2_24",
+      "tripId": "2_1566",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 18:30",
+      "departure": "2015-05-11 18:30",
+      "serviceId": "2_22",
+      "tripId": "2_38628",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 18:34",
+      "departure": "2015-05-11 18:34",
+      "serviceId": "2_22",
+      "tripId": "2_38889",
+      "routeId": "2_0161",
+      "headsign": "161 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 18:40",
+      "departure": "2015-05-11 18:40",
+      "serviceId": "2_24",
+      "tripId": "2_1574",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 18:50",
+      "departure": "2015-05-11 18:50",
+      "serviceId": "2_24",
+      "tripId": "2_934",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 18:55",
+      "departure": "2015-05-11 18:55",
+      "serviceId": "2_22",
+      "tripId": "2_38634",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 18:58",
+      "departure": "2015-05-11 18:58",
+      "serviceId": "2_24",
+      "tripId": "2_1582",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 19:15",
+      "departure": "2015-05-11 19:15",
+      "serviceId": "2_22",
+      "tripId": "2_38616",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 19:15",
+      "departure": "2015-05-11 19:15",
+      "serviceId": "2_24",
+      "tripId": "2_926",
+      "routeId": "2_0032",
+      "headsign": "32 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-11 19:28",
+      "departure": "2015-05-11 19:28",
+      "serviceId": "2_24",
+      "tripId": "2_1214",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 19:35",
+      "departure": "2015-05-11 19:35",
+      "serviceId": "2_22",
+      "tripId": "2_38622",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 19:55",
+      "departure": "2015-05-11 19:55",
+      "serviceId": "2_22",
+      "tripId": "2_38702",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 19:57",
+      "departure": "2015-05-11 19:57",
+      "serviceId": "2_24",
+      "tripId": "2_1502",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-05-11 20:15",
+      "departure": "2015-05-11 20:15",
+      "serviceId": "2_22",
+      "tripId": "2_38508",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 20:40",
+      "departure": "2015-05-11 20:40",
+      "serviceId": "2_22",
+      "tripId": "2_38514",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-11 21:10",
+      "departure": "2015-05-11 21:10",
+      "serviceId": "2_22",
+      "tripId": "2_38520",
+      "routeId": "2_0061",
+      "headsign": "61 | Rennes Henri Fréville"
+    }
+  ]
+}

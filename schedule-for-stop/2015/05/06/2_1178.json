@@ -1,0 +1,996 @@
+{
+  "date": "2015-05-06 00:00",
+  "stop": {
+    "id": "2_1178",
+    "lat": 48.120832,
+    "lon": -1.643865,
+    "name": "Beaulieu Cité U",
+    "code": 1178
+  },
+  "routes": [
+    {
+      "id": "2_0014",
+      "textColor": "FFFFFF",
+      "color": "805A26",
+      "description": "Urbaine",
+      "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+      "shortName": "14",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0031",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Villejean-Churchill \u003c\u003e Cesson-Sévigné (Base de Loisirs)",
+      "shortName": "31",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0064",
+      "textColor": "FFFFFF",
+      "color": "0094D8",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Acigné",
+      "shortName": "64",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-06 06:27",
+      "departure": "2015-05-06 06:27",
+      "serviceId": "2_38",
+      "tripId": "2_5838",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 06:28",
+      "departure": "2015-05-06 06:28",
+      "serviceId": "2_38",
+      "tripId": "2_22831",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 06:53",
+      "departure": "2015-05-06 06:53",
+      "serviceId": "2_38",
+      "tripId": "2_22839",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 06:58",
+      "departure": "2015-05-06 06:58",
+      "serviceId": "2_38",
+      "tripId": "2_5358",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:10",
+      "departure": "2015-05-06 07:10",
+      "serviceId": "2_38",
+      "tripId": "2_11603",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 07:10",
+      "departure": "2015-05-06 07:10",
+      "serviceId": "2_38",
+      "tripId": "2_22719",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 07:19",
+      "departure": "2015-05-06 07:19",
+      "serviceId": "2_38",
+      "tripId": "2_5366",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:22",
+      "departure": "2015-05-06 07:22",
+      "serviceId": "2_38",
+      "tripId": "2_22727",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 07:34",
+      "departure": "2015-05-06 07:34",
+      "serviceId": "2_38",
+      "tripId": "2_22799",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 07:35",
+      "departure": "2015-05-06 07:35",
+      "serviceId": "2_38",
+      "tripId": "2_11595",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 07:43",
+      "departure": "2015-05-06 07:43",
+      "serviceId": "2_38",
+      "tripId": "2_5470",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:49",
+      "departure": "2015-05-06 07:49",
+      "serviceId": "2_38",
+      "tripId": "2_22807",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 07:51",
+      "departure": "2015-05-06 07:51",
+      "serviceId": "2_38",
+      "tripId": "2_11587",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 08:03",
+      "departure": "2015-05-06 08:03",
+      "serviceId": "2_38",
+      "tripId": "2_5478",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:04",
+      "departure": "2015-05-06 08:04",
+      "serviceId": "2_38",
+      "tripId": "2_22815",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 08:14",
+      "departure": "2015-05-06 08:14",
+      "serviceId": "2_38",
+      "tripId": "2_11611",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 08:19",
+      "departure": "2015-05-06 08:19",
+      "serviceId": "2_38",
+      "tripId": "2_22847",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 08:23",
+      "departure": "2015-05-06 08:23",
+      "serviceId": "2_38",
+      "tripId": "2_5486",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:32",
+      "departure": "2015-05-06 08:32",
+      "serviceId": "2_38",
+      "tripId": "2_11619",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 08:34",
+      "departure": "2015-05-06 08:34",
+      "serviceId": "2_38",
+      "tripId": "2_22855",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 08:45",
+      "departure": "2015-05-06 08:45",
+      "serviceId": "2_38",
+      "tripId": "2_5494",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:49",
+      "departure": "2015-05-06 08:49",
+      "serviceId": "2_38",
+      "tripId": "2_22863",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 08:52",
+      "departure": "2015-05-06 08:52",
+      "serviceId": "2_38",
+      "tripId": "2_11627",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 09:03",
+      "departure": "2015-05-06 09:03",
+      "serviceId": "2_38",
+      "tripId": "2_22871",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 09:03",
+      "departure": "2015-05-06 09:03",
+      "serviceId": "2_38",
+      "tripId": "2_5502",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:16",
+      "departure": "2015-05-06 09:16",
+      "serviceId": "2_38",
+      "tripId": "2_11635",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 09:18",
+      "departure": "2015-05-06 09:18",
+      "serviceId": "2_38",
+      "tripId": "2_22879",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 09:21",
+      "departure": "2015-05-06 09:21",
+      "serviceId": "2_38",
+      "tripId": "2_5510",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:33",
+      "departure": "2015-05-06 09:33",
+      "serviceId": "2_38",
+      "tripId": "2_22887",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 09:40",
+      "departure": "2015-05-06 09:40",
+      "serviceId": "2_38",
+      "tripId": "2_5518",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:46",
+      "departure": "2015-05-06 09:46",
+      "serviceId": "2_38",
+      "tripId": "2_11643",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 09:48",
+      "departure": "2015-05-06 09:48",
+      "serviceId": "2_38",
+      "tripId": "2_22895",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 10:03",
+      "departure": "2015-05-06 10:03",
+      "serviceId": "2_38",
+      "tripId": "2_22903",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 10:14",
+      "departure": "2015-05-06 10:14",
+      "serviceId": "2_38",
+      "tripId": "2_5526",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:16",
+      "departure": "2015-05-06 10:16",
+      "serviceId": "2_38",
+      "tripId": "2_11651",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 10:18",
+      "departure": "2015-05-06 10:18",
+      "serviceId": "2_38",
+      "tripId": "2_22911",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 10:33",
+      "departure": "2015-05-06 10:33",
+      "serviceId": "2_38",
+      "tripId": "2_22919",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 10:46",
+      "departure": "2015-05-06 10:46",
+      "serviceId": "2_38",
+      "tripId": "2_11771",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 10:49",
+      "departure": "2015-05-06 10:49",
+      "serviceId": "2_38",
+      "tripId": "2_22927",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 10:49",
+      "departure": "2015-05-06 10:49",
+      "serviceId": "2_38",
+      "tripId": "2_5534",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:04",
+      "departure": "2015-05-06 11:04",
+      "serviceId": "2_38",
+      "tripId": "2_22935",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 11:16",
+      "departure": "2015-05-06 11:16",
+      "serviceId": "2_38",
+      "tripId": "2_11763",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 11:19",
+      "departure": "2015-05-06 11:19",
+      "serviceId": "2_38",
+      "tripId": "2_22943",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 11:24",
+      "departure": "2015-05-06 11:24",
+      "serviceId": "2_38",
+      "tripId": "2_5542",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:34",
+      "departure": "2015-05-06 11:34",
+      "serviceId": "2_38",
+      "tripId": "2_22951",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 11:46",
+      "departure": "2015-05-06 11:46",
+      "serviceId": "2_38",
+      "tripId": "2_11755",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 11:49",
+      "departure": "2015-05-06 11:49",
+      "serviceId": "2_38",
+      "tripId": "2_22959",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 11:59",
+      "departure": "2015-05-06 11:59",
+      "serviceId": "2_38",
+      "tripId": "2_5550",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:05",
+      "departure": "2015-05-06 12:05",
+      "serviceId": "2_38",
+      "tripId": "2_22967",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 12:16",
+      "departure": "2015-05-06 12:16",
+      "serviceId": "2_38",
+      "tripId": "2_11747",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 12:21",
+      "departure": "2015-05-06 12:21",
+      "serviceId": "2_38",
+      "tripId": "2_23103",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 12:37",
+      "departure": "2015-05-06 12:37",
+      "serviceId": "2_38",
+      "tripId": "2_23111",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 12:44",
+      "departure": "2015-05-06 12:44",
+      "serviceId": "2_38",
+      "tripId": "2_5846",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:46",
+      "departure": "2015-05-06 12:46",
+      "serviceId": "2_38",
+      "tripId": "2_11739",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 12:53",
+      "departure": "2015-05-06 12:53",
+      "serviceId": "2_38",
+      "tripId": "2_23119",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 13:08",
+      "departure": "2015-05-06 13:08",
+      "serviceId": "2_38",
+      "tripId": "2_23127",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 13:10",
+      "departure": "2015-05-06 13:10",
+      "serviceId": "2_38",
+      "tripId": "2_5558",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:16",
+      "departure": "2015-05-06 13:16",
+      "serviceId": "2_38",
+      "tripId": "2_11731",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 13:23",
+      "departure": "2015-05-06 13:23",
+      "serviceId": "2_38",
+      "tripId": "2_23135",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 13:33",
+      "departure": "2015-05-06 13:33",
+      "serviceId": "2_38",
+      "tripId": "2_23143",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 13:45",
+      "departure": "2015-05-06 13:45",
+      "serviceId": "2_38",
+      "tripId": "2_5566",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:46",
+      "departure": "2015-05-06 13:46",
+      "serviceId": "2_38",
+      "tripId": "2_11723",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 13:48",
+      "departure": "2015-05-06 13:48",
+      "serviceId": "2_38",
+      "tripId": "2_23151",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 14:03",
+      "departure": "2015-05-06 14:03",
+      "serviceId": "2_38",
+      "tripId": "2_23159",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 14:16",
+      "departure": "2015-05-06 14:16",
+      "serviceId": "2_38",
+      "tripId": "2_11715",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 14:18",
+      "departure": "2015-05-06 14:18",
+      "serviceId": "2_38",
+      "tripId": "2_23167",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 14:20",
+      "departure": "2015-05-06 14:20",
+      "serviceId": "2_38",
+      "tripId": "2_5574",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 14:33",
+      "departure": "2015-05-06 14:33",
+      "serviceId": "2_38",
+      "tripId": "2_23175",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 14:46",
+      "departure": "2015-05-06 14:46",
+      "serviceId": "2_38",
+      "tripId": "2_11707",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 14:48",
+      "departure": "2015-05-06 14:48",
+      "serviceId": "2_38",
+      "tripId": "2_23183",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 14:55",
+      "departure": "2015-05-06 14:55",
+      "serviceId": "2_38",
+      "tripId": "2_5582",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:03",
+      "departure": "2015-05-06 15:03",
+      "serviceId": "2_38",
+      "tripId": "2_23191",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 15:16",
+      "departure": "2015-05-06 15:16",
+      "serviceId": "2_38",
+      "tripId": "2_12051",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 15:18",
+      "departure": "2015-05-06 15:18",
+      "serviceId": "2_38",
+      "tripId": "2_23199",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 15:30",
+      "departure": "2015-05-06 15:30",
+      "serviceId": "2_38",
+      "tripId": "2_5590",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:33",
+      "departure": "2015-05-06 15:33",
+      "serviceId": "2_38",
+      "tripId": "2_23207",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 15:46",
+      "departure": "2015-05-06 15:46",
+      "serviceId": "2_38",
+      "tripId": "2_11699",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 15:48",
+      "departure": "2015-05-06 15:48",
+      "serviceId": "2_38",
+      "tripId": "2_23215",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 16:03",
+      "departure": "2015-05-06 16:03",
+      "serviceId": "2_38",
+      "tripId": "2_23223",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 16:07",
+      "departure": "2015-05-06 16:07",
+      "serviceId": "2_38",
+      "tripId": "2_11691",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 16:10",
+      "departure": "2015-05-06 16:10",
+      "serviceId": "2_38",
+      "tripId": "2_5598",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:18",
+      "departure": "2015-05-06 16:18",
+      "serviceId": "2_38",
+      "tripId": "2_23231",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 16:28",
+      "departure": "2015-05-06 16:28",
+      "serviceId": "2_38",
+      "tripId": "2_11947",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 16:33",
+      "departure": "2015-05-06 16:33",
+      "serviceId": "2_38",
+      "tripId": "2_23519",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 16:48",
+      "departure": "2015-05-06 16:48",
+      "serviceId": "2_38",
+      "tripId": "2_11955",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 16:49",
+      "departure": "2015-05-06 16:49",
+      "serviceId": "2_38",
+      "tripId": "2_23239",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 16:52",
+      "departure": "2015-05-06 16:52",
+      "serviceId": "2_38",
+      "tripId": "2_5390",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:05",
+      "departure": "2015-05-06 17:05",
+      "serviceId": "2_38",
+      "tripId": "2_23247",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 17:08",
+      "departure": "2015-05-06 17:08",
+      "serviceId": "2_38",
+      "tripId": "2_11963",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 17:12",
+      "departure": "2015-05-06 17:12",
+      "serviceId": "2_38",
+      "tripId": "2_5398",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:21",
+      "departure": "2015-05-06 17:21",
+      "serviceId": "2_38",
+      "tripId": "2_23255",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 17:28",
+      "departure": "2015-05-06 17:28",
+      "serviceId": "2_38",
+      "tripId": "2_11971",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 17:32",
+      "departure": "2015-05-06 17:32",
+      "serviceId": "2_38",
+      "tripId": "2_5406",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:38",
+      "departure": "2015-05-06 17:38",
+      "serviceId": "2_38",
+      "tripId": "2_23263",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 17:48",
+      "departure": "2015-05-06 17:48",
+      "serviceId": "2_38",
+      "tripId": "2_11979",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 17:52",
+      "departure": "2015-05-06 17:52",
+      "serviceId": "2_38",
+      "tripId": "2_5414",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:54",
+      "departure": "2015-05-06 17:54",
+      "serviceId": "2_38",
+      "tripId": "2_23271",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 18:08",
+      "departure": "2015-05-06 18:08",
+      "serviceId": "2_38",
+      "tripId": "2_11987",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 18:10",
+      "departure": "2015-05-06 18:10",
+      "serviceId": "2_38",
+      "tripId": "2_23279",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 18:12",
+      "departure": "2015-05-06 18:12",
+      "serviceId": "2_38",
+      "tripId": "2_5422",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:26",
+      "departure": "2015-05-06 18:26",
+      "serviceId": "2_38",
+      "tripId": "2_23287",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 18:28",
+      "departure": "2015-05-06 18:28",
+      "serviceId": "2_38",
+      "tripId": "2_11995",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 18:32",
+      "departure": "2015-05-06 18:32",
+      "serviceId": "2_38",
+      "tripId": "2_5430",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:42",
+      "departure": "2015-05-06 18:42",
+      "serviceId": "2_38",
+      "tripId": "2_23295",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 18:47",
+      "departure": "2015-05-06 18:47",
+      "serviceId": "2_38",
+      "tripId": "2_12003",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 18:51",
+      "departure": "2015-05-06 18:51",
+      "serviceId": "2_38",
+      "tripId": "2_5438",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:59",
+      "departure": "2015-05-06 18:59",
+      "serviceId": "2_38",
+      "tripId": "2_23303",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 19:17",
+      "departure": "2015-05-06 19:17",
+      "serviceId": "2_38",
+      "tripId": "2_12011",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 19:19",
+      "departure": "2015-05-06 19:19",
+      "serviceId": "2_38",
+      "tripId": "2_23527",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 19:25",
+      "departure": "2015-05-06 19:25",
+      "serviceId": "2_38",
+      "tripId": "2_5446",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:38",
+      "departure": "2015-05-06 19:38",
+      "serviceId": "2_38",
+      "tripId": "2_23535",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 19:47",
+      "departure": "2015-05-06 19:47",
+      "serviceId": "2_38",
+      "tripId": "2_12019",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 20:03",
+      "departure": "2015-05-06 20:03",
+      "serviceId": "2_38",
+      "tripId": "2_23543",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 20:05",
+      "departure": "2015-05-06 20:05",
+      "serviceId": "2_38",
+      "tripId": "2_5454",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:17",
+      "departure": "2015-05-06 20:17",
+      "serviceId": "2_38",
+      "tripId": "2_12027",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 20:33",
+      "departure": "2015-05-06 20:33",
+      "serviceId": "2_38",
+      "tripId": "2_23551",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    },
+    {
+      "arrival": "2015-05-06 20:33",
+      "departure": "2015-05-06 20:33",
+      "serviceId": "2_38",
+      "tripId": "2_5462",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:46",
+      "departure": "2015-05-06 20:46",
+      "serviceId": "2_38",
+      "tripId": "2_12059",
+      "routeId": "2_0031",
+      "headsign": "31 | Villejean Churchill"
+    },
+    {
+      "arrival": "2015-05-06 21:03",
+      "departure": "2015-05-06 21:03",
+      "serviceId": "2_38",
+      "tripId": "2_23559",
+      "routeId": "2_0014",
+      "headsign": "14 | Stade Rennais"
+    }
+  ]
+}

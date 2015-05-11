@@ -1,0 +1,956 @@
+{
+  "date": "2015-05-05 00:00",
+  "stop": {
+    "id": "2_1534",
+    "lat": 48.088549,
+    "lon": -1.67439,
+    "name": "Henri Fréville",
+    "code": 1534
+  },
+  "routes": [
+    {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "004293",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0079",
+      "textColor": "26171B",
+      "color": "62C3D5",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Laillé",
+      "shortName": "79",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0172",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan",
+      "shortName": "172",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-05 06:10",
+      "departure": "2015-05-05 06:10",
+      "serviceId": "2_30",
+      "tripId": "2_37481",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 06:35",
+      "departure": "2015-05-05 06:35",
+      "serviceId": "2_30",
+      "tripId": "2_38135",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 06:38",
+      "departure": "2015-05-05 06:38",
+      "serviceId": "2_30",
+      "tripId": "2_37385",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 06:40",
+      "departure": "2015-05-05 06:40",
+      "serviceId": "2_30",
+      "tripId": "2_37487",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 06:50",
+      "departure": "2015-05-05 06:50",
+      "serviceId": "2_30",
+      "tripId": "2_38141",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 07:03",
+      "departure": "2015-05-05 07:03",
+      "serviceId": "2_30",
+      "tripId": "2_37391",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:10",
+      "departure": "2015-05-05 07:10",
+      "serviceId": "2_30",
+      "tripId": "2_37499",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 07:21",
+      "departure": "2015-05-05 07:21",
+      "serviceId": "2_30",
+      "tripId": "2_38054",
+      "routeId": "2_0172",
+      "headsign": "172 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:24",
+      "departure": "2015-05-05 07:24",
+      "serviceId": "2_30",
+      "tripId": "2_38099",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:26",
+      "departure": "2015-05-05 07:26",
+      "serviceId": "2_30",
+      "tripId": "2_37397",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:28",
+      "departure": "2015-05-05 07:28",
+      "serviceId": "2_30",
+      "tripId": "2_38147",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 07:30",
+      "departure": "2015-05-05 07:30",
+      "serviceId": "2_30",
+      "tripId": "2_37493",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan via T. Tizon"
+    },
+    {
+      "arrival": "2015-05-05 07:39",
+      "departure": "2015-05-05 07:39",
+      "serviceId": "2_30",
+      "tripId": "2_38059",
+      "routeId": "2_0172",
+      "headsign": "172 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:41",
+      "departure": "2015-05-05 07:41",
+      "serviceId": "2_30",
+      "tripId": "2_38105",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:43",
+      "departure": "2015-05-05 07:43",
+      "serviceId": "2_30",
+      "tripId": "2_37403",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 07:50",
+      "departure": "2015-05-05 07:50",
+      "serviceId": "2_30",
+      "tripId": "2_37505",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 07:57",
+      "departure": "2015-05-05 07:57",
+      "serviceId": "2_30",
+      "tripId": "2_38111",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:00",
+      "departure": "2015-05-05 08:00",
+      "serviceId": "2_30",
+      "tripId": "2_38153",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 08:03",
+      "departure": "2015-05-05 08:03",
+      "serviceId": "2_30",
+      "tripId": "2_37409",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:05",
+      "departure": "2015-05-05 08:05",
+      "serviceId": "2_30",
+      "tripId": "2_37511",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 08:13",
+      "departure": "2015-05-05 08:13",
+      "serviceId": "2_30",
+      "tripId": "2_37873",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:16",
+      "departure": "2015-05-05 08:16",
+      "serviceId": "2_30",
+      "tripId": "2_37415",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:19",
+      "departure": "2015-05-05 08:19",
+      "serviceId": "2_30",
+      "tripId": "2_38094",
+      "routeId": "2_0172",
+      "headsign": "172 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:20",
+      "departure": "2015-05-05 08:20",
+      "serviceId": "2_30",
+      "tripId": "2_37517",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 08:25",
+      "departure": "2015-05-05 08:25",
+      "serviceId": "2_30",
+      "tripId": "2_38159",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 08:34",
+      "departure": "2015-05-05 08:34",
+      "serviceId": "2_30",
+      "tripId": "2_38117",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:35",
+      "departure": "2015-05-05 08:35",
+      "serviceId": "2_30",
+      "tripId": "2_37421",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:40",
+      "departure": "2015-05-05 08:40",
+      "serviceId": "2_30",
+      "tripId": "2_37751",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 08:41",
+      "departure": "2015-05-05 08:41",
+      "serviceId": "2_30",
+      "tripId": "2_38064",
+      "routeId": "2_0172",
+      "headsign": "172 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 08:51",
+      "departure": "2015-05-05 08:51",
+      "serviceId": "2_30",
+      "tripId": "2_37427",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:00",
+      "departure": "2015-05-05 09:00",
+      "serviceId": "2_30",
+      "tripId": "2_38165",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 09:06",
+      "departure": "2015-05-05 09:06",
+      "serviceId": "2_30",
+      "tripId": "2_38123",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:06",
+      "departure": "2015-05-05 09:06",
+      "serviceId": "2_30",
+      "tripId": "2_37433",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:10",
+      "departure": "2015-05-05 09:10",
+      "serviceId": "2_30",
+      "tripId": "2_37523",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 09:23",
+      "departure": "2015-05-05 09:23",
+      "serviceId": "2_30",
+      "tripId": "2_37439",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:35",
+      "departure": "2015-05-05 09:35",
+      "serviceId": "2_30",
+      "tripId": "2_37445",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:46",
+      "departure": "2015-05-05 09:46",
+      "serviceId": "2_30",
+      "tripId": "2_37757",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 09:50",
+      "departure": "2015-05-05 09:50",
+      "serviceId": "2_30",
+      "tripId": "2_37529",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 10:02",
+      "departure": "2015-05-05 10:02",
+      "serviceId": "2_30",
+      "tripId": "2_38129",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 10:20",
+      "departure": "2015-05-05 10:20",
+      "serviceId": "2_30",
+      "tripId": "2_37451",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 10:25",
+      "departure": "2015-05-05 10:25",
+      "serviceId": "2_30",
+      "tripId": "2_37535",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 11:00",
+      "departure": "2015-05-05 11:00",
+      "serviceId": "2_30",
+      "tripId": "2_37457",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 11:05",
+      "departure": "2015-05-05 11:05",
+      "serviceId": "2_30",
+      "tripId": "2_37541",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 11:36",
+      "departure": "2015-05-05 11:36",
+      "serviceId": "2_30",
+      "tripId": "2_37463",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 11:40",
+      "departure": "2015-05-05 11:40",
+      "serviceId": "2_30",
+      "tripId": "2_37547",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 12:20",
+      "departure": "2015-05-05 12:20",
+      "serviceId": "2_30",
+      "tripId": "2_37469",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 12:25",
+      "departure": "2015-05-05 12:25",
+      "serviceId": "2_30",
+      "tripId": "2_37553",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 12:27",
+      "departure": "2015-05-05 12:27",
+      "serviceId": "2_30",
+      "tripId": "2_38243",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 12:50",
+      "departure": "2015-05-05 12:50",
+      "serviceId": "2_30",
+      "tripId": "2_37769",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 12:53",
+      "departure": "2015-05-05 12:53",
+      "serviceId": "2_30",
+      "tripId": "2_37475",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 13:15",
+      "departure": "2015-05-05 13:15",
+      "serviceId": "2_30",
+      "tripId": "2_37775",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 13:36",
+      "departure": "2015-05-05 13:36",
+      "serviceId": "2_30",
+      "tripId": "2_37817",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 13:40",
+      "departure": "2015-05-05 13:40",
+      "serviceId": "2_30",
+      "tripId": "2_37781",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 14:01",
+      "departure": "2015-05-05 14:01",
+      "serviceId": "2_30",
+      "tripId": "2_37823",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 14:05",
+      "departure": "2015-05-05 14:05",
+      "serviceId": "2_30",
+      "tripId": "2_37787",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 14:25",
+      "departure": "2015-05-05 14:25",
+      "serviceId": "2_30",
+      "tripId": "2_37829",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 14:30",
+      "departure": "2015-05-05 14:30",
+      "serviceId": "2_30",
+      "tripId": "2_37793",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 14:50",
+      "departure": "2015-05-05 14:50",
+      "serviceId": "2_30",
+      "tripId": "2_37835",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 14:55",
+      "departure": "2015-05-05 14:55",
+      "serviceId": "2_30",
+      "tripId": "2_37799",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 15:15",
+      "departure": "2015-05-05 15:15",
+      "serviceId": "2_30",
+      "tripId": "2_37841",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 15:20",
+      "departure": "2015-05-05 15:20",
+      "serviceId": "2_30",
+      "tripId": "2_37805",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 15:40",
+      "departure": "2015-05-05 15:40",
+      "serviceId": "2_30",
+      "tripId": "2_37847",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 15:45",
+      "departure": "2015-05-05 15:45",
+      "serviceId": "2_30",
+      "tripId": "2_37811",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 15:50",
+      "departure": "2015-05-05 15:50",
+      "serviceId": "2_30",
+      "tripId": "2_38171",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 16:00",
+      "departure": "2015-05-05 16:00",
+      "serviceId": "2_30",
+      "tripId": "2_37559",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 16:06",
+      "departure": "2015-05-05 16:06",
+      "serviceId": "2_30",
+      "tripId": "2_37763",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 16:15",
+      "departure": "2015-05-05 16:15",
+      "serviceId": "2_30",
+      "tripId": "2_37565",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 16:20",
+      "departure": "2015-05-05 16:20",
+      "serviceId": "2_30",
+      "tripId": "2_38177",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 16:27",
+      "departure": "2015-05-05 16:27",
+      "serviceId": "2_30",
+      "tripId": "2_37661",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-05-05 16:30",
+      "departure": "2015-05-05 16:30",
+      "serviceId": "2_30",
+      "tripId": "2_37571",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 16:45",
+      "departure": "2015-05-05 16:45",
+      "serviceId": "2_30",
+      "tripId": "2_38089",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2015-05-05 16:48",
+      "departure": "2015-05-05 16:48",
+      "serviceId": "2_30",
+      "tripId": "2_37577",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 16:52",
+      "departure": "2015-05-05 16:52",
+      "serviceId": "2_30",
+      "tripId": "2_38207",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 16:57",
+      "departure": "2015-05-05 16:57",
+      "serviceId": "2_30",
+      "tripId": "2_37667",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 16:58",
+      "departure": "2015-05-05 16:58",
+      "serviceId": "2_30",
+      "tripId": "2_38183",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 17:05",
+      "departure": "2015-05-05 17:05",
+      "serviceId": "2_30",
+      "tripId": "2_37583",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 17:15",
+      "departure": "2015-05-05 17:15",
+      "serviceId": "2_30",
+      "tripId": "2_38069",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2015-05-05 17:19",
+      "departure": "2015-05-05 17:19",
+      "serviceId": "2_30",
+      "tripId": "2_37673",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 17:22",
+      "departure": "2015-05-05 17:22",
+      "serviceId": "2_30",
+      "tripId": "2_38213",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 17:25",
+      "departure": "2015-05-05 17:25",
+      "serviceId": "2_30",
+      "tripId": "2_37589",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 17:28",
+      "departure": "2015-05-05 17:28",
+      "serviceId": "2_30",
+      "tripId": "2_38189",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 17:30",
+      "departure": "2015-05-05 17:30",
+      "serviceId": "2_30",
+      "tripId": "2_38074",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2015-05-05 17:35",
+      "departure": "2015-05-05 17:35",
+      "serviceId": "2_30",
+      "tripId": "2_37679",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-05-05 17:40",
+      "departure": "2015-05-05 17:40",
+      "serviceId": "2_30",
+      "tripId": "2_37595",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 17:51",
+      "departure": "2015-05-05 17:51",
+      "serviceId": "2_30",
+      "tripId": "2_37685",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 17:55",
+      "departure": "2015-05-05 17:55",
+      "serviceId": "2_30",
+      "tripId": "2_37601",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 18:00",
+      "departure": "2015-05-05 18:00",
+      "serviceId": "2_30",
+      "tripId": "2_38219",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 18:00",
+      "departure": "2015-05-05 18:00",
+      "serviceId": "2_30",
+      "tripId": "2_38079",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2015-05-05 18:05",
+      "departure": "2015-05-05 18:05",
+      "serviceId": "2_30",
+      "tripId": "2_38195",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 18:06",
+      "departure": "2015-05-05 18:06",
+      "serviceId": "2_30",
+      "tripId": "2_37691",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 18:10",
+      "departure": "2015-05-05 18:10",
+      "serviceId": "2_30",
+      "tripId": "2_37607",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 18:15",
+      "departure": "2015-05-05 18:15",
+      "serviceId": "2_30",
+      "tripId": "2_38084",
+      "routeId": "2_0172",
+      "headsign": "172 | Chartres-de-Bretagne"
+    },
+    {
+      "arrival": "2015-05-05 18:23",
+      "departure": "2015-05-05 18:23",
+      "serviceId": "2_30",
+      "tripId": "2_37697",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 18:30",
+      "departure": "2015-05-05 18:30",
+      "serviceId": "2_30",
+      "tripId": "2_38225",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 18:30",
+      "departure": "2015-05-05 18:30",
+      "serviceId": "2_30",
+      "tripId": "2_37613",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 18:35",
+      "departure": "2015-05-05 18:35",
+      "serviceId": "2_30",
+      "tripId": "2_38201",
+      "routeId": "2_0079",
+      "headsign": "79 | Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 18:41",
+      "departure": "2015-05-05 18:41",
+      "serviceId": "2_30",
+      "tripId": "2_37703",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 18:45",
+      "departure": "2015-05-05 18:45",
+      "serviceId": "2_30",
+      "tripId": "2_37619",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 18:56",
+      "departure": "2015-05-05 18:56",
+      "serviceId": "2_30",
+      "tripId": "2_37709",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:00",
+      "departure": "2015-05-05 19:00",
+      "serviceId": "2_30",
+      "tripId": "2_37625",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 19:06",
+      "departure": "2015-05-05 19:06",
+      "serviceId": "2_30",
+      "tripId": "2_38231",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:09",
+      "departure": "2015-05-05 19:09",
+      "serviceId": "2_30",
+      "tripId": "2_37715",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:15",
+      "departure": "2015-05-05 19:15",
+      "serviceId": "2_30",
+      "tripId": "2_37631",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 19:24",
+      "departure": "2015-05-05 19:24",
+      "serviceId": "2_30",
+      "tripId": "2_37721",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:30",
+      "departure": "2015-05-05 19:30",
+      "serviceId": "2_30",
+      "tripId": "2_37637",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 19:36",
+      "departure": "2015-05-05 19:36",
+      "serviceId": "2_30",
+      "tripId": "2_38237",
+      "routeId": "2_0079",
+      "headsign": "79 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:42",
+      "departure": "2015-05-05 19:42",
+      "serviceId": "2_30",
+      "tripId": "2_37727",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 19:50",
+      "departure": "2015-05-05 19:50",
+      "serviceId": "2_30",
+      "tripId": "2_37643",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 20:12",
+      "departure": "2015-05-05 20:12",
+      "serviceId": "2_30",
+      "tripId": "2_37733",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 20:20",
+      "departure": "2015-05-05 20:20",
+      "serviceId": "2_30",
+      "tripId": "2_37649",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-05 20:46",
+      "departure": "2015-05-05 20:46",
+      "serviceId": "2_30",
+      "tripId": "2_37745",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    },
+    {
+      "arrival": "2015-05-05 20:50",
+      "departure": "2015-05-05 20:50",
+      "serviceId": "2_30",
+      "tripId": "2_37655",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-05 21:01",
+      "departure": "2015-05-05 21:01",
+      "serviceId": "2_30",
+      "tripId": "2_37739",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville via T. Tizon"
+    },
+    {
+      "arrival": "2015-05-05 21:57",
+      "departure": "2015-05-05 21:57",
+      "serviceId": "2_30",
+      "tripId": "2_37855",
+      "routeId": "2_0072",
+      "headsign": "72 | Rennes Henri Fréville"
+    }
+  ]
+}

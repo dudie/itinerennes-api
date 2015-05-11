@@ -1,0 +1,2498 @@
+{
+  "date": "2015-05-06 00:00",
+  "stop": {
+    "id": "2_1163",
+    "lat": 48.110164,
+    "lon": -1.660479,
+    "name": "Robidou",
+    "code": 1163
+  },
+  "routes": [
+    {
+      "id": "2_0004",
+      "textColor": "FFFFFF",
+      "color": "6D1F80",
+      "description": "Chronostar",
+      "longName": "Beauregard \u003c\u003e ZA Saint-Sulpice",
+      "shortName": "C4",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0006",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Rigourdière) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0050",
+      "textColor": "FFFFFF",
+      "color": "8DA6D2",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Thorigné-Fouillard",
+      "shortName": "50",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0064",
+      "textColor": "FFFFFF",
+      "color": "0094D8",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Acigné",
+      "shortName": "64",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0067",
+      "textColor": "FFFFFF",
+      "color": "E2003B",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Cesson-Sévigné / Brécé",
+      "shortName": "67",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-06 04:33",
+      "departure": "2015-05-06 04:33",
+      "serviceId": "2_40",
+      "tripId": "2_39978",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 3"
+    },
+    {
+      "arrival": "2015-05-06 05:38",
+      "departure": "2015-05-06 05:38",
+      "serviceId": "2_38",
+      "tripId": "2_12414",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 05:39",
+      "departure": "2015-05-06 05:39",
+      "serviceId": "2_38",
+      "tripId": "2_25093",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 05:49",
+      "departure": "2015-05-06 05:49",
+      "serviceId": "2_38",
+      "tripId": "2_24789",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 05:59",
+      "departure": "2015-05-06 05:59",
+      "serviceId": "2_38",
+      "tripId": "2_24793",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 06:09",
+      "departure": "2015-05-06 06:09",
+      "serviceId": "2_38",
+      "tripId": "2_24801",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 06:18",
+      "departure": "2015-05-06 06:18",
+      "serviceId": "2_38",
+      "tripId": "2_12590",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 06:19",
+      "departure": "2015-05-06 06:19",
+      "serviceId": "2_38",
+      "tripId": "2_24745",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 06:29",
+      "departure": "2015-05-06 06:29",
+      "serviceId": "2_38",
+      "tripId": "2_24809",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 06:32",
+      "departure": "2015-05-06 06:32",
+      "serviceId": "2_38",
+      "tripId": "2_5838",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 06:33",
+      "departure": "2015-05-06 06:33",
+      "serviceId": "2_40",
+      "tripId": "2_7191",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 06:40",
+      "departure": "2015-05-06 06:40",
+      "serviceId": "2_38",
+      "tripId": "2_138",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 06:40",
+      "departure": "2015-05-06 06:40",
+      "serviceId": "2_38",
+      "tripId": "2_24749",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 06:45",
+      "departure": "2015-05-06 06:45",
+      "serviceId": "2_38",
+      "tripId": "2_12606",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 06:50",
+      "departure": "2015-05-06 06:50",
+      "serviceId": "2_38",
+      "tripId": "2_25037",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:00",
+      "departure": "2015-05-06 07:00",
+      "serviceId": "2_38",
+      "tripId": "2_12638",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 07:00",
+      "departure": "2015-05-06 07:00",
+      "serviceId": "2_38",
+      "tripId": "2_24737",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:02",
+      "departure": "2015-05-06 07:02",
+      "serviceId": "2_40",
+      "tripId": "2_6759",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:03",
+      "departure": "2015-05-06 07:03",
+      "serviceId": "2_38",
+      "tripId": "2_5358",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:10",
+      "departure": "2015-05-06 07:10",
+      "serviceId": "2_38",
+      "tripId": "2_24969",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:12",
+      "departure": "2015-05-06 07:12",
+      "serviceId": "2_38",
+      "tripId": "2_146",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:15",
+      "departure": "2015-05-06 07:15",
+      "serviceId": "2_38",
+      "tripId": "2_12470",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 07:18",
+      "departure": "2015-05-06 07:18",
+      "serviceId": "2_38",
+      "tripId": "2_24961",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:23",
+      "departure": "2015-05-06 07:23",
+      "serviceId": "2_38",
+      "tripId": "2_25145",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:25",
+      "departure": "2015-05-06 07:25",
+      "serviceId": "2_38",
+      "tripId": "2_5366",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:28",
+      "departure": "2015-05-06 07:28",
+      "serviceId": "2_38",
+      "tripId": "2_24873",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:28",
+      "departure": "2015-05-06 07:28",
+      "serviceId": "2_40",
+      "tripId": "2_6765",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:29",
+      "departure": "2015-05-06 07:29",
+      "serviceId": "2_38",
+      "tripId": "2_12806",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 07:33",
+      "departure": "2015-05-06 07:33",
+      "serviceId": "2_38",
+      "tripId": "2_25741",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:38",
+      "departure": "2015-05-06 07:38",
+      "serviceId": "2_38",
+      "tripId": "2_24869",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:40",
+      "departure": "2015-05-06 07:40",
+      "serviceId": "2_38",
+      "tripId": "2_154",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:42",
+      "departure": "2015-05-06 07:42",
+      "serviceId": "2_38",
+      "tripId": "2_12438",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 07:43",
+      "departure": "2015-05-06 07:43",
+      "serviceId": "2_38",
+      "tripId": "2_24845",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:43",
+      "departure": "2015-05-06 07:43",
+      "serviceId": "2_40",
+      "tripId": "2_6771",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:48",
+      "departure": "2015-05-06 07:48",
+      "serviceId": "2_38",
+      "tripId": "2_24877",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:51",
+      "departure": "2015-05-06 07:51",
+      "serviceId": "2_38",
+      "tripId": "2_5470",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 07:53",
+      "departure": "2015-05-06 07:53",
+      "serviceId": "2_38",
+      "tripId": "2_12486",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 07:53",
+      "departure": "2015-05-06 07:53",
+      "serviceId": "2_38",
+      "tripId": "2_24861",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 07:58",
+      "departure": "2015-05-06 07:58",
+      "serviceId": "2_40",
+      "tripId": "2_6777",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:01",
+      "departure": "2015-05-06 08:01",
+      "serviceId": "2_38",
+      "tripId": "2_162",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:01",
+      "departure": "2015-05-06 08:01",
+      "serviceId": "2_38",
+      "tripId": "2_24837",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:03",
+      "departure": "2015-05-06 08:03",
+      "serviceId": "2_38",
+      "tripId": "2_12454",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:09",
+      "departure": "2015-05-06 08:09",
+      "serviceId": "2_38",
+      "tripId": "2_24981",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:11",
+      "departure": "2015-05-06 08:11",
+      "serviceId": "2_38",
+      "tripId": "2_5478",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:13",
+      "departure": "2015-05-06 08:13",
+      "serviceId": "2_38",
+      "tripId": "2_12494",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:17",
+      "departure": "2015-05-06 08:17",
+      "serviceId": "2_38",
+      "tripId": "2_24681",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:18",
+      "departure": "2015-05-06 08:18",
+      "serviceId": "2_40",
+      "tripId": "2_6783",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:20",
+      "departure": "2015-05-06 08:20",
+      "serviceId": "2_38",
+      "tripId": "2_170",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:23",
+      "departure": "2015-05-06 08:23",
+      "serviceId": "2_38",
+      "tripId": "2_12478",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:23",
+      "departure": "2015-05-06 08:23",
+      "serviceId": "2_38",
+      "tripId": "2_25245",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:30",
+      "departure": "2015-05-06 08:30",
+      "serviceId": "2_38",
+      "tripId": "2_25253",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:31",
+      "departure": "2015-05-06 08:31",
+      "serviceId": "2_38",
+      "tripId": "2_5486",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:33",
+      "departure": "2015-05-06 08:33",
+      "serviceId": "2_38",
+      "tripId": "2_12462",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:37",
+      "departure": "2015-05-06 08:37",
+      "serviceId": "2_38",
+      "tripId": "2_24717",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:40",
+      "departure": "2015-05-06 08:40",
+      "serviceId": "2_40",
+      "tripId": "2_6789",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:43",
+      "departure": "2015-05-06 08:43",
+      "serviceId": "2_38",
+      "tripId": "2_12870",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:45",
+      "departure": "2015-05-06 08:45",
+      "serviceId": "2_38",
+      "tripId": "2_178",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 08:45",
+      "departure": "2015-05-06 08:45",
+      "serviceId": "2_38",
+      "tripId": "2_25129",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:52",
+      "departure": "2015-05-06 08:52",
+      "serviceId": "2_38",
+      "tripId": "2_24721",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 08:53",
+      "departure": "2015-05-06 08:53",
+      "serviceId": "2_38",
+      "tripId": "2_12510",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 08:53",
+      "departure": "2015-05-06 08:53",
+      "serviceId": "2_38",
+      "tripId": "2_5494",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:00",
+      "departure": "2015-05-06 09:00",
+      "serviceId": "2_38",
+      "tripId": "2_24725",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:00",
+      "departure": "2015-05-06 09:00",
+      "serviceId": "2_40",
+      "tripId": "2_6795",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:03",
+      "departure": "2015-05-06 09:03",
+      "serviceId": "2_38",
+      "tripId": "2_13558",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 09:05",
+      "departure": "2015-05-06 09:05",
+      "serviceId": "2_38",
+      "tripId": "2_186",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:08",
+      "departure": "2015-05-06 09:08",
+      "serviceId": "2_38",
+      "tripId": "2_24729",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:10",
+      "departure": "2015-05-06 09:10",
+      "serviceId": "2_38",
+      "tripId": "2_5502",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:13",
+      "departure": "2015-05-06 09:13",
+      "serviceId": "2_38",
+      "tripId": "2_12574",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 09:16",
+      "departure": "2015-05-06 09:16",
+      "serviceId": "2_38",
+      "tripId": "2_24733",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:20",
+      "departure": "2015-05-06 09:20",
+      "serviceId": "2_40",
+      "tripId": "2_6801",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:22",
+      "departure": "2015-05-06 09:22",
+      "serviceId": "2_38",
+      "tripId": "2_194",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:24",
+      "departure": "2015-05-06 09:24",
+      "serviceId": "2_38",
+      "tripId": "2_12542",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 09:25",
+      "departure": "2015-05-06 09:25",
+      "serviceId": "2_38",
+      "tripId": "2_25713",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:27",
+      "departure": "2015-05-06 09:27",
+      "serviceId": "2_38",
+      "tripId": "2_5510",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:33",
+      "departure": "2015-05-06 09:33",
+      "serviceId": "2_38",
+      "tripId": "2_25717",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:39",
+      "departure": "2015-05-06 09:39",
+      "serviceId": "2_38",
+      "tripId": "2_12790",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 09:39",
+      "departure": "2015-05-06 09:39",
+      "serviceId": "2_40",
+      "tripId": "2_6807",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:41",
+      "departure": "2015-05-06 09:41",
+      "serviceId": "2_38",
+      "tripId": "2_25721",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:42",
+      "departure": "2015-05-06 09:42",
+      "serviceId": "2_38",
+      "tripId": "2_202",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:46",
+      "departure": "2015-05-06 09:46",
+      "serviceId": "2_38",
+      "tripId": "2_5518",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 09:49",
+      "departure": "2015-05-06 09:49",
+      "serviceId": "2_38",
+      "tripId": "2_25725",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:54",
+      "departure": "2015-05-06 09:54",
+      "serviceId": "2_38",
+      "tripId": "2_12710",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 09:57",
+      "departure": "2015-05-06 09:57",
+      "serviceId": "2_38",
+      "tripId": "2_25729",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 09:59",
+      "departure": "2015-05-06 09:59",
+      "serviceId": "2_40",
+      "tripId": "2_6813",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:05",
+      "departure": "2015-05-06 10:05",
+      "serviceId": "2_38",
+      "tripId": "2_25733",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:09",
+      "departure": "2015-05-06 10:09",
+      "serviceId": "2_38",
+      "tripId": "2_12502",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 10:10",
+      "departure": "2015-05-06 10:10",
+      "serviceId": "2_38",
+      "tripId": "2_210",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:13",
+      "departure": "2015-05-06 10:13",
+      "serviceId": "2_38",
+      "tripId": "2_25589",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:20",
+      "departure": "2015-05-06 10:20",
+      "serviceId": "2_38",
+      "tripId": "2_5526",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:21",
+      "departure": "2015-05-06 10:21",
+      "serviceId": "2_38",
+      "tripId": "2_25593",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:23",
+      "departure": "2015-05-06 10:23",
+      "serviceId": "2_38",
+      "tripId": "2_12518",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 10:24",
+      "departure": "2015-05-06 10:24",
+      "serviceId": "2_40",
+      "tripId": "2_6891",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:29",
+      "departure": "2015-05-06 10:29",
+      "serviceId": "2_38",
+      "tripId": "2_25677",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:37",
+      "departure": "2015-05-06 10:37",
+      "serviceId": "2_38",
+      "tripId": "2_25565",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:38",
+      "departure": "2015-05-06 10:38",
+      "serviceId": "2_38",
+      "tripId": "2_12838",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 10:44",
+      "departure": "2015-05-06 10:44",
+      "serviceId": "2_38",
+      "tripId": "2_218",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:44",
+      "departure": "2015-05-06 10:44",
+      "serviceId": "2_38",
+      "tripId": "2_25585",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:44",
+      "departure": "2015-05-06 10:44",
+      "serviceId": "2_40",
+      "tripId": "2_6819",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:51",
+      "departure": "2015-05-06 10:51",
+      "serviceId": "2_38",
+      "tripId": "2_25601",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 10:53",
+      "departure": "2015-05-06 10:53",
+      "serviceId": "2_38",
+      "tripId": "2_12942",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 10:54",
+      "departure": "2015-05-06 10:54",
+      "serviceId": "2_38",
+      "tripId": "2_5534",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 10:59",
+      "departure": "2015-05-06 10:59",
+      "serviceId": "2_38",
+      "tripId": "2_25641",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:07",
+      "departure": "2015-05-06 11:07",
+      "serviceId": "2_38",
+      "tripId": "2_25605",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:08",
+      "departure": "2015-05-06 11:08",
+      "serviceId": "2_38",
+      "tripId": "2_12950",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 11:14",
+      "departure": "2015-05-06 11:14",
+      "serviceId": "2_38",
+      "tripId": "2_25569",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:14",
+      "departure": "2015-05-06 11:14",
+      "serviceId": "2_40",
+      "tripId": "2_6885",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:22",
+      "departure": "2015-05-06 11:22",
+      "serviceId": "2_38",
+      "tripId": "2_25617",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:23",
+      "departure": "2015-05-06 11:23",
+      "serviceId": "2_38",
+      "tripId": "2_12958",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 11:26",
+      "departure": "2015-05-06 11:26",
+      "serviceId": "2_38",
+      "tripId": "2_226",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:29",
+      "departure": "2015-05-06 11:29",
+      "serviceId": "2_38",
+      "tripId": "2_5542",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:30",
+      "departure": "2015-05-06 11:30",
+      "serviceId": "2_38",
+      "tripId": "2_25649",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:38",
+      "departure": "2015-05-06 11:38",
+      "serviceId": "2_38",
+      "tripId": "2_12966",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 11:38",
+      "departure": "2015-05-06 11:38",
+      "serviceId": "2_38",
+      "tripId": "2_25637",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:39",
+      "departure": "2015-05-06 11:39",
+      "serviceId": "2_40",
+      "tripId": "2_6825",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 11:46",
+      "departure": "2015-05-06 11:46",
+      "serviceId": "2_38",
+      "tripId": "2_25561",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 11:54",
+      "departure": "2015-05-06 11:54",
+      "serviceId": "2_38",
+      "tripId": "2_12974",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 11:54",
+      "departure": "2015-05-06 11:54",
+      "serviceId": "2_38",
+      "tripId": "2_25609",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:02",
+      "departure": "2015-05-06 12:02",
+      "serviceId": "2_38",
+      "tripId": "2_234",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:02",
+      "departure": "2015-05-06 12:02",
+      "serviceId": "2_38",
+      "tripId": "2_25681",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:05",
+      "departure": "2015-05-06 12:05",
+      "serviceId": "2_38",
+      "tripId": "2_5550",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:09",
+      "departure": "2015-05-06 12:09",
+      "serviceId": "2_38",
+      "tripId": "2_12982",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 12:10",
+      "departure": "2015-05-06 12:10",
+      "serviceId": "2_38",
+      "tripId": "2_25705",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:10",
+      "departure": "2015-05-06 12:10",
+      "serviceId": "2_40",
+      "tripId": "2_7101",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:18",
+      "departure": "2015-05-06 12:18",
+      "serviceId": "2_38",
+      "tripId": "2_25285",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:24",
+      "departure": "2015-05-06 12:24",
+      "serviceId": "2_38",
+      "tripId": "2_12990",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 12:26",
+      "departure": "2015-05-06 12:26",
+      "serviceId": "2_38",
+      "tripId": "2_25289",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:30",
+      "departure": "2015-05-06 12:30",
+      "serviceId": "2_40",
+      "tripId": "2_7065",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:33",
+      "departure": "2015-05-06 12:33",
+      "serviceId": "2_38",
+      "tripId": "2_25293",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:39",
+      "departure": "2015-05-06 12:39",
+      "serviceId": "2_38",
+      "tripId": "2_12998",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 12:40",
+      "departure": "2015-05-06 12:40",
+      "serviceId": "2_38",
+      "tripId": "2_25297",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:43",
+      "departure": "2015-05-06 12:43",
+      "serviceId": "2_38",
+      "tripId": "2_242",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:48",
+      "departure": "2015-05-06 12:48",
+      "serviceId": "2_38",
+      "tripId": "2_25301",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:50",
+      "departure": "2015-05-06 12:50",
+      "serviceId": "2_38",
+      "tripId": "2_5846",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 12:54",
+      "departure": "2015-05-06 12:54",
+      "serviceId": "2_38",
+      "tripId": "2_13006",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 12:55",
+      "departure": "2015-05-06 12:55",
+      "serviceId": "2_38",
+      "tripId": "2_25305",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 12:55",
+      "departure": "2015-05-06 12:55",
+      "serviceId": "2_40",
+      "tripId": "2_7107",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:03",
+      "departure": "2015-05-06 13:03",
+      "serviceId": "2_38",
+      "tripId": "2_25309",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:10",
+      "departure": "2015-05-06 13:10",
+      "serviceId": "2_38",
+      "tripId": "2_13014",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 13:11",
+      "departure": "2015-05-06 13:11",
+      "serviceId": "2_38",
+      "tripId": "2_25313",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:15",
+      "departure": "2015-05-06 13:15",
+      "serviceId": "2_38",
+      "tripId": "2_5558",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:15",
+      "departure": "2015-05-06 13:15",
+      "serviceId": "2_40",
+      "tripId": "2_7077",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:19",
+      "departure": "2015-05-06 13:19",
+      "serviceId": "2_38",
+      "tripId": "2_250",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:19",
+      "departure": "2015-05-06 13:19",
+      "serviceId": "2_38",
+      "tripId": "2_25317",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:25",
+      "departure": "2015-05-06 13:25",
+      "serviceId": "2_38",
+      "tripId": "2_13022",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 13:27",
+      "departure": "2015-05-06 13:27",
+      "serviceId": "2_38",
+      "tripId": "2_25321",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:35",
+      "departure": "2015-05-06 13:35",
+      "serviceId": "2_38",
+      "tripId": "2_25325",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:40",
+      "departure": "2015-05-06 13:40",
+      "serviceId": "2_38",
+      "tripId": "2_13030",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 13:41",
+      "departure": "2015-05-06 13:41",
+      "serviceId": "2_38",
+      "tripId": "2_258",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:43",
+      "departure": "2015-05-06 13:43",
+      "serviceId": "2_38",
+      "tripId": "2_25329",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:45",
+      "departure": "2015-05-06 13:45",
+      "serviceId": "2_40",
+      "tripId": "2_7071",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:51",
+      "departure": "2015-05-06 13:51",
+      "serviceId": "2_38",
+      "tripId": "2_25333",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 13:51",
+      "departure": "2015-05-06 13:51",
+      "serviceId": "2_38",
+      "tripId": "2_5566",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 13:55",
+      "departure": "2015-05-06 13:55",
+      "serviceId": "2_38",
+      "tripId": "2_13038",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 13:59",
+      "departure": "2015-05-06 13:59",
+      "serviceId": "2_38",
+      "tripId": "2_25337",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:07",
+      "departure": "2015-05-06 14:07",
+      "serviceId": "2_38",
+      "tripId": "2_25341",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:10",
+      "departure": "2015-05-06 14:10",
+      "serviceId": "2_38",
+      "tripId": "2_13046",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 14:14",
+      "departure": "2015-05-06 14:14",
+      "serviceId": "2_38",
+      "tripId": "2_25345",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:15",
+      "departure": "2015-05-06 14:15",
+      "serviceId": "2_40",
+      "tripId": "2_7113",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 14:21",
+      "departure": "2015-05-06 14:21",
+      "serviceId": "2_38",
+      "tripId": "2_25349",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:21",
+      "departure": "2015-05-06 14:21",
+      "serviceId": "2_38",
+      "tripId": "2_266",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 14:24",
+      "departure": "2015-05-06 14:24",
+      "serviceId": "2_38",
+      "tripId": "2_13054",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 14:26",
+      "departure": "2015-05-06 14:26",
+      "serviceId": "2_38",
+      "tripId": "2_5574",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 14:28",
+      "departure": "2015-05-06 14:28",
+      "serviceId": "2_38",
+      "tripId": "2_25353",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:35",
+      "departure": "2015-05-06 14:35",
+      "serviceId": "2_38",
+      "tripId": "2_25357",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:39",
+      "departure": "2015-05-06 14:39",
+      "serviceId": "2_38",
+      "tripId": "2_13062",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 14:40",
+      "departure": "2015-05-06 14:40",
+      "serviceId": "2_40",
+      "tripId": "2_7125",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 14:43",
+      "departure": "2015-05-06 14:43",
+      "serviceId": "2_38",
+      "tripId": "2_25361",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:51",
+      "departure": "2015-05-06 14:51",
+      "serviceId": "2_38",
+      "tripId": "2_25365",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 14:54",
+      "departure": "2015-05-06 14:54",
+      "serviceId": "2_38",
+      "tripId": "2_13070",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 14:59",
+      "departure": "2015-05-06 14:59",
+      "serviceId": "2_38",
+      "tripId": "2_25369",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:00",
+      "departure": "2015-05-06 15:00",
+      "serviceId": "2_38",
+      "tripId": "2_274",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:01",
+      "departure": "2015-05-06 15:01",
+      "serviceId": "2_38",
+      "tripId": "2_5582",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:07",
+      "departure": "2015-05-06 15:07",
+      "serviceId": "2_38",
+      "tripId": "2_25373",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:09",
+      "departure": "2015-05-06 15:09",
+      "serviceId": "2_38",
+      "tripId": "2_13078",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 15:15",
+      "departure": "2015-05-06 15:15",
+      "serviceId": "2_38",
+      "tripId": "2_25377",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:15",
+      "departure": "2015-05-06 15:15",
+      "serviceId": "2_40",
+      "tripId": "2_7119",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:23",
+      "departure": "2015-05-06 15:23",
+      "serviceId": "2_38",
+      "tripId": "2_25381",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:24",
+      "departure": "2015-05-06 15:24",
+      "serviceId": "2_38",
+      "tripId": "2_13086",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 15:30",
+      "departure": "2015-05-06 15:30",
+      "serviceId": "2_38",
+      "tripId": "2_25385",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:36",
+      "departure": "2015-05-06 15:36",
+      "serviceId": "2_38",
+      "tripId": "2_5590",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:37",
+      "departure": "2015-05-06 15:37",
+      "serviceId": "2_38",
+      "tripId": "2_25389",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:39",
+      "departure": "2015-05-06 15:39",
+      "serviceId": "2_38",
+      "tripId": "2_13094",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 15:40",
+      "departure": "2015-05-06 15:40",
+      "serviceId": "2_38",
+      "tripId": "2_282",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:40",
+      "departure": "2015-05-06 15:40",
+      "serviceId": "2_40",
+      "tripId": "2_7083",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 15:45",
+      "departure": "2015-05-06 15:45",
+      "serviceId": "2_38",
+      "tripId": "2_25393",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:52",
+      "departure": "2015-05-06 15:52",
+      "serviceId": "2_38",
+      "tripId": "2_25397",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 15:54",
+      "departure": "2015-05-06 15:54",
+      "serviceId": "2_38",
+      "tripId": "2_13102",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 15:59",
+      "departure": "2015-05-06 15:59",
+      "serviceId": "2_38",
+      "tripId": "2_25401",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:06",
+      "departure": "2015-05-06 16:06",
+      "serviceId": "2_38",
+      "tripId": "2_25405",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:09",
+      "departure": "2015-05-06 16:09",
+      "serviceId": "2_38",
+      "tripId": "2_13318",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 16:10",
+      "departure": "2015-05-06 16:10",
+      "serviceId": "2_38",
+      "tripId": "2_538",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:13",
+      "departure": "2015-05-06 16:13",
+      "serviceId": "2_38",
+      "tripId": "2_24829",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:15",
+      "departure": "2015-05-06 16:15",
+      "serviceId": "2_40",
+      "tripId": "2_7131",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:17",
+      "departure": "2015-05-06 16:17",
+      "serviceId": "2_38",
+      "tripId": "2_5598",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:20",
+      "departure": "2015-05-06 16:20",
+      "serviceId": "2_38",
+      "tripId": "2_25153",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:24",
+      "departure": "2015-05-06 16:24",
+      "serviceId": "2_38",
+      "tripId": "2_13326",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 16:26",
+      "departure": "2015-05-06 16:26",
+      "serviceId": "2_38",
+      "tripId": "2_25265",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:31",
+      "departure": "2015-05-06 16:31",
+      "serviceId": "2_38",
+      "tripId": "2_546",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:33",
+      "departure": "2015-05-06 16:33",
+      "serviceId": "2_38",
+      "tripId": "2_25141",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:34",
+      "departure": "2015-05-06 16:34",
+      "serviceId": "2_38",
+      "tripId": "2_13334",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 16:40",
+      "departure": "2015-05-06 16:40",
+      "serviceId": "2_38",
+      "tripId": "2_24817",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:40",
+      "departure": "2015-05-06 16:40",
+      "serviceId": "2_40",
+      "tripId": "2_7089",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 16:44",
+      "departure": "2015-05-06 16:44",
+      "serviceId": "2_38",
+      "tripId": "2_13342",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 16:48",
+      "departure": "2015-05-06 16:48",
+      "serviceId": "2_38",
+      "tripId": "2_24857",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:54",
+      "departure": "2015-05-06 16:54",
+      "serviceId": "2_38",
+      "tripId": "2_13350",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 16:56",
+      "departure": "2015-05-06 16:56",
+      "serviceId": "2_38",
+      "tripId": "2_24797",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 16:59",
+      "departure": "2015-05-06 16:59",
+      "serviceId": "2_38",
+      "tripId": "2_5390",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:01",
+      "departure": "2015-05-06 17:01",
+      "serviceId": "2_40",
+      "tripId": "2_7137",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:04",
+      "departure": "2015-05-06 17:04",
+      "serviceId": "2_38",
+      "tripId": "2_13358",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:04",
+      "departure": "2015-05-06 17:04",
+      "serviceId": "2_38",
+      "tripId": "2_24881",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:07",
+      "departure": "2015-05-06 17:07",
+      "serviceId": "2_38",
+      "tripId": "2_554",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes via Placis Vert"
+    },
+    {
+      "arrival": "2015-05-06 17:12",
+      "departure": "2015-05-06 17:12",
+      "serviceId": "2_38",
+      "tripId": "2_24973",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:14",
+      "departure": "2015-05-06 17:14",
+      "serviceId": "2_38",
+      "tripId": "2_13366",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:19",
+      "departure": "2015-05-06 17:19",
+      "serviceId": "2_38",
+      "tripId": "2_5398",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:20",
+      "departure": "2015-05-06 17:20",
+      "serviceId": "2_38",
+      "tripId": "2_24805",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:22",
+      "departure": "2015-05-06 17:22",
+      "serviceId": "2_40",
+      "tripId": "2_7095",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:22",
+      "departure": "2015-05-06 17:22",
+      "serviceId": "2_38",
+      "tripId": "2_562",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:24",
+      "departure": "2015-05-06 17:24",
+      "serviceId": "2_38",
+      "tripId": "2_13374",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:27",
+      "departure": "2015-05-06 17:27",
+      "serviceId": "2_38",
+      "tripId": "2_24825",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:33",
+      "departure": "2015-05-06 17:33",
+      "serviceId": "2_38",
+      "tripId": "2_13382",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:35",
+      "departure": "2015-05-06 17:35",
+      "serviceId": "2_38",
+      "tripId": "2_25257",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:39",
+      "departure": "2015-05-06 17:39",
+      "serviceId": "2_38",
+      "tripId": "2_5406",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:42",
+      "departure": "2015-05-06 17:42",
+      "serviceId": "2_38",
+      "tripId": "2_24849",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:42",
+      "departure": "2015-05-06 17:42",
+      "serviceId": "2_40",
+      "tripId": "2_7143",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:43",
+      "departure": "2015-05-06 17:43",
+      "serviceId": "2_38",
+      "tripId": "2_13390",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:43",
+      "departure": "2015-05-06 17:43",
+      "serviceId": "2_38",
+      "tripId": "2_570",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 17:48",
+      "departure": "2015-05-06 17:48",
+      "serviceId": "2_38",
+      "tripId": "2_24677",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:53",
+      "departure": "2015-05-06 17:53",
+      "serviceId": "2_38",
+      "tripId": "2_13398",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 17:55",
+      "departure": "2015-05-06 17:55",
+      "serviceId": "2_38",
+      "tripId": "2_24693",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 17:58",
+      "departure": "2015-05-06 17:58",
+      "serviceId": "2_38",
+      "tripId": "2_5414",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:01",
+      "departure": "2015-05-06 18:01",
+      "serviceId": "2_38",
+      "tripId": "2_24953",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:03",
+      "departure": "2015-05-06 18:03",
+      "serviceId": "2_38",
+      "tripId": "2_578",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:04",
+      "departure": "2015-05-06 18:04",
+      "serviceId": "2_38",
+      "tripId": "2_13406",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:07",
+      "departure": "2015-05-06 18:07",
+      "serviceId": "2_40",
+      "tripId": "2_7149",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:09",
+      "departure": "2015-05-06 18:09",
+      "serviceId": "2_38",
+      "tripId": "2_24705",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:14",
+      "departure": "2015-05-06 18:14",
+      "serviceId": "2_38",
+      "tripId": "2_13414",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:16",
+      "departure": "2015-05-06 18:16",
+      "serviceId": "2_38",
+      "tripId": "2_24921",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:18",
+      "departure": "2015-05-06 18:18",
+      "serviceId": "2_38",
+      "tripId": "2_5422",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:22",
+      "departure": "2015-05-06 18:22",
+      "serviceId": "2_40",
+      "tripId": "2_7161",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:23",
+      "departure": "2015-05-06 18:23",
+      "serviceId": "2_38",
+      "tripId": "2_586",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:24",
+      "departure": "2015-05-06 18:24",
+      "serviceId": "2_38",
+      "tripId": "2_13422",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:25",
+      "departure": "2015-05-06 18:25",
+      "serviceId": "2_38",
+      "tripId": "2_24917",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:32",
+      "departure": "2015-05-06 18:32",
+      "serviceId": "2_38",
+      "tripId": "2_25529",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:35",
+      "departure": "2015-05-06 18:35",
+      "serviceId": "2_38",
+      "tripId": "2_12886",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:38",
+      "departure": "2015-05-06 18:38",
+      "serviceId": "2_38",
+      "tripId": "2_5430",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:40",
+      "departure": "2015-05-06 18:40",
+      "serviceId": "2_38",
+      "tripId": "2_25233",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:41",
+      "departure": "2015-05-06 18:41",
+      "serviceId": "2_40",
+      "tripId": "2_7155",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:42",
+      "departure": "2015-05-06 18:42",
+      "serviceId": "2_38",
+      "tripId": "2_594",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 18:46",
+      "departure": "2015-05-06 18:46",
+      "serviceId": "2_38",
+      "tripId": "2_12910",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:48",
+      "departure": "2015-05-06 18:48",
+      "serviceId": "2_38",
+      "tripId": "2_24741",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:56",
+      "departure": "2015-05-06 18:56",
+      "serviceId": "2_38",
+      "tripId": "2_12902",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 18:56",
+      "departure": "2015-05-06 18:56",
+      "serviceId": "2_38",
+      "tripId": "2_25269",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 18:57",
+      "departure": "2015-05-06 18:57",
+      "serviceId": "2_38",
+      "tripId": "2_5438",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:02",
+      "departure": "2015-05-06 19:02",
+      "serviceId": "2_38",
+      "tripId": "2_602",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:03",
+      "departure": "2015-05-06 19:03",
+      "serviceId": "2_38",
+      "tripId": "2_24945",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:05",
+      "departure": "2015-05-06 19:05",
+      "serviceId": "2_40",
+      "tripId": "2_7167",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:06",
+      "departure": "2015-05-06 19:06",
+      "serviceId": "2_38",
+      "tripId": "2_12926",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 19:11",
+      "departure": "2015-05-06 19:11",
+      "serviceId": "2_38",
+      "tripId": "2_24893",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:16",
+      "departure": "2015-05-06 19:16",
+      "serviceId": "2_38",
+      "tripId": "2_13430",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 19:19",
+      "departure": "2015-05-06 19:19",
+      "serviceId": "2_38",
+      "tripId": "2_25225",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:25",
+      "departure": "2015-05-06 19:25",
+      "serviceId": "2_40",
+      "tripId": "2_7179",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:27",
+      "departure": "2015-05-06 19:27",
+      "serviceId": "2_38",
+      "tripId": "2_25249",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:30",
+      "departure": "2015-05-06 19:30",
+      "serviceId": "2_38",
+      "tripId": "2_610",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:31",
+      "departure": "2015-05-06 19:31",
+      "serviceId": "2_38",
+      "tripId": "2_13438",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 19:31",
+      "departure": "2015-05-06 19:31",
+      "serviceId": "2_38",
+      "tripId": "2_5446",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:35",
+      "departure": "2015-05-06 19:35",
+      "serviceId": "2_38",
+      "tripId": "2_25201",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:40",
+      "departure": "2015-05-06 19:40",
+      "serviceId": "2_40",
+      "tripId": "2_7173",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 19:43",
+      "departure": "2015-05-06 19:43",
+      "serviceId": "2_38",
+      "tripId": "2_25197",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:44",
+      "departure": "2015-05-06 19:44",
+      "serviceId": "2_38",
+      "tripId": "2_12830",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 19:51",
+      "departure": "2015-05-06 19:51",
+      "serviceId": "2_38",
+      "tripId": "2_25545",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 19:59",
+      "departure": "2015-05-06 19:59",
+      "serviceId": "2_40",
+      "tripId": "2_7185",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:00",
+      "departure": "2015-05-06 20:00",
+      "serviceId": "2_38",
+      "tripId": "2_12550",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 20:00",
+      "departure": "2015-05-06 20:00",
+      "serviceId": "2_38",
+      "tripId": "2_25217",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 20:04",
+      "departure": "2015-05-06 20:04",
+      "serviceId": "2_38",
+      "tripId": "2_618",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:08",
+      "departure": "2015-05-06 20:08",
+      "serviceId": "2_38",
+      "tripId": "2_25221",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 20:10",
+      "departure": "2015-05-06 20:10",
+      "serviceId": "2_38",
+      "tripId": "2_5454",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:15",
+      "departure": "2015-05-06 20:15",
+      "serviceId": "2_38",
+      "tripId": "2_25209",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 20:20",
+      "departure": "2015-05-06 20:20",
+      "serviceId": "2_38",
+      "tripId": "2_12782",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 20:25",
+      "departure": "2015-05-06 20:25",
+      "serviceId": "2_38",
+      "tripId": "2_24689",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 20:29",
+      "departure": "2015-05-06 20:29",
+      "serviceId": "2_40",
+      "tripId": "2_7059",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:38",
+      "departure": "2015-05-06 20:38",
+      "serviceId": "2_38",
+      "tripId": "2_5462",
+      "routeId": "2_0064",
+      "headsign": "64 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:40",
+      "departure": "2015-05-06 20:40",
+      "serviceId": "2_38",
+      "tripId": "2_24833",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 20:42",
+      "departure": "2015-05-06 20:42",
+      "serviceId": "2_38",
+      "tripId": "2_626",
+      "routeId": "2_0050",
+      "headsign": "50 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-06 20:45",
+      "departure": "2015-05-06 20:45",
+      "serviceId": "2_38",
+      "tripId": "2_12734",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 20:54",
+      "departure": "2015-05-06 20:54",
+      "serviceId": "2_38",
+      "tripId": "2_25021",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 21:08",
+      "departure": "2015-05-06 21:08",
+      "serviceId": "2_38",
+      "tripId": "2_24853",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 21:23",
+      "departure": "2015-05-06 21:23",
+      "serviceId": "2_38",
+      "tripId": "2_25009",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 21:36",
+      "departure": "2015-05-06 21:36",
+      "serviceId": "2_38",
+      "tripId": "2_12630",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 21:38",
+      "departure": "2015-05-06 21:38",
+      "serviceId": "2_38",
+      "tripId": "2_25205",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 21:53",
+      "departure": "2015-05-06 21:53",
+      "serviceId": "2_38",
+      "tripId": "2_25013",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 22:08",
+      "departure": "2015-05-06 22:08",
+      "serviceId": "2_38",
+      "tripId": "2_24929",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 22:23",
+      "departure": "2015-05-06 22:23",
+      "serviceId": "2_38",
+      "tripId": "2_25001",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 22:30",
+      "departure": "2015-05-06 22:30",
+      "serviceId": "2_38",
+      "tripId": "2_12726",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 22:38",
+      "departure": "2015-05-06 22:38",
+      "serviceId": "2_38",
+      "tripId": "2_25097",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 22:53",
+      "departure": "2015-05-06 22:53",
+      "serviceId": "2_38",
+      "tripId": "2_25005",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 23:08",
+      "departure": "2015-05-06 23:08",
+      "serviceId": "2_38",
+      "tripId": "2_25101",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 23:20",
+      "departure": "2015-05-06 23:20",
+      "serviceId": "2_38",
+      "tripId": "2_12854",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-06 23:23",
+      "departure": "2015-05-06 23:23",
+      "serviceId": "2_38",
+      "tripId": "2_25089",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-06 23:38",
+      "departure": "2015-05-06 23:38",
+      "serviceId": "2_38",
+      "tripId": "2_25081",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-06 23:53",
+      "departure": "2015-05-06 23:53",
+      "serviceId": "2_38",
+      "tripId": "2_25105",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    },
+    {
+      "arrival": "2015-05-07 00:08",
+      "departure": "2015-05-07 00:08",
+      "serviceId": "2_38",
+      "tripId": "2_25053",
+      "routeId": "2_0004",
+      "headsign": "C4 | République"
+    },
+    {
+      "arrival": "2015-05-07 00:20",
+      "departure": "2015-05-07 00:20",
+      "serviceId": "2_38",
+      "tripId": "2_12598",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-07 00:23",
+      "departure": "2015-05-07 00:23",
+      "serviceId": "2_38",
+      "tripId": "2_25533",
+      "routeId": "2_0004",
+      "headsign": "C4 | Beauregard"
+    }
+  ]
+}

@@ -1,388 +1,168 @@
 {
-  "headsign": "61 | Noyal Saint-Erblon Orgères Bourg.",
+  "headsign": "STN | République",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1563",
-        "lat": 48.109698,
-        "lon": -1.67815,
+        "id": "2_1568",
+        "lat": 48.121028,
+        "lon": -1.713571,
+        "name": "Kennedy Guyenne",
+        "code": 1568
+      },
+      "arrival": 12300,
+      "departure": 12300
+    },
+    {
+      "stop": {
+        "id": "2_1520",
+        "lat": 48.120473,
+        "lon": -1.709574,
+        "name": "Bourbonnais",
+        "code": 1520
+      },
+      "arrival": 12360,
+      "departure": 12360
+    },
+    {
+      "stop": {
+        "id": "2_1305",
+        "lat": 48.127565,
+        "lon": -1.703293,
+        "name": "Olympe de Gouges",
+        "code": 1305
+      },
+      "arrival": 12600,
+      "departure": 12600
+    },
+    {
+      "stop": {
+        "id": "2_1306",
+        "lat": 48.12525,
+        "lon": -1.703189,
+        "name": "Bois Labbé",
+        "code": 1306
+      },
+      "arrival": 12660,
+      "departure": 12660
+    },
+    {
+      "stop": {
+        "id": "2_1307",
+        "lat": 48.121755,
+        "lon": -1.703954,
+        "name": "Villejean-Université",
+        "code": 1307
+      },
+      "arrival": 12720,
+      "departure": 12720
+    },
+    {
+      "stop": {
+        "id": "2_1308",
+        "lat": 48.118926,
+        "lon": -1.704736,
+        "name": "Université",
+        "code": 1308
+      },
+      "arrival": 12780,
+      "departure": 12780
+    },
+    {
+      "stop": {
+        "id": "2_1309",
+        "lat": 48.116745,
+        "lon": -1.704803,
+        "name": "Berger",
+        "code": 1309
+      },
+      "arrival": 12780,
+      "departure": 12780
+    },
+    {
+      "stop": {
+        "id": "2_1188",
+        "lat": 48.114898,
+        "lon": -1.701959,
+        "name": "La Salle",
+        "code": 1188
+      },
+      "arrival": 12840,
+      "departure": 12840
+    },
+    {
+      "stop": {
+        "id": "2_1294",
+        "lat": 48.111305,
+        "lon": -1.701301,
+        "name": "Marbeuf",
+        "code": 1294
+      },
+      "arrival": 12960,
+      "departure": 12960
+    },
+    {
+      "stop": {
+        "id": "2_1311",
+        "lat": 48.10957,
+        "lon": -1.698313,
+        "name": "Guilloux",
+        "code": 1311
+      },
+      "arrival": 13020,
+      "departure": 13020
+    },
+    {
+      "stop": {
+        "id": "2_1239",
+        "lat": 48.108256,
+        "lon": -1.694158,
+        "name": "Chèques Postaux",
+        "code": 1239
+      },
+      "arrival": 13080,
+      "departure": 13080
+    },
+    {
+      "stop": {
+        "id": "2_1240",
+        "lat": 48.109271,
+        "lon": -1.689587,
+        "name": "Le Mail",
+        "code": 1240
+      },
+      "arrival": 13140,
+      "departure": 13140
+    },
+    {
+      "stop": {
+        "id": "2_1091",
+        "lat": 48.109734,
+        "lon": -1.68385,
+        "name": "Place de Bretagne",
+        "code": 1091
+      },
+      "arrival": 13200,
+      "departure": 13200
+    },
+    {
+      "stop": {
+        "id": "2_1168",
+        "lat": 48.109761,
+        "lon": -1.678807,
         "name": "République",
-        "code": 1563
+        "code": 1168
       },
-      "arrival": 86400,
-      "departure": 86400
-    },
-    {
-      "stop": {
-        "id": "2_1510",
-        "lat": 48.087784,
-        "lon": -1.674415,
-        "name": "Henri Fréville",
-        "code": 1510
-      },
-      "arrival": 86880,
-      "departure": 86880
-    },
-    {
-      "stop": {
-        "id": "2_1465",
-        "lat": 48.086117,
-        "lon": -1.661119,
-        "name": "Triangle",
-        "code": 1465
-      },
-      "arrival": 87120,
-      "departure": 87120
-    },
-    {
-      "stop": {
-        "id": "2_2715",
-        "lat": 48.078644,
-        "lon": -1.661365,
-        "name": "Hil-Bintinais",
-        "code": 2715
-      },
-      "arrival": 87240,
-      "departure": 87240
-    },
-    {
-      "stop": {
-        "id": "2_2716",
-        "lat": 48.068609,
-        "lon": -1.66607,
-        "name": "Petit Beaulieu",
-        "code": 2716
-      },
-      "arrival": 87360,
-      "departure": 87360
-    },
-    {
-      "stop": {
-        "id": "2_2717",
-        "lat": 48.063637,
-        "lon": -1.663952,
-        "name": "Mail Lancé",
-        "code": 2717
-      },
-      "arrival": 87360,
-      "departure": 87360
-    },
-    {
-      "stop": {
-        "id": "2_2718",
-        "lat": 48.055987,
-        "lon": -1.664262,
-        "name": "Croix Fleurie",
-        "code": 2718
-      },
-      "arrival": 87480,
-      "departure": 87480
-    },
-    {
-      "stop": {
-        "id": "2_2719",
-        "lat": 48.047008,
-        "lon": -1.661005,
-        "name": "Petite Saudrais",
-        "code": 2719
-      },
-      "arrival": 87540,
-      "departure": 87540
-    },
-    {
-      "stop": {
-        "id": "2_2720",
-        "lat": 48.044129,
-        "lon": -1.661407,
-        "name": "Salle Polyvalente",
-        "code": 2720
-      },
-      "arrival": 87600,
-      "departure": 87600
-    },
-    {
-      "stop": {
-        "id": "2_2721",
-        "lat": 48.042439,
-        "lon": -1.66572,
-        "name": "Centre",
-        "code": 2721
-      },
-      "arrival": 87660,
-      "departure": 87660
-    },
-    {
-      "stop": {
-        "id": "2_2722",
-        "lat": 48.040814,
-        "lon": -1.672158,
-        "name": "Potiers",
-        "code": 2722
-      },
-      "arrival": 87720,
-      "departure": 87720
-    },
-    {
-      "stop": {
-        "id": "2_2723",
-        "lat": 48.038355,
-        "lon": -1.670616,
-        "name": "Molène",
-        "code": 2723
-      },
-      "arrival": 87780,
-      "departure": 87780
-    },
-    {
-      "stop": {
-        "id": "2_2732",
-        "lat": 48.038628,
-        "lon": -1.66691,
-        "name": "Pont",
-        "code": 2732
-      },
-      "arrival": 87840,
-      "departure": 87840
-    },
-    {
-      "stop": {
-        "id": "2_2733",
-        "lat": 48.034843,
-        "lon": -1.664151,
-        "name": "Côteaux",
-        "code": 2733
-      },
-      "arrival": 87900,
-      "departure": 87900
-    },
-    {
-      "stop": {
-        "id": "2_2724",
-        "lat": 48.028619,
-        "lon": -1.659907,
-        "name": "Bray",
-        "code": 2724
-      },
-      "arrival": 87960,
-      "departure": 87960
-    },
-    {
-      "stop": {
-        "id": "2_4360",
-        "lat": 48.021547,
-        "lon": -1.653716,
-        "name": "Leuzières",
-        "code": 4360
-      },
-      "arrival": 88080,
-      "departure": 88080
-    },
-    {
-      "stop": {
-        "id": "2_4361",
-        "lat": 48.01773,
-        "lon": -1.649634,
-        "name": "Croix Faucheux",
-        "code": 4361
-      },
-      "arrival": 88140,
-      "departure": 88140
-    },
-    {
-      "stop": {
-        "id": "2_4363",
-        "lat": 48.016323,
-        "lon": -1.651341,
-        "name": "Alexandre Gilois",
-        "code": 4363
-      },
-      "arrival": 88200,
-      "departure": 88200
-    },
-    {
-      "stop": {
-        "id": "2_4354",
-        "lat": 48.017653,
-        "lon": -1.654401,
-        "name": "Paul Féval",
-        "code": 4354
-      },
-      "arrival": 88200,
-      "departure": 88200
-    },
-    {
-      "stop": {
-        "id": "2_4355",
-        "lat": 48.018871,
-        "lon": -1.657701,
-        "name": "Champ Mulon",
-        "code": 4355
-      },
-      "arrival": 88260,
-      "departure": 88260
-    },
-    {
-      "stop": {
-        "id": "2_4351",
-        "lat": 48.01727,
-        "lon": -1.660332,
-        "name": "Parc d\u0027Activités",
-        "code": 4351
-      },
-      "arrival": 88320,
-      "departure": 88320
-    },
-    {
-      "stop": {
-        "id": "2_4357",
-        "lat": 48.017063,
-        "lon": -1.664746,
-        "name": "Croix du Pigeonnet",
-        "code": 4357
-      },
-      "arrival": 88380,
-      "departure": 88380
-    },
-    {
-      "stop": {
-        "id": "2_3249",
-        "lat": 48.014928,
-        "lon": -1.663969,
-        "name": "Orgerblon",
-        "code": 3249
-      },
-      "arrival": 88440,
-      "departure": 88440
-    },
-    {
-      "stop": {
-        "id": "2_3216",
-        "lat": 48.009532,
-        "lon": -1.666195,
-        "name": "Plardière",
-        "code": 3216
-      },
-      "arrival": 88500,
-      "departure": 88500
-    },
-    {
-      "stop": {
-        "id": "2_3217",
-        "lat": 48.000471,
-        "lon": -1.667155,
-        "name": "Levant",
-        "code": 3217
-      },
-      "arrival": 88620,
-      "departure": 88620
-    },
-    {
-      "stop": {
-        "id": "2_3218",
-        "lat": 47.996919,
-        "lon": -1.669051,
-        "name": "Groupe Scolaire",
-        "code": 3218
-      },
-      "arrival": 88680,
-      "departure": 88680
-    },
-    {
-      "stop": {
-        "id": "2_3219",
-        "lat": 47.994968,
-        "lon": -1.670982,
-        "name": "Coteau",
-        "code": 3219
-      },
-      "arrival": 88740,
-      "departure": 88740
-    },
-    {
-      "stop": {
-        "id": "2_3220",
-        "lat": 47.992216,
-        "lon": -1.6679,
-        "name": "Surcouf",
-        "code": 3220
-      },
-      "arrival": 88800,
-      "departure": 88800
-    },
-    {
-      "stop": {
-        "id": "2_3221",
-        "lat": 47.993743,
-        "lon": -1.665206,
-        "name": "Chateaubriand",
-        "code": 3221
-      },
-      "arrival": 88920,
-      "departure": 88920
-    },
-    {
-      "stop": {
-        "id": "2_3806",
-        "lat": 47.994399,
-        "lon": -1.631365,
-        "name": "Perelle",
-        "code": 3806
-      },
-      "arrival": 89100,
-      "departure": 89100
-    },
-    {
-      "stop": {
-        "id": "2_3807",
-        "lat": 47.995094,
-        "lon": -1.623735,
-        "name": "La Basse Erable",
-        "code": 3807
-      },
-      "arrival": 89160,
-      "departure": 89160
-    },
-    {
-      "stop": {
-        "id": "2_3808",
-        "lat": 47.995938,
-        "lon": -1.617699,
-        "name": "La Motte",
-        "code": 3808
-      },
-      "arrival": 89220,
-      "departure": 89220
-    },
-    {
-      "stop": {
-        "id": "2_3809",
-        "lat": 47.994727,
-        "lon": -1.614138,
-        "name": "Bourgbarré Mairie",
-        "code": 3809
-      },
-      "arrival": 89280,
-      "departure": 89280
-    },
-    {
-      "stop": {
-        "id": "2_3801",
-        "lat": 47.990142,
-        "lon": -1.613855,
-        "name": "Centre de Loisirs",
-        "code": 3801
-      },
-      "arrival": 89400,
-      "departure": 89400
+      "arrival": 13260,
+      "departure": 13260
     }
   ],
   "route": {
-    "id": "2_0061",
+    "id": "2_0805",
     "textColor": "FFFFFF",
-    "color": "E6396C",
-    "description": "Métropolitaine",
-    "longName": "Rennes (Henri Fréville) \u003c\u003e Noyal-Châtillon-sur-Seiche / Saint-Erblon",
-    "shortName": "61",
+    "color": "004B96",
+    "description": "Spéciale",
+    "longName": "STAR de Nuit - Beaulieu Atalante \u003c\u003e J.F. Kennedy",
+    "shortName": "STN",
     "type": 3,
     "agencyId": "2"
   }

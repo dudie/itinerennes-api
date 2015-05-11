@@ -1,0 +1,782 @@
+{
+  "date": "2015-05-09 00:00",
+  "stop": {
+    "id": "2_1537",
+    "lat": 48.131596,
+    "lon": -1.69166,
+    "name": "Léonard",
+    "code": 1537
+  },
+  "routes": [
+    {
+      "id": "2_0014",
+      "textColor": "FFFFFF",
+      "color": "805A26",
+      "description": "Urbaine",
+      "longName": "Stade Rennais \u003c\u003e Beaulieu Atalante",
+      "shortName": "14",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0068",
+      "textColor": "1A171B",
+      "color": "DDC500",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
+      "shortName": "68",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E3006A",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-09 07:24",
+      "departure": "2015-05-09 07:24",
+      "serviceId": "2_49",
+      "tripId": "2_9708",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 07:29",
+      "departure": "2015-05-09 07:29",
+      "serviceId": "2_51",
+      "tripId": "2_12394",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 07:50",
+      "departure": "2015-05-09 07:50",
+      "serviceId": "2_49",
+      "tripId": "2_10694",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 07:57",
+      "departure": "2015-05-09 07:57",
+      "serviceId": "2_51",
+      "tripId": "2_10273",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 08:19",
+      "departure": "2015-05-09 08:19",
+      "serviceId": "2_49",
+      "tripId": "2_9710",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 08:27",
+      "departure": "2015-05-09 08:27",
+      "serviceId": "2_51",
+      "tripId": "2_10037",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 08:57",
+      "departure": "2015-05-09 08:57",
+      "serviceId": "2_51",
+      "tripId": "2_10215",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 09:00",
+      "departure": "2015-05-09 09:00",
+      "serviceId": "2_49",
+      "tripId": "2_10696",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 09:09",
+      "departure": "2015-05-09 09:09",
+      "serviceId": "2_49",
+      "tripId": "2_9624",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 09:29",
+      "departure": "2015-05-09 09:29",
+      "serviceId": "2_51",
+      "tripId": "2_10216",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 09:40",
+      "departure": "2015-05-09 09:40",
+      "serviceId": "2_49",
+      "tripId": "2_9626",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 09:50",
+      "departure": "2015-05-09 09:50",
+      "serviceId": "2_49",
+      "tripId": "2_27331",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 10:00",
+      "departure": "2015-05-09 10:00",
+      "serviceId": "2_51",
+      "tripId": "2_10217",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 10:05",
+      "departure": "2015-05-09 10:05",
+      "serviceId": "2_49",
+      "tripId": "2_10698",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 10:14",
+      "departure": "2015-05-09 10:14",
+      "serviceId": "2_49",
+      "tripId": "2_9628",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 10:32",
+      "departure": "2015-05-09 10:32",
+      "serviceId": "2_51",
+      "tripId": "2_10218",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 10:54",
+      "departure": "2015-05-09 10:54",
+      "serviceId": "2_49",
+      "tripId": "2_9630",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 11:05",
+      "departure": "2015-05-09 11:05",
+      "serviceId": "2_49",
+      "tripId": "2_27333",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 11:07",
+      "departure": "2015-05-09 11:07",
+      "serviceId": "2_51",
+      "tripId": "2_10219",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 11:10",
+      "departure": "2015-05-09 11:10",
+      "serviceId": "2_49",
+      "tripId": "2_10700",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 11:24",
+      "departure": "2015-05-09 11:24",
+      "serviceId": "2_49",
+      "tripId": "2_9632",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 11:37",
+      "departure": "2015-05-09 11:37",
+      "serviceId": "2_51",
+      "tripId": "2_10220",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 11:59",
+      "departure": "2015-05-09 11:59",
+      "serviceId": "2_49",
+      "tripId": "2_9634",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 12:10",
+      "departure": "2015-05-09 12:10",
+      "serviceId": "2_51",
+      "tripId": "2_10221",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 12:15",
+      "departure": "2015-05-09 12:15",
+      "serviceId": "2_49",
+      "tripId": "2_10702",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 12:20",
+      "departure": "2015-05-09 12:20",
+      "serviceId": "2_49",
+      "tripId": "2_27335",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 12:34",
+      "departure": "2015-05-09 12:34",
+      "serviceId": "2_49",
+      "tripId": "2_9636",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 12:45",
+      "departure": "2015-05-09 12:45",
+      "serviceId": "2_49",
+      "tripId": "2_10662",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 12:47",
+      "departure": "2015-05-09 12:47",
+      "serviceId": "2_51",
+      "tripId": "2_10213",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 13:09",
+      "departure": "2015-05-09 13:09",
+      "serviceId": "2_49",
+      "tripId": "2_9638",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 13:17",
+      "departure": "2015-05-09 13:17",
+      "serviceId": "2_51",
+      "tripId": "2_10222",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 13:20",
+      "departure": "2015-05-09 13:20",
+      "serviceId": "2_49",
+      "tripId": "2_10704",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 13:42",
+      "departure": "2015-05-09 13:42",
+      "serviceId": "2_51",
+      "tripId": "2_12396",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 13:44",
+      "departure": "2015-05-09 13:44",
+      "serviceId": "2_49",
+      "tripId": "2_9640",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 13:45",
+      "departure": "2015-05-09 13:45",
+      "serviceId": "2_49",
+      "tripId": "2_27337",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 13:55",
+      "departure": "2015-05-09 13:55",
+      "serviceId": "2_49",
+      "tripId": "2_10642",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 13:57",
+      "departure": "2015-05-09 13:57",
+      "serviceId": "2_51",
+      "tripId": "2_10223",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 14:12",
+      "departure": "2015-05-09 14:12",
+      "serviceId": "2_51",
+      "tripId": "2_10276",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 14:16",
+      "departure": "2015-05-09 14:16",
+      "serviceId": "2_49",
+      "tripId": "2_9642",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 14:28",
+      "departure": "2015-05-09 14:28",
+      "serviceId": "2_51",
+      "tripId": "2_10224",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 14:35",
+      "departure": "2015-05-09 14:35",
+      "serviceId": "2_49",
+      "tripId": "2_10644",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 14:43",
+      "departure": "2015-05-09 14:43",
+      "serviceId": "2_51",
+      "tripId": "2_10262",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 14:51",
+      "departure": "2015-05-09 14:51",
+      "serviceId": "2_49",
+      "tripId": "2_9644",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 14:58",
+      "departure": "2015-05-09 14:58",
+      "serviceId": "2_51",
+      "tripId": "2_10263",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 15:06",
+      "departure": "2015-05-09 15:06",
+      "serviceId": "2_49",
+      "tripId": "2_27339",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 15:14",
+      "departure": "2015-05-09 15:14",
+      "serviceId": "2_51",
+      "tripId": "2_10264",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 15:31",
+      "departure": "2015-05-09 15:31",
+      "serviceId": "2_51",
+      "tripId": "2_10265",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 15:31",
+      "departure": "2015-05-09 15:31",
+      "serviceId": "2_49",
+      "tripId": "2_9646",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 15:45",
+      "departure": "2015-05-09 15:45",
+      "serviceId": "2_49",
+      "tripId": "2_10646",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 15:46",
+      "departure": "2015-05-09 15:46",
+      "serviceId": "2_51",
+      "tripId": "2_10266",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 16:01",
+      "departure": "2015-05-09 16:01",
+      "serviceId": "2_51",
+      "tripId": "2_10267",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 16:06",
+      "departure": "2015-05-09 16:06",
+      "serviceId": "2_49",
+      "tripId": "2_9648",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 16:15",
+      "departure": "2015-05-09 16:15",
+      "serviceId": "2_49",
+      "tripId": "2_10648",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 16:16",
+      "departure": "2015-05-09 16:16",
+      "serviceId": "2_51",
+      "tripId": "2_10268",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 16:28",
+      "departure": "2015-05-09 16:28",
+      "serviceId": "2_49",
+      "tripId": "2_27341",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 16:31",
+      "departure": "2015-05-09 16:31",
+      "serviceId": "2_51",
+      "tripId": "2_10269",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 16:41",
+      "departure": "2015-05-09 16:41",
+      "serviceId": "2_49",
+      "tripId": "2_9650",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 16:47",
+      "departure": "2015-05-09 16:47",
+      "serviceId": "2_51",
+      "tripId": "2_10270",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 16:50",
+      "departure": "2015-05-09 16:50",
+      "serviceId": "2_49",
+      "tripId": "2_10650",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 17:03",
+      "departure": "2015-05-09 17:03",
+      "serviceId": "2_51",
+      "tripId": "2_10271",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 17:16",
+      "departure": "2015-05-09 17:16",
+      "serviceId": "2_49",
+      "tripId": "2_9652",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 17:20",
+      "departure": "2015-05-09 17:20",
+      "serviceId": "2_51",
+      "tripId": "2_10225",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 17:25",
+      "departure": "2015-05-09 17:25",
+      "serviceId": "2_49",
+      "tripId": "2_10652",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 17:36",
+      "departure": "2015-05-09 17:36",
+      "serviceId": "2_51",
+      "tripId": "2_10234",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 17:48",
+      "departure": "2015-05-09 17:48",
+      "serviceId": "2_49",
+      "tripId": "2_27343",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 17:52",
+      "departure": "2015-05-09 17:52",
+      "serviceId": "2_51",
+      "tripId": "2_10232",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 17:56",
+      "departure": "2015-05-09 17:56",
+      "serviceId": "2_49",
+      "tripId": "2_9654",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 18:00",
+      "departure": "2015-05-09 18:00",
+      "serviceId": "2_49",
+      "tripId": "2_10654",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 18:06",
+      "departure": "2015-05-09 18:06",
+      "serviceId": "2_51",
+      "tripId": "2_10226",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 18:21",
+      "departure": "2015-05-09 18:21",
+      "serviceId": "2_51",
+      "tripId": "2_10229",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 18:31",
+      "departure": "2015-05-09 18:31",
+      "serviceId": "2_49",
+      "tripId": "2_9656",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 18:36",
+      "departure": "2015-05-09 18:36",
+      "serviceId": "2_51",
+      "tripId": "2_10245",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 18:36",
+      "departure": "2015-05-09 18:36",
+      "serviceId": "2_49",
+      "tripId": "2_10656",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 18:51",
+      "departure": "2015-05-09 18:51",
+      "serviceId": "2_51",
+      "tripId": "2_10236",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 19:06",
+      "departure": "2015-05-09 19:06",
+      "serviceId": "2_49",
+      "tripId": "2_9658",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 19:07",
+      "departure": "2015-05-09 19:07",
+      "serviceId": "2_51",
+      "tripId": "2_10230",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 19:11",
+      "departure": "2015-05-09 19:11",
+      "serviceId": "2_49",
+      "tripId": "2_27345",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-09 19:16",
+      "departure": "2015-05-09 19:16",
+      "serviceId": "2_49",
+      "tripId": "2_10658",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 19:21",
+      "departure": "2015-05-09 19:21",
+      "serviceId": "2_51",
+      "tripId": "2_10233",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 19:37",
+      "departure": "2015-05-09 19:37",
+      "serviceId": "2_51",
+      "tripId": "2_10231",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 19:45",
+      "departure": "2015-05-09 19:45",
+      "serviceId": "2_49",
+      "tripId": "2_9660",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 19:55",
+      "departure": "2015-05-09 19:55",
+      "serviceId": "2_51",
+      "tripId": "2_10244",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 20:10",
+      "departure": "2015-05-09 20:10",
+      "serviceId": "2_51",
+      "tripId": "2_12395",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 20:15",
+      "departure": "2015-05-09 20:15",
+      "serviceId": "2_49",
+      "tripId": "2_9662",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 20:26",
+      "departure": "2015-05-09 20:26",
+      "serviceId": "2_49",
+      "tripId": "2_10660",
+      "routeId": "2_0068",
+      "headsign": "68 | Gévezé"
+    },
+    {
+      "arrival": "2015-05-09 20:30",
+      "departure": "2015-05-09 20:30",
+      "serviceId": "2_51",
+      "tripId": "2_10228",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 20:55",
+      "departure": "2015-05-09 20:55",
+      "serviceId": "2_49",
+      "tripId": "2_9664",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont La Chapelle"
+    },
+    {
+      "arrival": "2015-05-09 21:00",
+      "departure": "2015-05-09 21:00",
+      "serviceId": "2_51",
+      "tripId": "2_10227",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-09 21:30",
+      "departure": "2015-05-09 21:30",
+      "serviceId": "2_51",
+      "tripId": "2_10275",
+      "routeId": "2_0014",
+      "headsign": "14 | Beaulieu Atalante"
+    },
+    {
+      "arrival": "2015-05-10 00:15",
+      "departure": "2015-05-10 00:15",
+      "serviceId": "2_49",
+      "tripId": "2_9714",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
+    },
+    {
+      "arrival": "2015-05-10 01:50",
+      "departure": "2015-05-10 01:50",
+      "serviceId": "2_49",
+      "tripId": "2_9712",
+      "routeId": "2_0052",
+      "headsign": "52 | Montgermont Chapelle Gévezé"
+    }
+  ]
+}

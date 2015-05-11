@@ -1,0 +1,588 @@
+{
+  "date": "2015-05-07 00:00",
+  "stop": {
+    "id": "2_2303",
+    "lat": 48.02471,
+    "lon": -1.757238,
+    "name": "Haut Launay",
+    "code": 2303
+  },
+  "routes": [
+    {
+      "id": "2_0057",
+      "textColor": "FFFFFF",
+      "color": "A9701E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Saint-Jacques-de-la-Lande / Bruz (Centre)",
+      "shortName": "57",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0091",
+      "textColor": "1A171B",
+      "color": "AECC52",
+      "description": "Intercommunale",
+      "longName": "Bruz / Chartres \u003c\u003e Noyal-Châtillon-sur-Seiche",
+      "shortName": "91",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0157",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Bruz (Centre)",
+      "shortName": "157",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-07 05:05",
+      "departure": "2015-05-07 05:05",
+      "serviceId": "2_16",
+      "tripId": "2_30321",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 05:45",
+      "departure": "2015-05-07 05:45",
+      "serviceId": "2_16",
+      "tripId": "2_30327",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 06:15",
+      "departure": "2015-05-07 06:15",
+      "serviceId": "2_18",
+      "tripId": "2_29641",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 06:35",
+      "departure": "2015-05-07 06:35",
+      "serviceId": "2_18",
+      "tripId": "2_29649",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 06:50",
+      "departure": "2015-05-07 06:50",
+      "serviceId": "2_18",
+      "tripId": "2_30289",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 06:57",
+      "departure": "2015-05-07 06:57",
+      "serviceId": "2_18",
+      "tripId": "2_30443",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:07",
+      "departure": "2015-05-07 07:07",
+      "serviceId": "2_18",
+      "tripId": "2_29657",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:12",
+      "departure": "2015-05-07 07:12",
+      "serviceId": "2_18",
+      "tripId": "2_30450",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:22",
+      "departure": "2015-05-07 07:22",
+      "serviceId": "2_18",
+      "tripId": "2_29665",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:32",
+      "departure": "2015-05-07 07:32",
+      "serviceId": "2_18",
+      "tripId": "2_30457",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:42",
+      "departure": "2015-05-07 07:42",
+      "serviceId": "2_18",
+      "tripId": "2_29673",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:52",
+      "departure": "2015-05-07 07:52",
+      "serviceId": "2_18",
+      "tripId": "2_30464",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:02",
+      "departure": "2015-05-07 08:02",
+      "serviceId": "2_18",
+      "tripId": "2_29681",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:12",
+      "departure": "2015-05-07 08:12",
+      "serviceId": "2_18",
+      "tripId": "2_30471",
+      "routeId": "2_0157",
+      "headsign": "157 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:15",
+      "departure": "2015-05-07 08:15",
+      "serviceId": "2_16",
+      "tripId": "2_30887",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 08:27",
+      "departure": "2015-05-07 08:27",
+      "serviceId": "2_18",
+      "tripId": "2_29689",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:47",
+      "departure": "2015-05-07 08:47",
+      "serviceId": "2_18",
+      "tripId": "2_29697",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:48",
+      "departure": "2015-05-07 08:48",
+      "serviceId": "2_16",
+      "tripId": "2_31031",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 09:07",
+      "departure": "2015-05-07 09:07",
+      "serviceId": "2_18",
+      "tripId": "2_29705",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 09:18",
+      "departure": "2015-05-07 09:18",
+      "serviceId": "2_16",
+      "tripId": "2_30875",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 09:27",
+      "departure": "2015-05-07 09:27",
+      "serviceId": "2_18",
+      "tripId": "2_29713",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 09:47",
+      "departure": "2015-05-07 09:47",
+      "serviceId": "2_18",
+      "tripId": "2_29721",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 10:07",
+      "departure": "2015-05-07 10:07",
+      "serviceId": "2_18",
+      "tripId": "2_29729",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 10:09",
+      "departure": "2015-05-07 10:09",
+      "serviceId": "2_16",
+      "tripId": "2_30989",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 10:27",
+      "departure": "2015-05-07 10:27",
+      "serviceId": "2_18",
+      "tripId": "2_29737",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 10:47",
+      "departure": "2015-05-07 10:47",
+      "serviceId": "2_18",
+      "tripId": "2_29745",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 11:07",
+      "departure": "2015-05-07 11:07",
+      "serviceId": "2_18",
+      "tripId": "2_29753",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 11:27",
+      "departure": "2015-05-07 11:27",
+      "serviceId": "2_18",
+      "tripId": "2_29761",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 11:47",
+      "departure": "2015-05-07 11:47",
+      "serviceId": "2_18",
+      "tripId": "2_29769",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 12:10",
+      "departure": "2015-05-07 12:10",
+      "serviceId": "2_18",
+      "tripId": "2_29777",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 12:30",
+      "departure": "2015-05-07 12:30",
+      "serviceId": "2_18",
+      "tripId": "2_29785",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 12:50",
+      "departure": "2015-05-07 12:50",
+      "serviceId": "2_18",
+      "tripId": "2_29793",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 13:10",
+      "departure": "2015-05-07 13:10",
+      "serviceId": "2_18",
+      "tripId": "2_30313",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 13:30",
+      "departure": "2015-05-07 13:30",
+      "serviceId": "2_18",
+      "tripId": "2_29801",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 13:48",
+      "departure": "2015-05-07 13:48",
+      "serviceId": "2_16",
+      "tripId": "2_30881",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 13:50",
+      "departure": "2015-05-07 13:50",
+      "serviceId": "2_18",
+      "tripId": "2_29809",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 14:10",
+      "departure": "2015-05-07 14:10",
+      "serviceId": "2_18",
+      "tripId": "2_29817",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 14:30",
+      "departure": "2015-05-07 14:30",
+      "serviceId": "2_18",
+      "tripId": "2_29825",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 14:34",
+      "departure": "2015-05-07 14:34",
+      "serviceId": "2_16",
+      "tripId": "2_30899",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 14:50",
+      "departure": "2015-05-07 14:50",
+      "serviceId": "2_18",
+      "tripId": "2_29833",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 15:10",
+      "departure": "2015-05-07 15:10",
+      "serviceId": "2_18",
+      "tripId": "2_29841",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 15:19",
+      "departure": "2015-05-07 15:19",
+      "serviceId": "2_16",
+      "tripId": "2_30959",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 15:30",
+      "departure": "2015-05-07 15:30",
+      "serviceId": "2_18",
+      "tripId": "2_29849",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 15:50",
+      "departure": "2015-05-07 15:50",
+      "serviceId": "2_18",
+      "tripId": "2_29857",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 15:54",
+      "departure": "2015-05-07 15:54",
+      "serviceId": "2_16",
+      "tripId": "2_30977",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 16:10",
+      "departure": "2015-05-07 16:10",
+      "serviceId": "2_18",
+      "tripId": "2_29865",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-05-07 16:24",
+      "departure": "2015-05-07 16:24",
+      "serviceId": "2_16",
+      "tripId": "2_30905",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 16:31",
+      "departure": "2015-05-07 16:31",
+      "serviceId": "2_18",
+      "tripId": "2_29873",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-05-07 16:51",
+      "departure": "2015-05-07 16:51",
+      "serviceId": "2_18",
+      "tripId": "2_29881",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-05-07 16:54",
+      "departure": "2015-05-07 16:54",
+      "serviceId": "2_16",
+      "tripId": "2_31037",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 17:11",
+      "departure": "2015-05-07 17:11",
+      "serviceId": "2_18",
+      "tripId": "2_29889",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-05-07 17:23",
+      "departure": "2015-05-07 17:23",
+      "serviceId": "2_16",
+      "tripId": "2_30911",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 17:25",
+      "departure": "2015-05-07 17:25",
+      "serviceId": "2_17",
+      "tripId": "2_31064",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 17:31",
+      "departure": "2015-05-07 17:31",
+      "serviceId": "2_18",
+      "tripId": "2_29897",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes via Porte de Ker-Lann"
+    },
+    {
+      "arrival": "2015-05-07 17:50",
+      "departure": "2015-05-07 17:50",
+      "serviceId": "2_16",
+      "tripId": "2_30983",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 17:55",
+      "departure": "2015-05-07 17:55",
+      "serviceId": "2_18",
+      "tripId": "2_29905",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 18:15",
+      "departure": "2015-05-07 18:15",
+      "serviceId": "2_18",
+      "tripId": "2_29913",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 18:24",
+      "departure": "2015-05-07 18:24",
+      "serviceId": "2_16",
+      "tripId": "2_30917",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Pont-Réan"
+    },
+    {
+      "arrival": "2015-05-07 18:35",
+      "departure": "2015-05-07 18:35",
+      "serviceId": "2_18",
+      "tripId": "2_29921",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 18:48",
+      "departure": "2015-05-07 18:48",
+      "serviceId": "2_16",
+      "tripId": "2_31043",
+      "routeId": "2_0091",
+      "headsign": "91 | Bruz Cicé Blossac"
+    },
+    {
+      "arrival": "2015-05-07 18:50",
+      "departure": "2015-05-07 18:50",
+      "serviceId": "2_18",
+      "tripId": "2_29929",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 19:10",
+      "departure": "2015-05-07 19:10",
+      "serviceId": "2_18",
+      "tripId": "2_29937",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 19:40",
+      "departure": "2015-05-07 19:40",
+      "serviceId": "2_18",
+      "tripId": "2_29945",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 20:10",
+      "departure": "2015-05-07 20:10",
+      "serviceId": "2_18",
+      "tripId": "2_29953",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 20:45",
+      "departure": "2015-05-07 20:45",
+      "serviceId": "2_18",
+      "tripId": "2_30297",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 21:35",
+      "departure": "2015-05-07 21:35",
+      "serviceId": "2_16",
+      "tripId": "2_30373",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 22:15",
+      "departure": "2015-05-07 22:15",
+      "serviceId": "2_16",
+      "tripId": "2_30333",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 23:55",
+      "departure": "2015-05-07 23:55",
+      "serviceId": "2_16",
+      "tripId": "2_30339",
+      "routeId": "2_0057",
+      "headsign": "57 | Rennes République"
+    }
+  ]
+}

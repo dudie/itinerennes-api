@@ -1,0 +1,550 @@
+{
+  "date": "2015-05-05 00:00",
+  "stop": {
+    "id": "2_4201",
+    "lat": 48.051925,
+    "lon": -1.797682,
+    "name": "Croix Blanche",
+    "code": 4201
+  },
+  "routes": [
+    {
+      "id": "2_0056",
+      "textColor": "FFFFFF",
+      "color": "009A47",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Chavagne",
+      "shortName": "56",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0156",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Chavagne",
+      "shortName": "156",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0211",
+      "textColor": "FFFFFF",
+      "color": "702283",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Rennes (Collège Cleunay)",
+      "shortName": "211",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0229",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chavagne (Croix Blanche) \u003c\u003e Bruz (Lycée Anita Conti)",
+      "shortName": "229",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-05 06:20",
+      "departure": "2015-05-05 06:20",
+      "serviceId": "2_30",
+      "tripId": "2_7592",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 06:40",
+      "departure": "2015-05-05 06:40",
+      "serviceId": "2_30",
+      "tripId": "2_4867",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 07:00",
+      "departure": "2015-05-05 07:00",
+      "serviceId": "2_30",
+      "tripId": "2_4740",
+      "routeId": "2_0156",
+      "headsign": "156 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-05 07:10",
+      "departure": "2015-05-05 07:10",
+      "serviceId": "2_30",
+      "tripId": "2_4765",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 07:25",
+      "departure": "2015-05-05 07:25",
+      "serviceId": "2_30",
+      "tripId": "2_7598",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 07:36",
+      "departure": "2015-05-05 07:36",
+      "serviceId": "2_30",
+      "tripId": "2_7568",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 07:40",
+      "departure": "2015-05-05 07:40",
+      "serviceId": "2_30",
+      "tripId": "2_4771",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 07:43",
+      "departure": "2015-05-05 07:43",
+      "serviceId": "2_36",
+      "tripId": "2_15858",
+      "routeId": "2_0211",
+      "headsign": "211 | Rennes Collège Cleunay"
+    },
+    {
+      "arrival": "2015-05-05 07:58",
+      "departure": "2015-05-05 07:58",
+      "serviceId": "2_30",
+      "tripId": "2_7484",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 08:03",
+      "departure": "2015-05-05 08:03",
+      "serviceId": "2_36",
+      "tripId": "2_16015",
+      "routeId": "2_0229",
+      "headsign": "229 | Bruz Lycée Anita Conti"
+    },
+    {
+      "arrival": "2015-05-05 08:05",
+      "departure": "2015-05-05 08:05",
+      "serviceId": "2_30",
+      "tripId": "2_4783",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 08:20",
+      "departure": "2015-05-05 08:20",
+      "serviceId": "2_30",
+      "tripId": "2_4745",
+      "routeId": "2_0156",
+      "headsign": "156 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-05 08:33",
+      "departure": "2015-05-05 08:33",
+      "serviceId": "2_30",
+      "tripId": "2_4777",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 08:35",
+      "departure": "2015-05-05 08:35",
+      "serviceId": "2_30",
+      "tripId": "2_4789",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 08:47",
+      "departure": "2015-05-05 08:47",
+      "serviceId": "2_36",
+      "tripId": "2_15862",
+      "routeId": "2_0211",
+      "headsign": "211 | Rennes Collège Cleunay"
+    },
+    {
+      "arrival": "2015-05-05 08:48",
+      "departure": "2015-05-05 08:48",
+      "serviceId": "2_30",
+      "tripId": "2_7586",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 09:00",
+      "departure": "2015-05-05 09:00",
+      "serviceId": "2_30",
+      "tripId": "2_4795",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 09:03",
+      "departure": "2015-05-05 09:03",
+      "serviceId": "2_30",
+      "tripId": "2_4813",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 09:20",
+      "departure": "2015-05-05 09:20",
+      "serviceId": "2_30",
+      "tripId": "2_7508",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 09:56",
+      "departure": "2015-05-05 09:56",
+      "serviceId": "2_30",
+      "tripId": "2_7514",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 10:36",
+      "departure": "2015-05-05 10:36",
+      "serviceId": "2_30",
+      "tripId": "2_4819",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 10:40",
+      "departure": "2015-05-05 10:40",
+      "serviceId": "2_30",
+      "tripId": "2_4801",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 11:56",
+      "departure": "2015-05-05 11:56",
+      "serviceId": "2_30",
+      "tripId": "2_4825",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 12:00",
+      "departure": "2015-05-05 12:00",
+      "serviceId": "2_30",
+      "tripId": "2_4807",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 12:46",
+      "departure": "2015-05-05 12:46",
+      "serviceId": "2_30",
+      "tripId": "2_4831",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 12:50",
+      "departure": "2015-05-05 12:50",
+      "serviceId": "2_30",
+      "tripId": "2_4843",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 13:16",
+      "departure": "2015-05-05 13:16",
+      "serviceId": "2_30",
+      "tripId": "2_4837",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 13:20",
+      "departure": "2015-05-05 13:20",
+      "serviceId": "2_30",
+      "tripId": "2_4849",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 14:06",
+      "departure": "2015-05-05 14:06",
+      "serviceId": "2_30",
+      "tripId": "2_7520",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 14:10",
+      "departure": "2015-05-05 14:10",
+      "serviceId": "2_30",
+      "tripId": "2_7532",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 14:41",
+      "departure": "2015-05-05 14:41",
+      "serviceId": "2_30",
+      "tripId": "2_4855",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 14:50",
+      "departure": "2015-05-05 14:50",
+      "serviceId": "2_30",
+      "tripId": "2_4897",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 15:26",
+      "departure": "2015-05-05 15:26",
+      "serviceId": "2_30",
+      "tripId": "2_7526",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 15:30",
+      "departure": "2015-05-05 15:30",
+      "serviceId": "2_30",
+      "tripId": "2_7544",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 16:00",
+      "departure": "2015-05-05 16:00",
+      "serviceId": "2_30",
+      "tripId": "2_4921",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 16:13",
+      "departure": "2015-05-05 16:13",
+      "serviceId": "2_30",
+      "tripId": "2_7538",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 16:30",
+      "departure": "2015-05-05 16:30",
+      "serviceId": "2_30",
+      "tripId": "2_4903",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 16:34",
+      "departure": "2015-05-05 16:34",
+      "serviceId": "2_37",
+      "tripId": "2_15866",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 16:49",
+      "departure": "2015-05-05 16:49",
+      "serviceId": "2_30",
+      "tripId": "2_7574",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 16:58",
+      "departure": "2015-05-05 16:58",
+      "serviceId": "2_30",
+      "tripId": "2_4750",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 17:00",
+      "departure": "2015-05-05 17:00",
+      "serviceId": "2_30",
+      "tripId": "2_7580",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 17:21",
+      "departure": "2015-05-05 17:21",
+      "serviceId": "2_30",
+      "tripId": "2_4861",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 17:30",
+      "departure": "2015-05-05 17:30",
+      "serviceId": "2_30",
+      "tripId": "2_4909",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 17:32",
+      "departure": "2015-05-05 17:32",
+      "serviceId": "2_37",
+      "tripId": "2_16026",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2015-05-05 17:32",
+      "departure": "2015-05-05 17:32",
+      "serviceId": "2_37",
+      "tripId": "2_16023",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2015-05-05 17:42",
+      "departure": "2015-05-05 17:42",
+      "serviceId": "2_37",
+      "tripId": "2_15869",
+      "routeId": "2_0211",
+      "headsign": "211 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 17:56",
+      "departure": "2015-05-05 17:56",
+      "serviceId": "2_30",
+      "tripId": "2_7550",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 18:00",
+      "departure": "2015-05-05 18:00",
+      "serviceId": "2_30",
+      "tripId": "2_7490",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 18:06",
+      "departure": "2015-05-05 18:06",
+      "serviceId": "2_30",
+      "tripId": "2_4755",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 18:24",
+      "departure": "2015-05-05 18:24",
+      "serviceId": "2_30",
+      "tripId": "2_4873",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 18:30",
+      "departure": "2015-05-05 18:30",
+      "serviceId": "2_30",
+      "tripId": "2_4915",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 18:32",
+      "departure": "2015-05-05 18:32",
+      "serviceId": "2_37",
+      "tripId": "2_16031",
+      "routeId": "2_0229",
+      "headsign": "229 | Chavagne Croix Blanche"
+    },
+    {
+      "arrival": "2015-05-05 18:53",
+      "departure": "2015-05-05 18:53",
+      "serviceId": "2_30",
+      "tripId": "2_7502",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 19:00",
+      "departure": "2015-05-05 19:00",
+      "serviceId": "2_30",
+      "tripId": "2_7472",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 19:09",
+      "departure": "2015-05-05 19:09",
+      "serviceId": "2_30",
+      "tripId": "2_4760",
+      "routeId": "2_0156",
+      "headsign": "156 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 19:20",
+      "departure": "2015-05-05 19:20",
+      "serviceId": "2_30",
+      "tripId": "2_7496",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 19:30",
+      "departure": "2015-05-05 19:30",
+      "serviceId": "2_30",
+      "tripId": "2_7478",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 19:49",
+      "departure": "2015-05-05 19:49",
+      "serviceId": "2_30",
+      "tripId": "2_4879",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 20:00",
+      "departure": "2015-05-05 20:00",
+      "serviceId": "2_30",
+      "tripId": "2_7562",
+      "routeId": "2_0056",
+      "headsign": "56 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-05 20:14",
+      "departure": "2015-05-05 20:14",
+      "serviceId": "2_30",
+      "tripId": "2_4891",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 20:44",
+      "departure": "2015-05-05 20:44",
+      "serviceId": "2_30",
+      "tripId": "2_4885",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    },
+    {
+      "arrival": "2015-05-05 21:11",
+      "departure": "2015-05-05 21:11",
+      "serviceId": "2_30",
+      "tripId": "2_7556",
+      "routeId": "2_0056",
+      "headsign": "56 | Chavagne"
+    }
+  ]
+}

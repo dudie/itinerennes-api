@@ -1,0 +1,684 @@
+{
+  "date": "2015-05-12 00:00",
+  "stop": {
+    "id": "2_2704",
+    "lat": 48.059279,
+    "lon": -1.7013,
+    "name": "Janais",
+    "code": 2704
+  },
+  "routes": [
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Gare)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "004293",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-12 05:06",
+      "departure": "2015-05-12 05:06",
+      "serviceId": "2_30",
+      "tripId": "2_39977",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 3"
+    },
+    {
+      "arrival": "2015-05-12 05:08",
+      "departure": "2015-05-12 05:08",
+      "serviceId": "2_30",
+      "tripId": "2_39983",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 1"
+    },
+    {
+      "arrival": "2015-05-12 05:08",
+      "departure": "2015-05-12 05:08",
+      "serviceId": "2_30",
+      "tripId": "2_39971",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 2"
+    },
+    {
+      "arrival": "2015-05-12 06:13",
+      "departure": "2015-05-12 06:13",
+      "serviceId": "2_30",
+      "tripId": "2_29446",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 06:20",
+      "departure": "2015-05-12 06:20",
+      "serviceId": "2_30",
+      "tripId": "2_37481",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 06:51",
+      "departure": "2015-05-12 06:51",
+      "serviceId": "2_30",
+      "tripId": "2_29180",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 06:51",
+      "departure": "2015-05-12 06:51",
+      "serviceId": "2_30",
+      "tripId": "2_37487",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 07:13",
+      "departure": "2015-05-12 07:13",
+      "serviceId": "2_30",
+      "tripId": "2_29360",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 07:22",
+      "departure": "2015-05-12 07:22",
+      "serviceId": "2_30",
+      "tripId": "2_37499",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 07:29",
+      "departure": "2015-05-12 07:29",
+      "serviceId": "2_30",
+      "tripId": "2_29366",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 07:43",
+      "departure": "2015-05-12 07:43",
+      "serviceId": "2_30",
+      "tripId": "2_37493",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan via T. Tizon"
+    },
+    {
+      "arrival": "2015-05-12 07:54",
+      "departure": "2015-05-12 07:54",
+      "serviceId": "2_30",
+      "tripId": "2_29186",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 08:02",
+      "departure": "2015-05-12 08:02",
+      "serviceId": "2_30",
+      "tripId": "2_37505",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 08:15",
+      "departure": "2015-05-12 08:15",
+      "serviceId": "2_30",
+      "tripId": "2_29390",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 08:17",
+      "departure": "2015-05-12 08:17",
+      "serviceId": "2_30",
+      "tripId": "2_37511",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 08:29",
+      "departure": "2015-05-12 08:29",
+      "serviceId": "2_30",
+      "tripId": "2_29192",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 08:32",
+      "departure": "2015-05-12 08:32",
+      "serviceId": "2_30",
+      "tripId": "2_37517",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 08:49",
+      "departure": "2015-05-12 08:49",
+      "serviceId": "2_30",
+      "tripId": "2_29198",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 08:52",
+      "departure": "2015-05-12 08:52",
+      "serviceId": "2_30",
+      "tripId": "2_37751",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 09:13",
+      "departure": "2015-05-12 09:13",
+      "serviceId": "2_30",
+      "tripId": "2_29204",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 09:22",
+      "departure": "2015-05-12 09:22",
+      "serviceId": "2_30",
+      "tripId": "2_37523",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 09:30",
+      "departure": "2015-05-12 09:30",
+      "serviceId": "2_30",
+      "tripId": "2_29372",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 10:01",
+      "departure": "2015-05-12 10:01",
+      "serviceId": "2_30",
+      "tripId": "2_37529",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 10:04",
+      "departure": "2015-05-12 10:04",
+      "serviceId": "2_30",
+      "tripId": "2_29210",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 10:34",
+      "departure": "2015-05-12 10:34",
+      "serviceId": "2_30",
+      "tripId": "2_29216",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 10:36",
+      "departure": "2015-05-12 10:36",
+      "serviceId": "2_30",
+      "tripId": "2_37535",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 11:04",
+      "departure": "2015-05-12 11:04",
+      "serviceId": "2_30",
+      "tripId": "2_29222",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 11:16",
+      "departure": "2015-05-12 11:16",
+      "serviceId": "2_30",
+      "tripId": "2_37541",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 11:34",
+      "departure": "2015-05-12 11:34",
+      "serviceId": "2_30",
+      "tripId": "2_29228",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 11:51",
+      "departure": "2015-05-12 11:51",
+      "serviceId": "2_30",
+      "tripId": "2_37547",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 12:04",
+      "departure": "2015-05-12 12:04",
+      "serviceId": "2_30",
+      "tripId": "2_29234",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 12:29",
+      "departure": "2015-05-12 12:29",
+      "serviceId": "2_30",
+      "tripId": "2_29240",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 12:36",
+      "departure": "2015-05-12 12:36",
+      "serviceId": "2_30",
+      "tripId": "2_37553",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 12:59",
+      "departure": "2015-05-12 12:59",
+      "serviceId": "2_30",
+      "tripId": "2_29246",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 13:01",
+      "departure": "2015-05-12 13:01",
+      "serviceId": "2_30",
+      "tripId": "2_37769",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 13:24",
+      "departure": "2015-05-12 13:24",
+      "serviceId": "2_30",
+      "tripId": "2_29252",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 13:26",
+      "departure": "2015-05-12 13:26",
+      "serviceId": "2_30",
+      "tripId": "2_37775",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 13:44",
+      "departure": "2015-05-12 13:44",
+      "serviceId": "2_30",
+      "tripId": "2_29258",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 13:51",
+      "departure": "2015-05-12 13:51",
+      "serviceId": "2_30",
+      "tripId": "2_37781",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 14:04",
+      "departure": "2015-05-12 14:04",
+      "serviceId": "2_30",
+      "tripId": "2_29402",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 14:16",
+      "departure": "2015-05-12 14:16",
+      "serviceId": "2_30",
+      "tripId": "2_37787",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 14:34",
+      "departure": "2015-05-12 14:34",
+      "serviceId": "2_30",
+      "tripId": "2_29264",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 14:41",
+      "departure": "2015-05-12 14:41",
+      "serviceId": "2_30",
+      "tripId": "2_37793",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 15:06",
+      "departure": "2015-05-12 15:06",
+      "serviceId": "2_30",
+      "tripId": "2_37799",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 15:14",
+      "departure": "2015-05-12 15:14",
+      "serviceId": "2_30",
+      "tripId": "2_29270",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 15:31",
+      "departure": "2015-05-12 15:31",
+      "serviceId": "2_30",
+      "tripId": "2_37805",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 15:44",
+      "departure": "2015-05-12 15:44",
+      "serviceId": "2_30",
+      "tripId": "2_29276",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 15:56",
+      "departure": "2015-05-12 15:56",
+      "serviceId": "2_30",
+      "tripId": "2_37811",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 16:13",
+      "departure": "2015-05-12 16:13",
+      "serviceId": "2_30",
+      "tripId": "2_37559",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 16:15",
+      "departure": "2015-05-12 16:15",
+      "serviceId": "2_30",
+      "tripId": "2_29282",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 16:22",
+      "departure": "2015-05-12 16:22",
+      "serviceId": "2_30",
+      "tripId": "2_29384",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 16:28",
+      "departure": "2015-05-12 16:28",
+      "serviceId": "2_30",
+      "tripId": "2_37565",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 16:43",
+      "departure": "2015-05-12 16:43",
+      "serviceId": "2_30",
+      "tripId": "2_37571",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 16:48",
+      "departure": "2015-05-12 16:48",
+      "serviceId": "2_30",
+      "tripId": "2_29288",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 17:01",
+      "departure": "2015-05-12 17:01",
+      "serviceId": "2_30",
+      "tripId": "2_37577",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 17:08",
+      "departure": "2015-05-12 17:08",
+      "serviceId": "2_30",
+      "tripId": "2_29294",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 17:18",
+      "departure": "2015-05-12 17:18",
+      "serviceId": "2_30",
+      "tripId": "2_37583",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 17:29",
+      "departure": "2015-05-12 17:29",
+      "serviceId": "2_30",
+      "tripId": "2_29300",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 17:38",
+      "departure": "2015-05-12 17:38",
+      "serviceId": "2_30",
+      "tripId": "2_37589",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 17:49",
+      "departure": "2015-05-12 17:49",
+      "serviceId": "2_30",
+      "tripId": "2_29306",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 17:54",
+      "departure": "2015-05-12 17:54",
+      "serviceId": "2_30",
+      "tripId": "2_37595",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 18:09",
+      "departure": "2015-05-12 18:09",
+      "serviceId": "2_30",
+      "tripId": "2_29312",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 18:09",
+      "departure": "2015-05-12 18:09",
+      "serviceId": "2_30",
+      "tripId": "2_37601",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 18:24",
+      "departure": "2015-05-12 18:24",
+      "serviceId": "2_30",
+      "tripId": "2_37607",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 18:29",
+      "departure": "2015-05-12 18:29",
+      "serviceId": "2_30",
+      "tripId": "2_29318",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 18:43",
+      "departure": "2015-05-12 18:43",
+      "serviceId": "2_30",
+      "tripId": "2_37613",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 18:47",
+      "departure": "2015-05-12 18:47",
+      "serviceId": "2_30",
+      "tripId": "2_29324",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 18:57",
+      "departure": "2015-05-12 18:57",
+      "serviceId": "2_30",
+      "tripId": "2_37619",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 19:06",
+      "departure": "2015-05-12 19:06",
+      "serviceId": "2_30",
+      "tripId": "2_29330",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 19:11",
+      "departure": "2015-05-12 19:11",
+      "serviceId": "2_30",
+      "tripId": "2_37625",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 19:26",
+      "departure": "2015-05-12 19:26",
+      "serviceId": "2_30",
+      "tripId": "2_29336",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 19:26",
+      "departure": "2015-05-12 19:26",
+      "serviceId": "2_30",
+      "tripId": "2_37631",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 19:41",
+      "departure": "2015-05-12 19:41",
+      "serviceId": "2_30",
+      "tripId": "2_37637",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 19:46",
+      "departure": "2015-05-12 19:46",
+      "serviceId": "2_30",
+      "tripId": "2_29342",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 20:01",
+      "departure": "2015-05-12 20:01",
+      "serviceId": "2_30",
+      "tripId": "2_37643",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-05-12 20:11",
+      "departure": "2015-05-12 20:11",
+      "serviceId": "2_30",
+      "tripId": "2_29348",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 20:31",
+      "departure": "2015-05-12 20:31",
+      "serviceId": "2_30",
+      "tripId": "2_29452",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 20:31",
+      "departure": "2015-05-12 20:31",
+      "serviceId": "2_30",
+      "tripId": "2_37649",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-05-12 21:01",
+      "departure": "2015-05-12 21:01",
+      "serviceId": "2_30",
+      "tripId": "2_29458",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-05-12 21:01",
+      "departure": "2015-05-12 21:01",
+      "serviceId": "2_30",
+      "tripId": "2_37655",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    }
+  ]
+}

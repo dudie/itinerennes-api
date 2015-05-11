@@ -1,0 +1,526 @@
+{
+  "date": "2015-05-07 00:00",
+  "stop": {
+    "id": "2_3852",
+    "lat": 48.071956,
+    "lon": -1.849829,
+    "name": "Mordelles Eglise",
+    "code": 3852
+  },
+  "routes": [
+    {
+      "id": "2_0055",
+      "textColor": "1A171B",
+      "color": "F7A800",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Charles de Gaulle) \u003c\u003e Mordelles / Le Verger",
+      "shortName": "55",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0076",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Vezin-le-Coquet / Le Rheu / Mordelles",
+      "shortName": "76",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0155",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Mordelles",
+      "shortName": "155",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0239",
+      "textColor": "FFFFFF",
+      "color": "F39200",
+      "description": "Complémentaire",
+      "longName": "Mordelles (Pâtis) \u003c\u003e Le Rheu (Lycée Théodore Monod)",
+      "shortName": "239",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-07 06:17",
+      "departure": "2015-05-07 06:17",
+      "serviceId": "2_16",
+      "tripId": "2_4210",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 06:37",
+      "departure": "2015-05-07 06:37",
+      "serviceId": "2_16",
+      "tripId": "2_4216",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 06:57",
+      "departure": "2015-05-07 06:57",
+      "serviceId": "2_16",
+      "tripId": "2_4354",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 07:02",
+      "departure": "2015-05-07 07:02",
+      "serviceId": "2_16",
+      "tripId": "2_7728",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 07:08",
+      "departure": "2015-05-07 07:08",
+      "serviceId": "2_16",
+      "tripId": "2_4683",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:13",
+      "departure": "2015-05-07 07:13",
+      "serviceId": "2_16",
+      "tripId": "2_4728",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:17",
+      "departure": "2015-05-07 07:17",
+      "serviceId": "2_16",
+      "tripId": "2_4360",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 07:27",
+      "departure": "2015-05-07 07:27",
+      "serviceId": "2_16",
+      "tripId": "2_7734",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 07:28",
+      "departure": "2015-05-07 07:28",
+      "serviceId": "2_16",
+      "tripId": "2_4688",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:38",
+      "departure": "2015-05-07 07:38",
+      "serviceId": "2_16",
+      "tripId": "2_4366",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 07:48",
+      "departure": "2015-05-07 07:48",
+      "serviceId": "2_16",
+      "tripId": "2_4733",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 07:58",
+      "departure": "2015-05-07 07:58",
+      "serviceId": "2_16",
+      "tripId": "2_4372",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 08:02",
+      "departure": "2015-05-07 08:02",
+      "serviceId": "2_20",
+      "tripId": "2_16164",
+      "routeId": "2_0239",
+      "headsign": "239 | Le Rheu Lycée Théodore Monod"
+    },
+    {
+      "arrival": "2015-05-07 08:03",
+      "departure": "2015-05-07 08:03",
+      "serviceId": "2_16",
+      "tripId": "2_7740",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 08:08",
+      "departure": "2015-05-07 08:08",
+      "serviceId": "2_16",
+      "tripId": "2_4723",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:18",
+      "departure": "2015-05-07 08:18",
+      "serviceId": "2_16",
+      "tripId": "2_4378",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 08:28",
+      "departure": "2015-05-07 08:28",
+      "serviceId": "2_16",
+      "tripId": "2_4718",
+      "routeId": "2_0155",
+      "headsign": "155 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-07 08:38",
+      "departure": "2015-05-07 08:38",
+      "serviceId": "2_16",
+      "tripId": "2_7746",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 08:43",
+      "departure": "2015-05-07 08:43",
+      "serviceId": "2_16",
+      "tripId": "2_4384",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 09:02",
+      "departure": "2015-05-07 09:02",
+      "serviceId": "2_16",
+      "tripId": "2_4390",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 09:02",
+      "departure": "2015-05-07 09:02",
+      "serviceId": "2_16",
+      "tripId": "2_7752",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 09:27",
+      "departure": "2015-05-07 09:27",
+      "serviceId": "2_16",
+      "tripId": "2_4396",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 09:47",
+      "departure": "2015-05-07 09:47",
+      "serviceId": "2_16",
+      "tripId": "2_4402",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 09:52",
+      "departure": "2015-05-07 09:52",
+      "serviceId": "2_16",
+      "tripId": "2_7830",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 10:17",
+      "departure": "2015-05-07 10:17",
+      "serviceId": "2_16",
+      "tripId": "2_4408",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 10:47",
+      "departure": "2015-05-07 10:47",
+      "serviceId": "2_16",
+      "tripId": "2_4414",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 11:17",
+      "departure": "2015-05-07 11:17",
+      "serviceId": "2_16",
+      "tripId": "2_4420",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 11:27",
+      "departure": "2015-05-07 11:27",
+      "serviceId": "2_16",
+      "tripId": "2_7836",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 11:47",
+      "departure": "2015-05-07 11:47",
+      "serviceId": "2_16",
+      "tripId": "2_4426",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 12:17",
+      "departure": "2015-05-07 12:17",
+      "serviceId": "2_16",
+      "tripId": "2_4432",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 12:47",
+      "departure": "2015-05-07 12:47",
+      "serviceId": "2_16",
+      "tripId": "2_4438",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 13:02",
+      "departure": "2015-05-07 13:02",
+      "serviceId": "2_16",
+      "tripId": "2_7842",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 13:17",
+      "departure": "2015-05-07 13:17",
+      "serviceId": "2_16",
+      "tripId": "2_4444",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 13:47",
+      "departure": "2015-05-07 13:47",
+      "serviceId": "2_16",
+      "tripId": "2_4450",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 13:57",
+      "departure": "2015-05-07 13:57",
+      "serviceId": "2_16",
+      "tripId": "2_7848",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 14:17",
+      "departure": "2015-05-07 14:17",
+      "serviceId": "2_16",
+      "tripId": "2_4456",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 14:47",
+      "departure": "2015-05-07 14:47",
+      "serviceId": "2_16",
+      "tripId": "2_4462",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 15:17",
+      "departure": "2015-05-07 15:17",
+      "serviceId": "2_16",
+      "tripId": "2_4468",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 15:27",
+      "departure": "2015-05-07 15:27",
+      "serviceId": "2_16",
+      "tripId": "2_7854",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 15:42",
+      "departure": "2015-05-07 15:42",
+      "serviceId": "2_16",
+      "tripId": "2_4474",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 16:07",
+      "departure": "2015-05-07 16:07",
+      "serviceId": "2_16",
+      "tripId": "2_4498",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 16:32",
+      "departure": "2015-05-07 16:32",
+      "serviceId": "2_16",
+      "tripId": "2_4480",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 16:52",
+      "departure": "2015-05-07 16:52",
+      "serviceId": "2_16",
+      "tripId": "2_4486",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 17:02",
+      "departure": "2015-05-07 17:02",
+      "serviceId": "2_16",
+      "tripId": "2_7866",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 17:12",
+      "departure": "2015-05-07 17:12",
+      "serviceId": "2_16",
+      "tripId": "2_4504",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 17:32",
+      "departure": "2015-05-07 17:32",
+      "serviceId": "2_16",
+      "tripId": "2_4510",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 17:52",
+      "departure": "2015-05-07 17:52",
+      "serviceId": "2_16",
+      "tripId": "2_4516",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 18:02",
+      "departure": "2015-05-07 18:02",
+      "serviceId": "2_16",
+      "tripId": "2_7878",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 18:12",
+      "departure": "2015-05-07 18:12",
+      "serviceId": "2_16",
+      "tripId": "2_4522",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 18:32",
+      "departure": "2015-05-07 18:32",
+      "serviceId": "2_16",
+      "tripId": "2_4528",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 18:42",
+      "departure": "2015-05-07 18:42",
+      "serviceId": "2_16",
+      "tripId": "2_7884",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 18:52",
+      "departure": "2015-05-07 18:52",
+      "serviceId": "2_16",
+      "tripId": "2_4534",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 19:07",
+      "departure": "2015-05-07 19:07",
+      "serviceId": "2_16",
+      "tripId": "2_7872",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 19:12",
+      "departure": "2015-05-07 19:12",
+      "serviceId": "2_16",
+      "tripId": "2_4540",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 19:32",
+      "departure": "2015-05-07 19:32",
+      "serviceId": "2_16",
+      "tripId": "2_4546",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 19:37",
+      "departure": "2015-05-07 19:37",
+      "serviceId": "2_16",
+      "tripId": "2_7890",
+      "routeId": "2_0076",
+      "headsign": "76 | Rennes Lycée Basch"
+    },
+    {
+      "arrival": "2015-05-07 19:57",
+      "departure": "2015-05-07 19:57",
+      "serviceId": "2_16",
+      "tripId": "2_4552",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 20:24",
+      "departure": "2015-05-07 20:24",
+      "serviceId": "2_16",
+      "tripId": "2_4564",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    },
+    {
+      "arrival": "2015-05-07 20:54",
+      "departure": "2015-05-07 20:54",
+      "serviceId": "2_16",
+      "tripId": "2_4558",
+      "routeId": "2_0055",
+      "headsign": "55 | Rennes Charles de Gaulle"
+    }
+  ]
+}
