@@ -1,0 +1,710 @@
+{
+  "date": "2015-06-01 00:00",
+  "stop": {
+    "id": "2_1493",
+    "lat": 48.127175,
+    "lon": -1.693387,
+    "name": "Lycée Basch",
+    "code": 1493
+  },
+  "routes": [
+    {
+      "id": "2_0052",
+      "textColor": "FFFFFF",
+      "color": "007C77",
+      "description": "Métropolitaine",
+      "longName": "Saint-Gilles / Pacé \u003c\u003e Rennes (Villejean-Université) \u003c\u003e Montgermont / La Chapelle-des-Fougeretz",
+      "shortName": "52",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0068",
+      "textColor": "1A171B",
+      "color": "DDC500",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Gévezé",
+      "shortName": "68",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E3006A",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0168",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Gévezé",
+      "shortName": "168",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-06-01 06:40",
+      "departure": "2015-06-01 06:40",
+      "serviceId": "2_18",
+      "tripId": "2_4027",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 07:04",
+      "departure": "2015-06-01 07:04",
+      "serviceId": "2_18",
+      "tripId": "2_10074",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:10",
+      "departure": "2015-06-01 07:10",
+      "serviceId": "2_18",
+      "tripId": "2_4033",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 07:21",
+      "departure": "2015-06-01 07:21",
+      "serviceId": "2_18",
+      "tripId": "2_10212",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:26",
+      "departure": "2015-06-01 07:26",
+      "serviceId": "2_18",
+      "tripId": "2_19589",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:26",
+      "departure": "2015-06-01 07:26",
+      "serviceId": "2_18",
+      "tripId": "2_4039",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 07:36",
+      "departure": "2015-06-01 07:36",
+      "serviceId": "2_18",
+      "tripId": "2_10080",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:41",
+      "departure": "2015-06-01 07:41",
+      "serviceId": "2_18",
+      "tripId": "2_4045",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 07:45",
+      "departure": "2015-06-01 07:45",
+      "serviceId": "2_18",
+      "tripId": "2_6165",
+      "routeId": "2_0168",
+      "headsign": "168 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:52",
+      "departure": "2015-06-01 07:52",
+      "serviceId": "2_18",
+      "tripId": "2_19595",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 07:52",
+      "departure": "2015-06-01 07:52",
+      "serviceId": "2_18",
+      "tripId": "2_4393",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 07:56",
+      "departure": "2015-06-01 07:56",
+      "serviceId": "2_18",
+      "tripId": "2_10218",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:08",
+      "departure": "2015-06-01 08:08",
+      "serviceId": "2_18",
+      "tripId": "2_4051",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 08:13",
+      "departure": "2015-06-01 08:13",
+      "serviceId": "2_18",
+      "tripId": "2_10224",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:19",
+      "departure": "2015-06-01 08:19",
+      "serviceId": "2_18",
+      "tripId": "2_19727",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:24",
+      "departure": "2015-06-01 08:24",
+      "serviceId": "2_18",
+      "tripId": "2_4057",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 08:29",
+      "departure": "2015-06-01 08:29",
+      "serviceId": "2_18",
+      "tripId": "2_10368",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:39",
+      "departure": "2015-06-01 08:39",
+      "serviceId": "2_18",
+      "tripId": "2_4069",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 08:42",
+      "departure": "2015-06-01 08:42",
+      "serviceId": "2_18",
+      "tripId": "2_6171",
+      "routeId": "2_0168",
+      "headsign": "168 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:52",
+      "departure": "2015-06-01 08:52",
+      "serviceId": "2_18",
+      "tripId": "2_19601",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:53",
+      "departure": "2015-06-01 08:53",
+      "serviceId": "2_18",
+      "tripId": "2_10230",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 08:53",
+      "departure": "2015-06-01 08:53",
+      "serviceId": "2_18",
+      "tripId": "2_4075",
+      "routeId": "2_0052",
+      "headsign": "52 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 09:07",
+      "departure": "2015-06-01 09:07",
+      "serviceId": "2_18",
+      "tripId": "2_4063",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 09:10",
+      "departure": "2015-06-01 09:10",
+      "serviceId": "2_18",
+      "tripId": "2_10236",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 09:20",
+      "departure": "2015-06-01 09:20",
+      "serviceId": "2_18",
+      "tripId": "2_19607",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 09:21",
+      "departure": "2015-06-01 09:21",
+      "serviceId": "2_18",
+      "tripId": "2_4081",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 09:28",
+      "departure": "2015-06-01 09:28",
+      "serviceId": "2_18",
+      "tripId": "2_10242",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 09:50",
+      "departure": "2015-06-01 09:50",
+      "serviceId": "2_18",
+      "tripId": "2_19613",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 09:51",
+      "departure": "2015-06-01 09:51",
+      "serviceId": "2_18",
+      "tripId": "2_4087",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 09:53",
+      "departure": "2015-06-01 09:53",
+      "serviceId": "2_18",
+      "tripId": "2_10248",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 10:25",
+      "departure": "2015-06-01 10:25",
+      "serviceId": "2_18",
+      "tripId": "2_4093",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 10:44",
+      "departure": "2015-06-01 10:44",
+      "serviceId": "2_18",
+      "tripId": "2_19733",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 11:00",
+      "departure": "2015-06-01 11:00",
+      "serviceId": "2_18",
+      "tripId": "2_4099",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 11:01",
+      "departure": "2015-06-01 11:01",
+      "serviceId": "2_18",
+      "tripId": "2_10254",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 11:40",
+      "departure": "2015-06-01 11:40",
+      "serviceId": "2_18",
+      "tripId": "2_4105",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 12:04",
+      "departure": "2015-06-01 12:04",
+      "serviceId": "2_18",
+      "tripId": "2_19739",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 12:06",
+      "departure": "2015-06-01 12:06",
+      "serviceId": "2_18",
+      "tripId": "2_10260",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 12:15",
+      "departure": "2015-06-01 12:15",
+      "serviceId": "2_18",
+      "tripId": "2_4111",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 12:55",
+      "departure": "2015-06-01 12:55",
+      "serviceId": "2_18",
+      "tripId": "2_4117",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 13:11",
+      "departure": "2015-06-01 13:11",
+      "serviceId": "2_18",
+      "tripId": "2_10266",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 13:29",
+      "departure": "2015-06-01 13:29",
+      "serviceId": "2_18",
+      "tripId": "2_19619",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 13:30",
+      "departure": "2015-06-01 13:30",
+      "serviceId": "2_18",
+      "tripId": "2_4123",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 13:41",
+      "departure": "2015-06-01 13:41",
+      "serviceId": "2_18",
+      "tripId": "2_10272",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 14:05",
+      "departure": "2015-06-01 14:05",
+      "serviceId": "2_18",
+      "tripId": "2_4129",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 14:16",
+      "departure": "2015-06-01 14:16",
+      "serviceId": "2_18",
+      "tripId": "2_10278",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 14:45",
+      "departure": "2015-06-01 14:45",
+      "serviceId": "2_18",
+      "tripId": "2_4135",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 14:46",
+      "departure": "2015-06-01 14:46",
+      "serviceId": "2_18",
+      "tripId": "2_10284",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 14:49",
+      "departure": "2015-06-01 14:49",
+      "serviceId": "2_18",
+      "tripId": "2_19625",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 15:20",
+      "departure": "2015-06-01 15:20",
+      "serviceId": "2_18",
+      "tripId": "2_4141",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 15:23",
+      "departure": "2015-06-01 15:23",
+      "serviceId": "2_18",
+      "tripId": "2_10290",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 15:49",
+      "departure": "2015-06-01 15:49",
+      "serviceId": "2_18",
+      "tripId": "2_4147",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 15:59",
+      "departure": "2015-06-01 15:59",
+      "serviceId": "2_18",
+      "tripId": "2_19757",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 16:09",
+      "departure": "2015-06-01 16:09",
+      "serviceId": "2_18",
+      "tripId": "2_4387",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 16:26",
+      "departure": "2015-06-01 16:26",
+      "serviceId": "2_18",
+      "tripId": "2_19781",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 16:29",
+      "departure": "2015-06-01 16:29",
+      "serviceId": "2_18",
+      "tripId": "2_4153",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 16:31",
+      "departure": "2015-06-01 16:31",
+      "serviceId": "2_18",
+      "tripId": "2_10296",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 16:48",
+      "departure": "2015-06-01 16:48",
+      "serviceId": "2_18",
+      "tripId": "2_4159",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 17:02",
+      "departure": "2015-06-01 17:02",
+      "serviceId": "2_18",
+      "tripId": "2_19631",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 17:03",
+      "departure": "2015-06-01 17:03",
+      "serviceId": "2_18",
+      "tripId": "2_10302",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 17:08",
+      "departure": "2015-06-01 17:08",
+      "serviceId": "2_18",
+      "tripId": "2_4451",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 17:23",
+      "departure": "2015-06-01 17:23",
+      "serviceId": "2_18",
+      "tripId": "2_10362",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 17:27",
+      "departure": "2015-06-01 17:27",
+      "serviceId": "2_18",
+      "tripId": "2_4433",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 17:30",
+      "departure": "2015-06-01 17:30",
+      "serviceId": "2_18",
+      "tripId": "2_19787",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 17:43",
+      "departure": "2015-06-01 17:43",
+      "serviceId": "2_18",
+      "tripId": "2_10308",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 17:48",
+      "departure": "2015-06-01 17:48",
+      "serviceId": "2_18",
+      "tripId": "2_4439",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 17:59",
+      "departure": "2015-06-01 17:59",
+      "serviceId": "2_18",
+      "tripId": "2_19637",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 18:08",
+      "departure": "2015-06-01 18:08",
+      "serviceId": "2_18",
+      "tripId": "2_4445",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 18:16",
+      "departure": "2015-06-01 18:16",
+      "serviceId": "2_18",
+      "tripId": "2_10314",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 18:28",
+      "departure": "2015-06-01 18:28",
+      "serviceId": "2_18",
+      "tripId": "2_4165",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 18:29",
+      "departure": "2015-06-01 18:29",
+      "serviceId": "2_18",
+      "tripId": "2_19643",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 18:33",
+      "departure": "2015-06-01 18:33",
+      "serviceId": "2_18",
+      "tripId": "2_10320",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 18:48",
+      "departure": "2015-06-01 18:48",
+      "serviceId": "2_18",
+      "tripId": "2_4171",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 18:55",
+      "departure": "2015-06-01 18:55",
+      "serviceId": "2_18",
+      "tripId": "2_19769",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 19:02",
+      "departure": "2015-06-01 19:02",
+      "serviceId": "2_18",
+      "tripId": "2_10326",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 19:09",
+      "departure": "2015-06-01 19:09",
+      "serviceId": "2_18",
+      "tripId": "2_4177",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 19:23",
+      "departure": "2015-06-01 19:23",
+      "serviceId": "2_18",
+      "tripId": "2_19649",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 19:30",
+      "departure": "2015-06-01 19:30",
+      "serviceId": "2_18",
+      "tripId": "2_4183",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 19:41",
+      "departure": "2015-06-01 19:41",
+      "serviceId": "2_18",
+      "tripId": "2_10332",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 19:50",
+      "departure": "2015-06-01 19:50",
+      "serviceId": "2_18",
+      "tripId": "2_4189",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 20:11",
+      "departure": "2015-06-01 20:11",
+      "serviceId": "2_18",
+      "tripId": "2_10338",
+      "routeId": "2_0068",
+      "headsign": "68 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-06-01 20:20",
+      "departure": "2015-06-01 20:20",
+      "serviceId": "2_18",
+      "tripId": "2_4195",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    },
+    {
+      "arrival": "2015-06-01 20:50",
+      "departure": "2015-06-01 20:50",
+      "serviceId": "2_18",
+      "tripId": "2_4399",
+      "routeId": "2_0052",
+      "headsign": "52 | Pacé Saint-Gilles"
+    }
+  ]
+}
