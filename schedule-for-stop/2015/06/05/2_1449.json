@@ -1,0 +1,998 @@
+{
+  "date": "2015-06-05 00:00",
+  "stop": {
+    "id": "2_1449",
+    "lat": 48.086865,
+    "lon": -1.683079,
+    "name": "Norvège",
+    "code": 1449
+  },
+  "routes": [
+    {
+      "id": "2_0033",
+      "textColor": "E2001A",
+      "color": "FFF164",
+      "description": "Inter-quartiers",
+      "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+      "shortName": "33",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0059",
+      "textColor": "1A171B",
+      "color": "F19FC1",
+      "description": "Métropolitaine",
+      "longName": "Vern-sur-Seiche \u003c\u003e Rennes (La Poterie) / Rennes (Henri Fréville) \u003c\u003e Bruz (Gare)",
+      "shortName": "59",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0072",
+      "textColor": "FFFFFF",
+      "color": "004293",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Henri Fréville) \u003c\u003e Chartres-de-Bretagne / Pont-Péan / Laillé",
+      "shortName": "72",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0804",
+      "textColor": "FFFFFF",
+      "color": "009C99",
+      "description": "Spéciale",
+      "longName": "Rennes \u003c\u003e Touche Tizon",
+      "shortName": "TTZ",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-06-05 04:53",
+      "departure": "2015-06-05 04:53",
+      "serviceId": "2_38",
+      "tripId": "2_31721",
+      "routeId": "2_0804",
+      "headsign": "TTZ | Touche Tizon 3"
+    },
+    {
+      "arrival": "2015-06-05 06:05",
+      "departure": "2015-06-05 06:05",
+      "serviceId": "2_38",
+      "tripId": "2_21381",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 06:13",
+      "departure": "2015-06-05 06:13",
+      "serviceId": "2_38",
+      "tripId": "2_28984",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 06:43",
+      "departure": "2015-06-05 06:43",
+      "serviceId": "2_38",
+      "tripId": "2_21113",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 06:43",
+      "departure": "2015-06-05 06:43",
+      "serviceId": "2_38",
+      "tripId": "2_28990",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 07:04",
+      "departure": "2015-06-05 07:04",
+      "serviceId": "2_38",
+      "tripId": "2_21293",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 07:13",
+      "departure": "2015-06-05 07:13",
+      "serviceId": "2_38",
+      "tripId": "2_29002",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 07:20",
+      "departure": "2015-06-05 07:20",
+      "serviceId": "2_38",
+      "tripId": "2_21299",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 07:31",
+      "departure": "2015-06-05 07:31",
+      "serviceId": "2_42",
+      "tripId": "2_858",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 07:33",
+      "departure": "2015-06-05 07:33",
+      "serviceId": "2_38",
+      "tripId": "2_28996",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan via T. Tizon"
+    },
+    {
+      "arrival": "2015-06-05 07:44",
+      "departure": "2015-06-05 07:44",
+      "serviceId": "2_38",
+      "tripId": "2_21119",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 07:53",
+      "departure": "2015-06-05 07:53",
+      "serviceId": "2_38",
+      "tripId": "2_29008",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 07:56",
+      "departure": "2015-06-05 07:56",
+      "serviceId": "2_42",
+      "tripId": "2_863",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 08:05",
+      "departure": "2015-06-05 08:05",
+      "serviceId": "2_38",
+      "tripId": "2_21323",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 08:08",
+      "departure": "2015-06-05 08:08",
+      "serviceId": "2_38",
+      "tripId": "2_29014",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 08:16",
+      "departure": "2015-06-05 08:16",
+      "serviceId": "2_42",
+      "tripId": "2_868",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 08:20",
+      "departure": "2015-06-05 08:20",
+      "serviceId": "2_38",
+      "tripId": "2_21125",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 08:23",
+      "departure": "2015-06-05 08:23",
+      "serviceId": "2_38",
+      "tripId": "2_29020",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 08:31",
+      "departure": "2015-06-05 08:31",
+      "serviceId": "2_42",
+      "tripId": "2_873",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 08:40",
+      "departure": "2015-06-05 08:40",
+      "serviceId": "2_38",
+      "tripId": "2_21131",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 08:43",
+      "departure": "2015-06-05 08:43",
+      "serviceId": "2_38",
+      "tripId": "2_29254",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 08:55",
+      "departure": "2015-06-05 08:55",
+      "serviceId": "2_42",
+      "tripId": "2_878",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 09:04",
+      "departure": "2015-06-05 09:04",
+      "serviceId": "2_38",
+      "tripId": "2_21137",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 09:13",
+      "departure": "2015-06-05 09:13",
+      "serviceId": "2_38",
+      "tripId": "2_29026",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 09:17",
+      "departure": "2015-06-05 09:17",
+      "serviceId": "2_42",
+      "tripId": "2_883",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 09:22",
+      "departure": "2015-06-05 09:22",
+      "serviceId": "2_38",
+      "tripId": "2_21305",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 09:40",
+      "departure": "2015-06-05 09:40",
+      "serviceId": "2_42",
+      "tripId": "2_888",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 09:53",
+      "departure": "2015-06-05 09:53",
+      "serviceId": "2_38",
+      "tripId": "2_29032",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 09:56",
+      "departure": "2015-06-05 09:56",
+      "serviceId": "2_38",
+      "tripId": "2_21143",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 10:01",
+      "departure": "2015-06-05 10:01",
+      "serviceId": "2_42",
+      "tripId": "2_1028",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 10:23",
+      "departure": "2015-06-05 10:23",
+      "serviceId": "2_42",
+      "tripId": "2_893",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 10:26",
+      "departure": "2015-06-05 10:26",
+      "serviceId": "2_38",
+      "tripId": "2_21149",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 10:28",
+      "departure": "2015-06-05 10:28",
+      "serviceId": "2_38",
+      "tripId": "2_29038",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 10:46",
+      "departure": "2015-06-05 10:46",
+      "serviceId": "2_42",
+      "tripId": "2_898",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 10:56",
+      "departure": "2015-06-05 10:56",
+      "serviceId": "2_38",
+      "tripId": "2_21155",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 11:08",
+      "departure": "2015-06-05 11:08",
+      "serviceId": "2_38",
+      "tripId": "2_29044",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 11:08",
+      "departure": "2015-06-05 11:08",
+      "serviceId": "2_42",
+      "tripId": "2_903",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 11:26",
+      "departure": "2015-06-05 11:26",
+      "serviceId": "2_38",
+      "tripId": "2_21161",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 11:31",
+      "departure": "2015-06-05 11:31",
+      "serviceId": "2_42",
+      "tripId": "2_908",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 11:43",
+      "departure": "2015-06-05 11:43",
+      "serviceId": "2_38",
+      "tripId": "2_29050",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 11:53",
+      "departure": "2015-06-05 11:53",
+      "serviceId": "2_42",
+      "tripId": "2_913",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 11:56",
+      "departure": "2015-06-05 11:56",
+      "serviceId": "2_38",
+      "tripId": "2_21167",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 12:14",
+      "departure": "2015-06-05 12:14",
+      "serviceId": "2_42",
+      "tripId": "2_1038",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 12:21",
+      "departure": "2015-06-05 12:21",
+      "serviceId": "2_38",
+      "tripId": "2_21173",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 12:28",
+      "departure": "2015-06-05 12:28",
+      "serviceId": "2_38",
+      "tripId": "2_29056",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 12:29",
+      "departure": "2015-06-05 12:29",
+      "serviceId": "2_42",
+      "tripId": "2_918",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 12:49",
+      "departure": "2015-06-05 12:49",
+      "serviceId": "2_42",
+      "tripId": "2_923",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 12:51",
+      "departure": "2015-06-05 12:51",
+      "serviceId": "2_38",
+      "tripId": "2_21179",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 12:53",
+      "departure": "2015-06-05 12:53",
+      "serviceId": "2_38",
+      "tripId": "2_29272",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 13:09",
+      "departure": "2015-06-05 13:09",
+      "serviceId": "2_42",
+      "tripId": "2_928",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 13:16",
+      "departure": "2015-06-05 13:16",
+      "serviceId": "2_38",
+      "tripId": "2_21185",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 13:18",
+      "departure": "2015-06-05 13:18",
+      "serviceId": "2_38",
+      "tripId": "2_29278",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 13:32",
+      "departure": "2015-06-05 13:32",
+      "serviceId": "2_42",
+      "tripId": "2_933",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 13:36",
+      "departure": "2015-06-05 13:36",
+      "serviceId": "2_38",
+      "tripId": "2_21191",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 13:43",
+      "departure": "2015-06-05 13:43",
+      "serviceId": "2_38",
+      "tripId": "2_29284",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 13:50",
+      "departure": "2015-06-05 13:50",
+      "serviceId": "2_42",
+      "tripId": "2_938",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 13:56",
+      "departure": "2015-06-05 13:56",
+      "serviceId": "2_38",
+      "tripId": "2_21335",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 14:08",
+      "departure": "2015-06-05 14:08",
+      "serviceId": "2_38",
+      "tripId": "2_29290",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 14:10",
+      "departure": "2015-06-05 14:10",
+      "serviceId": "2_42",
+      "tripId": "2_943",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 14:26",
+      "departure": "2015-06-05 14:26",
+      "serviceId": "2_38",
+      "tripId": "2_21197",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 14:28",
+      "departure": "2015-06-05 14:28",
+      "serviceId": "2_42",
+      "tripId": "2_948",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 14:33",
+      "departure": "2015-06-05 14:33",
+      "serviceId": "2_38",
+      "tripId": "2_29296",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 14:48",
+      "departure": "2015-06-05 14:48",
+      "serviceId": "2_42",
+      "tripId": "2_953",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 14:58",
+      "departure": "2015-06-05 14:58",
+      "serviceId": "2_38",
+      "tripId": "2_29302",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 15:06",
+      "departure": "2015-06-05 15:06",
+      "serviceId": "2_38",
+      "tripId": "2_21203",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 15:06",
+      "departure": "2015-06-05 15:06",
+      "serviceId": "2_42",
+      "tripId": "2_958",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 15:23",
+      "departure": "2015-06-05 15:23",
+      "serviceId": "2_38",
+      "tripId": "2_29308",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 15:26",
+      "departure": "2015-06-05 15:26",
+      "serviceId": "2_42",
+      "tripId": "2_963",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 15:36",
+      "departure": "2015-06-05 15:36",
+      "serviceId": "2_38",
+      "tripId": "2_21209",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 15:46",
+      "departure": "2015-06-05 15:46",
+      "serviceId": "2_42",
+      "tripId": "2_973",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 15:48",
+      "departure": "2015-06-05 15:48",
+      "serviceId": "2_38",
+      "tripId": "2_29314",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 16:04",
+      "departure": "2015-06-05 16:04",
+      "serviceId": "2_38",
+      "tripId": "2_29062",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 16:06",
+      "departure": "2015-06-05 16:06",
+      "serviceId": "2_38",
+      "tripId": "2_21215",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 16:06",
+      "departure": "2015-06-05 16:06",
+      "serviceId": "2_42",
+      "tripId": "2_978",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 16:13",
+      "departure": "2015-06-05 16:13",
+      "serviceId": "2_38",
+      "tripId": "2_21317",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 16:19",
+      "departure": "2015-06-05 16:19",
+      "serviceId": "2_38",
+      "tripId": "2_29068",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 16:23",
+      "departure": "2015-06-05 16:23",
+      "serviceId": "2_42",
+      "tripId": "2_983",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 16:34",
+      "departure": "2015-06-05 16:34",
+      "serviceId": "2_38",
+      "tripId": "2_29074",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 16:36",
+      "departure": "2015-06-05 16:36",
+      "serviceId": "2_42",
+      "tripId": "2_988",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 16:38",
+      "departure": "2015-06-05 16:38",
+      "serviceId": "2_38",
+      "tripId": "2_21221",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 16:52",
+      "departure": "2015-06-05 16:52",
+      "serviceId": "2_38",
+      "tripId": "2_29080",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 16:55",
+      "departure": "2015-06-05 16:55",
+      "serviceId": "2_42",
+      "tripId": "2_993",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 16:58",
+      "departure": "2015-06-05 16:58",
+      "serviceId": "2_38",
+      "tripId": "2_21227",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 17:09",
+      "departure": "2015-06-05 17:09",
+      "serviceId": "2_38",
+      "tripId": "2_29086",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 17:13",
+      "departure": "2015-06-05 17:13",
+      "serviceId": "2_42",
+      "tripId": "2_848",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 17:19",
+      "departure": "2015-06-05 17:19",
+      "serviceId": "2_38",
+      "tripId": "2_21233",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 17:29",
+      "departure": "2015-06-05 17:29",
+      "serviceId": "2_38",
+      "tripId": "2_29092",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 17:32",
+      "departure": "2015-06-05 17:32",
+      "serviceId": "2_42",
+      "tripId": "2_1048",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 17:39",
+      "departure": "2015-06-05 17:39",
+      "serviceId": "2_38",
+      "tripId": "2_21239",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 17:44",
+      "departure": "2015-06-05 17:44",
+      "serviceId": "2_38",
+      "tripId": "2_29098",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 17:52",
+      "departure": "2015-06-05 17:52",
+      "serviceId": "2_42",
+      "tripId": "2_998",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 17:59",
+      "departure": "2015-06-05 17:59",
+      "serviceId": "2_38",
+      "tripId": "2_21245",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 17:59",
+      "departure": "2015-06-05 17:59",
+      "serviceId": "2_38",
+      "tripId": "2_29104",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 18:14",
+      "departure": "2015-06-05 18:14",
+      "serviceId": "2_42",
+      "tripId": "2_1003",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 18:14",
+      "departure": "2015-06-05 18:14",
+      "serviceId": "2_38",
+      "tripId": "2_29110",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 18:19",
+      "departure": "2015-06-05 18:19",
+      "serviceId": "2_38",
+      "tripId": "2_21251",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 18:33",
+      "departure": "2015-06-05 18:33",
+      "serviceId": "2_42",
+      "tripId": "2_1008",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 18:34",
+      "departure": "2015-06-05 18:34",
+      "serviceId": "2_38",
+      "tripId": "2_29116",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 18:38",
+      "departure": "2015-06-05 18:38",
+      "serviceId": "2_38",
+      "tripId": "2_21257",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 18:49",
+      "departure": "2015-06-05 18:49",
+      "serviceId": "2_38",
+      "tripId": "2_29122",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 18:54",
+      "departure": "2015-06-05 18:54",
+      "serviceId": "2_42",
+      "tripId": "2_1013",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 18:58",
+      "departure": "2015-06-05 18:58",
+      "serviceId": "2_38",
+      "tripId": "2_21263",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 19:03",
+      "departure": "2015-06-05 19:03",
+      "serviceId": "2_38",
+      "tripId": "2_29128",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 19:11",
+      "departure": "2015-06-05 19:11",
+      "serviceId": "2_42",
+      "tripId": "2_1018",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 19:18",
+      "departure": "2015-06-05 19:18",
+      "serviceId": "2_38",
+      "tripId": "2_21269",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 19:18",
+      "departure": "2015-06-05 19:18",
+      "serviceId": "2_38",
+      "tripId": "2_29134",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 19:33",
+      "departure": "2015-06-05 19:33",
+      "serviceId": "2_38",
+      "tripId": "2_29140",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 19:38",
+      "departure": "2015-06-05 19:38",
+      "serviceId": "2_38",
+      "tripId": "2_21275",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 19:40",
+      "departure": "2015-06-05 19:40",
+      "serviceId": "2_42",
+      "tripId": "2_788",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 19:53",
+      "departure": "2015-06-05 19:53",
+      "serviceId": "2_38",
+      "tripId": "2_29146",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-05 20:03",
+      "departure": "2015-06-05 20:03",
+      "serviceId": "2_38",
+      "tripId": "2_21281",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 20:08",
+      "departure": "2015-06-05 20:08",
+      "serviceId": "2_42",
+      "tripId": "2_968",
+      "routeId": "2_0033",
+      "headsign": "33 | Saint-Jacques Gautrais"
+    },
+    {
+      "arrival": "2015-06-05 20:23",
+      "departure": "2015-06-05 20:23",
+      "serviceId": "2_38",
+      "tripId": "2_21387",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 20:23",
+      "departure": "2015-06-05 20:23",
+      "serviceId": "2_38",
+      "tripId": "2_29152",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-05 20:53",
+      "departure": "2015-06-05 20:53",
+      "serviceId": "2_38",
+      "tripId": "2_21393",
+      "routeId": "2_0059",
+      "headsign": "59 | Bruz Gare"
+    },
+    {
+      "arrival": "2015-06-05 20:53",
+      "departure": "2015-06-05 20:53",
+      "serviceId": "2_38",
+      "tripId": "2_29158",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan"
+    },
+    {
+      "arrival": "2015-06-06 00:11",
+      "departure": "2015-06-06 00:11",
+      "serviceId": "2_39",
+      "tripId": "2_29352",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    },
+    {
+      "arrival": "2015-06-06 01:46",
+      "departure": "2015-06-06 01:46",
+      "serviceId": "2_39",
+      "tripId": "2_29354",
+      "routeId": "2_0072",
+      "headsign": "72 | Chartres Pont-Péan Laillé"
+    }
+  ]
+}

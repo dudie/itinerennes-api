@@ -1,0 +1,932 @@
+{
+  "date": "2015-05-26 00:00",
+  "stop": {
+    "id": "2_2039",
+    "lat": 48.114462,
+    "lon": -1.600472,
+    "name": "Bordage",
+    "code": 2039
+  },
+  "routes": [
+    {
+      "id": "2_0006",
+      "textColor": "1A171B",
+      "color": "62C3D5",
+      "description": "Majeure",
+      "longName": "Cesson-Sévigné (Rigourdière) \u003c\u003e Saint-Jacques-de-la-Lande (Morinais)",
+      "shortName": "6",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0067",
+      "textColor": "FFFFFF",
+      "color": "E2003B",
+      "description": "Métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Cesson-Sévigné / Brécé",
+      "shortName": "67",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0167",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (République) \u003c\u003e Brécé",
+      "shortName": "167",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-26 05:21",
+      "departure": "2015-05-26 05:21",
+      "serviceId": "2_26",
+      "tripId": "2_10398",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 06:01",
+      "departure": "2015-05-26 06:01",
+      "serviceId": "2_26",
+      "tripId": "2_10508",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 06:18",
+      "departure": "2015-05-26 06:18",
+      "serviceId": "2_24",
+      "tripId": "2_6112",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 06:28",
+      "departure": "2015-05-26 06:28",
+      "serviceId": "2_26",
+      "tripId": "2_10518",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 06:43",
+      "departure": "2015-05-26 06:43",
+      "serviceId": "2_26",
+      "tripId": "2_10538",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 06:47",
+      "departure": "2015-05-26 06:47",
+      "serviceId": "2_24",
+      "tripId": "2_5680",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 06:57",
+      "departure": "2015-05-26 06:57",
+      "serviceId": "2_26",
+      "tripId": "2_10433",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:09",
+      "departure": "2015-05-26 07:09",
+      "serviceId": "2_24",
+      "tripId": "2_5686",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 07:11",
+      "departure": "2015-05-26 07:11",
+      "serviceId": "2_26",
+      "tripId": "2_10643",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:21",
+      "departure": "2015-05-26 07:21",
+      "serviceId": "2_26",
+      "tripId": "2_10413",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:22",
+      "departure": "2015-05-26 07:22",
+      "serviceId": "2_24",
+      "tripId": "2_6118",
+      "routeId": "2_0167",
+      "headsign": "167 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 07:24",
+      "departure": "2015-05-26 07:24",
+      "serviceId": "2_24",
+      "tripId": "2_5692",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 07:31",
+      "departure": "2015-05-26 07:31",
+      "serviceId": "2_26",
+      "tripId": "2_10443",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:39",
+      "departure": "2015-05-26 07:39",
+      "serviceId": "2_24",
+      "tripId": "2_5698",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 07:41",
+      "departure": "2015-05-26 07:41",
+      "serviceId": "2_26",
+      "tripId": "2_10423",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:51",
+      "departure": "2015-05-26 07:51",
+      "serviceId": "2_26",
+      "tripId": "2_10448",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 07:58",
+      "departure": "2015-05-26 07:58",
+      "serviceId": "2_24",
+      "tripId": "2_6124",
+      "routeId": "2_0167",
+      "headsign": "167 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 07:59",
+      "departure": "2015-05-26 07:59",
+      "serviceId": "2_24",
+      "tripId": "2_5704",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 08:01",
+      "departure": "2015-05-26 08:01",
+      "serviceId": "2_26",
+      "tripId": "2_10438",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 08:11",
+      "departure": "2015-05-26 08:11",
+      "serviceId": "2_26",
+      "tripId": "2_10428",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 08:19",
+      "departure": "2015-05-26 08:19",
+      "serviceId": "2_24",
+      "tripId": "2_5710",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 08:21",
+      "departure": "2015-05-26 08:21",
+      "serviceId": "2_26",
+      "tripId": "2_10683",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 08:31",
+      "departure": "2015-05-26 08:31",
+      "serviceId": "2_26",
+      "tripId": "2_10458",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 08:38",
+      "departure": "2015-05-26 08:38",
+      "serviceId": "2_24",
+      "tripId": "2_6130",
+      "routeId": "2_0167",
+      "headsign": "167 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 08:39",
+      "departure": "2015-05-26 08:39",
+      "serviceId": "2_24",
+      "tripId": "2_5716",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 08:41",
+      "departure": "2015-05-26 08:41",
+      "serviceId": "2_26",
+      "tripId": "2_11113",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 08:51",
+      "departure": "2015-05-26 08:51",
+      "serviceId": "2_26",
+      "tripId": "2_10498",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 09:03",
+      "departure": "2015-05-26 09:03",
+      "serviceId": "2_26",
+      "tripId": "2_10478",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 09:04",
+      "departure": "2015-05-26 09:04",
+      "serviceId": "2_24",
+      "tripId": "2_5722",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 09:18",
+      "departure": "2015-05-26 09:18",
+      "serviceId": "2_26",
+      "tripId": "2_10633",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 09:23",
+      "departure": "2015-05-26 09:23",
+      "serviceId": "2_24",
+      "tripId": "2_5728",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 09:33",
+      "departure": "2015-05-26 09:33",
+      "serviceId": "2_26",
+      "tripId": "2_10583",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 09:43",
+      "departure": "2015-05-26 09:43",
+      "serviceId": "2_24",
+      "tripId": "2_5734",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 09:48",
+      "departure": "2015-05-26 09:48",
+      "serviceId": "2_26",
+      "tripId": "2_10453",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 10:03",
+      "departure": "2015-05-26 10:03",
+      "serviceId": "2_26",
+      "tripId": "2_10463",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 10:08",
+      "departure": "2015-05-26 10:08",
+      "serviceId": "2_24",
+      "tripId": "2_5812",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 10:18",
+      "departure": "2015-05-26 10:18",
+      "serviceId": "2_26",
+      "tripId": "2_10663",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 10:28",
+      "departure": "2015-05-26 10:28",
+      "serviceId": "2_24",
+      "tripId": "2_5740",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 10:33",
+      "departure": "2015-05-26 10:33",
+      "serviceId": "2_26",
+      "tripId": "2_10728",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 10:48",
+      "departure": "2015-05-26 10:48",
+      "serviceId": "2_26",
+      "tripId": "2_10733",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 10:58",
+      "departure": "2015-05-26 10:58",
+      "serviceId": "2_24",
+      "tripId": "2_5806",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 11:03",
+      "departure": "2015-05-26 11:03",
+      "serviceId": "2_26",
+      "tripId": "2_10738",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 11:18",
+      "departure": "2015-05-26 11:18",
+      "serviceId": "2_26",
+      "tripId": "2_10743",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 11:23",
+      "departure": "2015-05-26 11:23",
+      "serviceId": "2_24",
+      "tripId": "2_5746",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 11:33",
+      "departure": "2015-05-26 11:33",
+      "serviceId": "2_26",
+      "tripId": "2_10748",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 11:48",
+      "departure": "2015-05-26 11:48",
+      "serviceId": "2_26",
+      "tripId": "2_10753",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 11:53",
+      "departure": "2015-05-26 11:53",
+      "serviceId": "2_24",
+      "tripId": "2_6022",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 12:03",
+      "departure": "2015-05-26 12:03",
+      "serviceId": "2_26",
+      "tripId": "2_10758",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 12:13",
+      "departure": "2015-05-26 12:13",
+      "serviceId": "2_24",
+      "tripId": "2_5986",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 12:18",
+      "departure": "2015-05-26 12:18",
+      "serviceId": "2_26",
+      "tripId": "2_10763",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 12:33",
+      "departure": "2015-05-26 12:33",
+      "serviceId": "2_26",
+      "tripId": "2_10768",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 12:38",
+      "departure": "2015-05-26 12:38",
+      "serviceId": "2_24",
+      "tripId": "2_6028",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 12:48",
+      "departure": "2015-05-26 12:48",
+      "serviceId": "2_26",
+      "tripId": "2_10773",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 12:58",
+      "departure": "2015-05-26 12:58",
+      "serviceId": "2_24",
+      "tripId": "2_5998",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 13:03",
+      "departure": "2015-05-26 13:03",
+      "serviceId": "2_26",
+      "tripId": "2_10778",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 13:18",
+      "departure": "2015-05-26 13:18",
+      "serviceId": "2_26",
+      "tripId": "2_10783",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 13:28",
+      "departure": "2015-05-26 13:28",
+      "serviceId": "2_24",
+      "tripId": "2_5992",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 13:33",
+      "departure": "2015-05-26 13:33",
+      "serviceId": "2_26",
+      "tripId": "2_10788",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 13:48",
+      "departure": "2015-05-26 13:48",
+      "serviceId": "2_26",
+      "tripId": "2_10793",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 13:58",
+      "departure": "2015-05-26 13:58",
+      "serviceId": "2_24",
+      "tripId": "2_6034",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 14:03",
+      "departure": "2015-05-26 14:03",
+      "serviceId": "2_26",
+      "tripId": "2_10798",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 14:18",
+      "departure": "2015-05-26 14:18",
+      "serviceId": "2_26",
+      "tripId": "2_10803",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 14:23",
+      "departure": "2015-05-26 14:23",
+      "serviceId": "2_24",
+      "tripId": "2_6046",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 14:33",
+      "departure": "2015-05-26 14:33",
+      "serviceId": "2_26",
+      "tripId": "2_10808",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 14:48",
+      "departure": "2015-05-26 14:48",
+      "serviceId": "2_26",
+      "tripId": "2_10813",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 14:58",
+      "departure": "2015-05-26 14:58",
+      "serviceId": "2_24",
+      "tripId": "2_6040",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 15:03",
+      "departure": "2015-05-26 15:03",
+      "serviceId": "2_26",
+      "tripId": "2_10818",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 15:18",
+      "departure": "2015-05-26 15:18",
+      "serviceId": "2_26",
+      "tripId": "2_10823",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 15:23",
+      "departure": "2015-05-26 15:23",
+      "serviceId": "2_24",
+      "tripId": "2_6004",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 15:33",
+      "departure": "2015-05-26 15:33",
+      "serviceId": "2_26",
+      "tripId": "2_10828",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 15:48",
+      "departure": "2015-05-26 15:48",
+      "serviceId": "2_26",
+      "tripId": "2_10963",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 15:58",
+      "departure": "2015-05-26 15:58",
+      "serviceId": "2_24",
+      "tripId": "2_6052",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 16:03",
+      "departure": "2015-05-26 16:03",
+      "serviceId": "2_26",
+      "tripId": "2_10968",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 16:13",
+      "departure": "2015-05-26 16:13",
+      "serviceId": "2_26",
+      "tripId": "2_10973",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 16:23",
+      "departure": "2015-05-26 16:23",
+      "serviceId": "2_26",
+      "tripId": "2_10978",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 16:23",
+      "departure": "2015-05-26 16:23",
+      "serviceId": "2_24",
+      "tripId": "2_6010",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 16:33",
+      "departure": "2015-05-26 16:33",
+      "serviceId": "2_26",
+      "tripId": "2_10983",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 16:43",
+      "departure": "2015-05-26 16:43",
+      "serviceId": "2_26",
+      "tripId": "2_10988",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 16:43",
+      "departure": "2015-05-26 16:43",
+      "serviceId": "2_24",
+      "tripId": "2_6058",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 16:52",
+      "departure": "2015-05-26 16:52",
+      "serviceId": "2_26",
+      "tripId": "2_10993",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:02",
+      "departure": "2015-05-26 17:02",
+      "serviceId": "2_26",
+      "tripId": "2_10998",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:03",
+      "departure": "2015-05-26 17:03",
+      "serviceId": "2_24",
+      "tripId": "2_6016",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 17:11",
+      "departure": "2015-05-26 17:11",
+      "serviceId": "2_26",
+      "tripId": "2_11003",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:21",
+      "departure": "2015-05-26 17:21",
+      "serviceId": "2_26",
+      "tripId": "2_11008",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:23",
+      "departure": "2015-05-26 17:23",
+      "serviceId": "2_24",
+      "tripId": "2_6064",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 17:31",
+      "departure": "2015-05-26 17:31",
+      "serviceId": "2_26",
+      "tripId": "2_11013",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:42",
+      "departure": "2015-05-26 17:42",
+      "serviceId": "2_26",
+      "tripId": "2_11018",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 17:48",
+      "departure": "2015-05-26 17:48",
+      "serviceId": "2_24",
+      "tripId": "2_6070",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 17:52",
+      "departure": "2015-05-26 17:52",
+      "serviceId": "2_26",
+      "tripId": "2_11023",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:02",
+      "departure": "2015-05-26 18:02",
+      "serviceId": "2_26",
+      "tripId": "2_11028",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:03",
+      "departure": "2015-05-26 18:03",
+      "serviceId": "2_24",
+      "tripId": "2_6082",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 18:13",
+      "departure": "2015-05-26 18:13",
+      "serviceId": "2_26",
+      "tripId": "2_10693",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:23",
+      "departure": "2015-05-26 18:23",
+      "serviceId": "2_24",
+      "tripId": "2_6076",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 18:24",
+      "departure": "2015-05-26 18:24",
+      "serviceId": "2_26",
+      "tripId": "2_10708",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:35",
+      "departure": "2015-05-26 18:35",
+      "serviceId": "2_26",
+      "tripId": "2_10703",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:45",
+      "departure": "2015-05-26 18:45",
+      "serviceId": "2_26",
+      "tripId": "2_10718",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 18:48",
+      "departure": "2015-05-26 18:48",
+      "serviceId": "2_24",
+      "tripId": "2_6088",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 18:55",
+      "departure": "2015-05-26 18:55",
+      "serviceId": "2_26",
+      "tripId": "2_11033",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 19:08",
+      "departure": "2015-05-26 19:08",
+      "serviceId": "2_24",
+      "tripId": "2_6100",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 19:10",
+      "departure": "2015-05-26 19:10",
+      "serviceId": "2_26",
+      "tripId": "2_11038",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 19:23",
+      "departure": "2015-05-26 19:23",
+      "serviceId": "2_26",
+      "tripId": "2_10658",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 19:23",
+      "departure": "2015-05-26 19:23",
+      "serviceId": "2_24",
+      "tripId": "2_6094",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 19:39",
+      "departure": "2015-05-26 19:39",
+      "serviceId": "2_26",
+      "tripId": "2_10483",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 19:43",
+      "departure": "2015-05-26 19:43",
+      "serviceId": "2_24",
+      "tripId": "2_6106",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 20:00",
+      "departure": "2015-05-26 20:00",
+      "serviceId": "2_26",
+      "tripId": "2_10628",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 20:14",
+      "departure": "2015-05-26 20:14",
+      "serviceId": "2_24",
+      "tripId": "2_5980",
+      "routeId": "2_0067",
+      "headsign": "67 | Rennes République"
+    },
+    {
+      "arrival": "2015-05-26 20:25",
+      "departure": "2015-05-26 20:25",
+      "serviceId": "2_26",
+      "tripId": "2_10598",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 21:18",
+      "departure": "2015-05-26 21:18",
+      "serviceId": "2_26",
+      "tripId": "2_10533",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 22:13",
+      "departure": "2015-05-26 22:13",
+      "serviceId": "2_26",
+      "tripId": "2_10593",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-26 23:03",
+      "departure": "2015-05-26 23:03",
+      "serviceId": "2_26",
+      "tripId": "2_10673",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    },
+    {
+      "arrival": "2015-05-27 00:03",
+      "departure": "2015-05-27 00:03",
+      "serviceId": "2_26",
+      "tripId": "2_10513",
+      "routeId": "2_0006",
+      "headsign": "6 | Saint-Jacques Morinais"
+    }
+  ]
+}

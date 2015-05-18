@@ -1,6 +1,83 @@
 {
-  "headsign": "75 | Vern Nouvoitou",
+  "headsign": "173 | Rennes La Poterie",
   "stopTimes": [
+    {
+      "stop": {
+        "id": "2_4101",
+        "lat": 47.984989,
+        "lon": -1.576252,
+        "name": "Corps-Nuds Gare",
+        "code": 4101
+      },
+      "arrival": 25200,
+      "departure": 25200
+    },
+    {
+      "stop": {
+        "id": "2_4102",
+        "lat": 47.982393,
+        "lon": -1.580817,
+        "name": "Huberdières",
+        "code": 4102
+      },
+      "arrival": 25260,
+      "departure": 25260
+    },
+    {
+      "stop": {
+        "id": "2_4103",
+        "lat": 47.977794,
+        "lon": -1.585033,
+        "name": "Place de Kildare",
+        "code": 4103
+      },
+      "arrival": 25380,
+      "departure": 25380
+    },
+    {
+      "stop": {
+        "id": "2_4104",
+        "lat": 47.979393,
+        "lon": -1.587834,
+        "name": "Corps-Nuds Mairie",
+        "code": 4104
+      },
+      "arrival": 25440,
+      "departure": 25440
+    },
+    {
+      "stop": {
+        "id": "2_4105",
+        "lat": 47.982053,
+        "lon": -1.588248,
+        "name": "Chêne Hervé",
+        "code": 4105
+      },
+      "arrival": 25440,
+      "departure": 25440
+    },
+    {
+      "stop": {
+        "id": "2_4551",
+        "lat": 48.013468,
+        "lon": -1.590988,
+        "name": "Saint-Armel Eglise",
+        "code": 4551
+      },
+      "arrival": 25920,
+      "departure": 25920
+    },
+    {
+      "stop": {
+        "id": "2_4555",
+        "lat": 48.014056,
+        "lon": -1.594394,
+        "name": "Saint-Armel Gare",
+        "code": 4555
+      },
+      "arrival": 25980,
+      "departure": 25980
+    },
     {
       "stop": {
         "id": "2_1511",
@@ -9,116 +86,17 @@
         "name": "La Poterie",
         "code": 1511
       },
-      "arrival": 25800,
-      "departure": 25800
-    },
-    {
-      "stop": {
-        "id": "2_2619",
-        "lat": 48.044566,
-        "lon": -1.603907,
-        "name": "La Poste",
-        "code": 2619
-      },
-      "arrival": 26280,
-      "departure": 26280
-    },
-    {
-      "stop": {
-        "id": "2_2633",
-        "lat": 48.045114,
-        "lon": -1.59861,
-        "name": "Maillardière",
-        "code": 2633
-      },
-      "arrival": 26400,
-      "departure": 26400
-    },
-    {
-      "stop": {
-        "id": "2_2632",
-        "lat": 48.048065,
-        "lon": -1.598577,
-        "name": "Moulin",
-        "code": 2632
-      },
-      "arrival": 26460,
-      "departure": 26460
-    },
-    {
-      "stop": {
-        "id": "2_3406",
-        "lat": 48.044378,
-        "lon": -1.56147,
-        "name": "Eclosel",
-        "code": 3406
-      },
-      "arrival": 26640,
-      "departure": 26640
-    },
-    {
-      "stop": {
-        "id": "2_3407",
-        "lat": 48.042359,
-        "lon": -1.549754,
-        "name": "Grée Barel",
-        "code": 3407
-      },
       "arrival": 26700,
       "departure": 26700
-    },
-    {
-      "stop": {
-        "id": "2_3409",
-        "lat": 48.041447,
-        "lon": -1.545236,
-        "name": "Menault",
-        "code": 3409
-      },
-      "arrival": 26760,
-      "departure": 26760
-    },
-    {
-      "stop": {
-        "id": "2_3403",
-        "lat": 48.040203,
-        "lon": -1.542002,
-        "name": "Chêne Centenaire",
-        "code": 3403
-      },
-      "arrival": 26820,
-      "departure": 26820
-    },
-    {
-      "stop": {
-        "id": "2_3402",
-        "lat": 48.04088,
-        "lon": -1.549778,
-        "name": "Langlois",
-        "code": 3402
-      },
-      "arrival": 27000,
-      "departure": 27000
-    },
-    {
-      "stop": {
-        "id": "2_3401",
-        "lat": 48.041337,
-        "lon": -1.553405,
-        "name": "Parc des Sports",
-        "code": 3401
-      },
-      "arrival": 27060,
-      "departure": 27060
     }
   ],
   "route": {
-    "id": "2_0075",
-    "textColor": "201D21",
-    "color": "F2973E",
-    "description": "Métropolitaine",
-    "longName": "Rennes (La Poterie) \u003c\u003e Nouvoitou",
-    "shortName": "75",
+    "id": "2_0173",
+    "textColor": "3D3C3F",
+    "color": "FFDD00",
+    "description": "Express métropolitaine",
+    "longName": "Rennes (La Poterie) \u003c\u003e Saint-Armel / Corps-Nuds",
+    "shortName": "173",
     "type": 3,
     "agencyId": "2"
   }

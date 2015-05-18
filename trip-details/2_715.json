@@ -1,234 +1,454 @@
 {
-  "headsign": "32 | Beaulieu Atalante",
+  "headsign": "33 | Chantepie Cucé",
   "stopTimes": [
     {
       "stop": {
-        "id": "2_1441",
-        "lat": 48.08608,
-        "lon": -1.660855,
+        "id": "2_2220",
+        "lat": 48.061591,
+        "lon": -1.72464,
+        "name": "Gautrais",
+        "code": 2220
+      },
+      "arrival": 36240,
+      "departure": 36240
+    },
+    {
+      "stop": {
+        "id": "2_2221",
+        "lat": 48.06308,
+        "lon": -1.720537,
+        "name": "Rossel",
+        "code": 2221
+      },
+      "arrival": 36300,
+      "departure": 36300
+    },
+    {
+      "stop": {
+        "id": "2_2234",
+        "lat": 48.066447,
+        "lon": -1.720123,
+        "name": "Pommerais",
+        "code": 2234
+      },
+      "arrival": 36360,
+      "departure": 36360
+    },
+    {
+      "stop": {
+        "id": "2_2223",
+        "lat": 48.067334,
+        "lon": -1.716885,
+        "name": "Abbé Grimault",
+        "code": 2223
+      },
+      "arrival": 36420,
+      "departure": 36420
+    },
+    {
+      "stop": {
+        "id": "2_2201",
+        "lat": 48.075489,
+        "lon": -1.716264,
+        "name": "Morinais",
+        "code": 2201
+      },
+      "arrival": 36600,
+      "departure": 36600
+    },
+    {
+      "stop": {
+        "id": "2_2202",
+        "lat": 48.077395,
+        "lon": -1.715725,
+        "name": "Collège Jean Moulin",
+        "code": 2202
+      },
+      "arrival": 36660,
+      "departure": 36660
+    },
+    {
+      "stop": {
+        "id": "2_2214",
+        "lat": 48.079869,
+        "lon": -1.715526,
+        "name": "Médiathèque",
+        "code": 2214
+      },
+      "arrival": 36720,
+      "departure": 36720
+    },
+    {
+      "stop": {
+        "id": "2_2204",
+        "lat": 48.082557,
+        "lon": -1.715255,
+        "name": "Jean Marin",
+        "code": 2204
+      },
+      "arrival": 36720,
+      "departure": 36720
+    },
+    {
+      "stop": {
+        "id": "2_2263",
+        "lat": 48.082518,
+        "lon": -1.712313,
+        "name": "Jean Jaurès",
+        "code": 2263
+      },
+      "arrival": 36780,
+      "departure": 36780
+    },
+    {
+      "stop": {
+        "id": "2_2205",
+        "lat": 48.083243,
+        "lon": -1.710049,
+        "name": "Roger Dodin",
+        "code": 2205
+      },
+      "arrival": 36840,
+      "departure": 36840
+    },
+    {
+      "stop": {
+        "id": "2_2225",
+        "lat": 48.086811,
+        "lon": -1.70563,
+        "name": "Gaité",
+        "code": 2225
+      },
+      "arrival": 36900,
+      "departure": 36900
+    },
+    {
+      "stop": {
+        "id": "2_2230",
+        "lat": 48.086456,
+        "lon": -1.701833,
+        "name": "Rablais Allende",
+        "code": 2230
+      },
+      "arrival": 36960,
+      "departure": 36960
+    },
+    {
+      "stop": {
+        "id": "2_2227",
+        "lat": 48.089415,
+        "lon": -1.697855,
+        "name": "Croix Verte",
+        "code": 2227
+      },
+      "arrival": 37080,
+      "departure": 37080
+    },
+    {
+      "stop": {
+        "id": "2_2271",
+        "lat": 48.090501,
+        "lon": -1.69494,
+        "name": "25 Fusillés",
+        "code": 2271
+      },
+      "arrival": 37140,
+      "departure": 37140
+    },
+    {
+      "stop": {
+        "id": "2_1454",
+        "lat": 48.089581,
+        "lon": -1.691241,
+        "name": "Bréquigny Piscine",
+        "code": 1454
+      },
+      "arrival": 37200,
+      "departure": 37200
+    },
+    {
+      "stop": {
+        "id": "2_1455",
+        "lat": 48.086702,
+        "lon": -1.691043,
+        "name": "Lycée Bréquigny",
+        "code": 1455
+      },
+      "arrival": 37260,
+      "departure": 37260
+    },
+    {
+      "stop": {
+        "id": "2_1456",
+        "lat": 48.086541,
+        "lon": -1.687451,
+        "name": "Coubertin",
+        "code": 1456
+      },
+      "arrival": 37320,
+      "departure": 37320
+    },
+    {
+      "stop": {
+        "id": "2_1457",
+        "lat": 48.086765,
+        "lon": -1.683887,
+        "name": "Norvège",
+        "code": 1457
+      },
+      "arrival": 37320,
+      "departure": 37320
+    },
+    {
+      "stop": {
+        "id": "2_1130",
+        "lat": 48.085168,
+        "lon": -1.682537,
+        "name": "Canada",
+        "code": 1130
+      },
+      "arrival": 37380,
+      "departure": 37380
+    },
+    {
+      "stop": {
+        "id": "2_1623",
+        "lat": 48.083961,
+        "lon": -1.678307,
+        "name": "Alma",
+        "code": 1623
+      },
+      "arrival": 37440,
+      "departure": 37440
+    },
+    {
+      "stop": {
+        "id": "2_1459",
+        "lat": 48.08809,
+        "lon": -1.674269,
+        "name": "Henri Fréville",
+        "code": 1459
+      },
+      "arrival": 37620,
+      "departure": 37620
+    },
+    {
+      "stop": {
+        "id": "2_1460",
+        "lat": 48.089349,
+        "lon": -1.674222,
+        "name": "Argonautes",
+        "code": 1460
+      },
+      "arrival": 37620,
+      "departure": 37620
+    },
+    {
+      "stop": {
+        "id": "2_1461",
+        "lat": 48.093659,
+        "lon": -1.673762,
+        "name": "Clemenceau",
+        "code": 1461
+      },
+      "arrival": 37740,
+      "departure": 37740
+    },
+    {
+      "stop": {
+        "id": "2_1462",
+        "lat": 48.093478,
+        "lon": -1.670045,
+        "name": "Combes",
+        "code": 1462
+      },
+      "arrival": 37800,
+      "departure": 37800
+    },
+    {
+      "stop": {
+        "id": "2_1464",
+        "lat": 48.091295,
+        "lon": -1.666295,
+        "name": "Binquenais",
+        "code": 1464
+      },
+      "arrival": 37920,
+      "departure": 37920
+    },
+    {
+      "stop": {
+        "id": "2_1463",
+        "lat": 48.091328,
+        "lon": -1.663129,
+        "name": "Binquenais Collège",
+        "code": 1463
+      },
+      "arrival": 37980,
+      "departure": 37980
+    },
+    {
+      "stop": {
+        "id": "2_1465",
+        "lat": 48.086117,
+        "lon": -1.661119,
         "name": "Triangle",
-        "code": 1441
+        "code": 1465
       },
-      "arrival": 43800,
-      "departure": 43800
+      "arrival": 38160,
+      "departure": 38160
     },
     {
       "stop": {
-        "id": "2_1574",
-        "lat": 48.090875,
-        "lon": -1.661101,
-        "name": "Binquenais Le Moine",
-        "code": 1574
+        "id": "2_1353",
+        "lat": 48.084535,
+        "lon": -1.657962,
+        "name": "Torigné",
+        "code": 1353
       },
-      "arrival": 43920,
-      "departure": 43920
+      "arrival": 38220,
+      "departure": 38220
     },
     {
       "stop": {
-        "id": "2_1360",
-        "lat": 48.092518,
-        "lon": -1.658308,
-        "name": "Gide",
-        "code": 1360
+        "id": "2_1466",
+        "lat": 48.085058,
+        "lon": -1.65386,
+        "name": "Hôpital Sud",
+        "code": 1466
       },
-      "arrival": 43980,
-      "departure": 43980
+      "arrival": 38280,
+      "departure": 38280
     },
     {
       "stop": {
-        "id": "2_1361",
-        "lat": 48.094222,
-        "lon": -1.658163,
-        "name": "Langevin",
-        "code": 1361
+        "id": "2_1467",
+        "lat": 48.087513,
+        "lon": -1.653273,
+        "name": "Le Blosne",
+        "code": 1467
       },
-      "arrival": 43980,
-      "departure": 43980
+      "arrival": 38340,
+      "departure": 38340
     },
     {
       "stop": {
-        "id": "2_1439",
-        "lat": 48.098234,
-        "lon": -1.655137,
-        "name": "Bourgeois",
-        "code": 1439
+        "id": "2_1356",
+        "lat": 48.087458,
+        "lon": -1.649853,
+        "name": "Galicie",
+        "code": 1356
       },
-      "arrival": 44100,
-      "departure": 44100
+      "arrival": 38400,
+      "departure": 38400
     },
     {
       "stop": {
-        "id": "2_1469",
-        "lat": 48.099276,
-        "lon": -1.652485,
-        "name": "Le Dantec",
-        "code": 1469
+        "id": "2_1468",
+        "lat": 48.087383,
+        "lon": -1.645367,
+        "name": "La Poterie",
+        "code": 1468
       },
-      "arrival": 44160,
-      "departure": 44160
+      "arrival": 38460,
+      "departure": 38460
     },
     {
       "stop": {
-        "id": "2_1326",
-        "lat": 48.101207,
-        "lon": -1.649587,
-        "name": "Villebois-Mareuil",
-        "code": 1326
+        "id": "2_3020",
+        "lat": 48.080652,
+        "lon": -1.630601,
+        "name": "Val Blanc",
+        "code": 3020
       },
-      "arrival": 44160,
-      "departure": 44160
+      "arrival": 38640,
+      "departure": 38640
     },
     {
       "stop": {
-        "id": "2_1471",
-        "lat": 48.103763,
-        "lon": -1.649492,
-        "name": "Cimetière de l\u0027Est",
-        "code": 1471
+        "id": "2_3021",
+        "lat": 48.0846,
+        "lon": -1.627505,
+        "name": "Rocade Sud",
+        "code": 3021
       },
-      "arrival": 44220,
-      "departure": 44220
+      "arrival": 38760,
+      "departure": 38760
     },
     {
       "stop": {
-        "id": "2_1472",
-        "lat": 48.107199,
-        "lon": -1.650946,
-        "name": "Chardonnet",
-        "code": 1472
+        "id": "2_3008",
+        "lat": 48.09031,
+        "lon": -1.62417,
+        "name": "Loges",
+        "code": 3008
       },
-      "arrival": 44280,
-      "departure": 44280
+      "arrival": 38880,
+      "departure": 38880
     },
     {
       "stop": {
-        "id": "2_1473",
-        "lat": 48.110761,
-        "lon": -1.655608,
-        "name": "Pont de Strasbourg",
-        "code": 1473
+        "id": "2_3009",
+        "lat": 48.088351,
+        "lon": -1.619091,
+        "name": "Chantepie Mairie",
+        "code": 3009
       },
-      "arrival": 44340,
-      "departure": 44340
+      "arrival": 38940,
+      "departure": 38940
     },
     {
       "stop": {
-        "id": "2_1433",
-        "lat": 48.113595,
-        "lon": -1.65655,
-        "name": "Durafour Strasbourg",
-        "code": 1433
+        "id": "2_3010",
+        "lat": 48.088212,
+        "lon": -1.616864,
+        "name": "Chantepie Eglise",
+        "code": 3010
       },
-      "arrival": 44400,
-      "departure": 44400
+      "arrival": 39000,
+      "departure": 39000
     },
     {
       "stop": {
-        "id": "2_1524",
-        "lat": 48.114621,
-        "lon": -1.651278,
-        "name": "Hôpital Régnier",
-        "code": 1524
+        "id": "2_3022",
+        "lat": 48.091041,
+        "lon": -1.615283,
+        "name": "Hallouvry",
+        "code": 3022
       },
-      "arrival": 44460,
-      "departure": 44460
+      "arrival": 39060,
+      "departure": 39060
     },
     {
       "stop": {
-        "id": "2_1523",
-        "lat": 48.114277,
-        "lon": -1.649131,
-        "name": "Moulin de Joué",
-        "code": 1523
+        "id": "2_3017",
+        "lat": 48.092504,
+        "lon": -1.61292,
+        "name": "IDEFS",
+        "code": 3017
       },
-      "arrival": 44520,
-      "departure": 44520
+      "arrival": 39120,
+      "departure": 39120
     },
     {
       "stop": {
-        "id": "2_1522",
-        "lat": 48.113884,
-        "lon": -1.642719,
-        "name": "Piletière",
-        "code": 1522
+        "id": "2_3016",
+        "lat": 48.093514,
+        "lon": -1.607562,
+        "name": "Cucé",
+        "code": 3016
       },
-      "arrival": 44580,
-      "departure": 44580
-    },
-    {
-      "stop": {
-        "id": "2_1610",
-        "lat": 48.114025,
-        "lon": -1.636082,
-        "name": "Tournebride",
-        "code": 1610
-      },
-      "arrival": 44640,
-      "departure": 44640
-    },
-    {
-      "stop": {
-        "id": "2_1175",
-        "lat": 48.117101,
-        "lon": -1.633896,
-        "name": "Beaulieu Chimie",
-        "code": 1175
-      },
-      "arrival": 44700,
-      "departure": 44700
-    },
-    {
-      "stop": {
-        "id": "2_1204",
-        "lat": 48.119511,
-        "lon": -1.635317,
-        "name": "Beaulieu INSA",
-        "code": 1204
-      },
-      "arrival": 44760,
-      "departure": 44760
-    },
-    {
-      "stop": {
-        "id": "2_1313",
-        "lat": 48.121929,
-        "lon": -1.638311,
-        "name": "Beaulieu Restau U",
-        "code": 1313
-      },
-      "arrival": 44820,
-      "departure": 44820
-    },
-    {
-      "stop": {
-        "id": "2_1314",
-        "lat": 48.125106,
-        "lon": -1.632973,
-        "name": "IUT",
-        "code": 1314
-      },
-      "arrival": 44880,
-      "departure": 44880
-    },
-    {
-      "stop": {
-        "id": "2_1290",
-        "lat": 48.126929,
-        "lon": -1.629221,
-        "name": "Clos Courtel",
-        "code": 1290
-      },
-      "arrival": 44940,
-      "departure": 44940
+      "arrival": 39180,
+      "departure": 39180
     }
   ],
   "route": {
-    "id": "2_0032",
+    "id": "2_0033",
     "textColor": "E2001A",
     "color": "FFF164",
     "description": "Inter-quartiers",
-    "longName": "Triangle \u003c\u003e Beaulieu Atalante",
-    "shortName": "32",
+    "longName": "Saint-Jacques-de-la-Lande (Gautrais) / Bréquigny \u003c\u003e La Poterie / Chantepie (Cucé)",
+    "shortName": "33",
     "type": 3,
     "agencyId": "2"
   }

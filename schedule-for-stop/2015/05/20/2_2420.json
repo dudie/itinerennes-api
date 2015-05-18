@@ -1,0 +1,456 @@
+{
+  "date": "2015-05-20 00:00",
+  "stop": {
+    "id": "2_2420",
+    "lat": 48.180579,
+    "lon": -1.652229,
+    "name": "Brocéliande",
+    "code": 2420
+  },
+  "routes": [
+    {
+      "id": "2_0051",
+      "textColor": "FFFFFF",
+      "color": "93117E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "51",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0151",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "151",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0202",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "202",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-20 06:47",
+      "departure": "2015-05-20 06:47",
+      "serviceId": "2_30",
+      "tripId": "2_16789",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 07:08",
+      "departure": "2015-05-20 07:08",
+      "serviceId": "2_30",
+      "tripId": "2_16315",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 07:40",
+      "departure": "2015-05-20 07:40",
+      "serviceId": "2_30",
+      "tripId": "2_16321",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 07:49",
+      "departure": "2015-05-20 07:49",
+      "serviceId": "2_34",
+      "tripId": "2_12518",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-05-20 08:00",
+      "departure": "2015-05-20 08:00",
+      "serviceId": "2_30",
+      "tripId": "2_16327",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 08:01",
+      "departure": "2015-05-20 08:01",
+      "serviceId": "2_34",
+      "tripId": "2_12208",
+      "routeId": "2_0222",
+      "headsign": "222 | Betton Collège François Truffaut"
+    },
+    {
+      "arrival": "2015-05-20 08:15",
+      "departure": "2015-05-20 08:15",
+      "serviceId": "2_30",
+      "tripId": "2_16399",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 08:31",
+      "departure": "2015-05-20 08:31",
+      "serviceId": "2_30",
+      "tripId": "2_16405",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 08:41",
+      "departure": "2015-05-20 08:41",
+      "serviceId": "2_30",
+      "tripId": "2_16333",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 09:02",
+      "departure": "2015-05-20 09:02",
+      "serviceId": "2_30",
+      "tripId": "2_16747",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 09:11",
+      "departure": "2015-05-20 09:11",
+      "serviceId": "2_30",
+      "tripId": "2_16339",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 09:44",
+      "departure": "2015-05-20 09:44",
+      "serviceId": "2_30",
+      "tripId": "2_16345",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 10:19",
+      "departure": "2015-05-20 10:19",
+      "serviceId": "2_30",
+      "tripId": "2_16351",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 10:49",
+      "departure": "2015-05-20 10:49",
+      "serviceId": "2_30",
+      "tripId": "2_16357",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 11:24",
+      "departure": "2015-05-20 11:24",
+      "serviceId": "2_30",
+      "tripId": "2_16363",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 11:55",
+      "departure": "2015-05-20 11:55",
+      "serviceId": "2_30",
+      "tripId": "2_16369",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 12:16",
+      "departure": "2015-05-20 12:16",
+      "serviceId": "2_30",
+      "tripId": "2_16375",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 12:36",
+      "departure": "2015-05-20 12:36",
+      "serviceId": "2_30",
+      "tripId": "2_16609",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 12:39",
+      "departure": "2015-05-20 12:39",
+      "serviceId": "2_35",
+      "tripId": "2_11209",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2015-05-20 13:01",
+      "departure": "2015-05-20 13:01",
+      "serviceId": "2_30",
+      "tripId": "2_16381",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 13:26",
+      "departure": "2015-05-20 13:26",
+      "serviceId": "2_30",
+      "tripId": "2_16387",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 13:46",
+      "departure": "2015-05-20 13:46",
+      "serviceId": "2_30",
+      "tripId": "2_16717",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 14:11",
+      "departure": "2015-05-20 14:11",
+      "serviceId": "2_30",
+      "tripId": "2_16723",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 14:35",
+      "departure": "2015-05-20 14:35",
+      "serviceId": "2_30",
+      "tripId": "2_16729",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 14:55",
+      "departure": "2015-05-20 14:55",
+      "serviceId": "2_30",
+      "tripId": "2_16735",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 15:15",
+      "departure": "2015-05-20 15:15",
+      "serviceId": "2_30",
+      "tripId": "2_16711",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 15:41",
+      "departure": "2015-05-20 15:41",
+      "serviceId": "2_30",
+      "tripId": "2_16693",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 16:01",
+      "departure": "2015-05-20 16:01",
+      "serviceId": "2_30",
+      "tripId": "2_16675",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 16:22",
+      "departure": "2015-05-20 16:22",
+      "serviceId": "2_30",
+      "tripId": "2_17072",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 16:22",
+      "departure": "2015-05-20 16:22",
+      "serviceId": "2_30",
+      "tripId": "2_16651",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 16:38",
+      "departure": "2015-05-20 16:38",
+      "serviceId": "2_30",
+      "tripId": "2_16417",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 16:53",
+      "departure": "2015-05-20 16:53",
+      "serviceId": "2_30",
+      "tripId": "2_16423",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 17:08",
+      "departure": "2015-05-20 17:08",
+      "serviceId": "2_30",
+      "tripId": "2_16429",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 17:25",
+      "departure": "2015-05-20 17:25",
+      "serviceId": "2_30",
+      "tripId": "2_16435",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 17:32",
+      "departure": "2015-05-20 17:32",
+      "serviceId": "2_30",
+      "tripId": "2_17078",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 17:43",
+      "departure": "2015-05-20 17:43",
+      "serviceId": "2_30",
+      "tripId": "2_16441",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 17:58",
+      "departure": "2015-05-20 17:58",
+      "serviceId": "2_30",
+      "tripId": "2_16447",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 18:13",
+      "departure": "2015-05-20 18:13",
+      "serviceId": "2_30",
+      "tripId": "2_16453",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 18:27",
+      "departure": "2015-05-20 18:27",
+      "serviceId": "2_30",
+      "tripId": "2_16777",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 18:31",
+      "departure": "2015-05-20 18:31",
+      "serviceId": "2_30",
+      "tripId": "2_17084",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 18:40",
+      "departure": "2015-05-20 18:40",
+      "serviceId": "2_30",
+      "tripId": "2_16459",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 18:52",
+      "departure": "2015-05-20 18:52",
+      "serviceId": "2_30",
+      "tripId": "2_16465",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 19:06",
+      "departure": "2015-05-20 19:06",
+      "serviceId": "2_30",
+      "tripId": "2_16471",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 19:20",
+      "departure": "2015-05-20 19:20",
+      "serviceId": "2_30",
+      "tripId": "2_16477",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 19:34",
+      "departure": "2015-05-20 19:34",
+      "serviceId": "2_30",
+      "tripId": "2_16483",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 19:54",
+      "departure": "2015-05-20 19:54",
+      "serviceId": "2_30",
+      "tripId": "2_16489",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 20:14",
+      "departure": "2015-05-20 20:14",
+      "serviceId": "2_30",
+      "tripId": "2_16495",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 20:39",
+      "departure": "2015-05-20 20:39",
+      "serviceId": "2_30",
+      "tripId": "2_16501",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-20 21:09",
+      "departure": "2015-05-20 21:09",
+      "serviceId": "2_30",
+      "tripId": "2_16507",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    }
+  ]
+}

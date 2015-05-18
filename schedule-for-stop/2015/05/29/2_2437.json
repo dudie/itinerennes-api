@@ -1,0 +1,778 @@
+{
+  "date": "2015-05-29 00:00",
+  "stop": {
+    "id": "2_2437",
+    "lat": 48.181703,
+    "lon": -1.639251,
+    "name": "Betton Centre",
+    "code": 2437
+  },
+  "routes": [
+    {
+      "id": "2_0051",
+      "textColor": "FFFFFF",
+      "color": "93117E",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "51",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0078",
+      "textColor": "FFFFFF",
+      "color": "E3006A",
+      "description": "Métropolitaine",
+      "longName": "Rennes (Villejean-Université) \u003c\u003e Saint-Grégoire / Betton (Centre)",
+      "shortName": "78",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0151",
+      "textColor": "3D3C3F",
+      "color": "FFDD00",
+      "description": "Express métropolitaine",
+      "longName": "Rennes (Hoche) \u003c\u003e Betton (Champ Devant)",
+      "shortName": "151",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0202",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Rennes (Lycée Assomption)",
+      "shortName": "202",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0222",
+      "textColor": "1A171B",
+      "color": "FECC00",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Betton (Collège François Truffaut)",
+      "shortName": "222",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0223",
+      "textColor": "FFFFFF",
+      "color": "94C11F",
+      "description": "Complémentaire",
+      "longName": "Chevaigné (Pommiers) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "223",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-29 06:44",
+      "departure": "2015-05-29 06:44",
+      "serviceId": "2_38",
+      "tripId": "2_16790",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 06:55",
+      "departure": "2015-05-29 06:55",
+      "serviceId": "2_38",
+      "tripId": "2_19592",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 07:05",
+      "departure": "2015-05-29 07:05",
+      "serviceId": "2_38",
+      "tripId": "2_16316",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 07:20",
+      "departure": "2015-05-29 07:20",
+      "serviceId": "2_38",
+      "tripId": "2_19598",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 07:36",
+      "departure": "2015-05-29 07:36",
+      "serviceId": "2_38",
+      "tripId": "2_16322",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 07:45",
+      "departure": "2015-05-29 07:45",
+      "serviceId": "2_44",
+      "tripId": "2_12514",
+      "routeId": "2_0223",
+      "headsign": "223 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-05-29 07:45",
+      "departure": "2015-05-29 07:45",
+      "serviceId": "2_38",
+      "tripId": "2_19730",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 07:56",
+      "departure": "2015-05-29 07:56",
+      "serviceId": "2_38",
+      "tripId": "2_16328",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 07:58",
+      "departure": "2015-05-29 07:58",
+      "serviceId": "2_44",
+      "tripId": "2_12209",
+      "routeId": "2_0222",
+      "headsign": "222 | Betton Collège François Truffaut"
+    },
+    {
+      "arrival": "2015-05-29 08:12",
+      "departure": "2015-05-29 08:12",
+      "serviceId": "2_38",
+      "tripId": "2_16400",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 08:15",
+      "departure": "2015-05-29 08:15",
+      "serviceId": "2_38",
+      "tripId": "2_19658",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 08:20",
+      "departure": "2015-05-29 08:20",
+      "serviceId": "2_38",
+      "tripId": "2_19604",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 08:28",
+      "departure": "2015-05-29 08:28",
+      "serviceId": "2_38",
+      "tripId": "2_16406",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 08:38",
+      "departure": "2015-05-29 08:38",
+      "serviceId": "2_38",
+      "tripId": "2_16334",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 08:45",
+      "departure": "2015-05-29 08:45",
+      "serviceId": "2_38",
+      "tripId": "2_19664",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 08:50",
+      "departure": "2015-05-29 08:50",
+      "serviceId": "2_38",
+      "tripId": "2_19610",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 08:59",
+      "departure": "2015-05-29 08:59",
+      "serviceId": "2_38",
+      "tripId": "2_16748",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 09:07",
+      "departure": "2015-05-29 09:07",
+      "serviceId": "2_38",
+      "tripId": "2_16340",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 09:08",
+      "departure": "2015-05-29 09:08",
+      "serviceId": "2_38",
+      "tripId": "2_19670",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 09:20",
+      "departure": "2015-05-29 09:20",
+      "serviceId": "2_38",
+      "tripId": "2_19616",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 09:37",
+      "departure": "2015-05-29 09:37",
+      "serviceId": "2_38",
+      "tripId": "2_19796",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 09:40",
+      "departure": "2015-05-29 09:40",
+      "serviceId": "2_38",
+      "tripId": "2_16346",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 10:07",
+      "departure": "2015-05-29 10:07",
+      "serviceId": "2_38",
+      "tripId": "2_19676",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 10:15",
+      "departure": "2015-05-29 10:15",
+      "serviceId": "2_38",
+      "tripId": "2_16352",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 10:15",
+      "departure": "2015-05-29 10:15",
+      "serviceId": "2_38",
+      "tripId": "2_19736",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 10:45",
+      "departure": "2015-05-29 10:45",
+      "serviceId": "2_38",
+      "tripId": "2_16358",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 11:20",
+      "departure": "2015-05-29 11:20",
+      "serviceId": "2_38",
+      "tripId": "2_16364",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 11:27",
+      "departure": "2015-05-29 11:27",
+      "serviceId": "2_38",
+      "tripId": "2_19748",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 11:35",
+      "departure": "2015-05-29 11:35",
+      "serviceId": "2_38",
+      "tripId": "2_19742",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 11:52",
+      "departure": "2015-05-29 11:52",
+      "serviceId": "2_38",
+      "tripId": "2_16370",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 12:13",
+      "departure": "2015-05-29 12:13",
+      "serviceId": "2_38",
+      "tripId": "2_16376",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 12:33",
+      "departure": "2015-05-29 12:33",
+      "serviceId": "2_38",
+      "tripId": "2_16610",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 12:48",
+      "departure": "2015-05-29 12:48",
+      "serviceId": "2_38",
+      "tripId": "2_19682",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 12:58",
+      "departure": "2015-05-29 12:58",
+      "serviceId": "2_38",
+      "tripId": "2_16382",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 13:00",
+      "departure": "2015-05-29 13:00",
+      "serviceId": "2_38",
+      "tripId": "2_19622",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 13:23",
+      "departure": "2015-05-29 13:23",
+      "serviceId": "2_38",
+      "tripId": "2_16388",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 13:43",
+      "departure": "2015-05-29 13:43",
+      "serviceId": "2_38",
+      "tripId": "2_16718",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 14:08",
+      "departure": "2015-05-29 14:08",
+      "serviceId": "2_38",
+      "tripId": "2_16724",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 14:14",
+      "departure": "2015-05-29 14:14",
+      "serviceId": "2_38",
+      "tripId": "2_19688",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 14:20",
+      "departure": "2015-05-29 14:20",
+      "serviceId": "2_38",
+      "tripId": "2_19628",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 14:32",
+      "departure": "2015-05-29 14:32",
+      "serviceId": "2_38",
+      "tripId": "2_16730",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 14:52",
+      "departure": "2015-05-29 14:52",
+      "serviceId": "2_38",
+      "tripId": "2_16736",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 15:12",
+      "departure": "2015-05-29 15:12",
+      "serviceId": "2_38",
+      "tripId": "2_16712",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 15:30",
+      "departure": "2015-05-29 15:30",
+      "serviceId": "2_38",
+      "tripId": "2_19760",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 15:38",
+      "departure": "2015-05-29 15:38",
+      "serviceId": "2_38",
+      "tripId": "2_16694",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 15:41",
+      "departure": "2015-05-29 15:41",
+      "serviceId": "2_38",
+      "tripId": "2_19754",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 15:55",
+      "departure": "2015-05-29 15:55",
+      "serviceId": "2_38",
+      "tripId": "2_19784",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 15:58",
+      "departure": "2015-05-29 15:58",
+      "serviceId": "2_38",
+      "tripId": "2_16676",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:18",
+      "departure": "2015-05-29 16:18",
+      "serviceId": "2_38",
+      "tripId": "2_17073",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:18",
+      "departure": "2015-05-29 16:18",
+      "serviceId": "2_38",
+      "tripId": "2_16652",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:21",
+      "departure": "2015-05-29 16:21",
+      "serviceId": "2_45",
+      "tripId": "2_11200",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:30",
+      "departure": "2015-05-29 16:30",
+      "serviceId": "2_38",
+      "tripId": "2_19634",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 16:34",
+      "departure": "2015-05-29 16:34",
+      "serviceId": "2_38",
+      "tripId": "2_16418",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:49",
+      "departure": "2015-05-29 16:49",
+      "serviceId": "2_38",
+      "tripId": "2_16424",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 16:53",
+      "departure": "2015-05-29 16:53",
+      "serviceId": "2_38",
+      "tripId": "2_19694",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 16:58",
+      "departure": "2015-05-29 16:58",
+      "serviceId": "2_38",
+      "tripId": "2_19790",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 17:04",
+      "departure": "2015-05-29 17:04",
+      "serviceId": "2_38",
+      "tripId": "2_16430",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:16",
+      "departure": "2015-05-29 17:16",
+      "serviceId": "2_38",
+      "tripId": "2_19700",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 17:21",
+      "departure": "2015-05-29 17:21",
+      "serviceId": "2_38",
+      "tripId": "2_16436",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:22",
+      "departure": "2015-05-29 17:22",
+      "serviceId": "2_45",
+      "tripId": "2_11204",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:25",
+      "departure": "2015-05-29 17:25",
+      "serviceId": "2_38",
+      "tripId": "2_19640",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 17:27",
+      "departure": "2015-05-29 17:27",
+      "serviceId": "2_38",
+      "tripId": "2_17079",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:39",
+      "departure": "2015-05-29 17:39",
+      "serviceId": "2_38",
+      "tripId": "2_16442",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:47",
+      "departure": "2015-05-29 17:47",
+      "serviceId": "2_38",
+      "tripId": "2_19706",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 17:54",
+      "departure": "2015-05-29 17:54",
+      "serviceId": "2_38",
+      "tripId": "2_16448",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 17:55",
+      "departure": "2015-05-29 17:55",
+      "serviceId": "2_38",
+      "tripId": "2_19646",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 18:09",
+      "departure": "2015-05-29 18:09",
+      "serviceId": "2_38",
+      "tripId": "2_16454",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 18:17",
+      "departure": "2015-05-29 18:17",
+      "serviceId": "2_38",
+      "tripId": "2_19766",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 18:23",
+      "departure": "2015-05-29 18:23",
+      "serviceId": "2_45",
+      "tripId": "2_11208",
+      "routeId": "2_0202",
+      "headsign": "202 | Betton Chevaigné"
+    },
+    {
+      "arrival": "2015-05-29 18:23",
+      "departure": "2015-05-29 18:23",
+      "serviceId": "2_38",
+      "tripId": "2_16778",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 18:25",
+      "departure": "2015-05-29 18:25",
+      "serviceId": "2_38",
+      "tripId": "2_19772",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 18:26",
+      "departure": "2015-05-29 18:26",
+      "serviceId": "2_38",
+      "tripId": "2_17085",
+      "routeId": "2_0151",
+      "headsign": "151 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 18:36",
+      "departure": "2015-05-29 18:36",
+      "serviceId": "2_38",
+      "tripId": "2_16460",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 18:45",
+      "departure": "2015-05-29 18:45",
+      "serviceId": "2_38",
+      "tripId": "2_19712",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 18:49",
+      "departure": "2015-05-29 18:49",
+      "serviceId": "2_38",
+      "tripId": "2_16466",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 18:55",
+      "departure": "2015-05-29 18:55",
+      "serviceId": "2_38",
+      "tripId": "2_19652",
+      "routeId": "2_0078",
+      "headsign": "78 | Rennes Villejean-Université"
+    },
+    {
+      "arrival": "2015-05-29 19:03",
+      "departure": "2015-05-29 19:03",
+      "serviceId": "2_38",
+      "tripId": "2_16472",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 19:13",
+      "departure": "2015-05-29 19:13",
+      "serviceId": "2_38",
+      "tripId": "2_19718",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 19:17",
+      "departure": "2015-05-29 19:17",
+      "serviceId": "2_38",
+      "tripId": "2_16478",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 19:31",
+      "departure": "2015-05-29 19:31",
+      "serviceId": "2_38",
+      "tripId": "2_16484",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 19:36",
+      "departure": "2015-05-29 19:36",
+      "serviceId": "2_38",
+      "tripId": "2_19778",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 19:51",
+      "departure": "2015-05-29 19:51",
+      "serviceId": "2_38",
+      "tripId": "2_16490",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 20:04",
+      "departure": "2015-05-29 20:04",
+      "serviceId": "2_38",
+      "tripId": "2_19724",
+      "routeId": "2_0078",
+      "headsign": "78 | Saint-Grégoire Betton Centre"
+    },
+    {
+      "arrival": "2015-05-29 20:11",
+      "departure": "2015-05-29 20:11",
+      "serviceId": "2_38",
+      "tripId": "2_16496",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 20:36",
+      "departure": "2015-05-29 20:36",
+      "serviceId": "2_38",
+      "tripId": "2_16502",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-29 21:06",
+      "departure": "2015-05-29 21:06",
+      "serviceId": "2_38",
+      "tripId": "2_16508",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Champ Devant"
+    },
+    {
+      "arrival": "2015-05-30 00:19",
+      "departure": "2015-05-30 00:19",
+      "serviceId": "2_39",
+      "tripId": "2_16798",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Chevaigné Saint-Sulpice"
+    },
+    {
+      "arrival": "2015-05-30 01:54",
+      "departure": "2015-05-30 01:54",
+      "serviceId": "2_39",
+      "tripId": "2_16800",
+      "routeId": "2_0051",
+      "headsign": "51 | Betton Chevaigné Saint-Sulpice"
+    }
+  ]
+}

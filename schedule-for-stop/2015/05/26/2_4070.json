@@ -1,0 +1,50 @@
+{
+  "date": "2015-05-26 00:00",
+  "stop": {
+    "id": "2_4070",
+    "lat": 48.183016,
+    "lon": -1.726386,
+    "name": "Besneraie",
+    "code": 4070
+  },
+  "routes": [
+    {
+      "id": "2_0224",
+      "textColor": "FFFFFF",
+      "color": "009FE3",
+      "description": "Complémentaire",
+      "longName": "Gévezé (Cheval Blanc) \u003c\u003e Saint-Grégoire (Lycée Jean-Paul II)",
+      "shortName": "224",
+      "type": 3,
+      "agencyId": "2"
+    },
+    {
+      "id": "2_0226",
+      "textColor": "FFFFFF",
+      "color": "4465AD",
+      "description": "Complémentaire",
+      "longName": "Gévezé (Cheval Blanc) \u003c\u003e Pacé (Collège Saint-Gabriel)",
+      "shortName": "226",
+      "type": 3,
+      "agencyId": "2"
+    }
+  ],
+  "stopTimes": [
+    {
+      "arrival": "2015-05-26 07:45",
+      "departure": "2015-05-26 07:45",
+      "serviceId": "2_28",
+      "tripId": "2_12217",
+      "routeId": "2_0224",
+      "headsign": "224 | Saint-Grégoire Lycée Jean-Paul II"
+    },
+    {
+      "arrival": "2015-05-26 09:00",
+      "departure": "2015-05-26 09:00",
+      "serviceId": "2_28",
+      "tripId": "2_12237",
+      "routeId": "2_0226",
+      "headsign": "226 | Pacé Collège Saint-Gabriel"
+    }
+  ]
+}
